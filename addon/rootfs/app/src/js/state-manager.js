@@ -141,6 +141,9 @@ class StateManager {
     canGoPrevious() {
         return this.currentQuestionIndex > 0;
     }
+
+    /**
+     * Check if the quiz is complete
      * @returns {boolean} True if all 24 questions have been answered
      */
     isComplete() {
