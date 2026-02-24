@@ -1,22 +1,23 @@
 name: Britizen Quiz Application
-version: 1.0.1
+version: 1.0.2
 slug: britizen-quiz
 description: Life in the UK practice tests with progress tracking
 url: https://github.com/chanchurbansal/lit-uk
 codeowners:
   - '@chanchurbansal'
 startup: application
+boot: auto
 arch:
   - armhf
   - armv7
   - aarch64
   - amd64
-boot: auto
 ports:
   3000/tcp: 3000
 map:
   - config
 environment:
   NODE_ENV: production
+init: false
 
 
