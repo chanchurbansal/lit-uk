@@ -1,0 +1,624 @@
+{
+  "id": 421,
+  "name": "Life in the UK Test 61",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8601,
+      "text": "Who was Prime Minister of Britain from 1721 to 1742?",
+      "explanation": "Sir Robert Walpolewas Prime Minister from 1721 to 1742.",
+      "computed_correct_option_ids": [
+        9601
+      ],
+      "options": [
+        {
+          "id": 9601,
+          "text": "Sir Robert Walpole"
+        },
+        {
+          "id": 9602,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 9603,
+          "text": "Henry Pelham"
+        },
+        {
+          "id": 9604,
+          "text": "Charles Edward Stuart"
+        }
+      ]
+    },
+    {
+      "id": 8602,
+      "text": "What is celebrated during Diwali?",
+      "explanation": "Diwalli celebrates the victory of good over evil and the gaining of knowledge.",
+      "computed_correct_option_ids": [
+        9612
+      ],
+      "options": [
+        {
+          "id": 9611,
+          "text": "Jesus Christ rising from the dead"
+        },
+        {
+          "id": 9612,
+          "text": "The victory of good over evil and the gaining of knowledge"
+        },
+        {
+          "id": 9613,
+          "text": "The founding of the Sikh community known as the Khalsa"
+        },
+        {
+          "id": 9614,
+          "text": "The beginning of the winter season"
+        }
+      ]
+    },
+    {
+      "id": 8603,
+      "text": "Who chairs the debates in the House of Commons?",
+      "explanation": "Debates in the House of Commons are chaired bythe Speaker.",
+      "computed_correct_option_ids": [
+        9622
+      ],
+      "options": [
+        {
+          "id": 9621,
+          "text": "The shadow cabinet"
+        },
+        {
+          "id": 9622,
+          "text": "The Speaker"
+        },
+        {
+          "id": 9623,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 9624,
+          "text": "The leader of the opposition"
+        }
+      ]
+    },
+    {
+      "id": 8604,
+      "text": "The Battle of Hastings is commemorated in a great piece of embroidery, which is known as:",
+      "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known asthe Bayeux tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        9632
+      ],
+      "options": [
+        {
+          "id": 9631,
+          "text": "The Hastings tapestry"
+        },
+        {
+          "id": 9632,
+          "text": "The Bayeux tapestry"
+        },
+        {
+          "id": 9633,
+          "text": "The Normand tapestry"
+        },
+        {
+          "id": 9634,
+          "text": "The Domesday tapestry"
+        }
+      ]
+    },
+    {
+      "id": 8605,
+      "text": "A woman who is violent towards her partner cannot be prosecuted in the UK:",
+      "explanation": "False. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.",
+      "computed_correct_option_ids": [
+        9641
+      ],
+      "options": [
+        {
+          "id": 9641,
+          "text": "True"
+        },
+        {
+          "id": 9642,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8606,
+      "text": "According to the 2011 census, what percentage of the population identified themselves as Christian?",
+      "explanation": "According to the 2011 Census,59%of people identified themselves as Christians.",
+      "computed_correct_option_ids": [
+        9654
+      ],
+      "options": [
+        {
+          "id": 9651,
+          "text": "35%"
+        },
+        {
+          "id": 9652,
+          "text": "55%"
+        },
+        {
+          "id": 9653,
+          "text": "70%"
+        },
+        {
+          "id": 9654,
+          "text": "59%"
+        }
+      ]
+    },
+    {
+      "id": 8607,
+      "text": "Many MPs, SMs and MSPs hold regular local events where constituents can go in person to talk about issues that are of concern to them. These are known as:",
+      "explanation": "Many MPs, SMs and MSPs  hold regularlocal ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the local newspaper.",
+      "computed_correct_option_ids": [
+        9662
+      ],
+      "options": [
+        {
+          "id": 9661,
+          "text": "Hansard"
+        },
+        {
+          "id": 9662,
+          "text": "Local ‘surgeries’"
+        },
+        {
+          "id": 9663,
+          "text": "Local ‘meetings’"
+        },
+        {
+          "id": 9664,
+          "text": "Constituents ‘reunions’"
+        }
+      ]
+    },
+    {
+      "id": 8608,
+      "text": "Which golf ‘Major’ tournament is hosted by a different golf course every year?",
+      "explanation": "The open championshipis the only ‘Major’ tournament held outside United States. It is hosted by a different golf course every year.",
+      "computed_correct_option_ids": [
+        9671
+      ],
+      "options": [
+        {
+          "id": 9671,
+          "text": "The Open Championship"
+        },
+        {
+          "id": 9672,
+          "text": "The PGA Championship"
+        },
+        {
+          "id": 9673,
+          "text": "The Masters Tournament"
+        },
+        {
+          "id": 9674,
+          "text": "The U.S. Open"
+        }
+      ]
+    },
+    {
+      "id": 8609,
+      "text": "Which act introduced the Forced Marriage Protection Orders for England, Wales and Northern Ireland in 2008?",
+      "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland underthe Forced Marriage (Civil Protection) Act 2007. Similar Protection Orders were introduced in Scotland in November 2011.",
+      "computed_correct_option_ids": [
+        9681
+      ],
+      "options": [
+        {
+          "id": 9681,
+          "text": "The Forced Marriage (Civil Protection) Act 2007"
+        },
+        {
+          "id": 9682,
+          "text": "The Free Marriage (Civil Protection) Act 2007"
+        },
+        {
+          "id": 9683,
+          "text": "The Forced Marriage (Civil Protection) Act 2011"
+        },
+        {
+          "id": 9684,
+          "text": "The Free Marriage (Civil Protection) Act 2011"
+        }
+      ]
+    },
+    {
+      "id": 8610,
+      "text": "Which of the following countries did NOT join the European Economic Community when it was first formed in 1957?",
+      "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At firstthe UKdid not wish to join the EEC but it eventually did so in 1973.",
+      "computed_correct_option_ids": [
+        9693
+      ],
+      "options": [
+        {
+          "id": 9691,
+          "text": "Luxembourg"
+        },
+        {
+          "id": 9692,
+          "text": "West Germany"
+        },
+        {
+          "id": 9693,
+          "text": "The UK"
+        },
+        {
+          "id": 9694,
+          "text": "The Netherlands"
+        }
+      ]
+    },
+    {
+      "id": 8611,
+      "text": "How many members does the Northern Ireland assembly have?",
+      "explanation": "The Northern Ireland Assembly has90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+      "computed_correct_option_ids": [
+        9701
+      ],
+      "options": [
+        {
+          "id": 9701,
+          "text": "90"
+        },
+        {
+          "id": 9702,
+          "text": "80"
+        },
+        {
+          "id": 9703,
+          "text": "118"
+        },
+        {
+          "id": 9704,
+          "text": "108"
+        }
+      ]
+    },
+    {
+      "id": 8612,
+      "text": "Which of the following civil laws include disputes between landlords and tenants over issues such as repairs and eviction?",
+      "explanation": "Housing lawincludes disputes between landlords and tenants over issues suck as repairs and eviction.",
+      "computed_correct_option_ids": [
+        9712
+      ],
+      "options": [
+        {
+          "id": 9711,
+          "text": "Consumer law"
+        },
+        {
+          "id": 9712,
+          "text": "Housing law"
+        },
+        {
+          "id": 9713,
+          "text": "Debt law"
+        },
+        {
+          "id": 9714,
+          "text": "Living law"
+        }
+      ]
+    },
+    {
+      "id": 8613,
+      "text": "How can you visit the Scottish Parliament?",
+      "explanation": "To visit the Scottish Parliament, you can get information, book tickets or arrange tours through visitor services. You can also write to them at the Scottish Parliament, Edinburgh, EH99 1SP, telephone 0131 348 5200 or email sp.booking@scottish.parliament.",
+      "computed_correct_option_ids": [
+        9721
+      ],
+      "options": [
+        {
+          "id": 9721,
+          "text": "Arranging a tour through the visitor services"
+        },
+        {
+          "id": 9722,
+          "text": "Contacting the Education Service"
+        },
+        {
+          "id": 9723,
+          "text": "Contacting an AM"
+        },
+        {
+          "id": 9724,
+          "text": "Contacting an MP"
+        }
+      ]
+    },
+    {
+      "id": 8614,
+      "text": "Which of the following gardens is located in Wales?",
+      "explanation": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland,Bodnant Gardenin Wales, and Mount Stewart in Northern Ireland.",
+      "computed_correct_option_ids": [
+        9731
+      ],
+      "options": [
+        {
+          "id": 9731,
+          "text": "Bodnant Garden"
+        },
+        {
+          "id": 9732,
+          "text": "Kew Gardens"
+        },
+        {
+          "id": 9733,
+          "text": "Hidcote"
+        },
+        {
+          "id": 9734,
+          "text": "Sissinghurst"
+        }
+      ]
+    },
+    {
+      "id": 8615,
+      "text": "Who was reining in Britain when the British Empire became the largest empire the world has ever seen, with an estimated population of more than 400 million people?",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+      "computed_correct_option_ids": [
+        9743
+      ],
+      "options": [
+        {
+          "id": 9741,
+          "text": "Elizabeth I"
+        },
+        {
+          "id": 9742,
+          "text": "Queen Anne"
+        },
+        {
+          "id": 9743,
+          "text": "Queen Victoria"
+        },
+        {
+          "id": 9744,
+          "text": "Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 8616,
+      "text": "Which of the following is NOT a duty of the police?",
+      "explanation": "The job of the police in the UK is to protect life and property, prevent disturbances (also known as keeping the peace) and prevent and detect crime.",
+      "computed_correct_option_ids": [
+        9752
+      ],
+      "options": [
+        {
+          "id": 9751,
+          "text": "Protect life and property"
+        },
+        {
+          "id": 9752,
+          "text": "Protect the environment"
+        },
+        {
+          "id": 9753,
+          "text": "Prevent disturbances"
+        },
+        {
+          "id": 9754,
+          "text": "Prevent and detect crimes"
+        }
+      ]
+    },
+    {
+      "id": 8617,
+      "text": "The UK is not part of which of the following international institutions?",
+      "explanation": "The UK is a member of the Council of Europe, the United Nations and the North Atlantic Treaty Organization (NATO). The UK is no longer a member of the European Union.",
+      "computed_correct_option_ids": [
+        9764
+      ],
+      "options": [
+        {
+          "id": 9761,
+          "text": "Council of Europe"
+        },
+        {
+          "id": 9762,
+          "text": "North Atlantic Treaty Organization (NATO)"
+        },
+        {
+          "id": 9763,
+          "text": "United Nations"
+        },
+        {
+          "id": 9764,
+          "text": "European Union"
+        }
+      ]
+    },
+    {
+      "id": 8618,
+      "text": "Where is the National Gallery of Scotland located?",
+      "explanation": "The National Gallery of Scotland isin Edinburgh.",
+      "computed_correct_option_ids": [
+        9771
+      ],
+      "options": [
+        {
+          "id": 9771,
+          "text": "In Edinburgh"
+        },
+        {
+          "id": 9772,
+          "text": "In Glasgow"
+        },
+        {
+          "id": 9773,
+          "text": "In Aberdeen"
+        },
+        {
+          "id": 9774,
+          "text": "In Fife"
+        }
+      ]
+    },
+    {
+      "id": 8619,
+      "text": "Where are the ancestors of the first farmers to arrive in Britain believed to come from?",
+      "explanation": "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came fromsouth-east Europe.",
+      "computed_correct_option_ids": [
+        9783
+      ],
+      "options": [
+        {
+          "id": 9781,
+          "text": "North-east Europe"
+        },
+        {
+          "id": 9782,
+          "text": "North-west Europe"
+        },
+        {
+          "id": 9783,
+          "text": "South-east Europe"
+        },
+        {
+          "id": 9784,
+          "text": "South-west Europe"
+        }
+      ]
+    },
+    {
+      "id": 8620,
+      "text": "What religion did Elizabeth I follow?",
+      "explanation": "Queen Elizabeth I was aProtestant.",
+      "computed_correct_option_ids": [
+        9792
+      ],
+      "options": [
+        {
+          "id": 9791,
+          "text": "Catholic"
+        },
+        {
+          "id": 9792,
+          "text": "Protestant"
+        },
+        {
+          "id": 9793,
+          "text": "Hindu"
+        },
+        {
+          "id": 9794,
+          "text": "Buddhist"
+        }
+      ]
+    },
+    {
+      "id": 8621,
+      "text": "Who directed the movie ‘Chariots of Fire’ in 1981?",
+      "explanation": "Chariots of Fire (1981) was directed byHugh Hudson.",
+      "computed_correct_option_ids": [
+        9802
+      ],
+      "options": [
+        {
+          "id": 9801,
+          "text": "Mike Newell"
+        },
+        {
+          "id": 9802,
+          "text": "Hugh Hudson"
+        },
+        {
+          "id": 9803,
+          "text": "Kevin MacDonald"
+        },
+        {
+          "id": 9804,
+          "text": "Nicolas Roeg"
+        }
+      ]
+    },
+    {
+      "id": 8622,
+      "text": "What do new citizens have to swear or affirm as part of the citizenship ceremony?",
+      "explanation": "New citizens swear or affirmloyalty to the Kingas part of the citizenship ceremony.",
+      "computed_correct_option_ids": [
+        9812
+      ],
+      "options": [
+        {
+          "id": 9811,
+          "text": "They will remain in the UK"
+        },
+        {
+          "id": 9812,
+          "text": "Loyalty to the King"
+        },
+        {
+          "id": 9813,
+          "text": "Loyalty to the Pope"
+        },
+        {
+          "id": 9814,
+          "text": "They will go to church at least once a week"
+        }
+      ]
+    },
+    {
+      "id": 8623,
+      "text": "In which TWO cases may a person who has been summoned to do jury service be exempted from doing it:",
+      "explanation": "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+      "computed_correct_option_ids": [
+        9821,
+        9823
+      ],
+      "options": [
+        {
+          "id": 9821,
+          "text": "If they have a criminal conviction"
+        },
+        {
+          "id": 9822,
+          "text": "If they have children"
+        },
+        {
+          "id": 9823,
+          "text": "If they provide a good reason to be excused, such as ill health"
+        },
+        {
+          "id": 9824,
+          "text": "If they have to go to work"
+        }
+      ]
+    },
+    {
+      "id": 8624,
+      "text": "What is the role of the shadow cabinet?",
+      "explanation": "Incorrect The role of the shadow cabinet is to challenge the government and put forward alternative policies.",
+      "computed_correct_option_ids": [
+        9832
+      ],
+      "options": [
+        {
+          "id": 9831,
+          "text": "To keep order during political debates to make sure the rules are followed"
+        },
+        {
+          "id": 9832,
+          "text": "To challenge the government and put forward alternative policies"
+        },
+        {
+          "id": 9833,
+          "text": "To point out what they see as the government’s failures and weaknesses"
+        },
+        {
+          "id": 9834,
+          "text": "To control important public appointments"
+        }
+      ]
+    }
+  ]
+}

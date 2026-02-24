@@ -1,0 +1,603 @@
+{
+  "id": 401,
+  "name": "Life in the UK Test 43",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 24,
+      "text": "Who appoints 'Life peers'?",
+      "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        91
+      ],
+      "options": [
+        {
+          "id": 94,
+          "text": "The Speaker"
+        },
+        {
+          "id": 91,
+          "text": "The Monarch"
+        },
+        {
+          "id": 92,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 93,
+          "text": "The Shadow Cabinet"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "text": "Where did Charles II hide to escape from Cromwell's army?",
+      "explanation": "Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+      "computed_correct_option_ids": [
+        593
+      ],
+      "options": [
+        {
+          "id": 594,
+          "text": "In a house"
+        },
+        {
+          "id": 593,
+          "text": "In an oak tree"
+        },
+        {
+          "id": 596,
+          "text": "In a Church"
+        },
+        {
+          "id": 595,
+          "text": "In a garden"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "text": "Which General remains a controversial figure in Ireland?",
+      "explanation": "Cromwell was successful in establishing the authority of the English Parliament in Ireland but did this with such violence that even today Cromwell remains a controversial figure.",
+      "computed_correct_option_ids": [
+        1005
+      ],
+      "options": [
+        {
+          "id": 1006,
+          "text": "Nelson"
+        },
+        {
+          "id": 1005,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 1008,
+          "text": "Francis Drake"
+        },
+        {
+          "id": 1007,
+          "text": "James Cook"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "text": "What is MP's responsibility?",
+      "explanation": "MPs have a number of different responsibilities. They: represent everyone in their constituency, help to create new laws, scrutinise and comment on what the government is doing, debate important national issues.",
+      "computed_correct_option_ids": [
+        1137
+      ],
+      "options": [
+        {
+          "id": 1139,
+          "text": "To point out failures"
+        },
+        {
+          "id": 1137,
+          "text": "To represent everyone in their constituency"
+        },
+        {
+          "id": 1138,
+          "text": "To represent everyone in the UK"
+        },
+        {
+          "id": 1140,
+          "text": "To get as many votes as possible"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "text": "What was 'Shampooing' when it was first introduced?",
+      "explanation": "Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
+      "computed_correct_option_ids": [
+        1177
+      ],
+      "options": [
+        {
+          "id": 1179,
+          "text": "Washing your head with soap"
+        },
+        {
+          "id": 1180,
+          "text": "Cleaning your hair"
+        },
+        {
+          "id": 1177,
+          "text": "The Indian art of head massage"
+        },
+        {
+          "id": 1178,
+          "text": "The Indian art of washing"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "text": "How many AMs does the Welsh government have?",
+      "explanation": "The Welsh government and National Assembly for Wales are based in Cardiff, the capital city of Wales. The National Assembly (Senedd) consists of 60 elected Assembly members (AMs) and elections are held every four years using a form of proportional representation. Members can speak in either Welsh or English and all of the Assembly’s publications are in both languages.",
+      "computed_correct_option_ids": [
+        1233
+      ],
+      "options": [
+        {
+          "id": 1234,
+          "text": "129"
+        },
+        {
+          "id": 1233,
+          "text": "60"
+        },
+        {
+          "id": 1236,
+          "text": "92"
+        },
+        {
+          "id": 1235,
+          "text": "108"
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "text": "Where do you have to be registered to be able to vote?",
+      "explanation": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.",
+      "computed_correct_option_ids": [
+        1265
+      ],
+      "options": [
+        {
+          "id": 1266,
+          "text": "The UK database"
+        },
+        {
+          "id": 1265,
+          "text": "The electoral register"
+        },
+        {
+          "id": 1268,
+          "text": "The UK registry"
+        },
+        {
+          "id": 1267,
+          "text": "The Home office"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "text": "Who designed the Dumfries House in Scotland?",
+      "explanation": "In the 18th century, simpler designs became popular. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America. He designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland. His ideas influenced architects in cities such as Bath, where the Royal Crescent was built.",
+      "computed_correct_option_ids": [
+        1393
+      ],
+      "options": [
+        {
+          "id": 1395,
+          "text": "Inigo Jones"
+        },
+        {
+          "id": 1393,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 1394,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 1396,
+          "text": "Sir Edwin Lutyens"
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "text": "How many crosses does the Union flag have?",
+      "explanation": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+      "computed_correct_option_ids": [
+        1558
+      ],
+      "options": [
+        {
+          "id": 1559,
+          "text": "4"
+        },
+        {
+          "id": 1560,
+          "text": "5"
+        },
+        {
+          "id": 1558,
+          "text": "3"
+        },
+        {
+          "id": 1557,
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "text": "Which TWO are part of the Government?",
+      "explanation": "In the UK, there are several different parts of government. The main ones are: the monarchy, Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts) ,the police, the civil service, local government.",
+      "computed_correct_option_ids": [
+        1589,
+        1590
+      ],
+      "options": [
+        {
+          "id": 1591,
+          "text": "Local people"
+        },
+        {
+          "id": 1590,
+          "text": "The civil service"
+        },
+        {
+          "id": 1589,
+          "text": "The parliament"
+        },
+        {
+          "id": 1592,
+          "text": "Local business"
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "text": "What was the name of plague that killed one third of the population of England in 1348?",
+      "explanation": "In 1348, a disease, probably a form of plague called 'the Black Death', came to Britain.",
+      "computed_correct_option_ids": [
+        1618
+      ],
+      "options": [
+        {
+          "id": 1617,
+          "text": "The White Death"
+        },
+        {
+          "id": 1618,
+          "text": "The Black Death"
+        },
+        {
+          "id": 1619,
+          "text": "Bird Flu"
+        },
+        {
+          "id": 1620,
+          "text": "The Pale Flu"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "text": "Names of places, such as Grimsby and Scunthorpe come from which language?",
+      "explanation": "Many places names, such as Grimsby and Scunthorpe, come from the Viking languages",
+      "computed_correct_option_ids": [
+        1714
+      ],
+      "options": [
+        {
+          "id": 1714,
+          "text": "Viking"
+        },
+        {
+          "id": 1713,
+          "text": "Saxon"
+        },
+        {
+          "id": 1712,
+          "text": "Norman"
+        },
+        {
+          "id": 1711,
+          "text": "Celtic"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "text": "What profession was Florence Nightingale famous for?",
+      "explanation": "At the age of 31, Florence Nightingale trained as a nurse in Germany. In 1854, she went to Turkey and worked in military hospitals, treating soldiers who were fighting in the Crimean War.",
+      "computed_correct_option_ids": [
+        1729
+      ],
+      "options": [
+        {
+          "id": 1730,
+          "text": "Political Leader"
+        },
+        {
+          "id": 1727,
+          "text": "Painter"
+        },
+        {
+          "id": 1728,
+          "text": "Gardener"
+        },
+        {
+          "id": 1729,
+          "text": "Nurse"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "text": "Which ship was one of the first to circumnavigate the world?",
+      "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship, the Golden Hind, was one of the first to sail right around ('circumnavigate') the world.",
+      "computed_correct_option_ids": [
+        1735
+      ],
+      "options": [
+        {
+          "id": 1733,
+          "text": "HMS Victory"
+        },
+        {
+          "id": 1735,
+          "text": "Golden Hind"
+        },
+        {
+          "id": 1736,
+          "text": "The Ship of Royals"
+        },
+        {
+          "id": 1734,
+          "text": "Royal Yacht Britannia"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "text": "What country is Swansea in?",
+      "explanation": "Swansea is a Welsh city.",
+      "computed_correct_option_ids": [
+        1781
+      ],
+      "options": [
+        {
+          "id": 1782,
+          "text": "Scotland"
+        },
+        {
+          "id": 1781,
+          "text": "Wales"
+        },
+        {
+          "id": 1784,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 1783,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "text": "Who led a team of scientists to develop the atomic bomb?",
+      "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to 'split the atom' and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+      "computed_correct_option_ids": [
+        1913
+      ],
+      "options": [
+        {
+          "id": 1913,
+          "text": "Ernest Rutherford"
+        },
+        {
+          "id": 1916,
+          "text": "Sir John Lavery"
+        },
+        {
+          "id": 1915,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 1914,
+          "text": "Dylan Thomas"
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "text": "The Restoration' refers to the reestablishment of Roman Catholicism",
+      "explanation": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had 'no wish to go on his travels again'. There was a restoration of the monarchy.",
+      "computed_correct_option_ids": [
+        2514
+      ],
+      "options": [
+        {
+          "id": 2513,
+          "text": "True"
+        },
+        {
+          "id": 2514,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "text": "In Youth Courts, the name or photographs of the accused young person can be published in newspapers or used by the media",
+      "explanation": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+      "computed_correct_option_ids": [
+        2556
+      ],
+      "options": [
+        {
+          "id": 2556,
+          "text": "False"
+        },
+        {
+          "id": 2555,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "text": "Which TWO principles are included in the European Convention on Human Rights?",
+      "explanation": "Some of the principles included in the European Convention on Human Rights are: right to life; prohibition of torture; prohibition of slavery and forced labour; right to liberty and security; right to a fair trial; freedom of thought, conscience and religion; freedom of expression (speech).",
+      "computed_correct_option_ids": [
+        2817,
+        2820
+      ],
+      "options": [
+        {
+          "id": 2819,
+          "text": "Freedom of forced labour"
+        },
+        {
+          "id": 2817,
+          "text": "Right to a fair trial"
+        },
+        {
+          "id": 2820,
+          "text": "Right to liberty and security"
+        },
+        {
+          "id": 2818,
+          "text": "Prohibition of life"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "text": "Rudyard Kipling was born in South Africa",
+      "explanation": "Rudyard Kipling was born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was a force for good. Kipling was awarded the Nobel Prize in Literature in 1907.",
+      "computed_correct_option_ids": [
+        2870
+      ],
+      "options": [
+        {
+          "id": 2870,
+          "text": "False"
+        },
+        {
+          "id": 2869,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "text": "When King Charles I tried to impose a revised Prayer Book on the Presbyterian Church in Scotland, which TWO events occurred?",
+      "explanation": "Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised Prayer Book. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest. A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament. In 1640, he recalled Parliament to ask it for funds. Many in Parliament were Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king's religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England.",
+      "computed_correct_option_ids": [
+        3195,
+        3198
+      ],
+      "options": [
+        {
+          "id": 3195,
+          "text": "A Scottish army was formed and it invaded England"
+        },
+        {
+          "id": 3196,
+          "text": "King Charles I formed his own army without asking for help from Parliament"
+        },
+        {
+          "id": 3197,
+          "text": "Parliament only gave the money to King Charles when the Scottish army invaded England"
+        },
+        {
+          "id": 3198,
+          "text": "King Charles I recalled Parliament to ask it for funds to form his own army"
+        }
+      ]
+    },
+    {
+      "id": 872,
+      "text": "Which TWO are correct about Mary Stuart?",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen. Much of her childhood was spent in France. When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I's cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+      "computed_correct_option_ids": [
+        3199,
+        3200
+      ],
+      "options": [
+        {
+          "id": 3201,
+          "text": "She was Elizabeth I's sister"
+        },
+        {
+          "id": 3202,
+          "text": "She died of the Black Death"
+        },
+        {
+          "id": 3199,
+          "text": "She was only a week old when she became queen"
+        },
+        {
+          "id": 3200,
+          "text": "She spent much of her childhood in France"
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "text": "The 39 steps was directed by David Lean in 1980",
+      "explanation": "The 39 Steps (1935), directed by Alfred Hitchcock",
+      "computed_correct_option_ids": [
+        3252
+      ],
+      "options": [
+        {
+          "id": 3251,
+          "text": "True"
+        },
+        {
+          "id": 3252,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 901,
+      "text": "What celebration takes place on the 25th of December each year?",
+      "explanation": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+      "computed_correct_option_ids": [
+        3300
+      ],
+      "options": [
+        {
+          "id": 3299,
+          "text": "Father's Day"
+        },
+        {
+          "id": 3297,
+          "text": "Boxing Day"
+        },
+        {
+          "id": 3298,
+          "text": "Hogmanay"
+        },
+        {
+          "id": 3300,
+          "text": "Christmas Day"
+        }
+      ]
+    }
+  ]
+}

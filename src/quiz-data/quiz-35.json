@@ -1,0 +1,601 @@
+{
+  "id": 393,
+  "name": "Life in the UK Test 35",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 48,
+      "text": "What did the 'Bill of Rights' confirm?",
+      "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
+      "computed_correct_option_ids": [
+        185
+      ],
+      "options": [
+        {
+          "id": 185,
+          "text": "Parliament's increased power"
+        },
+        {
+          "id": 188,
+          "text": "Kings can administer justice"
+        },
+        {
+          "id": 187,
+          "text": "Kings can collect taxes"
+        },
+        {
+          "id": 186,
+          "text": "King's increased power"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "Where was Florence Nightingale born?",
+      "explanation": "Florence Nightingale was born in Italy to English parents in 1820.",
+      "computed_correct_option_ids": [
+        245
+      ],
+      "options": [
+        {
+          "id": 245,
+          "text": "Italy"
+        },
+        {
+          "id": 248,
+          "text": "Scotland"
+        },
+        {
+          "id": 247,
+          "text": "France"
+        },
+        {
+          "id": 246,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "Which of these gardens is located in Wales?",
+      "explanation": "Bodnant Garden is in Wales.",
+      "computed_correct_option_ids": [
+        277
+      ],
+      "options": [
+        {
+          "id": 279,
+          "text": "Mount Stewart"
+        },
+        {
+          "id": 277,
+          "text": "Bodnant Garden"
+        },
+        {
+          "id": 278,
+          "text": "Hidcote"
+        },
+        {
+          "id": 280,
+          "text": "Sissinghurst"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "Who is responsible for subjects such as education, health and defence?",
+      "explanation": "Secretaries of State are responsible for subjects such as education, health and defence.",
+      "computed_correct_option_ids": [
+        357
+      ],
+      "options": [
+        {
+          "id": 359,
+          "text": "Home Secretary"
+        },
+        {
+          "id": 357,
+          "text": "Secretary of State"
+        },
+        {
+          "id": 358,
+          "text": "Chancellor of the Exchequer"
+        },
+        {
+          "id": 360,
+          "text": "Foreign Secretary"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "text": "Who established the Church of England?",
+      "explanation": "To divorce his first wife, Henry VIII needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new Church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+      "computed_correct_option_ids": [
+        413
+      ],
+      "options": [
+        {
+          "id": 413,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 416,
+          "text": "St George"
+        },
+        {
+          "id": 415,
+          "text": "The Pope"
+        },
+        {
+          "id": 414,
+          "text": "Henry VII"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "text": "What is an example of a Criminal Offence?",
+      "explanation": "Examples of criminal laws are - Carrying a weapon: it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury; Drugs: selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK; Racial crime: it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin; Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18; Smoking in public places: it is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke; Buying alcohol: it is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18; Drinking in public: some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.",
+      "computed_correct_option_ids": [
+        649
+      ],
+      "options": [
+        {
+          "id": 649,
+          "text": "Selling Tobacco to under 18's"
+        },
+        {
+          "id": 652,
+          "text": "Owing Money"
+        },
+        {
+          "id": 651,
+          "text": "Housing disputes"
+        },
+        {
+          "id": 650,
+          "text": "Discrimination in the workplace"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "text": "What UK landmark was voted as Britain's favourite view?",
+      "explanation": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+      "computed_correct_option_ids": [
+        797
+      ],
+      "options": [
+        {
+          "id": 797,
+          "text": "The Lake District"
+        },
+        {
+          "id": 800,
+          "text": "Edinburgh Castle"
+        },
+        {
+          "id": 799,
+          "text": "Loch Lomond"
+        },
+        {
+          "id": 798,
+          "text": "Snowdonia"
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "text": "How many people lost their lives in the decades after 1969 due to violence in Northern Ireland?",
+      "explanation": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland.",
+      "computed_correct_option_ids": [
+        1281
+      ],
+      "options": [
+        {
+          "id": 1284,
+          "text": "60,000"
+        },
+        {
+          "id": 1283,
+          "text": "30,000"
+        },
+        {
+          "id": 1282,
+          "text": "12,000"
+        },
+        {
+          "id": 1281,
+          "text": "3,000"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "text": "What do the National Insurance Contributions fund?",
+      "explanation": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+      "computed_correct_option_ids": [
+        1433
+      ],
+      "options": [
+        {
+          "id": 1436,
+          "text": "The Police, NHS and Education"
+        },
+        {
+          "id": 1435,
+          "text": "The NHS and Police"
+        },
+        {
+          "id": 1434,
+          "text": "Schools and Education"
+        },
+        {
+          "id": 1433,
+          "text": "The NHS and state pension"
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "text": "How many people lost their lives in Northern Ireland in the decades after 1969?",
+      "explanation": "The 1970s were also a time of serious unrest in Northern Ireland. In 1972, the Northern Ireland Parliament was suspended and Northern Ireland was directly ruled by the UK government. Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland.",
+      "computed_correct_option_ids": [
+        1923
+      ],
+      "options": [
+        {
+          "id": 1924,
+          "text": "4000"
+        },
+        {
+          "id": 1923,
+          "text": "3000"
+        },
+        {
+          "id": 1922,
+          "text": "2000"
+        },
+        {
+          "id": 1921,
+          "text": "1000"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "text": "What method is used to elect UK MPs?",
+      "explanation": "MPs are elected through a system called 'first past the post'. In each constituency, the candidate who gets the most votes is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+      "computed_correct_option_ids": [
+        1998
+      ],
+      "options": [
+        {
+          "id": 2000,
+          "text": "Popularity"
+        },
+        {
+          "id": 1997,
+          "text": "Proportional Representation"
+        },
+        {
+          "id": 1998,
+          "text": "First past the post system"
+        },
+        {
+          "id": 1999,
+          "text": "Instant runoff"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "text": "Julius Caesar led a Roman invasion of Britain in 55 BC but this was unsuccessful. For how many years did Britain remain separate from the Roman Empire?",
+      "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
+      "computed_correct_option_ids": [
+        2034
+      ],
+      "options": [
+        {
+          "id": 2036,
+          "text": "400"
+        },
+        {
+          "id": 2033,
+          "text": "200"
+        },
+        {
+          "id": 2034,
+          "text": "100"
+        },
+        {
+          "id": 2035,
+          "text": "300"
+        }
+      ]
+    },
+    {
+      "id": 588,
+      "text": "Hanukkah is celebrated to remember the Jews' struggle for religious freedom and it is in November or December for how many days?",
+      "explanation": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews' struggle for religious freedom. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
+      "computed_correct_option_ids": [
+        2231
+      ],
+      "options": [
+        {
+          "id": 2230,
+          "text": "7"
+        },
+        {
+          "id": 2232,
+          "text": "9"
+        },
+        {
+          "id": 2231,
+          "text": "8"
+        },
+        {
+          "id": 2229,
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "text": "The leader of the Opposition appoints senior opposition MPs to be what?",
+      "explanation": "The leader of the Opposition also appoints senior opposition MPs to be 'shadow ministers'. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+      "computed_correct_option_ids": [
+        2255
+      ],
+      "options": [
+        {
+          "id": 2256,
+          "text": "Home Secretary"
+        },
+        {
+          "id": 2258,
+          "text": "Local Mayors"
+        },
+        {
+          "id": 2257,
+          "text": "Chancellor of the Exchequer"
+        },
+        {
+          "id": 2255,
+          "text": "Shadow Ministers"
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "text": "Which TWO of these countries are currently in the EU?",
+      "explanation": "Following a referendum held in the UK on 23 June 2016, the UK left the EU on 31 January 2020. France are Poland are still part of the EU.",
+      "computed_correct_option_ids": [
+        2587,
+        2589
+      ],
+      "options": [
+        {
+          "id": 2590,
+          "text": "UK"
+        },
+        {
+          "id": 2588,
+          "text": "Russia"
+        },
+        {
+          "id": 2589,
+          "text": "France"
+        },
+        {
+          "id": 2587,
+          "text": "Poland"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "text": "Christmas Day celebrates the birth of Jesus Christ",
+      "explanation": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+      "computed_correct_option_ids": [
+        2633
+      ],
+      "options": [
+        {
+          "id": 2633,
+          "text": "True"
+        },
+        {
+          "id": 2634,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "text": "What is the second biggest country in the UK?",
+      "explanation": "Scotland has the second highest population and area.",
+      "computed_correct_option_ids": [
+        2807
+      ],
+      "options": [
+        {
+          "id": 2810,
+          "text": "England"
+        },
+        {
+          "id": 2807,
+          "text": "Scotland"
+        },
+        {
+          "id": 2808,
+          "text": "Wales"
+        },
+        {
+          "id": 2809,
+          "text": "Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "text": "The EU was set up by 6 western countries who signed the Treaty of Rome on which date?",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973.",
+      "computed_correct_option_ids": [
+        3256
+      ],
+      "options": [
+        {
+          "id": 3256,
+          "text": "25-Mar-57"
+        },
+        {
+          "id": 3253,
+          "text": "01-Mar-77"
+        },
+        {
+          "id": 3254,
+          "text": "30-May-47"
+        },
+        {
+          "id": 3255,
+          "text": "17-May-67"
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "text": "When Queen Anne died, a German, George of Hanover, became the next King of England",
+      "explanation": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next King, because he was Anne's nearest Protestant relative. An attempt by Scottish Jacobites to put James II's son on the throne instead was quickly defeated.",
+      "computed_correct_option_ids": [
+        3271
+      ],
+      "options": [
+        {
+          "id": 3271,
+          "text": "True"
+        },
+        {
+          "id": 3272,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "text": "Which of these TWO lines from Shakespeare's plays and poems are often still quoted?",
+      "explanation": "Lines from Shakespeare's plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18 'Shall I Compare Thee To a Summer's Day).",
+      "computed_correct_option_ids": [
+        3274,
+        3275
+      ],
+      "options": [
+        {
+          "id": 3276,
+          "text": "A rose is beautiful"
+        },
+        {
+          "id": 3275,
+          "text": "The darling buds of May"
+        },
+        {
+          "id": 3274,
+          "text": "To be or not to be"
+        },
+        {
+          "id": 3273,
+          "text": "The world is your oyster"
+        }
+      ]
+    },
+    {
+      "id": 933,
+      "text": "People who are self-employed need to pay National Insurance Contributions themselves",
+      "explanation": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions.",
+      "computed_correct_option_ids": [
+        3401
+      ],
+      "options": [
+        {
+          "id": 3402,
+          "text": "False"
+        },
+        {
+          "id": 3401,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 938,
+      "text": "The Swinging Sixties was a period of new ideas about politics, philosophy and science",
+      "explanation": "he decade of the 1960s was a period of significant social change. It was known as 'the Swinging Sixties'. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. People started to become better off and many bought cars and other consumer goods. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland.",
+      "computed_correct_option_ids": [
+        3414
+      ],
+      "options": [
+        {
+          "id": 3413,
+          "text": "True"
+        },
+        {
+          "id": 3414,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "text": "In year 1066, William the Conqueror invaded England in which battle?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        3509
+      ],
+      "options": [
+        {
+          "id": 3512,
+          "text": "Battle of Britain"
+        },
+        {
+          "id": 3509,
+          "text": "Battle of Hastings"
+        },
+        {
+          "id": 3510,
+          "text": "Battle of Agincourt"
+        },
+        {
+          "id": 3511,
+          "text": "Battle of Culloden"
+        }
+      ]
+    },
+    {
+      "id": 1047,
+      "text": "Which of the following discoveries contributed to the progress of the Industrial Revolution?",
+      "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called 'the Enlightenment'. Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today. David Hume's ideas about human nature continue to influence philosophers. Scientific discoveries, such as James Watt's work on steam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        3789
+      ],
+      "options": [
+        {
+          "id": 3791,
+          "text": "Television"
+        },
+        {
+          "id": 3790,
+          "text": "Penicillin"
+        },
+        {
+          "id": 3789,
+          "text": "Steam Power"
+        },
+        {
+          "id": 3792,
+          "text": "Jet Engine"
+        }
+      ]
+    }
+  ]
+}

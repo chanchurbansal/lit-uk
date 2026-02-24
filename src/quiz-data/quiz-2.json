@@ -1,0 +1,594 @@
+{
+  "id": 360,
+  "name": "Life in the UK Test 2",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 20,
+      "text": "Roast beef is a traditional food of which country?",
+      "explanation": "Roast beef, which is served with potatoes is an example of English traditional food.",
+      "computed_correct_option_ids": [
+        75
+      ],
+      "options": [
+        {
+          "id": 75,
+          "text": "England"
+        },
+        {
+          "id": 78,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 77,
+          "text": "Wales"
+        },
+        {
+          "id": 76,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "Who can get a 50% discount on their TV licence?",
+      "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount.",
+      "computed_correct_option_ids": [
+        345
+      ],
+      "options": [
+        {
+          "id": 345,
+          "text": "Blind people"
+        },
+        {
+          "id": 347,
+          "text": "Army Officers"
+        },
+        {
+          "id": 346,
+          "text": "Deaf people"
+        },
+        {
+          "id": 348,
+          "text": "Students"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "text": "Which languages were the basis of modern English?",
+      "explanation": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+      "computed_correct_option_ids": [
+        409
+      ],
+      "options": [
+        {
+          "id": 411,
+          "text": "Norman French and Celtic"
+        },
+        {
+          "id": 409,
+          "text": "Norman French and Anglo Saxon"
+        },
+        {
+          "id": 410,
+          "text": "Celtic and Anglo Saxon"
+        },
+        {
+          "id": 412,
+          "text": "Gaelic and Celtic"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "text": "How many members does The Northern Ireland Assembly have?",
+      "explanation": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial Offices amongst the main parties. The Assembly has 90 elected members (reduced from 108 in 2016), known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation. The Assembly is chaired by a Speaker and three deputy Speakers. At least 10 members (including the Speaker) must be present in order for a vote to be taken on any matter.",
+      "computed_correct_option_ids": [
+        469
+      ],
+      "options": [
+        {
+          "id": 469,
+          "text": "90"
+        },
+        {
+          "id": 472,
+          "text": "129"
+        },
+        {
+          "id": 471,
+          "text": "119"
+        },
+        {
+          "id": 470,
+          "text": "110"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "text": "When did the first farmers arrive in Britain?",
+      "explanation": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land.",
+      "computed_correct_option_ids": [
+        961
+      ],
+      "options": [
+        {
+          "id": 963,
+          "text": "4,000 years ago"
+        },
+        {
+          "id": 961,
+          "text": "6,000 years ago"
+        },
+        {
+          "id": 962,
+          "text": "8,000 years ago"
+        },
+        {
+          "id": 964,
+          "text": "10,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "text": "Who was the 'Iron Duke' that defeated the Emperor Napoleon?",
+      "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
+      "computed_correct_option_ids": [
+        1017
+      ],
+      "options": [
+        {
+          "id": 1019,
+          "text": "Churchill"
+        },
+        {
+          "id": 1017,
+          "text": "Wellington"
+        },
+        {
+          "id": 1020,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 1018,
+          "text": "Admiral Nelson"
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "text": "When did the Irish Free State become a republic?",
+      "explanation": "In 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+      "computed_correct_option_ids": [
+        1289
+      ],
+      "options": [
+        {
+          "id": 1290,
+          "text": "1922"
+        },
+        {
+          "id": 1289,
+          "text": "1949"
+        },
+        {
+          "id": 1292,
+          "text": "1937"
+        },
+        {
+          "id": 1291,
+          "text": "1931"
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "text": "Ulster fry is a traditional food of which country?",
+      "explanation": "Northern Ireland's traditional food is 'Ulster fry' - a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+      "computed_correct_option_ids": [
+        1397
+      ],
+      "options": [
+        {
+          "id": 1399,
+          "text": "England"
+        },
+        {
+          "id": 1397,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 1398,
+          "text": "Wales"
+        },
+        {
+          "id": 1400,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "text": "Who tells visitors about the history of the Tower of London?",
+      "explanation": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there.",
+      "computed_correct_option_ids": [
+        1409
+      ],
+      "options": [
+        {
+          "id": 1412,
+          "text": "London Guides"
+        },
+        {
+          "id": 1409,
+          "text": "Beefeaters"
+        },
+        {
+          "id": 1410,
+          "text": "Instructors"
+        },
+        {
+          "id": 1411,
+          "text": "History graduates"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "text": "Which TWO wives of Henry VIII were executed?",
+      "explanation": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London. Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+      "computed_correct_option_ids": [
+        1461,
+        1462
+      ],
+      "options": [
+        {
+          "id": 1464,
+          "text": "Jayne Seymour"
+        },
+        {
+          "id": 1461,
+          "text": "Catherine Howard"
+        },
+        {
+          "id": 1462,
+          "text": "Anne Boleyn"
+        },
+        {
+          "id": 1463,
+          "text": "Anne of Cleves"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "text": "When did Ireland split into two countries?",
+      "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+      "computed_correct_option_ids": [
+        1824
+      ],
+      "options": [
+        {
+          "id": 1824,
+          "text": "1922"
+        },
+        {
+          "id": 1821,
+          "text": "1916"
+        },
+        {
+          "id": 1822,
+          "text": "1921"
+        },
+        {
+          "id": 1823,
+          "text": "1959"
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "text": "Volunteering is compulsory in the UK",
+      "explanation": "Volunteering is working for good causes without payment. It is not compulsory.",
+      "computed_correct_option_ids": [
+        1936
+      ],
+      "options": [
+        {
+          "id": 1935,
+          "text": "True"
+        },
+        {
+          "id": 1936,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "text": "Nowadays, the House of Commons has more power than the House of Lords",
+      "explanation": "The House of Commons has powers to overrule the House of Lords, but these are not used often.",
+      "computed_correct_option_ids": [
+        1993
+      ],
+      "options": [
+        {
+          "id": 1994,
+          "text": "False"
+        },
+        {
+          "id": 1993,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "text": "Select TWO popular social networking websites",
+      "explanation": "Social networking websites such as Facebook and Twitter are a popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions. Many people use social networking on their mobile phones when out and about.",
+      "computed_correct_option_ids": [
+        2052,
+        2053
+      ],
+      "options": [
+        {
+          "id": 2053,
+          "text": "Twitter"
+        },
+        {
+          "id": 2054,
+          "text": "E-mail"
+        },
+        {
+          "id": 2052,
+          "text": "Facebook"
+        },
+        {
+          "id": 2051,
+          "text": "Telephone"
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "text": "What can 'Carry on' be associated with?",
+      "explanation": "The 1950s and 1960s were a high point for British comedies, including Passport to Pimlico, The Ladykillers and, later, the Carry On films.",
+      "computed_correct_option_ids": [
+        2160
+      ],
+      "options": [
+        {
+          "id": 2162,
+          "text": "Novels"
+        },
+        {
+          "id": 2159,
+          "text": "Art"
+        },
+        {
+          "id": 2160,
+          "text": "Films"
+        },
+        {
+          "id": 2161,
+          "text": "Music"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "text": "How can you make a complaint about the Police? (Choose TWO)",
+      "explanation": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+      "computed_correct_option_ids": [
+        2316,
+        2318
+      ],
+      "options": [
+        {
+          "id": 2318,
+          "text": "Writing to the Chief Constable of the police force involved"
+        },
+        {
+          "id": 2316,
+          "text": "Going to a police station"
+        },
+        {
+          "id": 2317,
+          "text": "Visiting a council office"
+        },
+        {
+          "id": 2315,
+          "text": "Visiting the local polling places"
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "text": "Sir Edward Elgar is known for his famous music work - 'The Planets'",
+      "explanation": "More recently, important composers include Gustav Holst (1874-1934), whose work includes The Planets, a suite of pieces themed around the planets of the solar system. He adapted Jupiter, part of the Planets suite, as the tune for I vow to thee my country, a popular hymn in British churches.",
+      "computed_correct_option_ids": [
+        2640
+      ],
+      "options": [
+        {
+          "id": 2639,
+          "text": "True"
+        },
+        {
+          "id": 2640,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "text": "What were the first Women's Social and Political Union group members called?",
+      "explanation": "Emmeline Pankhurst (1858-1928) was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU). This was the first group whose members were called 'suffragettes'.",
+      "computed_correct_option_ids": [
+        2762
+      ],
+      "options": [
+        {
+          "id": 2761,
+          "text": "Slaves"
+        },
+        {
+          "id": 2759,
+          "text": "House of Lords"
+        },
+        {
+          "id": 2760,
+          "text": "Rotten boroughs"
+        },
+        {
+          "id": 2762,
+          "text": "Suffragettes"
+        }
+      ]
+    },
+    {
+      "id": 810,
+      "text": "What was the system of land ownership used by the Normans known as?",
+      "explanation": "The Normans used a system of land ownership known as feudalism. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army. Some peasants had their own land but most were serfs.",
+      "computed_correct_option_ids": [
+        2977
+      ],
+      "options": [
+        {
+          "id": 2979,
+          "text": "The Magna Carta"
+        },
+        {
+          "id": 2977,
+          "text": "Feudalism"
+        },
+        {
+          "id": 2978,
+          "text": "Noble land"
+        },
+        {
+          "id": 2980,
+          "text": "Democracy"
+        }
+      ]
+    },
+    {
+      "id": 853,
+      "text": "Who can only give 'advice, warn and encourage' about government matters?",
+      "explanation": "The monarch has regular meetings with the Prime Minister and can advice, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet",
+      "computed_correct_option_ids": [
+        3136
+      ],
+      "options": [
+        {
+          "id": 3138,
+          "text": "Members of the police"
+        },
+        {
+          "id": 3135,
+          "text": "Prime Minister"
+        },
+        {
+          "id": 3136,
+          "text": "The Monarch"
+        },
+        {
+          "id": 3137,
+          "text": "The Speaker"
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "text": "What awards event celebrates British theatre?",
+      "explanation": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various Shakespeare plays.",
+      "computed_correct_option_ids": [
+        3285
+      ],
+      "options": [
+        {
+          "id": 3288,
+          "text": "The Brit Awards"
+        },
+        {
+          "id": 3287,
+          "text": "The Mercury Prize"
+        },
+        {
+          "id": 3286,
+          "text": "The Turner Prize"
+        },
+        {
+          "id": 3285,
+          "text": "The Laurence Olivier Awards"
+        }
+      ]
+    },
+    {
+      "id": 903,
+      "text": "It is a legal requirement that men and women should not be discriminated against due to their gender or marital status",
+      "explanation": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.",
+      "computed_correct_option_ids": [
+        3305
+      ],
+      "options": [
+        {
+          "id": 3306,
+          "text": "False"
+        },
+        {
+          "id": 3305,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "text": "Catherine Howard was Anne Boleyn's cousin",
+      "explanation": "Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+      "computed_correct_option_ids": [
+        3415
+      ],
+      "options": [
+        {
+          "id": 3415,
+          "text": "True"
+        },
+        {
+          "id": 3416,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1072,
+      "text": "Who is known as William the Conqueror?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
+      "computed_correct_option_ids": [
+        3885
+      ],
+      "options": [
+        {
+          "id": 3885,
+          "text": "William, the Duke of Normandy"
+        },
+        {
+          "id": 3887,
+          "text": "William, the Duke of France"
+        },
+        {
+          "id": 3886,
+          "text": "William, the Duke of Edinburgh"
+        },
+        {
+          "id": 3888,
+          "text": "William, the Duke of Lion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "id": 407,
+  "name": "Life in the UK Test 47",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7201,
+      "text": "Which Scottish city is known as the home of golf?",
+      "explanation": "St. Andrews in Scotland is known as the home of golf.",
+      "computed_correct_option_ids": [
+        8204
+      ],
+      "options": [
+        {
+          "id": 8201,
+          "text": "Dundee"
+        },
+        {
+          "id": 8202,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 8203,
+          "text": "Aberdeen"
+        },
+        {
+          "id": 8204,
+          "text": "St Andrews"
+        }
+      ]
+    },
+    {
+      "id": 7202,
+      "text": "Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will gothe Crown Court.",
+      "computed_correct_option_ids": [
+        8214
+      ],
+      "options": [
+        {
+          "id": 8211,
+          "text": "The High Court"
+        },
+        {
+          "id": 8212,
+          "text": "The Youth Court"
+        },
+        {
+          "id": 8213,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 8214,
+          "text": "The Crown Court"
+        }
+      ]
+    },
+    {
+      "id": 7203,
+      "text": "What is the name of the best preserved prehistoric village in northern Europe and which origin traces back to the Stone Age?",
+      "explanation": "Skara Braeon Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+      "computed_correct_option_ids": [
+        8222
+      ],
+      "options": [
+        {
+          "id": 8221,
+          "text": "Maiden"
+        },
+        {
+          "id": 8222,
+          "text": "Skara Brae"
+        },
+        {
+          "id": 8223,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 8224,
+          "text": "Bayeux"
+        }
+      ]
+    },
+    {
+      "id": 7204,
+      "text": "When was the National Trust founded?",
+      "explanation": "The National Trust was founded in1895by three volunteers.",
+      "computed_correct_option_ids": [
+        8232
+      ],
+      "options": [
+        {
+          "id": 8231,
+          "text": "1890"
+        },
+        {
+          "id": 8232,
+          "text": "1895"
+        },
+        {
+          "id": 8233,
+          "text": "1980"
+        },
+        {
+          "id": 8234,
+          "text": "1910"
+        }
+      ]
+    },
+    {
+      "id": 7205,
+      "text": "After the Black Death, new social classes appeared in England, including owners of large areas of land known as:",
+      "explanation": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called thegentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+      "computed_correct_option_ids": [
+        8242
+      ],
+      "options": [
+        {
+          "id": 8241,
+          "text": "Judiciary"
+        },
+        {
+          "id": 8242,
+          "text": "Gentry"
+        },
+        {
+          "id": 8243,
+          "text": "Clans"
+        },
+        {
+          "id": 8244,
+          "text": "Nobility"
+        }
+      ]
+    },
+    {
+      "id": 7206,
+      "text": "Elizabeth I was the younger daughter of which King?",
+      "explanation": "Elizabeth I was the younger daughter ofHenry VIII.",
+      "computed_correct_option_ids": [
+        8254
+      ],
+      "options": [
+        {
+          "id": 8251,
+          "text": "James I"
+        },
+        {
+          "id": 8252,
+          "text": "William the Great"
+        },
+        {
+          "id": 8253,
+          "text": "Henry VII"
+        },
+        {
+          "id": 8254,
+          "text": "Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 7207,
+      "text": "Which of the following operas was written by Gilbert and Sullivan?",
+      "explanation": "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance andThe Mikado.",
+      "computed_correct_option_ids": [
+        8262
+      ],
+      "options": [
+        {
+          "id": 8261,
+          "text": "The Phantom of the Opera"
+        },
+        {
+          "id": 8262,
+          "text": "The Mikado"
+        },
+        {
+          "id": 8263,
+          "text": "The Mousetrap"
+        },
+        {
+          "id": 8264,
+          "text": "Cats"
+        }
+      ]
+    },
+    {
+      "id": 7208,
+      "text": "Where is Loch Lomond and the Trossachs National Park located?",
+      "explanation": "Loch Lomond and the Trossachs National Park is located in thewest of Scotland.",
+      "computed_correct_option_ids": [
+        8273
+      ],
+      "options": [
+        {
+          "id": 8271,
+          "text": "East of Wales"
+        },
+        {
+          "id": 8272,
+          "text": "West of Wales"
+        },
+        {
+          "id": 8273,
+          "text": "West of Scotland"
+        },
+        {
+          "id": 8274,
+          "text": "East of Scotland"
+        }
+      ]
+    },
+    {
+      "id": 7209,
+      "text": "Who is married to the King of the United Kingdom?",
+      "explanation": "The King of the United Kingdom is married to Camila, the Queen Consort.",
+      "computed_correct_option_ids": [
+        8282
+      ],
+      "options": [
+        {
+          "id": 8281,
+          "text": "Kate, the Princess of Wales"
+        },
+        {
+          "id": 8282,
+          "text": "Camila, the Queen Consort"
+        },
+        {
+          "id": 8283,
+          "text": "Camila, the Princess of Wales"
+        },
+        {
+          "id": 8284,
+          "text": "Kate, the Queen Consort"
+        }
+      ]
+    },
+    {
+      "id": 7210,
+      "text": "By what TWO other names is the Church of England known?",
+      "explanation": "The official Church of the state is the Church of England (called theAnglican Churchin other countries and theEpiscopal Churchin Scotland and the United States).",
+      "computed_correct_option_ids": [
+        8291,
+        8294
+      ],
+      "options": [
+        {
+          "id": 8291,
+          "text": "The Anglican Church"
+        },
+        {
+          "id": 8292,
+          "text": "The Union Church"
+        },
+        {
+          "id": 8293,
+          "text": "The Greatest Church"
+        },
+        {
+          "id": 8294,
+          "text": "The Episcopal Church"
+        }
+      ]
+    },
+    {
+      "id": 7211,
+      "text": "Who was the first British Prime Minister?",
+      "explanation": "The first man to British Prime Minister wasSir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+      "computed_correct_option_ids": [
+        8302
+      ],
+      "options": [
+        {
+          "id": 8301,
+          "text": "Henry Pelham"
+        },
+        {
+          "id": 8302,
+          "text": "Sir Robert Walpole"
+        },
+        {
+          "id": 8303,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 8304,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 7212,
+      "text": "What day does Lent start?",
+      "explanation": "Lent begins on Ash Wednesday.",
+      "computed_correct_option_ids": [
+        8312
+      ],
+      "options": [
+        {
+          "id": 8311,
+          "text": "On Shrove Tuesday"
+        },
+        {
+          "id": 8312,
+          "text": "On Ash Wednesday"
+        },
+        {
+          "id": 8313,
+          "text": "On Easter Monday"
+        },
+        {
+          "id": 8314,
+          "text": "On Easter Sunday"
+        }
+      ]
+    },
+    {
+      "id": 7213,
+      "text": "How old do you need to be to apply for a free TV licence?",
+      "explanation": "Peopleover 75can apply for a free TV licence and blind people can get a 50% discount.",
+      "computed_correct_option_ids": [
+        8324
+      ],
+      "options": [
+        {
+          "id": 8321,
+          "text": "Over 65"
+        },
+        {
+          "id": 8322,
+          "text": "Over 60"
+        },
+        {
+          "id": 8323,
+          "text": "Over 70"
+        },
+        {
+          "id": 8324,
+          "text": "Over 75"
+        }
+      ]
+    },
+    {
+      "id": 7214,
+      "text": "What time do pubs usually open on Sundays in the UK?",
+      "explanation": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays).",
+      "computed_correct_option_ids": [
+        8333
+      ],
+      "options": [
+        {
+          "id": 8331,
+          "text": "10 am"
+        },
+        {
+          "id": 8332,
+          "text": "11 am"
+        },
+        {
+          "id": 8333,
+          "text": "12 pm"
+        },
+        {
+          "id": 8334,
+          "text": "1 pm"
+        }
+      ]
+    },
+    {
+      "id": 7215,
+      "text": "What is the official home of the Prime Minister?",
+      "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+      "computed_correct_option_ids": [
+        8343
+      ],
+      "options": [
+        {
+          "id": 8341,
+          "text": "Buckingham Palace"
+        },
+        {
+          "id": 8342,
+          "text": "Windsor Castle"
+        },
+        {
+          "id": 8343,
+          "text": "10 Downing Street"
+        },
+        {
+          "id": 8344,
+          "text": "21 Oxford Street"
+        }
+      ]
+    },
+    {
+      "id": 7216,
+      "text": "When did the Conservative government called a referendum on the UK’s membership of the European Union?",
+      "explanation": "The Conservative government called a referendum on the UK’s membership of the European Union on the 23rd June 2016.",
+      "computed_correct_option_ids": [
+        8352
+      ],
+      "options": [
+        {
+          "id": 8351,
+          "text": "23rd July 2016"
+        },
+        {
+          "id": 8352,
+          "text": "23rd June 2016"
+        },
+        {
+          "id": 8353,
+          "text": "23rd June 2015"
+        },
+        {
+          "id": 8354,
+          "text": "23rd July 2015"
+        }
+      ]
+    },
+    {
+      "id": 7217,
+      "text": "Which British sportswoman won two gold medals for running in the 2004 Olympic Games?",
+      "explanation": "Dame Kelly Holmes won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.",
+      "computed_correct_option_ids": [
+        8363
+      ],
+      "options": [
+        {
+          "id": 8361,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 8362,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 8363,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 8364,
+          "text": "Jessica Ennis-Hill"
+        }
+      ]
+    },
+    {
+      "id": 7218,
+      "text": "What percentage of the total British population is located in England alone?",
+      "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%.",
+      "computed_correct_option_ids": [
+        8371
+      ],
+      "options": [
+        {
+          "id": 8371,
+          "text": "84%"
+        },
+        {
+          "id": 8372,
+          "text": "60%"
+        },
+        {
+          "id": 8373,
+          "text": "58%"
+        },
+        {
+          "id": 8374,
+          "text": "79%"
+        }
+      ]
+    },
+    {
+      "id": 7219,
+      "text": "What was the population of the UK in 2010?",
+      "explanation": "The population of the UK in 2010 was just over 62 million people.",
+      "computed_correct_option_ids": [
+        8382
+      ],
+      "options": [
+        {
+          "id": 8381,
+          "text": "Just over 50 million"
+        },
+        {
+          "id": 8382,
+          "text": "Just over 62 million"
+        },
+        {
+          "id": 8383,
+          "text": "Just under 50 million"
+        },
+        {
+          "id": 8384,
+          "text": "Just under 60 million"
+        }
+      ]
+    },
+    {
+      "id": 7220,
+      "text": "Which court deals with cases involving personal injury, family matters, breaches of contract and divorce in England and Wales?",
+      "explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court.",
+      "computed_correct_option_ids": [
+        8393
+      ],
+      "options": [
+        {
+          "id": 8391,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 8392,
+          "text": "The High Court"
+        },
+        {
+          "id": 8393,
+          "text": "County Courts"
+        },
+        {
+          "id": 8394,
+          "text": "The Sheriff Court"
+        }
+      ]
+    },
+    {
+      "id": 7221,
+      "text": "What is the name of the building where the Scottish Parliament meet?",
+      "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building atHolyroodin Edinburgh.",
+      "computed_correct_option_ids": [
+        8401
+      ],
+      "options": [
+        {
+          "id": 8401,
+          "text": "Holyrood"
+        },
+        {
+          "id": 8402,
+          "text": "Senedd"
+        },
+        {
+          "id": 8403,
+          "text": "Westminster"
+        },
+        {
+          "id": 8404,
+          "text": "Stormont"
+        }
+      ]
+    },
+    {
+      "id": 7222,
+      "text": "Which flower is associated with England?",
+      "explanation": "The rose is the flower associated with England.",
+      "computed_correct_option_ids": [
+        8413
+      ],
+      "options": [
+        {
+          "id": 8411,
+          "text": "Daffodil"
+        },
+        {
+          "id": 8412,
+          "text": "Shamrock"
+        },
+        {
+          "id": 8413,
+          "text": "Rose"
+        },
+        {
+          "id": 8414,
+          "text": "Thistle"
+        }
+      ]
+    },
+    {
+      "id": 7223,
+      "text": "Who was Robert Burns?",
+      "explanation": "Known in Scotland as ‘The Bard’, Robert Burns was aScottish poet.",
+      "computed_correct_option_ids": [
+        8422
+      ],
+      "options": [
+        {
+          "id": 8421,
+          "text": "A British musician"
+        },
+        {
+          "id": 8422,
+          "text": "A Scottish poet"
+        },
+        {
+          "id": 8423,
+          "text": "A Welsh scientist"
+        },
+        {
+          "id": 8424,
+          "text": "An Irish engineer"
+        }
+      ]
+    },
+    {
+      "id": 7224,
+      "text": "In which period did British Film studios flourish?",
+      "explanation": "British film studios flourished in the 1930s.",
+      "computed_correct_option_ids": [
+        8432
+      ],
+      "options": [
+        {
+          "id": 8431,
+          "text": "1920s"
+        },
+        {
+          "id": 8432,
+          "text": "1930s"
+        },
+        {
+          "id": 8433,
+          "text": "1940s"
+        },
+        {
+          "id": 8434,
+          "text": "1950s"
+        }
+      ]
+    }
+  ]
+}

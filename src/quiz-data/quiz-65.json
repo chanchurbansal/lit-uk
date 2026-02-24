@@ -1,0 +1,617 @@
+{
+  "id": 425,
+  "name": "Life in the UK Test 65",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9001,
+      "text": "Who defeated the French at the battle of Agincourt in 1415?",
+      "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, whereKing Henry V’s vastly outnumbered English army defeated the French.",
+      "computed_correct_option_ids": [
+        10004
+      ],
+      "options": [
+        {
+          "id": 10001,
+          "text": "King Edward I of England"
+        },
+        {
+          "id": 10002,
+          "text": "William III of England"
+        },
+        {
+          "id": 10003,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 10004,
+          "text": "King Henry V"
+        }
+      ]
+    },
+    {
+      "id": 9002,
+      "text": "Which is the most famous tennis tournament hosted in Britain and which takes place each year at the All England Lawn Tennis and Croquet Club?",
+      "explanation": "The most famous tournament hosted in Britain isThe Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club.",
+      "computed_correct_option_ids": [
+        10012
+      ],
+      "options": [
+        {
+          "id": 10011,
+          "text": "Roland Garros"
+        },
+        {
+          "id": 10012,
+          "text": "The Wimbledon Championships"
+        },
+        {
+          "id": 10013,
+          "text": "The British open"
+        },
+        {
+          "id": 10014,
+          "text": "The Queen’s open"
+        }
+      ]
+    },
+    {
+      "id": 9003,
+      "text": "What is the minimum age required for a citizen to stand for public office?",
+      "explanation": "Most citizens of the UK, the Irish republic or the Commonwealth aged18or over can stand for public office.",
+      "computed_correct_option_ids": [
+        10022
+      ],
+      "options": [
+        {
+          "id": 10021,
+          "text": "16"
+        },
+        {
+          "id": 10022,
+          "text": "18"
+        },
+        {
+          "id": 10023,
+          "text": "21"
+        },
+        {
+          "id": 10024,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 9004,
+      "text": "Who makes sure that the opposition has a guaranteed amount of time to debate issues which it chooses during political debates?",
+      "explanation": "The Speakerkeeps order during political debates to make sure the rules are followed. This includes making sure the opposition has a guaranteed amount of time to debate issues which it chooses.",
+      "computed_correct_option_ids": [
+        10032
+      ],
+      "options": [
+        {
+          "id": 10031,
+          "text": "The shadow cabinet"
+        },
+        {
+          "id": 10032,
+          "text": "The Speaker"
+        },
+        {
+          "id": 10033,
+          "text": "The King"
+        },
+        {
+          "id": 10034,
+          "text": "Nobody"
+        }
+      ]
+    },
+    {
+      "id": 9005,
+      "text": "Citizens of Liechtenstein can drive in the UK for as long as their driving license is valid:",
+      "explanation": "If your driving licence if from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid.",
+      "computed_correct_option_ids": [
+        10041
+      ],
+      "options": [
+        {
+          "id": 10041,
+          "text": "True"
+        },
+        {
+          "id": 10042,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9006,
+      "text": "Which British Prime Minister nationalized major industries including coal and steel?",
+      "explanation": "Clement Attlee’s government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge’s plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers.",
+      "computed_correct_option_ids": [
+        10052
+      ],
+      "options": [
+        {
+          "id": 10051,
+          "text": "Harold Macmillan"
+        },
+        {
+          "id": 10052,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 10053,
+          "text": "John Major"
+        },
+        {
+          "id": 10054,
+          "text": "Sir Alec Douglas-Home"
+        }
+      ]
+    },
+    {
+      "id": 9007,
+      "text": "Who was the first Archbishop of Canterbury?",
+      "explanation": "St Augustinebecame the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        10061
+      ],
+      "options": [
+        {
+          "id": 10061,
+          "text": "St Augustine"
+        },
+        {
+          "id": 10062,
+          "text": "St Columba"
+        },
+        {
+          "id": 10063,
+          "text": "St Andrew"
+        },
+        {
+          "id": 10064,
+          "text": "Kenneth MacAlpin"
+        }
+      ]
+    },
+    {
+      "id": 9008,
+      "text": "What is the money raised from the Income Tax used for (choose THREE options)?",
+      "explanation": "Money raised from income tax pays for government services such asroads, education, police and the armed forces.",
+      "computed_correct_option_ids": [
+        10071,
+        10073,
+        10074
+      ],
+      "options": [
+        {
+          "id": 10071,
+          "text": "Education"
+        },
+        {
+          "id": 10072,
+          "text": "The National Grid system"
+        },
+        {
+          "id": 10073,
+          "text": "Police and the Armed Forces"
+        },
+        {
+          "id": 10074,
+          "text": "Roads"
+        }
+      ]
+    },
+    {
+      "id": 9009,
+      "text": "What name is given to the clock tower at the Houses of Parliament in honour of Queen Elizabeth II’s Diamond Jubilee in 2012?",
+      "explanation": "The clock tower at the Houses of Parliament in London is named‘Elizabeth Tower’in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.",
+      "computed_correct_option_ids": [
+        10083
+      ],
+      "options": [
+        {
+          "id": 10081,
+          "text": "Big Ben"
+        },
+        {
+          "id": 10082,
+          "text": "Big Clock"
+        },
+        {
+          "id": 10083,
+          "text": "Elizabeth Tower"
+        },
+        {
+          "id": 10084,
+          "text": "Clock Tower"
+        }
+      ]
+    },
+    {
+      "id": 9010,
+      "text": "When were the Forced Marriage Protection Orders introduced for England, Wales and Northern Ireland, which aimed at protecting a person from being forced into a marriage, or to protect a person in a forced marriage?",
+      "explanation": "Forced Marriage Protection Orders were introduced in2008for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.",
+      "computed_correct_option_ids": [
+        10092
+      ],
+      "options": [
+        {
+          "id": 10091,
+          "text": "2007"
+        },
+        {
+          "id": 10092,
+          "text": "2008"
+        },
+        {
+          "id": 10093,
+          "text": "2010"
+        },
+        {
+          "id": 10094,
+          "text": "2011"
+        }
+      ]
+    },
+    {
+      "id": 9011,
+      "text": "Whose details are NOT listed in the Phone Book?",
+      "explanation": "MPs, Senedd members (SMs) and members of the Scottish Parliament (MSPs) are also listed in The Phone Book, published by BT. The King is not.",
+      "computed_correct_option_ids": [
+        10101
+      ],
+      "options": [
+        {
+          "id": 10101,
+          "text": "The King"
+        },
+        {
+          "id": 10102,
+          "text": "MPs, SMs and MSPs"
+        },
+        {
+          "id": 10103,
+          "text": "MEPs"
+        },
+        {
+          "id": 10104,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "id": 9012,
+      "text": "Which of the following words comes from the Norman French?",
+      "explanation": "Some words in modern English – for example, ‘park’ and‘beauty’– are based on Norman French words.",
+      "computed_correct_option_ids": [
+        10112
+      ],
+      "options": [
+        {
+          "id": 10111,
+          "text": "Apple"
+        },
+        {
+          "id": 10112,
+          "text": "Beauty"
+        },
+        {
+          "id": 10113,
+          "text": "Cow"
+        },
+        {
+          "id": 10114,
+          "text": "Summer"
+        }
+      ]
+    },
+    {
+      "id": 9013,
+      "text": "How are the official reports where the Parliament’s proceedings are published called?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports calledHansard.",
+      "computed_correct_option_ids": [
+        10122
+      ],
+      "options": [
+        {
+          "id": 10121,
+          "text": "Domesday Book"
+        },
+        {
+          "id": 10122,
+          "text": "Hansard"
+        },
+        {
+          "id": 10123,
+          "text": "Parliamentary reports"
+        },
+        {
+          "id": 10124,
+          "text": "Carta Magna"
+        }
+      ]
+    },
+    {
+      "id": 9014,
+      "text": "How many Senedd members does the Welsh government have?",
+      "explanation": "The Welsh government has60 Senedd members(SMs) and elections are held every four years using a form of proportional representation.",
+      "computed_correct_option_ids": [
+        10133
+      ],
+      "options": [
+        {
+          "id": 10131,
+          "text": "40"
+        },
+        {
+          "id": 10132,
+          "text": "50"
+        },
+        {
+          "id": 10133,
+          "text": "60"
+        },
+        {
+          "id": 10134,
+          "text": "75"
+        }
+      ]
+    },
+    {
+      "id": 9015,
+      "text": "Catherine Parr, the sixth wife of Henry VIII, was a cousin of Anne Boleyn:",
+      "explanation": "Catherine Howard was a cousin of Anne Boleyn.",
+      "computed_correct_option_ids": [
+        10142
+      ],
+      "options": [
+        {
+          "id": 10141,
+          "text": "True"
+        },
+        {
+          "id": 10142,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9016,
+      "text": "Who deals with cases involving personal injury, family matters, breaches of contract and divorce in Scotland?",
+      "explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with inthe Sheriff Court.",
+      "computed_correct_option_ids": [
+        10152
+      ],
+      "options": [
+        {
+          "id": 10151,
+          "text": "County Courts"
+        },
+        {
+          "id": 10152,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 10153,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 10154,
+          "text": "The High Court"
+        }
+      ]
+    },
+    {
+      "id": 9017,
+      "text": "What was the symbol of York during the Wars of the Roses?",
+      "explanation": "The symbol of York during the Wars of the Roses wasa white rose.",
+      "computed_correct_option_ids": [
+        10162
+      ],
+      "options": [
+        {
+          "id": 10161,
+          "text": "A Red Rose"
+        },
+        {
+          "id": 10162,
+          "text": "A White Rose"
+        },
+        {
+          "id": 10163,
+          "text": "A Black Rose"
+        },
+        {
+          "id": 10164,
+          "text": "A Purple Rose"
+        }
+      ]
+    },
+    {
+      "id": 9018,
+      "text": "According to the 2011 Census, what percentage of the population identified themselves as Jewish?",
+      "explanation": "According to the 2011 Census,less than 0.5%of people identify themselves as Jewish.",
+      "computed_correct_option_ids": [
+        10171
+      ],
+      "options": [
+        {
+          "id": 10171,
+          "text": "Less than 0.5%"
+        },
+        {
+          "id": 10172,
+          "text": "Less than 1%"
+        },
+        {
+          "id": 10173,
+          "text": "Less than 1.5%"
+        },
+        {
+          "id": 10174,
+          "text": "Less than 2%"
+        }
+      ]
+    },
+    {
+      "id": 9019,
+      "text": "During which movement the Parliament passed laws giving women the right to equal pay and made it illegal for employees to discriminate against women because of their gender:",
+      "explanation": "The Swinging Sixtieswas a time when the Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender.",
+      "computed_correct_option_ids": [
+        10183
+      ],
+      "options": [
+        {
+          "id": 10181,
+          "text": "The Punk movement"
+        },
+        {
+          "id": 10182,
+          "text": "The Enlightenment"
+        },
+        {
+          "id": 10183,
+          "text": "The Swinging Sixties"
+        },
+        {
+          "id": 10184,
+          "text": "The Suffrage"
+        }
+      ]
+    },
+    {
+      "id": 9020,
+      "text": "What name is given to the members of the House of Lords?",
+      "explanation": "Members of the House of Lords, known aspeers, are not elected by the people and do not represent a constituency.",
+      "computed_correct_option_ids": [
+        10193
+      ],
+      "options": [
+        {
+          "id": 10191,
+          "text": "Cabinet"
+        },
+        {
+          "id": 10192,
+          "text": "Cavaliers"
+        },
+        {
+          "id": 10193,
+          "text": "Peers"
+        },
+        {
+          "id": 10194,
+          "text": "Housesteads"
+        }
+      ]
+    },
+    {
+      "id": 9021,
+      "text": "Where can you find a statue of Boudicca, the queen of the Iceni and one of the tribal leaders who fought against the Romans?",
+      "explanation": "There is a statue of Boudicca, the queen of the Iceni, onWestminster Bridgein London, near the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        10202
+      ],
+      "options": [
+        {
+          "id": 10201,
+          "text": "At London Bridge"
+        },
+        {
+          "id": 10202,
+          "text": "At Westminster Bridge"
+        },
+        {
+          "id": 10203,
+          "text": "At the Tower of London"
+        },
+        {
+          "id": 10204,
+          "text": "At St James’s Park"
+        }
+      ]
+    },
+    {
+      "id": 9022,
+      "text": "Which of the following castles is located in Scotland?",
+      "explanation": "Crathes Castleand Inveraray Castle are located in Scotland.",
+      "computed_correct_option_ids": [
+        10213
+      ],
+      "options": [
+        {
+          "id": 10211,
+          "text": "Conwy Castle"
+        },
+        {
+          "id": 10212,
+          "text": "Caernarfon Castle"
+        },
+        {
+          "id": 10213,
+          "text": "Crathes Castle"
+        },
+        {
+          "id": 10214,
+          "text": "Windsor Castle"
+        }
+      ]
+    },
+    {
+      "id": 9023,
+      "text": "For how long was Britain a republic under the leadership of Oliver Cromwell?",
+      "explanation": "Britain was a republic under the leadership of Oliver Cromwell for11 years.",
+      "computed_correct_option_ids": [
+        10223
+      ],
+      "options": [
+        {
+          "id": 10221,
+          "text": "9 years"
+        },
+        {
+          "id": 10222,
+          "text": "10 years"
+        },
+        {
+          "id": 10223,
+          "text": "11 years"
+        },
+        {
+          "id": 10224,
+          "text": "12 years"
+        }
+      ]
+    },
+    {
+      "id": 9024,
+      "text": "Magistrates and Justices of the Peace (JPs) are members of:",
+      "explanation": "Magistrates and Justices of the Peace (JPs) are members ofthe local community.",
+      "computed_correct_option_ids": [
+        10233
+      ],
+      "options": [
+        {
+          "id": 10231,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 10232,
+          "text": "The Cabinet"
+        },
+        {
+          "id": 10233,
+          "text": "The local community"
+        },
+        {
+          "id": 10234,
+          "text": "The Parliament"
+        }
+      ]
+    }
+  ]
+}

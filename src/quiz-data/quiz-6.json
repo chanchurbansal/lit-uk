@@ -1,0 +1,591 @@
+{
+  "id": 364,
+  "name": "Life in the UK Test 6",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 23,
+      "text": "Who was Queen Elizabeth II married to?",
+      "explanation": "Queen Elizabeth II reigned since her father's death in 1952, (she celebrated her Diamond Jubilee i.e. 60 years as queen) until she passed away in 2022. She was married to Prince Philip, the Duke of Edinburgh. Her eldest son, King Charles III (previously known as the Prince of Wales) became the sovereign monarch in 2022. His eldest son, heir to the throne, Prince William is the new Prince of Wales.",
+      "computed_correct_option_ids": [
+        87
+      ],
+      "options": [
+        {
+          "id": 87,
+          "text": "Prince Philip"
+        },
+        {
+          "id": 90,
+          "text": "Prince William"
+        },
+        {
+          "id": 89,
+          "text": "Prince Harry"
+        },
+        {
+          "id": 88,
+          "text": "King Charles III"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "text": "When did the English Civil war begin?",
+      "explanation": "Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        693
+      ],
+      "options": [
+        {
+          "id": 696,
+          "text": "1598"
+        },
+        {
+          "id": 693,
+          "text": "1642"
+        },
+        {
+          "id": 694,
+          "text": "1640"
+        },
+        {
+          "id": 695,
+          "text": "1588"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "text": "Who is Sir Chris Hoy?",
+      "explanation": "Sir Chris Hoy (1976-) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+      "computed_correct_option_ids": [
+        1201
+      ],
+      "options": [
+        {
+          "id": 1204,
+          "text": "A Scottish rower"
+        },
+        {
+          "id": 1201,
+          "text": "A Scottish cyclist"
+        },
+        {
+          "id": 1202,
+          "text": "A Scottish tennis player"
+        },
+        {
+          "id": 1203,
+          "text": "A Scottish runner"
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "text": "Who wrote the Canterbury Tales?",
+      "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told called The Canterbury Tales.",
+      "computed_correct_option_ids": [
+        1245
+      ],
+      "options": [
+        {
+          "id": 1245,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 1248,
+          "text": "J K Rowling"
+        },
+        {
+          "id": 1247,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 1246,
+          "text": "William Caxton"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "text": "Who won gold medals for ice dancing at the Olympic Games in 1984?",
+      "explanation": "Jayne Torvill (1957-) and Christopher Dean (1958-) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.",
+      "computed_correct_option_ids": [
+        1273
+      ],
+      "options": [
+        {
+          "id": 1274,
+          "text": "Bobby Moore and Dame Kelly Holmes"
+        },
+        {
+          "id": 1273,
+          "text": "Jayne Torvill and Christopher Dean"
+        },
+        {
+          "id": 1276,
+          "text": "Peggy Fleming and Sasha Colin"
+        },
+        {
+          "id": 1275,
+          "text": "Tessa Virtue and Scott Moir"
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "text": "The Battle of Somme resulted in how many British casualties on the first day?",
+      "explanation": "One battle, the British attack on the Somme in July 1916, resulted in about 60,000 British casualties on the first day alone.",
+      "computed_correct_option_ids": [
+        1550
+      ],
+      "options": [
+        {
+          "id": 1552,
+          "text": "140000"
+        },
+        {
+          "id": 1551,
+          "text": "120000"
+        },
+        {
+          "id": 1549,
+          "text": "40000"
+        },
+        {
+          "id": 1550,
+          "text": "60000"
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "text": "For how many years did Charles I raise money without Parliament's approval?",
+      "explanation": "For 11 years, Charles I found ways in which to raise money without Parliament's approval but eventually trouble in Scotland meant that he had to recall Parliament.",
+      "computed_correct_option_ids": [
+        1742
+      ],
+      "options": [
+        {
+          "id": 1741,
+          "text": "10"
+        },
+        {
+          "id": 1743,
+          "text": "12"
+        },
+        {
+          "id": 1742,
+          "text": "11"
+        },
+        {
+          "id": 1744,
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "text": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk",
+      "explanation": "The burial place of one of the Anglo-Saxon kings was at Sutton Hoo in modern Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth.",
+      "computed_correct_option_ids": [
+        1879
+      ],
+      "options": [
+        {
+          "id": 1879,
+          "text": "True"
+        },
+        {
+          "id": 1880,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "text": "What is the National Citizen Service?",
+      "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        2078
+      ],
+      "options": [
+        {
+          "id": 2079,
+          "text": "It provides free, independent, impartial advice on your rights and responsibilities"
+        },
+        {
+          "id": 2077,
+          "text": "It provides free, confidential and impartial advice on consumer issues"
+        },
+        {
+          "id": 2080,
+          "text": "It is a volunteering programme for young people who want to do voluntary development work abroad"
+        },
+        {
+          "id": 2078,
+          "text": "It helps you build your skills for work and life"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "text": "Protestant Christian groups include Baptists, Methodists, Presbyterians and Quakers",
+      "explanation": "Protestant Christian groups in the UK are Baptists, Methodists, Presbyterians and Quakers. There are also other denominations of Christianity, the biggest of which is Roman Catholic.",
+      "computed_correct_option_ids": [
+        2119
+      ],
+      "options": [
+        {
+          "id": 2119,
+          "text": "True"
+        },
+        {
+          "id": 2120,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 593,
+      "text": "Which of the options given below is not necessary for a new car?",
+      "explanation": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.",
+      "computed_correct_option_ids": [
+        2249
+      ],
+      "options": [
+        {
+          "id": 2252,
+          "text": "Car insurance"
+        },
+        {
+          "id": 2251,
+          "text": "Road tax"
+        },
+        {
+          "id": 2250,
+          "text": "Seat belts"
+        },
+        {
+          "id": 2249,
+          "text": "MOT test"
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "text": "What is the BBC funded by?",
+      "explanation": "Money from TV licences goes to the BBC.",
+      "computed_correct_option_ids": [
+        2275
+      ],
+      "options": [
+        {
+          "id": 2277,
+          "text": "The local council"
+        },
+        {
+          "id": 2275,
+          "text": "TV licences"
+        },
+        {
+          "id": 2278,
+          "text": "Advertisements"
+        },
+        {
+          "id": 2276,
+          "text": "The government"
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "text": "How many senior MPs get appointed by the Prime Minister to become ministers in charge of departments?",
+      "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+      "computed_correct_option_ids": [
+        2322
+      ],
+      "options": [
+        {
+          "id": 2322,
+          "text": "20"
+        },
+        {
+          "id": 2323,
+          "text": "40"
+        },
+        {
+          "id": 2321,
+          "text": "5"
+        },
+        {
+          "id": 2324,
+          "text": "50"
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "text": "When was the Scottish Parliament formed?",
+      "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+      "computed_correct_option_ids": [
+        2346
+      ],
+      "options": [
+        {
+          "id": 2346,
+          "text": "1999"
+        },
+        {
+          "id": 2343,
+          "text": "1978"
+        },
+        {
+          "id": 2344,
+          "text": "1989"
+        },
+        {
+          "id": 2345,
+          "text": "1991"
+        }
+      ]
+    },
+    {
+      "id": 624,
+      "text": "It is illegal to sell tobacco products such as cigarettes, cigars, roll-up tobacco to anyone under what age?",
+      "explanation": "It is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.",
+      "computed_correct_option_ids": [
+        2355
+      ],
+      "options": [
+        {
+          "id": 2355,
+          "text": "18"
+        },
+        {
+          "id": 2353,
+          "text": "16"
+        },
+        {
+          "id": 2354,
+          "text": "17"
+        },
+        {
+          "id": 2356,
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "text": "People living and working in towns after Black Death led to the development of what?",
+      "explanation": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+      "computed_correct_option_ids": [
+        2377
+      ],
+      "options": [
+        {
+          "id": 2377,
+          "text": "Strong Middle Class"
+        },
+        {
+          "id": 2375,
+          "text": "Young Workforce"
+        },
+        {
+          "id": 2376,
+          "text": "Powerful Clans"
+        },
+        {
+          "id": 2378,
+          "text": "Slavery"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "text": "£10 £20 £50 £100 are the only banknotes currently allowed in the UK",
+      "explanation": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+      "computed_correct_option_ids": [
+        2662
+      ],
+      "options": [
+        {
+          "id": 2662,
+          "text": "False"
+        },
+        {
+          "id": 2661,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "text": "When did the American Colonies declare their independence?",
+      "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
+      "computed_correct_option_ids": [
+        2879
+      ],
+      "options": [
+        {
+          "id": 2879,
+          "text": "1776"
+        },
+        {
+          "id": 2880,
+          "text": "1783"
+        },
+        {
+          "id": 2881,
+          "text": "1733"
+        },
+        {
+          "id": 2882,
+          "text": "1749"
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "text": "Which of the following statements does NOT apply to the United Nations?",
+      "explanation": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+      "computed_correct_option_ids": [
+        3074
+      ],
+      "options": [
+        {
+          "id": 3074,
+          "text": "The UN has five members in total"
+        },
+        {
+          "id": 3073,
+          "text": "It was set up after the Second World War"
+        },
+        {
+          "id": 3072,
+          "text": "It aims to prevent war"
+        },
+        {
+          "id": 3071,
+          "text": "The UK is one of five permanent members of the UN Security Council"
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "text": "The Archbishop of Canterbury is the spiritual leader of the Church of England",
+      "explanation": "The spiritual leader of the Church of England is the Archbishop of Canterbury. The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the Prime Minister and a committee appointed by the Church. Several Church of England bishops sit in the House of Lords. The monarch is the head of state of the church.",
+      "computed_correct_option_ids": [
+        3261
+      ],
+      "options": [
+        {
+          "id": 3261,
+          "text": "True"
+        },
+        {
+          "id": 3262,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 930,
+      "text": "The Speaker is elected by fellow MPs using the open ballot system",
+      "explanation": "The Speaker is chosen by other MPs in a secret ballot.",
+      "computed_correct_option_ids": [
+        3392
+      ],
+      "options": [
+        {
+          "id": 3391,
+          "text": "True"
+        },
+        {
+          "id": 3392,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 970,
+      "text": "What was the name of the movement which protested against the Roman Catholic church during Henry VIII's time?",
+      "explanation": "During Henry III's reign, the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
+      "computed_correct_option_ids": [
+        3513
+      ],
+      "options": [
+        {
+          "id": 3513,
+          "text": "The Reformation"
+        },
+        {
+          "id": 3516,
+          "text": "Glorious Revolution"
+        },
+        {
+          "id": 3515,
+          "text": "Rebellion of the Clans"
+        },
+        {
+          "id": 3514,
+          "text": "Holy Wars"
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "text": "What is the money limit for the small claims procedure in England and Wales?",
+      "explanation": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales; £5,000 in Scotland and £5,000 in Northern Ireland (Changed from £3000).",
+      "computed_correct_option_ids": [
+        3615
+      ],
+      "options": [
+        {
+          "id": 3618,
+          "text": "£4,000"
+        },
+        {
+          "id": 3616,
+          "text": "£3,000"
+        },
+        {
+          "id": 3615,
+          "text": "£10,000"
+        },
+        {
+          "id": 3617,
+          "text": "£2,000"
+        }
+      ]
+    },
+    {
+      "id": 1075,
+      "text": "What is the responsibility that you have as a UK citizen?",
+      "explanation": "Flowing from the fundamental principles are responsibilities and freedoms which are shared by all those living in the UK and which we expect all residents to respect. If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law; respect the rights of others, including their right to their own opinions; treat others with fairness; look after yourself and your family; look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        3897
+      ],
+      "options": [
+        {
+          "id": 3900,
+          "text": "Going to the cinema"
+        },
+        {
+          "id": 3897,
+          "text": "Look after yourself and your family"
+        },
+        {
+          "id": 3899,
+          "text": "Keeping an allotment"
+        },
+        {
+          "id": 3898,
+          "text": "Going to the library"
+        }
+      ]
+    }
+  ]
+}

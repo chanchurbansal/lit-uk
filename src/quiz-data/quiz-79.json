@@ -1,0 +1,552 @@
+{
+  "id": 439,
+  "name": "Life in the UK Test 79",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10401,
+      "text": "As part of the citizenship ceremony, new citizens pledge their loyalty to the United Kingdom and to respect its rights and freedoms.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11401
+      ],
+      "options": [
+        {
+          "id": 11401,
+          "text": "True"
+        },
+        {
+          "id": 11402,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10402,
+      "text": "Which of the following countries is NOT a member of the Commonwealth?",
+      "explanation": "Greeceis not a member of the Commonwealth.",
+      "computed_correct_option_ids": [
+        11413
+      ],
+      "options": [
+        {
+          "id": 11411,
+          "text": "Ghana"
+        },
+        {
+          "id": 11412,
+          "text": "Cyprus"
+        },
+        {
+          "id": 11413,
+          "text": "Greece"
+        },
+        {
+          "id": 11414,
+          "text": "Sierra Leone"
+        }
+      ]
+    },
+    {
+      "id": 10403,
+      "text": "The Welsh government has 30 Senedd members.",
+      "explanation": "The Welsh government has60 Senedd members.",
+      "computed_correct_option_ids": [
+        11422
+      ],
+      "options": [
+        {
+          "id": 11421,
+          "text": "True"
+        },
+        {
+          "id": 11422,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10404,
+      "text": "Who was the first person to print books using a printing press in England?",
+      "explanation": "William Caxtonwas the first person in England to print books using a printing press.",
+      "computed_correct_option_ids": [
+        11431
+      ],
+      "options": [
+        {
+          "id": 11431,
+          "text": "William Caxton"
+        },
+        {
+          "id": 11432,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 11433,
+          "text": "John Barbour"
+        },
+        {
+          "id": 11434,
+          "text": "Jane Austen"
+        }
+      ]
+    },
+    {
+      "id": 10405,
+      "text": "In England, Wales and Scotland, most minor criminal cases are dealt with in a Magistrates’ Court:",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+      "computed_correct_option_ids": [
+        11442
+      ],
+      "options": [
+        {
+          "id": 11441,
+          "text": "True"
+        },
+        {
+          "id": 11442,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10406,
+      "text": "When did the UK sign the European Convention of Human Rights?",
+      "explanation": "The UK was one of the first countries to sign the Convention in1950.",
+      "computed_correct_option_ids": [
+        11453
+      ],
+      "options": [
+        {
+          "id": 11451,
+          "text": "1940"
+        },
+        {
+          "id": 11452,
+          "text": "1945"
+        },
+        {
+          "id": 11453,
+          "text": "1950"
+        },
+        {
+          "id": 11454,
+          "text": "1955"
+        }
+      ]
+    },
+    {
+      "id": 10407,
+      "text": "Which is the most famous rugby union competition?",
+      "explanation": "The most famous rugby union competition isthe Six Nations Championshipbetween England, Ireland, Scotland, Wales, France and Italy.",
+      "computed_correct_option_ids": [
+        11462
+      ],
+      "options": [
+        {
+          "id": 11461,
+          "text": "The Grand National"
+        },
+        {
+          "id": 11462,
+          "text": "The Six Nations Championship"
+        },
+        {
+          "id": 11463,
+          "text": "The All England Championship"
+        },
+        {
+          "id": 11464,
+          "text": "The Super League"
+        }
+      ]
+    },
+    {
+      "id": 10408,
+      "text": "After Oliver Cromwell defeated the Scottish army in the Battles of Dunbar and Worcester, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11471
+      ],
+      "options": [
+        {
+          "id": 11471,
+          "text": "True"
+        },
+        {
+          "id": 11472,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10409,
+      "text": "Which of the following is an ancient festival and has roots in the pagan festival to mark the beginning of winter?",
+      "explanation": "Halloween, 31 October, is and ancient festival and has roots in the pagan festival to mark the beginning of winter.",
+      "computed_correct_option_ids": [
+        11483
+      ],
+      "options": [
+        {
+          "id": 11481,
+          "text": "Lent"
+        },
+        {
+          "id": 11482,
+          "text": "Easter"
+        },
+        {
+          "id": 11483,
+          "text": "Halloween"
+        },
+        {
+          "id": 11484,
+          "text": "Hogmanay"
+        }
+      ]
+    },
+    {
+      "id": 10410,
+      "text": "Which TWO British kings believed in the ‘Divine Right of Kings’?",
+      "explanation": "James I and his son Charles Iboth believed in the ‘Divine Right of Kings’: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament.",
+      "computed_correct_option_ids": [
+        11492,
+        11493
+      ],
+      "options": [
+        {
+          "id": 11491,
+          "text": "Richard I"
+        },
+        {
+          "id": 11492,
+          "text": "James I"
+        },
+        {
+          "id": 11493,
+          "text": "Charles I"
+        },
+        {
+          "id": 11494,
+          "text": "Henry V"
+        }
+      ]
+    },
+    {
+      "id": 10411,
+      "text": "What was the name of the European Union when it was first established?",
+      "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed theEuropean Economic Community (EEC)in 1957. The EEC became a part of the European Union when it was formed in 1993.",
+      "computed_correct_option_ids": [
+        11503
+      ],
+      "options": [
+        {
+          "id": 11501,
+          "text": "European Political Union"
+        },
+        {
+          "id": 11502,
+          "text": "Union of European Countries"
+        },
+        {
+          "id": 11503,
+          "text": "European Economic Community"
+        },
+        {
+          "id": 11504,
+          "text": "Europe United"
+        }
+      ]
+    },
+    {
+      "id": 10412,
+      "text": "By 1200, the English ruled an area of Scotland known as the Pale, around Edinburgh:",
+      "explanation": "By 1200, the English ruled an area of Ireland known as the Pale,around Dublin.",
+      "computed_correct_option_ids": [
+        11512
+      ],
+      "options": [
+        {
+          "id": 11511,
+          "text": "True"
+        },
+        {
+          "id": 11512,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10413,
+      "text": "Which of the following British poets was inspired by nature?",
+      "explanation": "William Wordsworthwas inspired by nature.",
+      "computed_correct_option_ids": [
+        11524
+      ],
+      "options": [
+        {
+          "id": 11521,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 11522,
+          "text": "William Blake"
+        },
+        {
+          "id": 11523,
+          "text": "Sir Walter Scott"
+        },
+        {
+          "id": 11524,
+          "text": "William Wordsworth"
+        }
+      ]
+    },
+    {
+      "id": 10414,
+      "text": "Which Act incorporated the European Convention of Human Rights into UK law?",
+      "explanation": "The Human Rights Act 1998incorporated the European Convention of Human Rights into UK law.",
+      "computed_correct_option_ids": [
+        11534
+      ],
+      "options": [
+        {
+          "id": 11531,
+          "text": "The Discrimination Act 1995"
+        },
+        {
+          "id": 11532,
+          "text": "The Equality Act 2010"
+        },
+        {
+          "id": 11533,
+          "text": "The Freedom Act 2012"
+        },
+        {
+          "id": 11534,
+          "text": "The Human Rights Act 1998"
+        }
+      ]
+    },
+    {
+      "id": 10415,
+      "text": "After the Second World War, the UK was exhausted economically.",
+      "explanation": "Although the UK had won the war, the country was exhausted economically after WWII.",
+      "computed_correct_option_ids": [
+        11541
+      ],
+      "options": [
+        {
+          "id": 11541,
+          "text": "True"
+        },
+        {
+          "id": 11542,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10416,
+      "text": "What percentage of the total British population is located in Northern Ireland?",
+      "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Irelandless than 3%.",
+      "computed_correct_option_ids": [
+        11554
+      ],
+      "options": [
+        {
+          "id": 11551,
+          "text": "30%"
+        },
+        {
+          "id": 11552,
+          "text": "5%"
+        },
+        {
+          "id": 11553,
+          "text": "8%"
+        },
+        {
+          "id": 11554,
+          "text": "Less than 3%"
+        }
+      ]
+    },
+    {
+      "id": 10417,
+      "text": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes killed the Protestant king with a bomb in the Houses of Parliament:",
+      "explanation": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkesfailed in their plan to kill the Protestant kingwith a bomb in the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        11562
+      ],
+      "options": [
+        {
+          "id": 11561,
+          "text": "True"
+        },
+        {
+          "id": 11562,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10418,
+      "text": "Who was Florence Nightingale?",
+      "explanation": "Florence Nightingale was a nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War.",
+      "computed_correct_option_ids": [
+        11571
+      ],
+      "options": [
+        {
+          "id": 11571,
+          "text": "A nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War"
+        },
+        {
+          "id": 11572,
+          "text": "One of the tribal leaders who fought against the Romans"
+        },
+        {
+          "id": 11573,
+          "text": "A scientist who proposed that enemy aircraft could be detected by radio waves"
+        },
+        {
+          "id": 11574,
+          "text": "A mathematician who was influential in the development of computer science"
+        }
+      ]
+    },
+    {
+      "id": 10419,
+      "text": "Where is the Scottish Grand National horse racing event celebrated?",
+      "explanation": "The Scottish Grand National horse racing event is celebrated atAyr.",
+      "computed_correct_option_ids": [
+        11582
+      ],
+      "options": [
+        {
+          "id": 11581,
+          "text": "St Andrews"
+        },
+        {
+          "id": 11582,
+          "text": "Ayr"
+        },
+        {
+          "id": 11583,
+          "text": "Fife"
+        },
+        {
+          "id": 11584,
+          "text": "Glasgow"
+        }
+      ]
+    },
+    {
+      "id": 10420,
+      "text": "Arranged marriages are not acceptable in the UK:",
+      "explanation": "Arranged marriages, where both parties agree to the marriage,are acceptable in the UK.",
+      "computed_correct_option_ids": [
+        11591
+      ],
+      "options": [
+        {
+          "id": 11591,
+          "text": "True"
+        },
+        {
+          "id": 11592,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10421,
+      "text": "Who was the Prime Minister of the UK from 1945 to 1951?",
+      "explanation": "Clement Attleewas Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
+      "computed_correct_option_ids": [
+        11603
+      ],
+      "options": [
+        {
+          "id": 11601,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 11602,
+          "text": "John Major"
+        },
+        {
+          "id": 11603,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 11604,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 10422,
+      "text": "Who represents the UK to the rest of the world?",
+      "explanation": "The Kingrepresents the UK to the rest of the world.",
+      "computed_correct_option_ids": [
+        11614
+      ],
+      "options": [
+        {
+          "id": 11611,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 11612,
+          "text": "Prince Harry"
+        },
+        {
+          "id": 11613,
+          "text": "Prince William"
+        },
+        {
+          "id": 11614,
+          "text": "The King"
+        }
+      ]
+    },
+    {
+      "id": 10423,
+      "text": "Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11621
+      ],
+      "options": [
+        {
+          "id": 11621,
+          "text": "True"
+        },
+        {
+          "id": 11622,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10424,
+      "text": "Queen Elizabeth I was a Catholic:",
+      "explanation": "Queen Elizabeth I was aProtestant.",
+      "computed_correct_option_ids": [
+        11632
+      ],
+      "options": [
+        {
+          "id": 11631,
+          "text": "True"
+        },
+        {
+          "id": 11632,
+          "text": "False"
+        }
+      ]
+    }
+  ]
+}

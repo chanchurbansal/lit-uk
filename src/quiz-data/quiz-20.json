@@ -1,0 +1,600 @@
+{
+  "id": 378,
+  "name": "Life in the UK Test 20",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 2,
+      "text": "What Palace was a cast-iron and plate-glass building originally erected in Hyde Park, London, England, to house the Great Exhibition of 1851?",
+      "explanation": "British industry led the world in the 19th century. The UK produced more than half of the world's iron, coal and cotton cloth. The UK also became a centre for financial services, including insurance and banking. In 1851, the Great Exhibition opened in Hyde Park in the Crystal Palace, a huge building made of steel and glass. Exhibits ranged from huge machines to handmade goods. Countries from all over the world showed their goods but most of the objects were made in Britain.",
+      "computed_correct_option_ids": [
+        5
+      ],
+      "options": [
+        {
+          "id": 8,
+          "text": "The Great Palace"
+        },
+        {
+          "id": 5,
+          "text": "Crystal Palace"
+        },
+        {
+          "id": 6,
+          "text": "Dream Palace"
+        },
+        {
+          "id": 7,
+          "text": "Gold Palace"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Who invented the World Wide Web?",
+      "explanation": "World Wide Web was invented by Sir Tim Berners-Lee (1955-) who is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
+      "computed_correct_option_ids": [
+        125
+      ],
+      "options": [
+        {
+          "id": 125,
+          "text": "Sir Tim Berners-Lee"
+        },
+        {
+          "id": 128,
+          "text": "Florence Nightingale"
+        },
+        {
+          "id": 127,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 126,
+          "text": "James Goodfellow"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "What percentage of the population has a grandparent born outside of the UK?",
+      "explanation": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.",
+      "computed_correct_option_ids": [
+        253
+      ],
+      "options": [
+        {
+          "id": 255,
+          "text": "5%"
+        },
+        {
+          "id": 253,
+          "text": "10%"
+        },
+        {
+          "id": 254,
+          "text": "15%"
+        },
+        {
+          "id": 256,
+          "text": "20%"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Where can you find the ship HMS Victory now?",
+      "explanation": "HMS Victory, can be visited in Portsmouth. It was Admiral Nelson's ship.",
+      "computed_correct_option_ids": [
+        317
+      ],
+      "options": [
+        {
+          "id": 319,
+          "text": "London"
+        },
+        {
+          "id": 317,
+          "text": "Portsmouth"
+        },
+        {
+          "id": 318,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 320,
+          "text": "Dorset"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "text": "How long can you use an EU driving licence for?",
+      "explanation": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid, subject to UK licence renewal requirements (at the age of 70, or three years after the driver becomes resident). If you have a licence from any other country, you may use it in the UK for up to 12 months.",
+      "computed_correct_option_ids": [
+        473
+      ],
+      "options": [
+        {
+          "id": 473,
+          "text": "As long as it's valid"
+        },
+        {
+          "id": 476,
+          "text": "2 years"
+        },
+        {
+          "id": 475,
+          "text": "5 years"
+        },
+        {
+          "id": 474,
+          "text": "12 months"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "text": "What does the Turner Prize celebrate?",
+      "explanation": "The Turner Prize was established in 1984 and celebrates contemporary art.",
+      "computed_correct_option_ids": [
+        557
+      ],
+      "options": [
+        {
+          "id": 559,
+          "text": "The Best Song"
+        },
+        {
+          "id": 557,
+          "text": "Contemporary Art"
+        },
+        {
+          "id": 558,
+          "text": "The Best Album"
+        },
+        {
+          "id": 560,
+          "text": "The Best Play"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "text": "Who discovered Insulin?",
+      "explanation": "The Scottish physician and researcher John MacLeod (1876-1935) was the co-discoverer of insulin, used to treat diabetes.",
+      "computed_correct_option_ids": [
+        613
+      ],
+      "options": [
+        {
+          "id": 615,
+          "text": "Ian Wilmot"
+        },
+        {
+          "id": 613,
+          "text": "John MacLeod"
+        },
+        {
+          "id": 614,
+          "text": "Patrick Steptoe"
+        },
+        {
+          "id": 616,
+          "text": "Mary Peters"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "text": "When did the English defeat the Spanish Armada?",
+      "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        685
+      ],
+      "options": [
+        {
+          "id": 685,
+          "text": "1588"
+        },
+        {
+          "id": 688,
+          "text": "1584"
+        },
+        {
+          "id": 687,
+          "text": "1597"
+        },
+        {
+          "id": 686,
+          "text": "1600"
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "text": "Which of these is an Anglo-Saxon poem?",
+      "explanation": "The Anglo-Saxon poem 'Beowulf' tells of its hero's battles against monsters and is still translated into modern English.",
+      "computed_correct_option_ids": [
+        1213
+      ],
+      "options": [
+        {
+          "id": 1216,
+          "text": "Mr Hyde"
+        },
+        {
+          "id": 1214,
+          "text": "Pride and Prejudice"
+        },
+        {
+          "id": 1213,
+          "text": "Beowulf"
+        },
+        {
+          "id": 1215,
+          "text": "Jude the Obscure"
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "text": "Which court deals with the most serious cases in Scotland?",
+      "explanation": "The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+      "computed_correct_option_ids": [
+        1261
+      ],
+      "options": [
+        {
+          "id": 1264,
+          "text": "Justice of the Peace Court"
+        },
+        {
+          "id": 1262,
+          "text": "Crown Court"
+        },
+        {
+          "id": 1261,
+          "text": "High Court"
+        },
+        {
+          "id": 1263,
+          "text": "Sheriff Court"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "text": "What was the 'Black Death'?",
+      "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+      "computed_correct_option_ids": [
+        1309
+      ],
+      "options": [
+        {
+          "id": 1309,
+          "text": "A form of plague"
+        },
+        {
+          "id": 1311,
+          "text": "A battle"
+        },
+        {
+          "id": 1312,
+          "text": "Lack of water"
+        },
+        {
+          "id": 1310,
+          "text": "Lack of food"
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "text": "The Bill of Rights confirmed the rights of Parliament and the limits of the King's power",
+      "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
+      "computed_correct_option_ids": [
+        1555
+      ],
+      "options": [
+        {
+          "id": 1556,
+          "text": "False"
+        },
+        {
+          "id": 1555,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "text": "When William of Orange re-conquered Ireland (in 1690) he took the title 'William the Conqueror'",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
+      "computed_correct_option_ids": [
+        1894
+      ],
+      "options": [
+        {
+          "id": 1894,
+          "text": "False"
+        },
+        {
+          "id": 1893,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "text": "Why is 1928 an important date for women's rights?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1918, women over the age of 30 were given voting rights. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        1954
+      ],
+      "options": [
+        {
+          "id": 1956,
+          "text": "None of these"
+        },
+        {
+          "id": 1954,
+          "text": "Women could vote at 21, the same age as men"
+        },
+        {
+          "id": 1953,
+          "text": "Women could vote at 18, the same age as men"
+        },
+        {
+          "id": 1955,
+          "text": "Women could vote if they were over 30 years old"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "text": "English laws and the English language were introduced in Wales by the middle of which century?",
+      "explanation": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced.",
+      "computed_correct_option_ids": [
+        2206
+      ],
+      "options": [
+        {
+          "id": 2206,
+          "text": "15th century"
+        },
+        {
+          "id": 2205,
+          "text": "17th century"
+        },
+        {
+          "id": 2208,
+          "text": "11th century"
+        },
+        {
+          "id": 2207,
+          "text": "13th century"
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "text": "The people of the Bronze Age were accomplished glassworkers",
+      "explanation": "The people of the Bronze Age were accomplished metalworkers",
+      "computed_correct_option_ids": [
+        2210
+      ],
+      "options": [
+        {
+          "id": 2210,
+          "text": "False"
+        },
+        {
+          "id": 2209,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 653,
+      "text": "Whose powers were increased by the Bill of Rights of 1689?",
+      "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant. A new Parliament had to be elected at least every three years.",
+      "computed_correct_option_ids": [
+        2452
+      ],
+      "options": [
+        {
+          "id": 2451,
+          "text": "Slaves'"
+        },
+        {
+          "id": 2449,
+          "text": "Prisoners'"
+        },
+        {
+          "id": 2452,
+          "text": "Parliament's"
+        },
+        {
+          "id": 2450,
+          "text": "King's"
+        }
+      ]
+    },
+    {
+      "id": 786,
+      "text": "What is Diwali?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+      "computed_correct_option_ids": [
+        2891
+      ],
+      "options": [
+        {
+          "id": 2894,
+          "text": "Festival of Happiness"
+        },
+        {
+          "id": 2893,
+          "text": "Festival of White"
+        },
+        {
+          "id": 2892,
+          "text": "Festival of Sun"
+        },
+        {
+          "id": 2891,
+          "text": "Festival of Lights"
+        }
+      ]
+    },
+    {
+      "id": 787,
+      "text": "Charles Dickens, Thomas Hardy and Jane Austen are famous writers",
+      "explanation": "They are all famous authors and writers.",
+      "computed_correct_option_ids": [
+        2895
+      ],
+      "options": [
+        {
+          "id": 2895,
+          "text": "True"
+        },
+        {
+          "id": 2896,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "text": "Where is the Royal Crescent is located?",
+      "explanation": "In the 18th century, simpler designs became popular. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America. He designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland. His ideas influenced architects in cities such as Bath, where the Royal Crescent was built.",
+      "computed_correct_option_ids": [
+        3061
+      ],
+      "options": [
+        {
+          "id": 3059,
+          "text": "Portsmouth"
+        },
+        {
+          "id": 3060,
+          "text": "London"
+        },
+        {
+          "id": 3061,
+          "text": "Bath"
+        },
+        {
+          "id": 3062,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "text": "St Augustine led missionaries from Rome. Where did he spread Christianity?",
+      "explanation": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity. Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        3099
+      ],
+      "options": [
+        {
+          "id": 3102,
+          "text": "In the West"
+        },
+        {
+          "id": 3101,
+          "text": "In the East"
+        },
+        {
+          "id": 3100,
+          "text": "In the North"
+        },
+        {
+          "id": 3099,
+          "text": "In the South"
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "text": "Which pair won gold medals for Ice dancing at the Olympic Games in 1984 and in four consecutive world championships?",
+      "explanation": "Jayne Torvill (1957-) and Christopher Dean (1958-) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.",
+      "computed_correct_option_ids": [
+        3225
+      ],
+      "options": [
+        {
+          "id": 3227,
+          "text": "Jean Westwood and Lawrence Demmy"
+        },
+        {
+          "id": 3225,
+          "text": "Jayne Torvill and Christopher Dean"
+        },
+        {
+          "id": 3226,
+          "text": "Jennifer Nicks and John Nicks"
+        },
+        {
+          "id": 3228,
+          "text": "Doreen Denny and Courtney Jones"
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "text": "Which TWO are associated with rugby?",
+      "explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy. The Super League is the most well-known rugby league (club) competition.",
+      "computed_correct_option_ids": [
+        3435,
+        3436
+      ],
+      "options": [
+        {
+          "id": 3435,
+          "text": "The Six Nations Championship"
+        },
+        {
+          "id": 3436,
+          "text": "The Super League"
+        },
+        {
+          "id": 3437,
+          "text": "The Premier League"
+        },
+        {
+          "id": 3438,
+          "text": "Wimbledon"
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "text": "The band called Beatles was popular and some alteration to social laws occurred during which period?",
+      "explanation": "The decade of the 1960s was a period of significant social change. It was known as 'the Swinging Sixties'. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved.",
+      "computed_correct_option_ids": [
+        3533
+      ],
+      "options": [
+        {
+          "id": 3533,
+          "text": "1960s"
+        },
+        {
+          "id": 3535,
+          "text": "1950s"
+        },
+        {
+          "id": 3536,
+          "text": "1980s"
+        },
+        {
+          "id": 3534,
+          "text": "1970s"
+        }
+      ]
+    }
+  ]
+}

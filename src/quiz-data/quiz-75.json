@@ -1,0 +1,610 @@
+{
+  "id": 435,
+  "name": "Life in the UK Test 75",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10001,
+      "text": "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known as:",
+      "explanation": "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known ascanvassing.",
+      "computed_correct_option_ids": [
+        11002
+      ],
+      "options": [
+        {
+          "id": 11001,
+          "text": "Shadowing"
+        },
+        {
+          "id": 11002,
+          "text": "Canvassing"
+        },
+        {
+          "id": 11003,
+          "text": "Marketing"
+        },
+        {
+          "id": 11004,
+          "text": "Persuasion"
+        }
+      ]
+    },
+    {
+      "id": 10002,
+      "text": "Who defeated the Vikings?",
+      "explanation": "King Alfred the Greatdefeated the Vikings.",
+      "computed_correct_option_ids": [
+        11011
+      ],
+      "options": [
+        {
+          "id": 11011,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 11012,
+          "text": "William I"
+        },
+        {
+          "id": 11013,
+          "text": "Boudicca"
+        },
+        {
+          "id": 11014,
+          "text": "James II"
+        }
+      ]
+    },
+    {
+      "id": 10003,
+      "text": "When was Queen Elizabeth II’s Diamond Jubilee celebrated?",
+      "explanation": "Queen Elizabeth II’s Diamond Jubilee was celebrated in2012.",
+      "computed_correct_option_ids": [
+        11024
+      ],
+      "options": [
+        {
+          "id": 11021,
+          "text": "2005"
+        },
+        {
+          "id": 11022,
+          "text": "2010"
+        },
+        {
+          "id": 11023,
+          "text": "2011"
+        },
+        {
+          "id": 11024,
+          "text": "2012"
+        }
+      ]
+    },
+    {
+      "id": 10004,
+      "text": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the canal builders come from?",
+      "explanation": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work.Canal builders came from Holland.",
+      "computed_correct_option_ids": [
+        11032
+      ],
+      "options": [
+        {
+          "id": 11031,
+          "text": "Germany"
+        },
+        {
+          "id": 11032,
+          "text": "Holland"
+        },
+        {
+          "id": 11033,
+          "text": "France"
+        },
+        {
+          "id": 11034,
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 10005,
+      "text": "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English, English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas:",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        11041
+      ],
+      "options": [
+        {
+          "id": 11041,
+          "text": "True"
+        },
+        {
+          "id": 11042,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10006,
+      "text": "Which of the following are ‘Crown dependencies’?",
+      "explanation": "The Isle of Man and the Channel Islandsare ‘Crown dependencies’.",
+      "computed_correct_option_ids": [
+        11053
+      ],
+      "options": [
+        {
+          "id": 11051,
+          "text": "The Maldives and Anglesey"
+        },
+        {
+          "id": 11052,
+          "text": "Ireland and Malta"
+        },
+        {
+          "id": 11053,
+          "text": "The Isle of Man and the Channel Islands"
+        },
+        {
+          "id": 11054,
+          "text": "The Isle of Wight and Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 10007,
+      "text": "Which of the following is a charity that works with old people?",
+      "explanation": "Age UKis a charity that works with old people.",
+      "computed_correct_option_ids": [
+        11062
+      ],
+      "options": [
+        {
+          "id": 11061,
+          "text": "Shelter"
+        },
+        {
+          "id": 11062,
+          "text": "Age UK"
+        },
+        {
+          "id": 11063,
+          "text": "Crisis"
+        },
+        {
+          "id": 11064,
+          "text": "Cancer Research UK"
+        }
+      ]
+    },
+    {
+      "id": 10008,
+      "text": "Which popular British sport can be traced back to the 15th century?",
+      "explanation": "The modern game ofgolfcan be traced back to 15th century Scotland.",
+      "computed_correct_option_ids": [
+        11072
+      ],
+      "options": [
+        {
+          "id": 11071,
+          "text": "Football"
+        },
+        {
+          "id": 11072,
+          "text": "Golf"
+        },
+        {
+          "id": 11073,
+          "text": "Rugby"
+        },
+        {
+          "id": 11074,
+          "text": "Tennis"
+        }
+      ]
+    },
+    {
+      "id": 10009,
+      "text": "How many crosses form the Union Flag?",
+      "explanation": "The Union Flag hasthree crosses.",
+      "computed_correct_option_ids": [
+        11082
+      ],
+      "options": [
+        {
+          "id": 11081,
+          "text": "Two"
+        },
+        {
+          "id": 11082,
+          "text": "Three"
+        },
+        {
+          "id": 11083,
+          "text": "Four"
+        },
+        {
+          "id": 11084,
+          "text": "Five"
+        }
+      ]
+    },
+    {
+      "id": 10010,
+      "text": "Who were the suffragettes?",
+      "explanation": "The suffragettes werea group who used civil disobedience to gain the vote for women.",
+      "computed_correct_option_ids": [
+        11092
+      ],
+      "options": [
+        {
+          "id": 11091,
+          "text": "A group who demanded the vote for the working classes"
+        },
+        {
+          "id": 11092,
+          "text": "A group who used civil disobedience to gain the vote for women"
+        },
+        {
+          "id": 11093,
+          "text": "A group who campaigned for the vote of men over 21 years of age"
+        },
+        {
+          "id": 11094,
+          "text": "A group who introduced new ideas about politics"
+        }
+      ]
+    },
+    {
+      "id": 10011,
+      "text": "What does the UK offer to its permanent residents or citizens?",
+      "explanation": "A right to a fair trialis the correct answer.",
+      "computed_correct_option_ids": [
+        11102
+      ],
+      "options": [
+        {
+          "id": 11101,
+          "text": "Free undergraduate tuition fees"
+        },
+        {
+          "id": 11102,
+          "text": "A right to a fair trial"
+        },
+        {
+          "id": 11103,
+          "text": "VIP tickets for local events"
+        },
+        {
+          "id": 11104,
+          "text": "Free parking across the country"
+        }
+      ]
+    },
+    {
+      "id": 10012,
+      "text": "Which of the following meals is made of a fried meal with bacon, eggs, sausage,black pudding, tomatoes, mushrooms, soda bread and potato bread?",
+      "explanation": "Ulster fryis a fried meal from Northern Ireland with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread.",
+      "computed_correct_option_ids": [
+        11113
+      ],
+      "options": [
+        {
+          "id": 11111,
+          "text": "English breakfast"
+        },
+        {
+          "id": 11112,
+          "text": "Haggis"
+        },
+        {
+          "id": 11113,
+          "text": "Ulster fry"
+        },
+        {
+          "id": 11114,
+          "text": "Sunday roast"
+        }
+      ]
+    },
+    {
+      "id": 10013,
+      "text": "What can living people donate that may help other people with injuries or illnesses (choose TWO options)?",
+      "explanation": "Living people can donateblood and a kidney.",
+      "computed_correct_option_ids": [
+        11121,
+        11123
+      ],
+      "options": [
+        {
+          "id": 11121,
+          "text": "Blood"
+        },
+        {
+          "id": 11122,
+          "text": "Saliva"
+        },
+        {
+          "id": 11123,
+          "text": "A kidney"
+        },
+        {
+          "id": 11124,
+          "text": "Their liver"
+        }
+      ]
+    },
+    {
+      "id": 10014,
+      "text": "Where is the office of the MPs located?",
+      "explanation": "The MP’s office is located atThe House of Commons, Westminster, London, SW1A OAA.",
+      "computed_correct_option_ids": [
+        11132
+      ],
+      "options": [
+        {
+          "id": 11131,
+          "text": "10 Downing Street"
+        },
+        {
+          "id": 11132,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 11133,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 11134,
+          "text": "Buckingham Palace"
+        }
+      ]
+    },
+    {
+      "id": 10015,
+      "text": "Which TWO of the following statements is TRUE with regards to Magistrates and Justices of the Peace (JPs) in England, Wales and Scotland?",
+      "explanation": "In England, Wales and Scotland Magistrates and Justices of the Peace (JPs) usually work unpaid and do not need legal qualifications.",
+      "computed_correct_option_ids": [
+        11141,
+        11142
+      ],
+      "options": [
+        {
+          "id": 11141,
+          "text": "They usually work unpaid"
+        },
+        {
+          "id": 11142,
+          "text": "They do not need legal qualifications"
+        },
+        {
+          "id": 11143,
+          "text": "They are legally qualified"
+        },
+        {
+          "id": 11144,
+          "text": "They are paid"
+        }
+      ]
+    },
+    {
+      "id": 10016,
+      "text": "Which of the following is a showcase of mainly theatre and comedy performances?",
+      "explanation": "The Fringeis a showcase of mainly theatre and comedy performances.",
+      "computed_correct_option_ids": [
+        11151
+      ],
+      "options": [
+        {
+          "id": 11151,
+          "text": "The Fringe"
+        },
+        {
+          "id": 11152,
+          "text": "Diwali"
+        },
+        {
+          "id": 11153,
+          "text": "Halloween"
+        },
+        {
+          "id": 11154,
+          "text": "Lent"
+        }
+      ]
+    },
+    {
+      "id": 10017,
+      "text": "Which of the following days are public holidays in Scotland (choose TWO options)?",
+      "explanation": "In Scotland,the 1st of January and the 2nd of Januaryare bank holidays.",
+      "computed_correct_option_ids": [
+        11161,
+        11164
+      ],
+      "options": [
+        {
+          "id": 11161,
+          "text": "1st of January"
+        },
+        {
+          "id": 11162,
+          "text": "24th of December"
+        },
+        {
+          "id": 11163,
+          "text": "3rd of January"
+        },
+        {
+          "id": 11164,
+          "text": "2nd of January"
+        }
+      ]
+    },
+    {
+      "id": 10018,
+      "text": "The House of Commons is normally more independent of the government than the House of Lords:",
+      "explanation": "The House of Lords is normally more independent of the government than the House of Commons.",
+      "computed_correct_option_ids": [
+        11172
+      ],
+      "options": [
+        {
+          "id": 11171,
+          "text": "True"
+        },
+        {
+          "id": 11172,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10019,
+      "text": "When was the Turing machine invented?",
+      "explanation": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician,in the 1930s.",
+      "computed_correct_option_ids": [
+        11182
+      ],
+      "options": [
+        {
+          "id": 11181,
+          "text": "In the 1920s"
+        },
+        {
+          "id": 11182,
+          "text": "In the 1930s"
+        },
+        {
+          "id": 11183,
+          "text": "In the 1940s"
+        },
+        {
+          "id": 11184,
+          "text": "In the 1950s"
+        }
+      ]
+    },
+    {
+      "id": 10020,
+      "text": "During which period were the House of Lords and House of Commons established?",
+      "explanation": "In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as Houses were established. These were the House of the Commons and the House of the Lords.",
+      "computed_correct_option_ids": [
+        11191
+      ],
+      "options": [
+        {
+          "id": 11191,
+          "text": "Middle Ages"
+        },
+        {
+          "id": 11192,
+          "text": "Iron Age"
+        },
+        {
+          "id": 11193,
+          "text": "The Roman Invasion"
+        },
+        {
+          "id": 11194,
+          "text": "The Anglo-Saxon Invasion"
+        }
+      ]
+    },
+    {
+      "id": 10021,
+      "text": "What name is given to the period of time when Christians take time to reflect and prepare for Easter?",
+      "explanation": "Lentis a time when Christians take time to reflect and prepare for Easter.",
+      "computed_correct_option_ids": [
+        11202
+      ],
+      "options": [
+        {
+          "id": 11201,
+          "text": "Halloween"
+        },
+        {
+          "id": 11202,
+          "text": "Lent"
+        },
+        {
+          "id": 11203,
+          "text": "Diwali"
+        },
+        {
+          "id": 11204,
+          "text": "Hanukkah"
+        }
+      ]
+    },
+    {
+      "id": 10022,
+      "text": "In the new Church of England created by Henry VIII, who had the power to appoint bishops and order how people should worship?",
+      "explanation": "In the new Church of England,the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+      "computed_correct_option_ids": [
+        11212
+      ],
+      "options": [
+        {
+          "id": 11211,
+          "text": "The Pope"
+        },
+        {
+          "id": 11212,
+          "text": "The King"
+        },
+        {
+          "id": 11213,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 11214,
+          "text": "The Archbishop of Canterbury"
+        }
+      ]
+    },
+    {
+      "id": 10023,
+      "text": "In Wales, many people speak Gaelic – a completely different language from English – and it is taught in schools and universities:",
+      "explanation": "In Wales, many people speak Welsh– a completely different language from English – and it is taught in schools and universities.",
+      "computed_correct_option_ids": [
+        11222
+      ],
+      "options": [
+        {
+          "id": 11221,
+          "text": "True"
+        },
+        {
+          "id": 11222,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10024,
+      "text": "How many years did Queen Victoria reign for?",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901,almost 64 years.",
+      "computed_correct_option_ids": [
+        11232
+      ],
+      "options": [
+        {
+          "id": 11231,
+          "text": "Only two years"
+        },
+        {
+          "id": 11232,
+          "text": "Almost 64 years"
+        },
+        {
+          "id": 11233,
+          "text": "Less than two years"
+        },
+        {
+          "id": 11234,
+          "text": "Almost 50 years"
+        }
+      ]
+    }
+  ]
+}

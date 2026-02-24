@@ -1,0 +1,592 @@
+{
+  "id": 384,
+  "name": "Life in the UK Test 26",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 26,
+      "text": "Who was Henry Purcell?",
+      "explanation": "Henry Purcell (1659-95) was the organist at Westminster Abbey. He wrote church music and operas.",
+      "computed_correct_option_ids": [
+        97
+      ],
+      "options": [
+        {
+          "id": 100,
+          "text": "A gardener"
+        },
+        {
+          "id": 99,
+          "text": "An actor"
+        },
+        {
+          "id": 98,
+          "text": "A poet"
+        },
+        {
+          "id": 97,
+          "text": "A musician"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "text": "What is the responsibility that you have as a UK citizen?",
+      "explanation": "Flowing from the fundamental principles are responsibilities and freedoms which are shared by all those living in the UK and which we expect all residents to respect. If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law; respect the rights of others, including their right to their own opinions; treat others with fairness; look after yourself and your family; look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        485
+      ],
+      "options": [
+        {
+          "id": 487,
+          "text": "Keeping an allotment"
+        },
+        {
+          "id": 488,
+          "text": "Going to the cinema"
+        },
+        {
+          "id": 486,
+          "text": "Going to the library"
+        },
+        {
+          "id": 485,
+          "text": "Look after yourself and your family"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "text": "How many members does a jury have in Scotland?",
+      "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+      "computed_correct_option_ids": [
+        665
+      ],
+      "options": [
+        {
+          "id": 665,
+          "text": "15"
+        },
+        {
+          "id": 666,
+          "text": "12"
+        },
+        {
+          "id": 667,
+          "text": "13"
+        },
+        {
+          "id": 668,
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "text": "How many member states does the UN have?",
+      "explanation": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members.",
+      "computed_correct_option_ids": [
+        761
+      ],
+      "options": [
+        {
+          "id": 761,
+          "text": "190"
+        },
+        {
+          "id": 762,
+          "text": "15"
+        },
+        {
+          "id": 763,
+          "text": "5"
+        },
+        {
+          "id": 764,
+          "text": "27"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "text": "Which is an example of a Civil Offence?",
+      "explanation": "Examples of civil laws are - Housing law: this includes disputes between landlords and tenants over issues such as repairs and eviction; Consumer rights: an example of this is a dispute about faulty goods or services; Employment law: these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace; Debt: people might be taken to court if they owe money to someone.",
+      "computed_correct_option_ids": [
+        781
+      ],
+      "options": [
+        {
+          "id": 784,
+          "text": "Carrying a weapon"
+        },
+        {
+          "id": 783,
+          "text": "Smoking in public places"
+        },
+        {
+          "id": 782,
+          "text": "Selling Tobacco to under 18's"
+        },
+        {
+          "id": 781,
+          "text": "Discrimination in the workplace"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "text": "Who built the Hadrian's Wall to keep out the Picts?",
+      "explanation": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+      "computed_correct_option_ids": [
+        873
+      ],
+      "options": [
+        {
+          "id": 876,
+          "text": "Henry Hadrian"
+        },
+        {
+          "id": 873,
+          "text": "Emperor Hadrian"
+        },
+        {
+          "id": 874,
+          "text": "Sutton Hoo"
+        },
+        {
+          "id": 875,
+          "text": "King Alfred the Great"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "text": "What is Diwali often called?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+      "computed_correct_option_ids": [
+        1109
+      ],
+      "options": [
+        {
+          "id": 1112,
+          "text": "The Festival of Love"
+        },
+        {
+          "id": 1109,
+          "text": "The Festival of Lights"
+        },
+        {
+          "id": 1110,
+          "text": "The Festival of the Sun"
+        },
+        {
+          "id": 1111,
+          "text": "The Festival of Fire"
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "text": "What is the maximum fine if you watch TV without a valid TV licence?",
+      "explanation": "You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
+      "computed_correct_option_ids": [
+        1125
+      ],
+      "options": [
+        {
+          "id": 1125,
+          "text": "£1,000"
+        },
+        {
+          "id": 1126,
+          "text": "£500"
+        },
+        {
+          "id": 1127,
+          "text": "£3,000"
+        },
+        {
+          "id": 1128,
+          "text": "£2,000"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "text": "What county does Stonehenge stand in?",
+      "explanation": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies.",
+      "computed_correct_option_ids": [
+        1149
+      ],
+      "options": [
+        {
+          "id": 1151,
+          "text": "Berkshire"
+        },
+        {
+          "id": 1152,
+          "text": "Lancashire"
+        },
+        {
+          "id": 1150,
+          "text": "Lothians"
+        },
+        {
+          "id": 1149,
+          "text": "Wiltshire"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "text": "What does the York Minster have?",
+      "explanation": "York Minster had windows of stained glass, telling stories about the Bible and Christian saints.",
+      "computed_correct_option_ids": [
+        1169
+      ],
+      "options": [
+        {
+          "id": 1169,
+          "text": "Stained Glass"
+        },
+        {
+          "id": 1170,
+          "text": "Stained Bricks"
+        },
+        {
+          "id": 1171,
+          "text": "Stained Limestone"
+        },
+        {
+          "id": 1172,
+          "text": "Stained Wood"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "text": "Which was a crucial aerial battle against the Germans?",
+      "explanation": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain'.",
+      "computed_correct_option_ids": [
+        1325
+      ],
+      "options": [
+        {
+          "id": 1327,
+          "text": "The Blitz spirit"
+        },
+        {
+          "id": 1325,
+          "text": "The Battle of Britain"
+        },
+        {
+          "id": 1326,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 1328,
+          "text": "D-Day"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "text": "By which year did the English rule an area around Dublin called the Pale?",
+      "explanation": "At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to help the Irish king and remained to build their own settlements. By 1200, the English ruled an area of Ireland known as the Pale, around Dublin. Some of the important lords in other parts of Ireland accepted the authority of the English king.",
+      "computed_correct_option_ids": [
+        1357
+      ],
+      "options": [
+        {
+          "id": 1359,
+          "text": "1400"
+        },
+        {
+          "id": 1360,
+          "text": "1100"
+        },
+        {
+          "id": 1357,
+          "text": "1200"
+        },
+        {
+          "id": 1358,
+          "text": "1300"
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "text": "Who appoints the members of the Cabinet?",
+      "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments which together form the cabinet.",
+      "computed_correct_option_ids": [
+        1417
+      ],
+      "options": [
+        {
+          "id": 1417,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 1418,
+          "text": "The Monarch"
+        },
+        {
+          "id": 1419,
+          "text": "The Speaker"
+        },
+        {
+          "id": 1420,
+          "text": "The people of the UK"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "text": "When were women given the right to vote at the same age as men?",
+      "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        1455
+      ],
+      "options": [
+        {
+          "id": 1455,
+          "text": "1928"
+        },
+        {
+          "id": 1456,
+          "text": "1969"
+        },
+        {
+          "id": 1453,
+          "text": "1832"
+        },
+        {
+          "id": 1454,
+          "text": "1918"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "text": "Which house won the War of the Roses?",
+      "explanation": "The war ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII.",
+      "computed_correct_option_ids": [
+        1637
+      ],
+      "options": [
+        {
+          "id": 1637,
+          "text": "The House of Lancaster"
+        },
+        {
+          "id": 1639,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 1638,
+          "text": "The House of York"
+        },
+        {
+          "id": 1640,
+          "text": "The House of Lords"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "text": "How often are Elections for the European parliament held?",
+      "explanation": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs).",
+      "computed_correct_option_ids": [
+        1675
+      ],
+      "options": [
+        {
+          "id": 1675,
+          "text": "Every 5 years"
+        },
+        {
+          "id": 1676,
+          "text": "Every 6 years"
+        },
+        {
+          "id": 1674,
+          "text": "Every 4 years"
+        },
+        {
+          "id": 1673,
+          "text": "Every 3 years"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "text": "Which TWO materials did the UK produce more than half of the world in the 19th century?",
+      "explanation": "British industry led the world in the 19th century. The UK produced more than half of the world's iron, coal and cotton cloth.",
+      "computed_correct_option_ids": [
+        1765,
+        1766
+      ],
+      "options": [
+        {
+          "id": 1765,
+          "text": "Cotton Cloth"
+        },
+        {
+          "id": 1768,
+          "text": "Potatoes"
+        },
+        {
+          "id": 1767,
+          "text": "Bronze"
+        },
+        {
+          "id": 1766,
+          "text": "Iron"
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "text": "When was a Turing machine invented?",
+      "explanation": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer.",
+      "computed_correct_option_ids": [
+        1918
+      ],
+      "options": [
+        {
+          "id": 1919,
+          "text": "1950s"
+        },
+        {
+          "id": 1918,
+          "text": "1930s"
+        },
+        {
+          "id": 1917,
+          "text": "1910s"
+        },
+        {
+          "id": 1920,
+          "text": "1970s"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "text": "Queen Elizabeth II was married to Prince Phillip",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        2329
+      ],
+      "options": [
+        {
+          "id": 2329,
+          "text": "True"
+        },
+        {
+          "id": 2330,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "text": "The leader of the Opposition usually becomes Prime Minister if his or her party wins the next General Election",
+      "explanation": "The second-largest party in the House of Commons is called the opposition. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election.",
+      "computed_correct_option_ids": [
+        2351
+      ],
+      "options": [
+        {
+          "id": 2351,
+          "text": "True"
+        },
+        {
+          "id": 2352,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 644,
+      "text": "It is illegal for shops and businesses to not accept the banknotes of Northern Ireland and Scotland",
+      "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        2420
+      ],
+      "options": [
+        {
+          "id": 2419,
+          "text": "True"
+        },
+        {
+          "id": 2420,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 924,
+      "text": "The devolved governments do not have the power to legislate on any issues but can advise and encourage",
+      "explanation": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+      "computed_correct_option_ids": [
+        3373
+      ],
+      "options": [
+        {
+          "id": 3373,
+          "text": "False"
+        },
+        {
+          "id": 3374,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 988,
+      "text": "The anthem 'God save the King/Queen' can only be played in presence of the Monarch",
+      "explanation": "You can play the Anthem in anyone's presence",
+      "computed_correct_option_ids": [
+        3576
+      ],
+      "options": [
+        {
+          "id": 3575,
+          "text": "True"
+        },
+        {
+          "id": 3576,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "text": "What is the Cenotaph associated with?",
+      "explanation": "After the First World War, Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the Queen/King, politicians and foreign ambassadors",
+      "computed_correct_option_ids": [
+        3606
+      ],
+      "options": [
+        {
+          "id": 3608,
+          "text": "Park"
+        },
+        {
+          "id": 3606,
+          "text": "War Memorial"
+        },
+        {
+          "id": 3605,
+          "text": "Government office"
+        },
+        {
+          "id": 3607,
+          "text": "Garden"
+        }
+      ]
+    }
+  ]
+}

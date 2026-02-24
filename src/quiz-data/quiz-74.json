@@ -1,0 +1,624 @@
+{
+  "id": 434,
+  "name": "Life in the UK Test 74",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9901,
+      "text": "Where was William Shakespeare born?",
+      "explanation": "William Shakespeare was born inStratford-upon-Avon.",
+      "computed_correct_option_ids": [
+        10903
+      ],
+      "options": [
+        {
+          "id": 10901,
+          "text": "London"
+        },
+        {
+          "id": 10902,
+          "text": "Liverpool"
+        },
+        {
+          "id": 10903,
+          "text": "Stratford upon Avon"
+        },
+        {
+          "id": 10904,
+          "text": "Newcastle upon Tyne"
+        }
+      ]
+    },
+    {
+      "id": 9902,
+      "text": "Which TWO islands are closely linked to the UK but are not part of it?",
+      "explanation": "The Channel Islands and the Isle of Manare closely linked to the UK but are not part of it.",
+      "computed_correct_option_ids": [
+        10911,
+        10913
+      ],
+      "options": [
+        {
+          "id": 10911,
+          "text": "The Isle of Man"
+        },
+        {
+          "id": 10912,
+          "text": "Malta"
+        },
+        {
+          "id": 10913,
+          "text": "The Channel Islands"
+        },
+        {
+          "id": 10914,
+          "text": "Fiji"
+        }
+      ]
+    },
+    {
+      "id": 9903,
+      "text": "Who gave Henry VIII the son he wanted, Edward?",
+      "explanation": "Jane Seymourgave Henry VIII the son he wanted, Edward.",
+      "computed_correct_option_ids": [
+        10921
+      ],
+      "options": [
+        {
+          "id": 10921,
+          "text": "Jane Seymour"
+        },
+        {
+          "id": 10922,
+          "text": "Catherine of Aragon"
+        },
+        {
+          "id": 10923,
+          "text": "Anne of Cleves"
+        },
+        {
+          "id": 10924,
+          "text": "Catherine Parr"
+        }
+      ]
+    },
+    {
+      "id": 9904,
+      "text": "The Middle Ages or medieval times relate to the time that goes from the period after the Norman Conquest until the year:",
+      "explanation": "The period after the Norman Conquest up until about1485is called the Middle Ages (or the medieval period).",
+      "computed_correct_option_ids": [
+        10932
+      ],
+      "options": [
+        {
+          "id": 10931,
+          "text": "1385"
+        },
+        {
+          "id": 10932,
+          "text": "1485"
+        },
+        {
+          "id": 10933,
+          "text": "1495"
+        },
+        {
+          "id": 10934,
+          "text": "1595"
+        }
+      ]
+    },
+    {
+      "id": 9905,
+      "text": "Who is the heir to the throne of the UK?",
+      "explanation": "The King’s eldest son,Prince William (the Prince of Wales), is the heir to the throne.",
+      "computed_correct_option_ids": [
+        10941
+      ],
+      "options": [
+        {
+          "id": 10941,
+          "text": "Prince William"
+        },
+        {
+          "id": 10942,
+          "text": "Prince Harry"
+        },
+        {
+          "id": 10943,
+          "text": "Prince James"
+        },
+        {
+          "id": 10944,
+          "text": "Prince Philip"
+        }
+      ]
+    },
+    {
+      "id": 9906,
+      "text": "Which flower is associated with Wales?",
+      "explanation": "The daffodilis the flower associated with Wales.",
+      "computed_correct_option_ids": [
+        10951
+      ],
+      "options": [
+        {
+          "id": 10951,
+          "text": "Daffodil"
+        },
+        {
+          "id": 10952,
+          "text": "Rose"
+        },
+        {
+          "id": 10953,
+          "text": "Shamrock"
+        },
+        {
+          "id": 10954,
+          "text": "Thistle"
+        }
+      ]
+    },
+    {
+      "id": 9907,
+      "text": "What was the nickname given to the Scottish poet Robert Burns?",
+      "explanation": "Robert Burns, a Scottish poet, was Known in Scotland as‘The Bard’.",
+      "computed_correct_option_ids": [
+        10962
+      ],
+      "options": [
+        {
+          "id": 10961,
+          "text": "The Great"
+        },
+        {
+          "id": 10962,
+          "text": "The Bard"
+        },
+        {
+          "id": 10963,
+          "text": "The Lover"
+        },
+        {
+          "id": 10964,
+          "text": "The Scottish"
+        }
+      ]
+    },
+    {
+      "id": 9908,
+      "text": "When was Ireland divided into two countries?",
+      "explanation": "In 1921 a peace treaty was signed and in1922Ireland became two countries.",
+      "computed_correct_option_ids": [
+        10972
+      ],
+      "options": [
+        {
+          "id": 10971,
+          "text": "In 1920"
+        },
+        {
+          "id": 10972,
+          "text": "In 1922"
+        },
+        {
+          "id": 10973,
+          "text": "In 1925"
+        },
+        {
+          "id": 10974,
+          "text": "In 1928"
+        }
+      ]
+    },
+    {
+      "id": 9909,
+      "text": "Which of the following is NOT a city of the UK?",
+      "explanation": "Dublinis not a city of the UK.",
+      "computed_correct_option_ids": [
+        10983
+      ],
+      "options": [
+        {
+          "id": 10981,
+          "text": "Belfast"
+        },
+        {
+          "id": 10982,
+          "text": "Newport"
+        },
+        {
+          "id": 10983,
+          "text": "Dublin"
+        },
+        {
+          "id": 10984,
+          "text": "Dundee"
+        }
+      ]
+    },
+    {
+      "id": 9910,
+      "text": "When is Bonfire Night celebrated?",
+      "explanation": "Bonfire Night is celebrated on the5th of November.",
+      "computed_correct_option_ids": [
+        10992
+      ],
+      "options": [
+        {
+          "id": 10991,
+          "text": "5th of September"
+        },
+        {
+          "id": 10992,
+          "text": "5th of November"
+        },
+        {
+          "id": 10993,
+          "text": "15th of September"
+        },
+        {
+          "id": 10994,
+          "text": "15th of November"
+        }
+      ]
+    },
+    {
+      "id": 9911,
+      "text": "What is the name of the event that refers to the 6 June 1944 when Allied Forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II?",
+      "explanation": "‘D-Day’refers to the 6th of June 1944, when allied forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II.",
+      "computed_correct_option_ids": [
+        11001
+      ],
+      "options": [
+        {
+          "id": 11001,
+          "text": "D-Day"
+        },
+        {
+          "id": 11002,
+          "text": "Domesday"
+        },
+        {
+          "id": 11003,
+          "text": "A-Day"
+        },
+        {
+          "id": 11004,
+          "text": "Allies Day"
+        }
+      ]
+    },
+    {
+      "id": 9912,
+      "text": "In the UK, many people continue to visit the countryside for holidays and for leisure activities such as  walking, camping and fishing:",
+      "explanation": "Many people continue to visit the countryside for holidays and for leisure activities such as  walking, camping and fishing.",
+      "computed_correct_option_ids": [
+        11011
+      ],
+      "options": [
+        {
+          "id": 11011,
+          "text": "True"
+        },
+        {
+          "id": 11012,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9913,
+      "text": "What is the name of the building where the Northern Ireland Assembly meet?",
+      "explanation": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly atStormont, in Belfast.",
+      "computed_correct_option_ids": [
+        11024
+      ],
+      "options": [
+        {
+          "id": 11021,
+          "text": "Westminster"
+        },
+        {
+          "id": 11022,
+          "text": "Holyrood"
+        },
+        {
+          "id": 11023,
+          "text": "Senedd"
+        },
+        {
+          "id": 11024,
+          "text": "Stormont"
+        }
+      ]
+    },
+    {
+      "id": 9914,
+      "text": "Which British Prime Minister led the Conservative government from 1979 to 1990?",
+      "explanation": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990.",
+      "computed_correct_option_ids": [
+        11033
+      ],
+      "options": [
+        {
+          "id": 11031,
+          "text": "John Major"
+        },
+        {
+          "id": 11032,
+          "text": "Harold Macmillan"
+        },
+        {
+          "id": 11033,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 11034,
+          "text": "Sir Alec Douglas-Home"
+        }
+      ]
+    },
+    {
+      "id": 9915,
+      "text": "Which of the following civilisations is known for having built roads and public buildings, creating a structure of law and having introduced new plants and animals in Britain?",
+      "explanation": "The Romansremained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.",
+      "computed_correct_option_ids": [
+        11041
+      ],
+      "options": [
+        {
+          "id": 11041,
+          "text": "The Romans"
+        },
+        {
+          "id": 11042,
+          "text": "The Vikings"
+        },
+        {
+          "id": 11043,
+          "text": "The Normans"
+        },
+        {
+          "id": 11044,
+          "text": "The Germans"
+        }
+      ]
+    },
+    {
+      "id": 9916,
+      "text": "How often does the Edinburgh Festival take place?",
+      "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland,every summer.",
+      "computed_correct_option_ids": [
+        11052
+      ],
+      "options": [
+        {
+          "id": 11051,
+          "text": "Every six months"
+        },
+        {
+          "id": 11052,
+          "text": "Every summer"
+        },
+        {
+          "id": 11053,
+          "text": "Every spring"
+        },
+        {
+          "id": 11054,
+          "text": "Every month"
+        }
+      ]
+    },
+    {
+      "id": 9917,
+      "text": "Which of the following countries is NOT a member of the Commonwealth?",
+      "explanation": "Zimbabweis not a member of the Commonwealth.",
+      "computed_correct_option_ids": [
+        11064
+      ],
+      "options": [
+        {
+          "id": 11061,
+          "text": "Uganda"
+        },
+        {
+          "id": 11062,
+          "text": "Ghana"
+        },
+        {
+          "id": 11063,
+          "text": "Malawi"
+        },
+        {
+          "id": 11064,
+          "text": "Zimbabwe"
+        }
+      ]
+    },
+    {
+      "id": 9918,
+      "text": "What marked the beginning of what is called ‘constitutional monarchy’?",
+      "explanation": "The laws passed after the Glorious Revolutionare the beginning of what is called ‘constitutional monarchy’.",
+      "computed_correct_option_ids": [
+        11071
+      ],
+      "options": [
+        {
+          "id": 11071,
+          "text": "The laws passed after the Glorious Revolution"
+        },
+        {
+          "id": 11072,
+          "text": "A speech given by the King"
+        },
+        {
+          "id": 11073,
+          "text": "The emergence of new ideas about politics, philosophy and science"
+        },
+        {
+          "id": 11074,
+          "text": "The development of the Bessemer process"
+        }
+      ]
+    },
+    {
+      "id": 9919,
+      "text": "What name is given to the day that marks the end of the Ramadan, when Muslims have fasted for a month?",
+      "explanation": "Eid a-Fitrcelebrates the end of Ramadan, when Muslims have fasted for a month.",
+      "computed_correct_option_ids": [
+        11082
+      ],
+      "options": [
+        {
+          "id": 11081,
+          "text": "Vaisakhi"
+        },
+        {
+          "id": 11082,
+          "text": "Eid a-Fitr"
+        },
+        {
+          "id": 11083,
+          "text": "Eid ul Adha"
+        },
+        {
+          "id": 11084,
+          "text": "Hanukkah"
+        }
+      ]
+    },
+    {
+      "id": 9920,
+      "text": "Who is the fastest person to have sailed around the world single-handed?",
+      "explanation": "Dame Ellen MacArthuris a yachtswoman and in 2004 became the fastest person to sail around the world single-handed.",
+      "computed_correct_option_ids": [
+        11092
+      ],
+      "options": [
+        {
+          "id": 11091,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 11092,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 11093,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 11094,
+          "text": "Bradley Wiggins"
+        }
+      ]
+    },
+    {
+      "id": 9921,
+      "text": "Who makes the decisions on government policies in the UK?",
+      "explanation": "Decisions on government policies are made bythe Prime Minister and cabinet.",
+      "computed_correct_option_ids": [
+        11103
+      ],
+      "options": [
+        {
+          "id": 11101,
+          "text": "The monarch"
+        },
+        {
+          "id": 11102,
+          "text": "Only the Prime Minister can make the decisions on government policies"
+        },
+        {
+          "id": 11103,
+          "text": "The Prime Minister and the Cabinet"
+        },
+        {
+          "id": 11104,
+          "text": "The monarch and the Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 9922,
+      "text": "Where does the most famous sailing event in the UK take place?",
+      "explanation": "The most famous sailing event in the UK takes place atCowes on the Isle of Wight.",
+      "computed_correct_option_ids": [
+        11112
+      ],
+      "options": [
+        {
+          "id": 11111,
+          "text": "Holyhead, North Wales"
+        },
+        {
+          "id": 11112,
+          "text": "Cowes, The Isle of Wight"
+        },
+        {
+          "id": 11113,
+          "text": "Douglas, The Isle of Man"
+        },
+        {
+          "id": 11114,
+          "text": "Plymouth, England"
+        }
+      ]
+    },
+    {
+      "id": 9923,
+      "text": "How often is the electoral register updated?",
+      "explanation": "The electoral register is updatedevery year in September or October.",
+      "computed_correct_option_ids": [
+        11121
+      ],
+      "options": [
+        {
+          "id": 11121,
+          "text": "Every year"
+        },
+        {
+          "id": 11122,
+          "text": "Every six months"
+        },
+        {
+          "id": 11123,
+          "text": "Every two years"
+        },
+        {
+          "id": 11124,
+          "text": "Every three years"
+        }
+      ]
+    },
+    {
+      "id": 9924,
+      "text": "What do you need to drive a car in the UK?",
+      "explanation": "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.",
+      "computed_correct_option_ids": [
+        11131
+      ],
+      "options": [
+        {
+          "id": 11131,
+          "text": "A driving licence, a valid motor insurance, a MOT certificate and the road tax"
+        },
+        {
+          "id": 11132,
+          "text": "A driving licence and a valid motor insurance only"
+        },
+        {
+          "id": 11133,
+          "text": "A driving licence and a MOT certificate only"
+        },
+        {
+          "id": 11134,
+          "text": "A driving licence only"
+        }
+      ]
+    }
+  ]
+}

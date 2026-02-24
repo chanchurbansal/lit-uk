@@ -1,0 +1,625 @@
+{
+  "id": 429,
+  "name": "Life in the UK Test 69",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9401,
+      "text": "How old was the Queen of Scotland, Mary Stuart, when she became queen?",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was onlya week oldwhen her father died and she became queen.",
+      "computed_correct_option_ids": [
+        10403
+      ],
+      "options": [
+        {
+          "id": 10401,
+          "text": "Two years old"
+        },
+        {
+          "id": 10402,
+          "text": "A month old"
+        },
+        {
+          "id": 10403,
+          "text": "A week old"
+        },
+        {
+          "id": 10404,
+          "text": "5 years old"
+        }
+      ]
+    },
+    {
+      "id": 9402,
+      "text": "Where was the first tennis club founded?",
+      "explanation": "The first tennis club was founded inLeamington Spain 1872.",
+      "computed_correct_option_ids": [
+        10412
+      ],
+      "options": [
+        {
+          "id": 10411,
+          "text": "Brixton"
+        },
+        {
+          "id": 10412,
+          "text": "Leamington Spa"
+        },
+        {
+          "id": 10413,
+          "text": "Haywards Heath"
+        },
+        {
+          "id": 10414,
+          "text": "St Andrews"
+        }
+      ]
+    },
+    {
+      "id": 9403,
+      "text": "Which British playwright invented many common English words and had a great influence on the English language?",
+      "explanation": "William Shakespearehad a great influence on the English language and invented many words that are still common today.",
+      "computed_correct_option_ids": [
+        10421
+      ],
+      "options": [
+        {
+          "id": 10421,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 10422,
+          "text": "Graham Greene"
+        },
+        {
+          "id": 10423,
+          "text": "Dylan Thomas"
+        },
+        {
+          "id": 10424,
+          "text": "Harold Pinter"
+        }
+      ]
+    },
+    {
+      "id": 9404,
+      "text": "In which city is the Northern Ireland Assembly building, also known as Stormont, located?",
+      "explanation": "The Northern Ireland Assembly building is known as Stormont and it is located inBelfast.",
+      "computed_correct_option_ids": [
+        10432
+      ],
+      "options": [
+        {
+          "id": 10431,
+          "text": "London"
+        },
+        {
+          "id": 10432,
+          "text": "Belfast"
+        },
+        {
+          "id": 10433,
+          "text": "Cardiff"
+        },
+        {
+          "id": 10434,
+          "text": "Dublin"
+        }
+      ]
+    },
+    {
+      "id": 9405,
+      "text": "What proportion of the population died as a result of the Black Death in England?",
+      "explanation": "As a result of the Black Death,one third of the population of England diedand a similar proportion in Scotland and Wales.",
+      "computed_correct_option_ids": [
+        10442
+      ],
+      "options": [
+        {
+          "id": 10441,
+          "text": "Half of the population"
+        },
+        {
+          "id": 10442,
+          "text": "One third of the population"
+        },
+        {
+          "id": 10443,
+          "text": "55% of the population"
+        },
+        {
+          "id": 10444,
+          "text": "One quarter of the population"
+        }
+      ]
+    },
+    {
+      "id": 9406,
+      "text": "Which famous poem tells the story of the knights at the court of King Arthur?",
+      "explanation": "Poems which survive from the Middle Ages include Chaucer’s Canterbury Tales and a poem calledSir Gawain and the Green Knight, about one of the knights at the court of King Arthur.",
+      "computed_correct_option_ids": [
+        10453
+      ],
+      "options": [
+        {
+          "id": 10451,
+          "text": "Beowulf"
+        },
+        {
+          "id": 10452,
+          "text": "Paradise Lost"
+        },
+        {
+          "id": 10453,
+          "text": "Sir Gawain and the Green Knight"
+        },
+        {
+          "id": 10454,
+          "text": "King Arthur and his knights"
+        }
+      ]
+    },
+    {
+      "id": 9407,
+      "text": "Which of the following is NOT a fundamental principle of British life?",
+      "explanation": "The fundamental principles of British life include: tolerance of those with different faiths and beliefs, the rule of law, democracy, individual liberty and participation in community life.",
+      "computed_correct_option_ids": [
+        10463
+      ],
+      "options": [
+        {
+          "id": 10461,
+          "text": "Tolerance of those with different faiths and beliefs"
+        },
+        {
+          "id": 10462,
+          "text": "The rule of law"
+        },
+        {
+          "id": 10463,
+          "text": "Autocracy"
+        },
+        {
+          "id": 10464,
+          "text": "Democracy"
+        }
+      ]
+    },
+    {
+      "id": 9408,
+      "text": "Which flower is associated with Northern Ireland?",
+      "explanation": "The shamrockis the flower associated with Northern Ireland.",
+      "computed_correct_option_ids": [
+        10474
+      ],
+      "options": [
+        {
+          "id": 10471,
+          "text": "Daffodil"
+        },
+        {
+          "id": 10472,
+          "text": "Rose"
+        },
+        {
+          "id": 10473,
+          "text": "Thistle"
+        },
+        {
+          "id": 10474,
+          "text": "Shamrock"
+        }
+      ]
+    },
+    {
+      "id": 9409,
+      "text": "The longest distance on the mainland in the UK is from John O’Groats on the north coast of Scotland to a place in the south-west corner of England known as:",
+      "explanation": "The longest distance on the mainland is from John O’Groats on the north coast of Scotland toLand’s Endin the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
+      "computed_correct_option_ids": [
+        10484
+      ],
+      "options": [
+        {
+          "id": 10481,
+          "text": "Land’s Point"
+        },
+        {
+          "id": 10482,
+          "text": "Earth Point"
+        },
+        {
+          "id": 10483,
+          "text": "Eastbourne"
+        },
+        {
+          "id": 10484,
+          "text": "Land’s End"
+        }
+      ]
+    },
+    {
+      "id": 9410,
+      "text": "Who wrote a famous series of poems about a group of people going to Canterbury on a pilgrimage known as ‘The Canterbury Tales’?",
+      "explanation": "In the years leading up to 1400,Geoffrey Chaucerwrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
+      "computed_correct_option_ids": [
+        10492
+      ],
+      "options": [
+        {
+          "id": 10491,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 10492,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 10493,
+          "text": "Jane Austen"
+        },
+        {
+          "id": 10494,
+          "text": "Charles Dickens"
+        }
+      ]
+    },
+    {
+      "id": 9411,
+      "text": "Which of the following categories is recognised at the Laurence Olivier Awards?",
+      "explanation": "The Laurence Olivier Awards recognise achievements in the area oftheatre.",
+      "computed_correct_option_ids": [
+        10502
+      ],
+      "options": [
+        {
+          "id": 10501,
+          "text": "Music"
+        },
+        {
+          "id": 10502,
+          "text": "Theatre"
+        },
+        {
+          "id": 10503,
+          "text": "Sport"
+        },
+        {
+          "id": 10504,
+          "text": "Literature"
+        }
+      ]
+    },
+    {
+      "id": 9412,
+      "text": "In the UK, there is a National Lottery for which draws are made every day.",
+      "explanation": "In the UK, there is a National Lottery for which draws are madeevery week.",
+      "computed_correct_option_ids": [
+        10512
+      ],
+      "options": [
+        {
+          "id": 10511,
+          "text": "True"
+        },
+        {
+          "id": 10512,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9413,
+      "text": "Where is Europe’s longest dry ski slope located?",
+      "explanation": "There are five ski centres in Scotland, as well as Europe’s longest dry ski slopenear Edinburgh.",
+      "computed_correct_option_ids": [
+        10522
+      ],
+      "options": [
+        {
+          "id": 10521,
+          "text": "Near Swansea, in Wales"
+        },
+        {
+          "id": 10522,
+          "text": "Near Edinburgh, in Scotland"
+        },
+        {
+          "id": 10523,
+          "text": "Near Glasgow, in Scotland"
+        },
+        {
+          "id": 10524,
+          "text": "Near Belfast, in Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 9414,
+      "text": "Which TWO of Henry VIII’s wives were accused of taking lovers and executed?",
+      "explanation": "Anne Boleyn and Catherine Howardwere accused of taking lovers and executed.",
+      "computed_correct_option_ids": [
+        10532,
+        10534
+      ],
+      "options": [
+        {
+          "id": 10531,
+          "text": "Anne of Cleves"
+        },
+        {
+          "id": 10532,
+          "text": "Catherine Howard"
+        },
+        {
+          "id": 10533,
+          "text": "Catherine Parr"
+        },
+        {
+          "id": 10534,
+          "text": "Anne Boleyn"
+        }
+      ]
+    },
+    {
+      "id": 9415,
+      "text": "Who is the head of the state in the UK?",
+      "explanation": "King Charles IIIis the head of state in the UK.",
+      "computed_correct_option_ids": [
+        10542
+      ],
+      "options": [
+        {
+          "id": 10541,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 10542,
+          "text": "King Charles III"
+        },
+        {
+          "id": 10543,
+          "text": "Prince William of Wales"
+        },
+        {
+          "id": 10544,
+          "text": "Prince Philip, the Duke of Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 9416,
+      "text": "What was the population of the UK in 1600?",
+      "explanation": "The population of the UK in 1600 wasjust over 4 million people.",
+      "computed_correct_option_ids": [
+        10552
+      ],
+      "options": [
+        {
+          "id": 10551,
+          "text": "Just over 3 million"
+        },
+        {
+          "id": 10552,
+          "text": "Just over 4 million"
+        },
+        {
+          "id": 10553,
+          "text": "Just under 3 million"
+        },
+        {
+          "id": 10554,
+          "text": "Just over 5 million"
+        }
+      ]
+    },
+    {
+      "id": 9417,
+      "text": "What name is given to the 31st of December in Scotland?",
+      "explanation": "In Scotland, 31 December is calledHogmanay.",
+      "computed_correct_option_ids": [
+        10561
+      ],
+      "options": [
+        {
+          "id": 10561,
+          "text": "Hogmanay"
+        },
+        {
+          "id": 10562,
+          "text": "Bonfire Night"
+        },
+        {
+          "id": 10563,
+          "text": "Vaisakhi"
+        },
+        {
+          "id": 10564,
+          "text": "Diwali"
+        }
+      ]
+    },
+    {
+      "id": 9418,
+      "text": "In which of the following languages is the life in the UK test NOT available?",
+      "explanation": "The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic.",
+      "computed_correct_option_ids": [
+        10573
+      ],
+      "options": [
+        {
+          "id": 10571,
+          "text": "English"
+        },
+        {
+          "id": 10572,
+          "text": "Scottish Gaelic"
+        },
+        {
+          "id": 10573,
+          "text": "French"
+        },
+        {
+          "id": 10574,
+          "text": "Welsh"
+        }
+      ]
+    },
+    {
+      "id": 9419,
+      "text": "Which two scientists were successful at cloning the first mammal, Dolly the sheep?",
+      "explanation": "In 1996, two British scientists,Sir Ian Wilmot and Keith Campbell, led a team which was the first to succeed in cloning a mammal, Dolly the sheep.",
+      "computed_correct_option_ids": [
+        10583
+      ],
+      "options": [
+        {
+          "id": 10581,
+          "text": "Sir Frank Whittle and Sir Christopher Cockrell"
+        },
+        {
+          "id": 10582,
+          "text": "Sir Robert Edwards and Patrick Steptoe"
+        },
+        {
+          "id": 10583,
+          "text": "Sir Ian Wilmot and Keith Campbell"
+        },
+        {
+          "id": 10584,
+          "text": "Francis Creek and John Logie Baird"
+        }
+      ]
+    },
+    {
+      "id": 9420,
+      "text": "When is the Sikh Vaisakhi festival celebrated?",
+      "explanation": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated on the14th of Aprileach year with parades, dancing and singing.",
+      "computed_correct_option_ids": [
+        10592
+      ],
+      "options": [
+        {
+          "id": 10591,
+          "text": "14th of February"
+        },
+        {
+          "id": 10592,
+          "text": "14th of April"
+        },
+        {
+          "id": 10593,
+          "text": "30th of March"
+        },
+        {
+          "id": 10594,
+          "text": "30th of April"
+        }
+      ]
+    },
+    {
+      "id": 9421,
+      "text": "Who were the Pre-Raphaelites?",
+      "explanation": "The Pre-Raphaelites werean important group of artists in the second half of the 19th century. They painted detailed pictures on religious or literary themes in bright colours. The group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais.",
+      "computed_correct_option_ids": [
+        10603
+      ],
+      "options": [
+        {
+          "id": 10601,
+          "text": "An important group of musicians from the 16th century"
+        },
+        {
+          "id": 10602,
+          "text": "An important group who demanded the vote for the working classes"
+        },
+        {
+          "id": 10603,
+          "text": "An important group of artists in the second half of the 19th century"
+        },
+        {
+          "id": 10604,
+          "text": "A group of explorers who arrived in the south-east coast of Australia"
+        }
+      ]
+    },
+    {
+      "id": 9422,
+      "text": "When was St Pancras Station built?",
+      "explanation": "St Pancras Station was builtin the 19th century.",
+      "computed_correct_option_ids": [
+        10612
+      ],
+      "options": [
+        {
+          "id": 10611,
+          "text": "In the 18th century"
+        },
+        {
+          "id": 10612,
+          "text": "In the 19th century"
+        },
+        {
+          "id": 10613,
+          "text": "In the 20th century"
+        },
+        {
+          "id": 10614,
+          "text": "In the 21st century"
+        }
+      ]
+    },
+    {
+      "id": 9423,
+      "text": "Members of the Scottish Parliament (MSPs) are elected on the basis of:",
+      "explanation": "Members of the Scottish Parliament (MSPs) are elected by a form ofproportional representation.",
+      "computed_correct_option_ids": [
+        10621
+      ],
+      "options": [
+        {
+          "id": 10621,
+          "text": "Proportional representation"
+        },
+        {
+          "id": 10622,
+          "text": "Personal achievements"
+        },
+        {
+          "id": 10623,
+          "text": "Instant run-off"
+        },
+        {
+          "id": 10624,
+          "text": "First past the post system (the candidate who gets the most votes)"
+        }
+      ]
+    },
+    {
+      "id": 9424,
+      "text": "Which TWO of the following soap operas are popular in the UK?",
+      "explanation": "Popular programmes in the UK include regular soap operas such asCoronation Street and EastEnders.",
+      "computed_correct_option_ids": [
+        10632,
+        10633
+      ],
+      "options": [
+        {
+          "id": 10631,
+          "text": "Braveheart"
+        },
+        {
+          "id": 10632,
+          "text": "Coronation Street"
+        },
+        {
+          "id": 10633,
+          "text": "EastEnders"
+        },
+        {
+          "id": 10634,
+          "text": "Heroes"
+        }
+      ]
+    }
+  ]
+}

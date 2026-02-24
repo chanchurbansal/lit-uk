@@ -1,0 +1,608 @@
+{
+  "id": 428,
+  "name": "Life in the UK Test 68",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9301,
+      "text": "How old do you need to be to buy a lottery ticket or scratch card?",
+      "explanation": "People under18are not allowed to participate in the National Lottery.",
+      "computed_correct_option_ids": [
+        10302
+      ],
+      "options": [
+        {
+          "id": 10301,
+          "text": "16"
+        },
+        {
+          "id": 10302,
+          "text": "18"
+        },
+        {
+          "id": 10303,
+          "text": "21"
+        },
+        {
+          "id": 10304,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 9302,
+      "text": "Where was Catherine of Aragon (the first wife of Henry VIII) from?",
+      "explanation": "Catherine of Aragon was aSpanish princess.",
+      "computed_correct_option_ids": [
+        10311
+      ],
+      "options": [
+        {
+          "id": 10311,
+          "text": "Spain"
+        },
+        {
+          "id": 10312,
+          "text": "Germany"
+        },
+        {
+          "id": 10313,
+          "text": "England"
+        },
+        {
+          "id": 10314,
+          "text": "French"
+        }
+      ]
+    },
+    {
+      "id": 9303,
+      "text": "When did motor-car racing start in the UK?",
+      "explanation": "Motor-car racing in the UK started in1902.",
+      "computed_correct_option_ids": [
+        10323
+      ],
+      "options": [
+        {
+          "id": 10321,
+          "text": "In 1889"
+        },
+        {
+          "id": 10322,
+          "text": "In 1901"
+        },
+        {
+          "id": 10323,
+          "text": "In 1902"
+        },
+        {
+          "id": 10324,
+          "text": "In 1922"
+        }
+      ]
+    },
+    {
+      "id": 9304,
+      "text": "The Commonwealth is based on the core values of democracy, good government and the rule of law:",
+      "explanation": "The Commonwealth is based on the core values of democracy, good government and the rule of law.",
+      "computed_correct_option_ids": [
+        10332
+      ],
+      "options": [
+        {
+          "id": 10331,
+          "text": "True"
+        },
+        {
+          "id": 10332,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9305,
+      "text": "How long does it take to donate blood?",
+      "explanation": "Giving blood only takesabout an hourto do.",
+      "computed_correct_option_ids": [
+        10342
+      ],
+      "options": [
+        {
+          "id": 10341,
+          "text": "About half an hour"
+        },
+        {
+          "id": 10342,
+          "text": "About an hour"
+        },
+        {
+          "id": 10343,
+          "text": "About two hours"
+        },
+        {
+          "id": 10344,
+          "text": "About 15 minutes"
+        }
+      ]
+    },
+    {
+      "id": 9306,
+      "text": "When did the post-war economic boom come to an end?",
+      "explanation": "In the late 1970s, the post-war economic boom came to an end.",
+      "computed_correct_option_ids": [
+        10352
+      ],
+      "options": [
+        {
+          "id": 10351,
+          "text": "In the early 1970s"
+        },
+        {
+          "id": 10352,
+          "text": "In the late 1970s"
+        },
+        {
+          "id": 10353,
+          "text": "In the early 1960s"
+        },
+        {
+          "id": 10354,
+          "text": "In the late 1960s"
+        }
+      ]
+    },
+    {
+      "id": 9307,
+      "text": "During its government, Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers:",
+      "explanation": "Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers.",
+      "computed_correct_option_ids": [
+        10361
+      ],
+      "options": [
+        {
+          "id": 10361,
+          "text": "True"
+        },
+        {
+          "id": 10362,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9308,
+      "text": "Who sat at the House of Commons during the Middle Ages?",
+      "explanation": "In the Middle Ages, Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons.",
+      "computed_correct_option_ids": [
+        10371
+      ],
+      "options": [
+        {
+          "id": 10371,
+          "text": "Knights and wealthy people from towns and cities"
+        },
+        {
+          "id": 10372,
+          "text": "Farmers and blacksmiths"
+        },
+        {
+          "id": 10373,
+          "text": "Great landowners and bishops"
+        },
+        {
+          "id": 10374,
+          "text": "Everyone could sit at the House of Commons"
+        }
+      ]
+    },
+    {
+      "id": 9309,
+      "text": "Which of the following words come from the Anglo-Saxon language?",
+      "explanation": "The words‘Apple’ and ‘summer’are based on Anglo-Saxon words.",
+      "computed_correct_option_ids": [
+        10381
+      ],
+      "options": [
+        {
+          "id": 10381,
+          "text": "Apple and summer"
+        },
+        {
+          "id": 10382,
+          "text": "Music and dance"
+        },
+        {
+          "id": 10383,
+          "text": "Grimsby and scunthorpe"
+        },
+        {
+          "id": 10384,
+          "text": "Canute and boat"
+        }
+      ]
+    },
+    {
+      "id": 9310,
+      "text": "Where do local authorities get funding from (choose TWO answers)?",
+      "explanation": "Local authorities provide a range of services in their areas. They are funded by moneyfrom central government and by local taxes.",
+      "computed_correct_option_ids": [
+        10392,
+        10394
+      ],
+      "options": [
+        {
+          "id": 10391,
+          "text": "The King"
+        },
+        {
+          "id": 10392,
+          "text": "The central government"
+        },
+        {
+          "id": 10393,
+          "text": "Donations made by local residents"
+        },
+        {
+          "id": 10394,
+          "text": "Local taxes"
+        }
+      ]
+    },
+    {
+      "id": 9311,
+      "text": "If you are self-employed:",
+      "explanation": "If you are self-employed,you need to pay your owntax through a system called ‘self-assessment’, which includes completing a tax return.",
+      "computed_correct_option_ids": [
+        10401
+      ],
+      "options": [
+        {
+          "id": 10401,
+          "text": "You need to pay your own tax"
+        },
+        {
+          "id": 10402,
+          "text": "Tax is automatically taken from your earnings by a specialised agency"
+        },
+        {
+          "id": 10403,
+          "text": "You don’t need to pay tax"
+        },
+        {
+          "id": 10404,
+          "text": "You only needed to pay tax on 50% of your earnings"
+        }
+      ]
+    },
+    {
+      "id": 9312,
+      "text": "What name is given to the elected members of the Northern Ireland Assembly?",
+      "explanation": "Members of the Northern Ireland Assembly are known asMLAs(members of the Legislative Assembly).",
+      "computed_correct_option_ids": [
+        10412
+      ],
+      "options": [
+        {
+          "id": 10411,
+          "text": "MSPs"
+        },
+        {
+          "id": 10412,
+          "text": "MLAs"
+        },
+        {
+          "id": 10413,
+          "text": "MPs"
+        },
+        {
+          "id": 10414,
+          "text": "SMs"
+        }
+      ]
+    },
+    {
+      "id": 9313,
+      "text": "How long does the Hanukkah celebration last for?",
+      "explanation": "Hanukkah is in November or December and is celebrated foreight days.",
+      "computed_correct_option_ids": [
+        10421
+      ],
+      "options": [
+        {
+          "id": 10421,
+          "text": "Eight days"
+        },
+        {
+          "id": 10422,
+          "text": "40 days"
+        },
+        {
+          "id": 10423,
+          "text": "Five days"
+        },
+        {
+          "id": 10424,
+          "text": "A fortnight"
+        }
+      ]
+    },
+    {
+      "id": 9314,
+      "text": "Which of the following areas did the British Empire NOT cover during the Victorian period?",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa.",
+      "computed_correct_option_ids": [
+        10431
+      ],
+      "options": [
+        {
+          "id": 10431,
+          "text": "Mexico"
+        },
+        {
+          "id": 10432,
+          "text": "Australia"
+        },
+        {
+          "id": 10433,
+          "text": "India"
+        },
+        {
+          "id": 10434,
+          "text": "Large parts of Africa"
+        }
+      ]
+    },
+    {
+      "id": 9315,
+      "text": "What percentage of the total British population is located in Wales?",
+      "explanation": "The total British population located in Wales isaround 5%.",
+      "computed_correct_option_ids": [
+        10442
+      ],
+      "options": [
+        {
+          "id": 10441,
+          "text": "30%"
+        },
+        {
+          "id": 10442,
+          "text": "5%"
+        },
+        {
+          "id": 10443,
+          "text": "8%"
+        },
+        {
+          "id": 10444,
+          "text": "3%"
+        }
+      ]
+    },
+    {
+      "id": 9316,
+      "text": "Which senior MP is responsible for issues relating to crime, policing and immigration?",
+      "explanation": "The Home Secretaryis responsible for crime, policing and immigration.",
+      "computed_correct_option_ids": [
+        10451
+      ],
+      "options": [
+        {
+          "id": 10451,
+          "text": "The Home Secretary"
+        },
+        {
+          "id": 10452,
+          "text": "The Foreign Secretary"
+        },
+        {
+          "id": 10453,
+          "text": "The Chancellor of the Exchequer"
+        },
+        {
+          "id": 10454,
+          "text": "The Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 9317,
+      "text": "Which British scientist led the development of the atomic bomb?",
+      "explanation": "Scientists led byErnest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+      "computed_correct_option_ids": [
+        10463
+      ],
+      "options": [
+        {
+          "id": 10461,
+          "text": "Howard Florey"
+        },
+        {
+          "id": 10462,
+          "text": "Ernst Chain"
+        },
+        {
+          "id": 10463,
+          "text": "Ernest Rutherford"
+        },
+        {
+          "id": 10464,
+          "text": "Keith Campbell"
+        }
+      ]
+    },
+    {
+      "id": 9318,
+      "text": "Which of the following movies played an important role in boosting morale during the Second World War?",
+      "explanation": "During the Second World War, British movies (for example,In Which We Serve) played an important part in boosting morale.",
+      "computed_correct_option_ids": [
+        10474
+      ],
+      "options": [
+        {
+          "id": 10471,
+          "text": "The Ladykillers"
+        },
+        {
+          "id": 10472,
+          "text": "Carry on"
+        },
+        {
+          "id": 10473,
+          "text": "Passport to Pimlico"
+        },
+        {
+          "id": 10474,
+          "text": "In Which We Serve"
+        }
+      ]
+    },
+    {
+      "id": 9319,
+      "text": "After the Black Death, the growing wealth in the towns led to the development of a strong middle class:",
+      "explanation": "After the Black Death, new social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+      "computed_correct_option_ids": [
+        10481
+      ],
+      "options": [
+        {
+          "id": 10481,
+          "text": "True"
+        },
+        {
+          "id": 10482,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9320,
+      "text": "What was the ability of the Harrier jump jet aircraft?",
+      "explanation": "The Harrier jump jet,an aircraft capable of taking off vertically, was also designed and developed in the UK.",
+      "computed_correct_option_ids": [
+        10492
+      ],
+      "options": [
+        {
+          "id": 10491,
+          "text": "To carry 1,000 passengers"
+        },
+        {
+          "id": 10492,
+          "text": "To take off vertically"
+        },
+        {
+          "id": 10493,
+          "text": "To float on water"
+        },
+        {
+          "id": 10494,
+          "text": "To reach supersonic speeds"
+        }
+      ]
+    },
+    {
+      "id": 9321,
+      "text": "Who won the 2012 Olympic gold medal in heptathlon?",
+      "explanation": "Jessica Ennis(1986-) won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records.",
+      "computed_correct_option_ids": [
+        10502
+      ],
+      "options": [
+        {
+          "id": 10501,
+          "text": "Ellie Simmonds"
+        },
+        {
+          "id": 10502,
+          "text": "Jessica Ennis"
+        },
+        {
+          "id": 10503,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 10504,
+          "text": "Jayne Torvill"
+        }
+      ]
+    },
+    {
+      "id": 9322,
+      "text": "What is the name of the annual cultural Welsh festival which includes music, dance, art and original performances largely in Welsh?",
+      "explanation": "The National Eisteddfod of Walesis an annual cultural festival which includes music, dance, art and original performances largely in Welsh. It includes a number of important competitions for Welsh poetry.",
+      "computed_correct_option_ids": [
+        10512
+      ],
+      "options": [
+        {
+          "id": 10511,
+          "text": "The Arts Festival of Wales"
+        },
+        {
+          "id": 10512,
+          "text": "The National Eisteddfod of Wales"
+        },
+        {
+          "id": 10513,
+          "text": "The Music Festival of Wales"
+        },
+        {
+          "id": 10514,
+          "text": "The National Performance Festival of Wales"
+        }
+      ]
+    },
+    {
+      "id": 9323,
+      "text": "What is the most well-known rugby league (club) competition?",
+      "explanation": "The Super Leagueis the most well-known rugby league (club) competition.",
+      "computed_correct_option_ids": [
+        10524
+      ],
+      "options": [
+        {
+          "id": 10521,
+          "text": "The Grand National"
+        },
+        {
+          "id": 10522,
+          "text": "The All England championship"
+        },
+        {
+          "id": 10523,
+          "text": "The Six Nations championship"
+        },
+        {
+          "id": 10524,
+          "text": "The Super League"
+        }
+      ]
+    },
+    {
+      "id": 9324,
+      "text": "Where do the Laurence Olivier Awards take place?",
+      "explanation": "The Laurence Olivier Awards take place annually at different venues inLondon.",
+      "computed_correct_option_ids": [
+        10531
+      ],
+      "options": [
+        {
+          "id": 10531,
+          "text": "In London"
+        },
+        {
+          "id": 10532,
+          "text": "In Manchester"
+        },
+        {
+          "id": 10533,
+          "text": "In Liverpool"
+        },
+        {
+          "id": 10534,
+          "text": "In Edinburgh"
+        }
+      ]
+    }
+  ]
+}

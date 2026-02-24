@@ -1,0 +1,617 @@
+{
+  "id": 408,
+  "name": "Life in the UK Test 48",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7301,
+      "text": "What is the capital city of Northern Ireland?",
+      "explanation": "The capital city of Northern Ireland isBelfast.",
+      "computed_correct_option_ids": [
+        8301
+      ],
+      "options": [
+        {
+          "id": 8301,
+          "text": "Belfast"
+        },
+        {
+          "id": 8302,
+          "text": "Dublin"
+        },
+        {
+          "id": 8303,
+          "text": "Cork"
+        },
+        {
+          "id": 8304,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 7302,
+      "text": "What name is given to the day when people play jokes on each other until midday?",
+      "explanation": "April Fool’s Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes.",
+      "computed_correct_option_ids": [
+        8312
+      ],
+      "options": [
+        {
+          "id": 8311,
+          "text": "Remembrance Day"
+        },
+        {
+          "id": 8312,
+          "text": "April’s Fool Day"
+        },
+        {
+          "id": 8313,
+          "text": "Halloween"
+        },
+        {
+          "id": 8314,
+          "text": "Valentine’s Day"
+        }
+      ]
+    },
+    {
+      "id": 7303,
+      "text": "Who is the fastest person to have sailed around the world single-handed?",
+      "explanation": "Dame Ellen MacArthur(1976-) is a yachtswoman and in 2004 became the fastest person to sail around the world singlehanded.",
+      "computed_correct_option_ids": [
+        8322
+      ],
+      "options": [
+        {
+          "id": 8321,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 8322,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 8323,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 8324,
+          "text": "Bradley Wiggins"
+        }
+      ]
+    },
+    {
+      "id": 7304,
+      "text": "When did the First World War end?",
+      "explanation": "The First World War ended at 11.00 amon the 11th November 1918with victory for Britain and its allies.",
+      "computed_correct_option_ids": [
+        8332
+      ],
+      "options": [
+        {
+          "id": 8331,
+          "text": "9th of November 1918"
+        },
+        {
+          "id": 8332,
+          "text": "11th of November 1918"
+        },
+        {
+          "id": 8333,
+          "text": "9th of December 1918"
+        },
+        {
+          "id": 8334,
+          "text": "11th of December 1918"
+        }
+      ]
+    },
+    {
+      "id": 7305,
+      "text": "What are Welsh cakes made of?",
+      "explanation": "Welsh cakes are a traditional Welsh snack made fromflour, dried fruits and spices, and served either hot or cold.",
+      "computed_correct_option_ids": [
+        8342
+      ],
+      "options": [
+        {
+          "id": 8341,
+          "text": "Suet, onions and oatmeal"
+        },
+        {
+          "id": 8342,
+          "text": "Flour, dried fruits and spices"
+        },
+        {
+          "id": 8343,
+          "text": "Potatoes, vegetables, Yorkshire puddings"
+        },
+        {
+          "id": 8344,
+          "text": "Bacon, eggs, sausage, black pudding and potato bread"
+        }
+      ]
+    },
+    {
+      "id": 7306,
+      "text": "Where is the London Eye situated?",
+      "explanation": "The London Eye is situatedon the southern bank of the River Thamesand is a Ferris wheel that is 443 feet (135 metres) tall.",
+      "computed_correct_option_ids": [
+        8352
+      ],
+      "options": [
+        {
+          "id": 8351,
+          "text": "On the northern bank of the River Thames"
+        },
+        {
+          "id": 8352,
+          "text": "On the southern bank of the River Thames"
+        },
+        {
+          "id": 8353,
+          "text": "On the northern bank of the River Lea"
+        },
+        {
+          "id": 8354,
+          "text": "On the southern bank of the River Lea"
+        }
+      ]
+    },
+    {
+      "id": 7307,
+      "text": "What is the relationship between the monarch and the government?",
+      "explanation": "The monarch has regular meetings with the Prime Minister and can advise, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet.",
+      "computed_correct_option_ids": [
+        8362
+      ],
+      "options": [
+        {
+          "id": 8361,
+          "text": "Approve the government’s decisions on government policies"
+        },
+        {
+          "id": 8362,
+          "text": "Advise, warn and encourage the government’s decisions"
+        },
+        {
+          "id": 8363,
+          "text": "Advise, encourage and approve the government’s decisions"
+        },
+        {
+          "id": 8364,
+          "text": "Advise and approve the government’s decisions"
+        }
+      ]
+    },
+    {
+      "id": 7308,
+      "text": "The UK is a ‘constitutional monarchy’:",
+      "explanation": "The UK has a constitutional monarchy.",
+      "computed_correct_option_ids": [
+        8371
+      ],
+      "options": [
+        {
+          "id": 8371,
+          "text": "True"
+        },
+        {
+          "id": 8372,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7309,
+      "text": "What do you need to apply to become a permanent resident or citizen of the UK (Choose TWO options)?",
+      "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to speak and read English and have a good understanding of life in the UK.",
+      "computed_correct_option_ids": [
+        8382,
+        8384
+      ],
+      "options": [
+        {
+          "id": 8381,
+          "text": "A British driving licence"
+        },
+        {
+          "id": 8382,
+          "text": "To be able to speak and read English"
+        },
+        {
+          "id": 8383,
+          "text": "A British university degree"
+        },
+        {
+          "id": 8384,
+          "text": "A good understanding of life in the UK"
+        }
+      ]
+    },
+    {
+      "id": 7310,
+      "text": "Which British scientist was awarded a Nobel Prize for discovering the structure of the DNA molecule?",
+      "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime.Francis Crick(1916-2004), one of those awarded the Nobel Prize for this discovery, was British.",
+      "computed_correct_option_ids": [
+        8394
+      ],
+      "options": [
+        {
+          "id": 8391,
+          "text": "Alan Turing"
+        },
+        {
+          "id": 8392,
+          "text": "Sir Frank Whittle"
+        },
+        {
+          "id": 8393,
+          "text": "Sir Christopher Cockrell"
+        },
+        {
+          "id": 8394,
+          "text": "Francis Crick"
+        }
+      ]
+    },
+    {
+      "id": 7311,
+      "text": "Who established the Church of England?",
+      "explanation": "To divorce his first wife,Henry VIIIneeded the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+      "computed_correct_option_ids": [
+        8403
+      ],
+      "options": [
+        {
+          "id": 8401,
+          "text": "King Charles III"
+        },
+        {
+          "id": 8402,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 8403,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 8404,
+          "text": "Elizabeth I"
+        }
+      ]
+    },
+    {
+      "id": 7312,
+      "text": "When does Lent take place?",
+      "explanation": "The40 days before Easterare known as Lent. It is a time when Christians take time to reflect and prepare for Easter.",
+      "computed_correct_option_ids": [
+        8413
+      ],
+      "options": [
+        {
+          "id": 8411,
+          "text": "40 days before Christmas"
+        },
+        {
+          "id": 8412,
+          "text": "40 days after Christmas"
+        },
+        {
+          "id": 8413,
+          "text": "40 days before Easter"
+        },
+        {
+          "id": 8414,
+          "text": "40 days after Easter"
+        }
+      ]
+    },
+    {
+      "id": 7313,
+      "text": "Which of the following national galleries is NOT located in London?",
+      "explanation": "The National Museum is located in Cardiff, Wales.",
+      "computed_correct_option_ids": [
+        8424
+      ],
+      "options": [
+        {
+          "id": 8421,
+          "text": "Tate Britain"
+        },
+        {
+          "id": 8422,
+          "text": "The National Gallery"
+        },
+        {
+          "id": 8423,
+          "text": "Tate Modern"
+        },
+        {
+          "id": 8424,
+          "text": "The National Museum"
+        }
+      ]
+    },
+    {
+      "id": 7314,
+      "text": "How much can you be fined if you watch TV but do not have a TV licence?",
+      "explanation": "You will receive a fineup to £1,000if you watch TV but do not have a TV licence.",
+      "computed_correct_option_ids": [
+        8432
+      ],
+      "options": [
+        {
+          "id": 8431,
+          "text": "Up to £500"
+        },
+        {
+          "id": 8432,
+          "text": "Up to £1000"
+        },
+        {
+          "id": 8433,
+          "text": "Up to £2000"
+        },
+        {
+          "id": 8434,
+          "text": "Up to £3000"
+        }
+      ]
+    },
+    {
+      "id": 7315,
+      "text": "How old is the clock at the Houses of Parliament in London, also known as ‘Big Ben’?",
+      "explanation": "Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over150 years oldand is a popular tourist attraction.",
+      "computed_correct_option_ids": [
+        8442
+      ],
+      "options": [
+        {
+          "id": 8441,
+          "text": "100 years old"
+        },
+        {
+          "id": 8442,
+          "text": "150 years old"
+        },
+        {
+          "id": 8443,
+          "text": "200 years old"
+        },
+        {
+          "id": 8444,
+          "text": "250 years old"
+        }
+      ]
+    },
+    {
+      "id": 7316,
+      "text": "The UK was a full member of the European Union but did not use the Euro currency.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        8451
+      ],
+      "options": [
+        {
+          "id": 8451,
+          "text": "True"
+        },
+        {
+          "id": 8452,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7317,
+      "text": "The North Atlantic Treaty Organisation is a group of European and North American countries that was created with which TWO purposes:",
+      "explanation": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.",
+      "computed_correct_option_ids": [
+        8462,
+        8463
+      ],
+      "options": [
+        {
+          "id": 8461,
+          "text": "Protect and promote human rights in those countries"
+        },
+        {
+          "id": 8462,
+          "text": "Help each other if they come under attack"
+        },
+        {
+          "id": 8463,
+          "text": "Maintain peace between all its members"
+        },
+        {
+          "id": 8464,
+          "text": "Promote free trade amongst those countries"
+        }
+      ]
+    },
+    {
+      "id": 7318,
+      "text": "The small claims procedure is used in England and Wales for minor disputes for:",
+      "explanation": "This procedure is used forclaims of less than £10,000in England and Wales and £3,000 in Scotland and Northern Ireland.",
+      "computed_correct_option_ids": [
+        8474
+      ],
+      "options": [
+        {
+          "id": 8471,
+          "text": "Claims of less than £15,000"
+        },
+        {
+          "id": 8472,
+          "text": "Claims of less than £5,000"
+        },
+        {
+          "id": 8473,
+          "text": "Claims of less than £3,500"
+        },
+        {
+          "id": 8474,
+          "text": "Claims of less than £10,000"
+        }
+      ]
+    },
+    {
+      "id": 7319,
+      "text": "What name is given to the period in the 18th century when new ideas about politics, philosophy and science were developed?",
+      "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’.",
+      "computed_correct_option_ids": [
+        8481
+      ],
+      "options": [
+        {
+          "id": 8481,
+          "text": "The Enlightenment"
+        },
+        {
+          "id": 8482,
+          "text": "The Glorious Revolution"
+        },
+        {
+          "id": 8483,
+          "text": "The Industrial Revolution"
+        },
+        {
+          "id": 8484,
+          "text": "Elizabethan"
+        }
+      ]
+    },
+    {
+      "id": 7320,
+      "text": "What is the meaning of ‘Magna Carta’?",
+      "explanation": "The Magna Carta (which meansthe Great Charter). The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws.",
+      "computed_correct_option_ids": [
+        8492
+      ],
+      "options": [
+        {
+          "id": 8491,
+          "text": "The Big Charter"
+        },
+        {
+          "id": 8492,
+          "text": "The Great Charter"
+        },
+        {
+          "id": 8493,
+          "text": "The King’s Charter"
+        },
+        {
+          "id": 8494,
+          "text": "The Small Charter"
+        }
+      ]
+    },
+    {
+      "id": 7321,
+      "text": "When did the Wars of the Roses end?",
+      "explanation": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485.",
+      "computed_correct_option_ids": [
+        8504
+      ],
+      "options": [
+        {
+          "id": 8501,
+          "text": "1455"
+        },
+        {
+          "id": 8502,
+          "text": "1462"
+        },
+        {
+          "id": 8503,
+          "text": "1478"
+        },
+        {
+          "id": 8504,
+          "text": "1485"
+        }
+      ]
+    },
+    {
+      "id": 7322,
+      "text": "Which of the following is the responsibility of the Chancellor of the Exchequer?",
+      "explanation": "The Chancellor of the Exchequer is responsible for the economy.",
+      "computed_correct_option_ids": [
+        8513
+      ],
+      "options": [
+        {
+          "id": 8511,
+          "text": "Education"
+        },
+        {
+          "id": 8512,
+          "text": "Agriculture"
+        },
+        {
+          "id": 8513,
+          "text": "Economy"
+        },
+        {
+          "id": 8514,
+          "text": "Defence"
+        }
+      ]
+    },
+    {
+      "id": 7323,
+      "text": "In which British university did Isaac Newton study?",
+      "explanation": "Isaac Newton studiedat Cambridge University.",
+      "computed_correct_option_ids": [
+        8522
+      ],
+      "options": [
+        {
+          "id": 8521,
+          "text": "University of Bolton"
+        },
+        {
+          "id": 8522,
+          "text": "University of Cambridge"
+        },
+        {
+          "id": 8523,
+          "text": "Cranfield University"
+        },
+        {
+          "id": 8524,
+          "text": "University of Dundee"
+        }
+      ]
+    },
+    {
+      "id": 7324,
+      "text": "Who invaded England after the Romans?",
+      "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+      "computed_correct_option_ids": [
+        8532
+      ],
+      "options": [
+        {
+          "id": 8531,
+          "text": "The Vikings"
+        },
+        {
+          "id": 8532,
+          "text": "The Anglo-Saxons"
+        },
+        {
+          "id": 8533,
+          "text": "The Normans"
+        },
+        {
+          "id": 8534,
+          "text": "The Scots"
+        }
+      ]
+    }
+  ]
+}

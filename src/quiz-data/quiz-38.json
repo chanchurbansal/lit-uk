@@ -1,0 +1,585 @@
+{
+  "id": 396,
+  "name": "Life in the UK Test 38",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 19,
+      "text": "Which of these is a famous classical music event in the UK?",
+      "explanation": "The Proms is an eight-week summer season of classical music (orchestral or solo instrumental and nowadays may feature non-classical music) that takes place in various venues, including the Royal Albert Hall in London.",
+      "computed_correct_option_ids": [
+        71
+      ],
+      "options": [
+        {
+          "id": 74,
+          "text": "Glastonbury Festival"
+        },
+        {
+          "id": 71,
+          "text": "The Proms"
+        },
+        {
+          "id": 72,
+          "text": "T in the Park"
+        },
+        {
+          "id": 73,
+          "text": "Creamfields"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "When did the Enlightenment happen?",
+      "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called 'the Enlightenment'.",
+      "computed_correct_option_ids": [
+        313
+      ],
+      "options": [
+        {
+          "id": 313,
+          "text": "18th century"
+        },
+        {
+          "id": 314,
+          "text": "18th and 19th century"
+        },
+        {
+          "id": 315,
+          "text": "19th century"
+        },
+        {
+          "id": 316,
+          "text": "19th and 20th century"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "text": "What is the period after the Norman Conquest up until 1485 called?",
+      "explanation": "The period after the Norman Conquest up until about 1485 is called the Middle Ages or the medieval period. It was a time of almost constant war.",
+      "computed_correct_option_ids": [
+        501
+      ],
+      "options": [
+        {
+          "id": 501,
+          "text": "The Middle Ages"
+        },
+        {
+          "id": 504,
+          "text": "The Iron Age"
+        },
+        {
+          "id": 503,
+          "text": "The Bronze Age"
+        },
+        {
+          "id": 502,
+          "text": "The Stone age"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "text": "Which flower is associated with Northern Ireland?",
+      "explanation": "A shamrock is associated with Northern Ireland. A rose is associated with England, a thistle with Scotland and a daffodil with Wales.",
+      "computed_correct_option_ids": [
+        809
+      ],
+      "options": [
+        {
+          "id": 811,
+          "text": "A thistle"
+        },
+        {
+          "id": 809,
+          "text": "A shamrock"
+        },
+        {
+          "id": 810,
+          "text": "A rose"
+        },
+        {
+          "id": 812,
+          "text": "A daffodil"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "text": "Where did the canal builders come from in the middle ages?",
+      "explanation": "People came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland.",
+      "computed_correct_option_ids": [
+        989
+      ],
+      "options": [
+        {
+          "id": 991,
+          "text": "Germany"
+        },
+        {
+          "id": 989,
+          "text": "Holland"
+        },
+        {
+          "id": 992,
+          "text": "Italy"
+        },
+        {
+          "id": 990,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "text": "What percentage of the total population lives in England?",
+      "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+      "computed_correct_option_ids": [
+        1277
+      ],
+      "options": [
+        {
+          "id": 1280,
+          "text": "95%"
+        },
+        {
+          "id": 1277,
+          "text": "84%"
+        },
+        {
+          "id": 1278,
+          "text": "52%"
+        },
+        {
+          "id": 1279,
+          "text": "67%"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "text": "Who wrote music for King George I?",
+      "explanation": "The German-born composer George Frideric Handel (1695-1759) spent many years in the UK and became a British citizen in 1727. He wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II.",
+      "computed_correct_option_ids": [
+        1333
+      ],
+      "options": [
+        {
+          "id": 1334,
+          "text": "Sir William Walton"
+        },
+        {
+          "id": 1333,
+          "text": "George Frederick Handel"
+        },
+        {
+          "id": 1335,
+          "text": "Benjamin Britten"
+        },
+        {
+          "id": 1336,
+          "text": "Sir Edward Elgar"
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "text": "When did Britain recognise the American colonies' independence?",
+      "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
+      "computed_correct_option_ids": [
+        1377
+      ],
+      "options": [
+        {
+          "id": 1380,
+          "text": "1751"
+        },
+        {
+          "id": 1377,
+          "text": "1783"
+        },
+        {
+          "id": 1378,
+          "text": "1776"
+        },
+        {
+          "id": 1379,
+          "text": "1763"
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "text": "Which TWO are located in Scotland?",
+      "explanation": "Loch Lomond and the Edinburgh Castle are located in Scotland.",
+      "computed_correct_option_ids": [
+        1649,
+        1650
+      ],
+      "options": [
+        {
+          "id": 1651,
+          "text": "The Eden Project"
+        },
+        {
+          "id": 1649,
+          "text": "Loch Lomond"
+        },
+        {
+          "id": 1650,
+          "text": "Edinburgh Castle"
+        },
+        {
+          "id": 1652,
+          "text": "The Giant's Causeway"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "text": "How many volunteers is The National Trust run by?",
+      "explanation": "The National Trust was set up by just 3 volunteers. Now over 61,000 people help to run it.",
+      "computed_correct_option_ids": [
+        1664
+      ],
+      "options": [
+        {
+          "id": 1661,
+          "text": "3"
+        },
+        {
+          "id": 1664,
+          "text": "61000"
+        },
+        {
+          "id": 1663,
+          "text": "4500"
+        },
+        {
+          "id": 1662,
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "text": "Many schools organise events to raise money for extra equipment or out-of-school activities",
+      "explanation": "Many schools organise events to raise money for extra equipment or out-of-school activities. Activities might include book sales, toy sales or bringing food to sell.",
+      "computed_correct_option_ids": [
+        1987
+      ],
+      "options": [
+        {
+          "id": 1988,
+          "text": "False"
+        },
+        {
+          "id": 1987,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "text": "Many of the painters working in Britain in the 16th and 17th centuries were from abroad",
+      "explanation": "Many of the painters working in Britain in the 16th and 17th centuries were from abroad - for example, Hans Holbein and Sir Anthony Van Dyck.",
+      "computed_correct_option_ids": [
+        2171
+      ],
+      "options": [
+        {
+          "id": 2171,
+          "text": "True"
+        },
+        {
+          "id": 2172,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "text": "What will happen to any driver who has either taken more than the acceptable quantity of alcohol or refused to take the test?",
+      "explanation": "If you are found driving while exceeding the alcohol limit you will be arrested.",
+      "computed_correct_option_ids": [
+        2245
+      ],
+      "options": [
+        {
+          "id": 2247,
+          "text": "Given a warning"
+        },
+        {
+          "id": 2248,
+          "text": "Asked to provide medical certificate"
+        },
+        {
+          "id": 2246,
+          "text": "Taken to his home"
+        },
+        {
+          "id": 2245,
+          "text": "Arrested"
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "text": "Women over 21 were allowed to vote for the first time in 1969",
+      "explanation": "The voting franchise was also extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+      "computed_correct_option_ids": [
+        2648
+      ],
+      "options": [
+        {
+          "id": 2647,
+          "text": "True"
+        },
+        {
+          "id": 2648,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "text": "Who wrote the Canterbury Tales?",
+      "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage.",
+      "computed_correct_option_ids": [
+        2682
+      ],
+      "options": [
+        {
+          "id": 2683,
+          "text": "John Barbour"
+        },
+        {
+          "id": 2681,
+          "text": "William Caxton"
+        },
+        {
+          "id": 2682,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 2684,
+          "text": "William Walton"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "text": "When did the Wars of the Roses end with the Battle of Bosworth?",
+      "explanation": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485.",
+      "computed_correct_option_ids": [
+        2755
+      ],
+      "options": [
+        {
+          "id": 2757,
+          "text": "1314"
+        },
+        {
+          "id": 2755,
+          "text": "1485"
+        },
+        {
+          "id": 2756,
+          "text": "1455"
+        },
+        {
+          "id": 2758,
+          "text": "1324"
+        }
+      ]
+    },
+    {
+      "id": 854,
+      "text": "What kind of battle was the Battle of Britain (1940)?",
+      "explanation": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane - which were designed and built in Britain.",
+      "computed_correct_option_ids": [
+        3139
+      ],
+      "options": [
+        {
+          "id": 3141,
+          "text": "Border Battle"
+        },
+        {
+          "id": 3142,
+          "text": "All of these"
+        },
+        {
+          "id": 3139,
+          "text": "Air Battle"
+        },
+        {
+          "id": 3140,
+          "text": "Sea Battle"
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "text": "Mince pies are traditionally eaten on which day?",
+      "explanation": "Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
+      "computed_correct_option_ids": [
+        3147
+      ],
+      "options": [
+        {
+          "id": 3150,
+          "text": "Easter"
+        },
+        {
+          "id": 3147,
+          "text": "Christmas"
+        },
+        {
+          "id": 3148,
+          "text": "Halloween"
+        },
+        {
+          "id": 3149,
+          "text": "Diwali"
+        }
+      ]
+    },
+    {
+      "id": 873,
+      "text": "David Hockney was an important contributor to the 'pop art' movement of the 1960s",
+      "explanation": "David Hockney (1937-) was an important contributor to the 'pop art' movement of the 1960s and continues to be influential today.",
+      "computed_correct_option_ids": [
+        3203
+      ],
+      "options": [
+        {
+          "id": 3204,
+          "text": "False"
+        },
+        {
+          "id": 3203,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "text": "Which TWO are notable British artists?",
+      "explanation": "Joseph Turner (1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting. John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk, Essex border in the east of England.",
+      "computed_correct_option_ids": [
+        3243,
+        3244
+      ],
+      "options": [
+        {
+          "id": 3243,
+          "text": "Joseph Turner"
+        },
+        {
+          "id": 3246,
+          "text": "Matthew Harris Jouett"
+        },
+        {
+          "id": 3245,
+          "text": "Rembrandt Peale"
+        },
+        {
+          "id": 3244,
+          "text": "John Constable"
+        }
+      ]
+    },
+    {
+      "id": 927,
+      "text": "What are elected members of the National Assembly of Wales known as?",
+      "explanation": "In Wales the elected members, known as AMs, meet in the Welsh Assembly in the Senedd in Cardiff Bay",
+      "computed_correct_option_ids": [
+        3383
+      ],
+      "options": [
+        {
+          "id": 3383,
+          "text": "AMs"
+        },
+        {
+          "id": 3382,
+          "text": "MEPs"
+        },
+        {
+          "id": 3381,
+          "text": "MPs"
+        },
+        {
+          "id": 3384,
+          "text": "MLAs"
+        }
+      ]
+    },
+    {
+      "id": 963,
+      "text": "In 1745, who was supported by clansmen from the Scottish highlands and raised an army?",
+      "explanation": "In 1745 there was another attempt to put a Stuart king back on the throne in place of George I's son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army. Charles initially had some successes but was defeated by George II's army at the Battle of Culloden in 1746. Charles escaped back to Europe.",
+      "computed_correct_option_ids": [
+        3491
+      ],
+      "options": [
+        {
+          "id": 3493,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 3491,
+          "text": "Bonnie Prince Charlie"
+        },
+        {
+          "id": 3494,
+          "text": "Kenneth MacAlpin"
+        },
+        {
+          "id": 3492,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 973,
+      "text": "Northern Ireland has its own banknotes which are valid everywhere in the UK",
+      "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        3525
+      ],
+      "options": [
+        {
+          "id": 3526,
+          "text": "False"
+        },
+        {
+          "id": 3525,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 977,
+      "text": "Wales and Scotland use a system called 'individual registration'.All those entitled to vote must complete their own registration forms",
+      "explanation": "In Northern Ireland a system called 'individual registration' operates and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
+      "computed_correct_option_ids": [
+        3538
+      ],
+      "options": [
+        {
+          "id": 3538,
+          "text": "False"
+        },
+        {
+          "id": 3537,
+          "text": "Trues"
+        }
+      ]
+    }
+  ]
+}

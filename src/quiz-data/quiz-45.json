@@ -1,0 +1,615 @@
+{
+  "id": 403,
+  "name": "Life in the UK Test 45",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 79,
+      "text": "For how long did England remain a republic?",
+      "explanation": "Britain had been a republic for 11 years.",
+      "computed_correct_option_ids": [
+        309
+      ],
+      "options": [
+        {
+          "id": 309,
+          "text": "11 years"
+        },
+        {
+          "id": 312,
+          "text": "14 years"
+        },
+        {
+          "id": 311,
+          "text": "12 years"
+        },
+        {
+          "id": 310,
+          "text": "10 years"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "text": "Where was one of the Anglo Saxon kings buried with treasure and armour?",
+      "explanation": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth. Scotland and Wales remained free of Anglo Saxon rule.",
+      "computed_correct_option_ids": [
+        405
+      ],
+      "options": [
+        {
+          "id": 408,
+          "text": "Newcastle"
+        },
+        {
+          "id": 407,
+          "text": "Kent"
+        },
+        {
+          "id": 406,
+          "text": "London"
+        },
+        {
+          "id": 405,
+          "text": "Suffolk"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "text": "When did the Glorious Revolution happen?",
+      "explanation": "In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+      "computed_correct_option_ids": [
+        597
+      ],
+      "options": [
+        {
+          "id": 597,
+          "text": "1688"
+        },
+        {
+          "id": 600,
+          "text": "1685"
+        },
+        {
+          "id": 599,
+          "text": "1680"
+        },
+        {
+          "id": 598,
+          "text": "1692"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "text": "Who designed the Cenotaph?",
+      "explanation": "Sir Edwin Lutyens was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall. The Cenotaph is the site of the annual Remembrance Day service attended by the Queen and many others.",
+      "computed_correct_option_ids": [
+        741
+      ],
+      "options": [
+        {
+          "id": 742,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 743,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 744,
+          "text": "Inigo Jones"
+        },
+        {
+          "id": 741,
+          "text": "Sir Edwin Lutyens"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "text": "What service can you use to find a lawyer or a solicitor?",
+      "explanation": "The Citizens Advice Bureau can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society.",
+      "computed_correct_option_ids": [
+        773
+      ],
+      "options": [
+        {
+          "id": 773,
+          "text": "The Citizens Advice Bureau"
+        },
+        {
+          "id": 775,
+          "text": "County Courts"
+        },
+        {
+          "id": 774,
+          "text": "The Police"
+        },
+        {
+          "id": 776,
+          "text": "NSPCC"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "text": "What is the longest distance on the mainland in the UK?",
+      "explanation": "The longest distance on the mainland is from John O'Groats on the north coast of Scotland to Land's End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
+      "computed_correct_option_ids": [
+        1097
+      ],
+      "options": [
+        {
+          "id": 1098,
+          "text": "950 miles"
+        },
+        {
+          "id": 1099,
+          "text": "1400 miles"
+        },
+        {
+          "id": 1100,
+          "text": "1240 miles"
+        },
+        {
+          "id": 1097,
+          "text": "870 miles"
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "text": "Haggis is a traditional food of which country?",
+      "explanation": "Scotland's food is Haggis - a sheep's stomach stuffed with offal, suet, onions and oatmeal.",
+      "computed_correct_option_ids": [
+        1217
+      ],
+      "options": [
+        {
+          "id": 1218,
+          "text": "England"
+        },
+        {
+          "id": 1219,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 1217,
+          "text": "Scotland"
+        },
+        {
+          "id": 1220,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "text": "Who appoints the local Chief Constable?",
+      "explanation": "PCCs (Police and Crime Commissioners) set local police priorities and the local policing budget. They also appoint the Chief Constable.",
+      "computed_correct_option_ids": [
+        1241
+      ],
+      "options": [
+        {
+          "id": 1242,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 1243,
+          "text": "The Monarch"
+        },
+        {
+          "id": 1244,
+          "text": "The Speaker"
+        },
+        {
+          "id": 1241,
+          "text": "Police and Crime Commissioners"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "text": "Who took the title 'King of Ireland'?",
+      "explanation": "Henry VII and Henry VIII had extended English control outside the Pale. Henry VIII took the title 'King of Ireland' and English laws were introduced.",
+      "computed_correct_option_ids": [
+        1740
+      ],
+      "options": [
+        {
+          "id": 1738,
+          "text": "James VI"
+        },
+        {
+          "id": 1739,
+          "text": "Henry VII"
+        },
+        {
+          "id": 1740,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 1737,
+          "text": "Charles II"
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "text": "Who was Robert Burns?",
+      "explanation": "Known in Scotland as 'The Bard', Robert Burns was a Scottish poet. Burns' best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+      "computed_correct_option_ids": [
+        1896
+      ],
+      "options": [
+        {
+          "id": 1895,
+          "text": "English social reformer"
+        },
+        {
+          "id": 1898,
+          "text": "English barber"
+        },
+        {
+          "id": 1897,
+          "text": "Welsh portrait painter"
+        },
+        {
+          "id": 1896,
+          "text": "Scottish poet"
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "text": "The Council of Europe has no power to make laws",
+      "explanation": "The Council of Europe is separate from the EU. It has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.",
+      "computed_correct_option_ids": [
+        2065
+      ],
+      "options": [
+        {
+          "id": 2066,
+          "text": "False"
+        },
+        {
+          "id": 2065,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "text": "Which of the following is correct?",
+      "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+      "computed_correct_option_ids": [
+        2150
+      ],
+      "options": [
+        {
+          "id": 2152,
+          "text": "Northern Ireland makes up 4% of the total population"
+        },
+        {
+          "id": 2149,
+          "text": "England makes up 83% of the total population"
+        },
+        {
+          "id": 2151,
+          "text": "Wales makes up 6% of the total population"
+        },
+        {
+          "id": 2150,
+          "text": "Scotland makes up 8% of the total population"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "text": "What percentage of the UK population lives in England?",
+      "explanation": "England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+      "computed_correct_option_ids": [
+        2244
+      ],
+      "options": [
+        {
+          "id": 2243,
+          "text": "95%"
+        },
+        {
+          "id": 2244,
+          "text": "84%"
+        },
+        {
+          "id": 2241,
+          "text": "71%"
+        },
+        {
+          "id": 2242,
+          "text": "62%"
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "text": "The people of which age made the first coins to be minted in Britain?",
+      "explanation": "The people of the Iron Age had a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings. This marks the beginnings of British history.",
+      "computed_correct_option_ids": [
+        2436
+      ],
+      "options": [
+        {
+          "id": 2436,
+          "text": "Iron Age"
+        },
+        {
+          "id": 2435,
+          "text": "Bronze Age"
+        },
+        {
+          "id": 2438,
+          "text": "Gold Age"
+        },
+        {
+          "id": 2437,
+          "text": "Stone Age"
+        }
+      ]
+    },
+    {
+      "id": 788,
+      "text": "As per 2021 census, what is the percentage of Muslims living in England and Wales?",
+      "explanation": "Islam is the second largest religion in the United Kingdom. The 2021 Census results released so far show a population of 3,868,133 (6.5%) in England and Wales (from a total sampled 60 million). 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 0.5% of people followed another religion and 37% stated not to follow any religion.",
+      "computed_correct_option_ids": [
+        2898
+      ],
+      "options": [
+        {
+          "id": 2897,
+          "text": "1%"
+        },
+        {
+          "id": 2900,
+          "text": "15%"
+        },
+        {
+          "id": 2899,
+          "text": "11%"
+        },
+        {
+          "id": 2898,
+          "text": "6%"
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "text": "Northern Ireland and Scotland have their own banknotes valid everywhere in the UK",
+      "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        3049
+      ],
+      "options": [
+        {
+          "id": 3049,
+          "text": "True"
+        },
+        {
+          "id": 3050,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "text": "Who governs the Church of Scotland?",
+      "explanation": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+      "computed_correct_option_ids": [
+        3051
+      ],
+      "options": [
+        {
+          "id": 3054,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 3051,
+          "text": "Ministers and elders"
+        },
+        {
+          "id": 3052,
+          "text": "The Pope"
+        },
+        {
+          "id": 3053,
+          "text": "Local Authorities"
+        }
+      ]
+    },
+    {
+      "id": 870,
+      "text": "In what year was there a revolution in France which led to a war with Britain?",
+      "explanation": "During the 18th century, Britain fought a number of wars with France. In 1789, there was a revolution in France and the new French government soon declared war on Britain. Napoleon, who became Emperor of France, continued the war.",
+      "computed_correct_option_ids": [
+        3191
+      ],
+      "options": [
+        {
+          "id": 3192,
+          "text": "1679"
+        },
+        {
+          "id": 3194,
+          "text": "1298"
+        },
+        {
+          "id": 3193,
+          "text": "1097"
+        },
+        {
+          "id": 3191,
+          "text": "1789"
+        }
+      ]
+    },
+    {
+      "id": 892,
+      "text": "Which language was spoken by people during the Iron Age?",
+      "explanation": "Most Iron age people were farmers, craft workers or warriors. The language they spoke was part of the Celtic language family.",
+      "computed_correct_option_ids": [
+        3267
+      ],
+      "options": [
+        {
+          "id": 3270,
+          "text": "Norman French"
+        },
+        {
+          "id": 3267,
+          "text": "Celtic"
+        },
+        {
+          "id": 3268,
+          "text": "English"
+        },
+        {
+          "id": 3269,
+          "text": "Anglo-Saxon"
+        }
+      ]
+    },
+    {
+      "id": 917,
+      "text": "What do the Brit Awards celebrate?",
+      "explanation": "The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+      "computed_correct_option_ids": [
+        3351
+      ],
+      "options": [
+        {
+          "id": 3349,
+          "text": "Movies"
+        },
+        {
+          "id": 3352,
+          "text": "Art"
+        },
+        {
+          "id": 3351,
+          "text": "Music"
+        },
+        {
+          "id": 3350,
+          "text": "Theatre"
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "text": "When did the English settlers first begin to colonise the eastern coast of America?",
+      "explanation": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of America. This colonisation, particularly by people who disagreed with the religious views of the next two kings, greatly increased in the next century.",
+      "computed_correct_option_ids": [
+        3691
+      ],
+      "options": [
+        {
+          "id": 3693,
+          "text": "In Diana's time"
+        },
+        {
+          "id": 3691,
+          "text": "In Elizabeth I's time"
+        },
+        {
+          "id": 3694,
+          "text": "In William I's time"
+        },
+        {
+          "id": 3692,
+          "text": "In Mary I's time"
+        }
+      ]
+    },
+    {
+      "id": 1040,
+      "text": "Which of these is a Crown Dependency of the UK and not a part of it?",
+      "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+      "computed_correct_option_ids": [
+        3766
+      ],
+      "options": [
+        {
+          "id": 3768,
+          "text": "St Helena"
+        },
+        {
+          "id": 3766,
+          "text": "Channel Islands"
+        },
+        {
+          "id": 3767,
+          "text": "Falkland Islands"
+        },
+        {
+          "id": 3765,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 1064,
+      "text": "What is the judiciary responsible for?",
+      "explanation": "Judges, who are together called 'the judiciary', are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+      "computed_correct_option_ids": [
+        3853
+      ],
+      "options": [
+        {
+          "id": 3856,
+          "text": "Looking after a jury"
+        },
+        {
+          "id": 3853,
+          "text": "Interpreting the law"
+        },
+        {
+          "id": 3854,
+          "text": "Deciding whether a person is guilty"
+        },
+        {
+          "id": 3855,
+          "text": "Putting people in prison"
+        }
+      ]
+    },
+    {
+      "id": 1079,
+      "text": "Why was Mary known as 'Bloody Mary'?",
+      "explanation": "Mary was a devout Catholic and persecuted Protestants.",
+      "computed_correct_option_ids": [
+        3913
+      ],
+      "options": [
+        {
+          "id": 3916,
+          "text": "She put her sister in prison"
+        },
+        {
+          "id": 3913,
+          "text": "She persecuted Protestants"
+        },
+        {
+          "id": 3914,
+          "text": "She fought in numerous battles"
+        },
+        {
+          "id": 3915,
+          "text": "She killed her father"
+        }
+      ]
+    }
+  ]
+}

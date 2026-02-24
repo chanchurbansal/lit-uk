@@ -1,0 +1,584 @@
+{
+  "id": 390,
+  "name": "Life in the UK Test 32",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 30,
+      "text": "How long did the Romans stay in Britain?",
+      "explanation": "The Romans remained in Britain for 400 years.",
+      "computed_correct_option_ids": [
+        113
+      ],
+      "options": [
+        {
+          "id": 115,
+          "text": "300 years"
+        },
+        {
+          "id": 116,
+          "text": "100 years"
+        },
+        {
+          "id": 113,
+          "text": "400 years"
+        },
+        {
+          "id": 114,
+          "text": "600 years"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "How old is Big Ben?",
+      "explanation": "Big Ben, also known as 'Elizabeth Tower', is over 150 years of age.",
+      "computed_correct_option_ids": [
+        161
+      ],
+      "options": [
+        {
+          "id": 161,
+          "text": "150"
+        },
+        {
+          "id": 164,
+          "text": "220"
+        },
+        {
+          "id": 163,
+          "text": "200"
+        },
+        {
+          "id": 162,
+          "text": "170"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "What must the police officer tell you if you get arrested?",
+      "explanation": "A Police officer will tell you the reason for your arrest and you will be able to seek legal advice.",
+      "computed_correct_option_ids": [
+        173
+      ],
+      "options": [
+        {
+          "id": 176,
+          "text": "Ask about your background"
+        },
+        {
+          "id": 173,
+          "text": "The reason for your arrest"
+        },
+        {
+          "id": 174,
+          "text": "To follow his instructions"
+        },
+        {
+          "id": 175,
+          "text": "To put your arms in the air"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "When did Ireland split into 2 countries?",
+      "explanation": "Ireland became two countries in 1922.",
+      "computed_correct_option_ids": [
+        321
+      ],
+      "options": [
+        {
+          "id": 324,
+          "text": "1949"
+        },
+        {
+          "id": 321,
+          "text": "1922"
+        },
+        {
+          "id": 322,
+          "text": "1925"
+        },
+        {
+          "id": 323,
+          "text": "1934"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "text": "How many member states does the Commonwealth have?",
+      "explanation": "The Monarch (King Charles III) is the ceremonial head of the Commonwealth, which currently has 56 (can change) member states.",
+      "computed_correct_option_ids": [
+        477
+      ],
+      "options": [
+        {
+          "id": 480,
+          "text": "190"
+        },
+        {
+          "id": 478,
+          "text": "27"
+        },
+        {
+          "id": 477,
+          "text": "56"
+        },
+        {
+          "id": 479,
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "text": "When did England win the World Cup?",
+      "explanation": "Bobby Moore (1941-93) captained the English football team that won the World Cup in 1966.",
+      "computed_correct_option_ids": [
+        553
+      ],
+      "options": [
+        {
+          "id": 554,
+          "text": "1970"
+        },
+        {
+          "id": 553,
+          "text": "1966"
+        },
+        {
+          "id": 555,
+          "text": "1962"
+        },
+        {
+          "id": 556,
+          "text": "1974"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "text": "Who led the Labour Government from 2007 to 2010?",
+      "explanation": "Gordon Brown took over as Prime Minister in 2007 and led the Labour Party.",
+      "computed_correct_option_ids": [
+        845
+      ],
+      "options": [
+        {
+          "id": 845,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 848,
+          "text": "David Cameron"
+        },
+        {
+          "id": 847,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 846,
+          "text": "Tony Blair"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "text": "Which Castles are in use to this day?",
+      "explanation": "Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use.",
+      "computed_correct_option_ids": [
+        985
+      ],
+      "options": [
+        {
+          "id": 988,
+          "text": "Edinburgh and Aberdeen"
+        },
+        {
+          "id": 987,
+          "text": "Edinburgh and Dublin"
+        },
+        {
+          "id": 986,
+          "text": "Edinburgh and London"
+        },
+        {
+          "id": 985,
+          "text": "Edinburgh and Windsor"
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "text": "How many National Parks are there in the UK?",
+      "explanation": "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+      "computed_correct_option_ids": [
+        1221
+      ],
+      "options": [
+        {
+          "id": 1222,
+          "text": "12"
+        },
+        {
+          "id": 1221,
+          "text": "15"
+        },
+        {
+          "id": 1223,
+          "text": "10"
+        },
+        {
+          "id": 1224,
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "text": "NATO aims to maintain peace between all of its members",
+      "explanation": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.",
+      "computed_correct_option_ids": [
+        1697
+      ],
+      "options": [
+        {
+          "id": 1698,
+          "text": "False"
+        },
+        {
+          "id": 1697,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "text": "First professional football clubs were formed in the late 19th century",
+      "explanation": "its True. The first professional football clubs were formed in the late 19th century.",
+      "computed_correct_option_ids": [
+        1785
+      ],
+      "options": [
+        {
+          "id": 1785,
+          "text": "True"
+        },
+        {
+          "id": 1786,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "text": "There are 9 National Parks in the UK",
+      "explanation": "The UK has a large network of public footpaths in the countryside. There are also many opportunities for mountain biking, mountaineering and hill walking. There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+      "computed_correct_option_ids": [
+        2076
+      ],
+      "options": [
+        {
+          "id": 2075,
+          "text": "True"
+        },
+        {
+          "id": 2076,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "text": "The Prime Minister is the head of the Commonwealth",
+      "explanation": "The Monarch (King Charles III at the time of writing) is the ceremonial head of the Commonwealth, which currently has 56 member states.",
+      "computed_correct_option_ids": [
+        2260
+      ],
+      "options": [
+        {
+          "id": 2260,
+          "text": "False"
+        },
+        {
+          "id": 2259,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "text": "Who was the Queen of the Iceni? She is still remembered today and there is a statue of her on Westminster Bridge in London",
+      "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the Queen of the Iceni in what is now eastern England.",
+      "computed_correct_option_ids": [
+        2283
+      ],
+      "options": [
+        {
+          "id": 2283,
+          "text": "Boudicca"
+        },
+        {
+          "id": 2284,
+          "text": "Elefieta"
+        },
+        {
+          "id": 2285,
+          "text": "Elizabeth"
+        },
+        {
+          "id": 2286,
+          "text": "Mary"
+        }
+      ]
+    },
+    {
+      "id": 655,
+      "text": "Which of these statements is correct?",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+      "computed_correct_option_ids": [
+        2457
+      ],
+      "options": [
+        {
+          "id": 2457,
+          "text": "During Queen Victoria's reign the British Empire became the largest empire the world has ever seen"
+        },
+        {
+          "id": 2458,
+          "text": "During Queen Elizabeth's reign the British Empire became the largest empire the world has ever seen"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "text": "If you think someone is trying to persuade you to join an extremist or terrorist cause, who should you notify?",
+      "explanation": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local police force.",
+      "computed_correct_option_ids": [
+        2482
+      ],
+      "options": [
+        {
+          "id": 2482,
+          "text": "Police force"
+        },
+        {
+          "id": 2479,
+          "text": "MP"
+        },
+        {
+          "id": 2480,
+          "text": "Church"
+        },
+        {
+          "id": 2481,
+          "text": "Council office"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "text": "How can you look after the environment? (Choose TWO)",
+      "explanation": "It is important to recycle as much of your waste as you can. A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.",
+      "computed_correct_option_ids": [
+        2494,
+        2495
+      ],
+      "options": [
+        {
+          "id": 2493,
+          "text": "Always use your own car"
+        },
+        {
+          "id": 2495,
+          "text": "Shop for products locally as this reduces your carbon footprint"
+        },
+        {
+          "id": 2496,
+          "text": "Shop for fresh products only"
+        },
+        {
+          "id": 2494,
+          "text": "Recycle as much as you can"
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "text": "The Blitz is associated which event?",
+      "explanation": "Despite winning the Battle of Britain, the German air force was able to continue bombing London and other British cities at night-time. This was called the Blitz.",
+      "computed_correct_option_ids": [
+        2626
+      ],
+      "options": [
+        {
+          "id": 2627,
+          "text": "The UK and Germany bombing French cities"
+        },
+        {
+          "id": 2625,
+          "text": "The UK bombing German cities"
+        },
+        {
+          "id": 2626,
+          "text": "Germany bombing British cities"
+        },
+        {
+          "id": 2628,
+          "text": "The UK evacuating troops from Dunkirk"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "text": "In which year was Britain's first woman Prime Minister, Margaret Thatcher, elected to join the parliament of United Kingdom?",
+      "explanation": "Margaret Thatcher was the daughter of a grocer from Grantham in Lincolnshire. She trained as a chemist and lawyer. She was elected as a Conservative MP in 1959 and became a cabinet minister in 1970 as the Secretary of State for Education and Science. In 1975 she was elected as Leader of the Conservative Party and so became Leader of the Opposition.",
+      "computed_correct_option_ids": [
+        2887
+      ],
+      "options": [
+        {
+          "id": 2889,
+          "text": "1979"
+        },
+        {
+          "id": 2890,
+          "text": "1986"
+        },
+        {
+          "id": 2887,
+          "text": "1959"
+        },
+        {
+          "id": 2888,
+          "text": "1949"
+        }
+      ]
+    },
+    {
+      "id": 929,
+      "text": "Civil servants cannot stand for Office",
+      "explanation": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for public Office. There are some exceptions, including: members of the armed forces; civil servants; people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        3389
+      ],
+      "options": [
+        {
+          "id": 3389,
+          "text": "True"
+        },
+        {
+          "id": 3390,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 960,
+      "text": "How often is the electoral register updated?",
+      "explanation": "The electoral register is updated every year in September or October. An electoral registration form is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote.",
+      "computed_correct_option_ids": [
+        3479
+      ],
+      "options": [
+        {
+          "id": 3479,
+          "text": "Yearly"
+        },
+        {
+          "id": 3482,
+          "text": "Daily"
+        },
+        {
+          "id": 3481,
+          "text": "Weekly"
+        },
+        {
+          "id": 3480,
+          "text": "Monthly"
+        }
+      ]
+    },
+    {
+      "id": 991,
+      "text": "Women over 30 were allowed to vote as a result of their contribution towards the war effort. Which war was it?",
+      "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        3587
+      ],
+      "options": [
+        {
+          "id": 3588,
+          "text": "Second World War"
+        },
+        {
+          "id": 3586,
+          "text": "Boer War"
+        },
+        {
+          "id": 3587,
+          "text": "First World War"
+        },
+        {
+          "id": 3585,
+          "text": "Crimean war"
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "text": "Admiral Nelson died in which battle?",
+      "explanation": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle.",
+      "computed_correct_option_ids": [
+        3619
+      ],
+      "options": [
+        {
+          "id": 3622,
+          "text": "Battle of Britain"
+        },
+        {
+          "id": 3619,
+          "text": "Battle of Trafalgar"
+        },
+        {
+          "id": 3620,
+          "text": "Battle of Waterloo"
+        },
+        {
+          "id": 3621,
+          "text": "Battle of Agincourt"
+        }
+      ]
+    },
+    {
+      "id": 1041,
+      "text": "St Augustine led missionaries from Rome, who spread Christianity in the south. Who did he become?",
+      "explanation": "St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury (see the Archbishop of Canterbury and the Church in Britain today).",
+      "computed_correct_option_ids": [
+        3769
+      ],
+      "options": [
+        {
+          "id": 3770,
+          "text": "The first prime minister"
+        },
+        {
+          "id": 3772,
+          "text": "The first Viking invader"
+        },
+        {
+          "id": 3769,
+          "text": "The first Archbishop of Canterbury"
+        },
+        {
+          "id": 3771,
+          "text": "The first King of England"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "id": 399,
+  "name": "Life in the UK Test 41",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 3,
+      "text": "The UK government has used the power to suspend the Northern Ireland Assembly",
+      "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+      "computed_correct_option_ids": [
+        9
+      ],
+      "options": [
+        {
+          "id": 9,
+          "text": "True"
+        },
+        {
+          "id": 10,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Where was Robert Burns from?",
+      "explanation": "Robert Burns is a famous Scottish Poet",
+      "computed_correct_option_ids": [
+        35
+      ],
+      "options": [
+        {
+          "id": 38,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 35,
+          "text": "Scotland"
+        },
+        {
+          "id": 36,
+          "text": "Wales"
+        },
+        {
+          "id": 37,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Where did the engineers come from in the middle ages?",
+      "explanation": "People came to England from abroad to trade and also to work. Engineers came from Germany.",
+      "computed_correct_option_ids": [
+        217
+      ],
+      "options": [
+        {
+          "id": 220,
+          "text": "Holland"
+        },
+        {
+          "id": 217,
+          "text": "Germany"
+        },
+        {
+          "id": 218,
+          "text": "France"
+        },
+        {
+          "id": 219,
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "text": "Which party did Margaret Thatcher belong to?",
+      "explanation": "Margaret Thatcher, Britain's first woman Prime Minister, led the Conservative government from 1979 to 1990.",
+      "computed_correct_option_ids": [
+        537
+      ],
+      "options": [
+        {
+          "id": 539,
+          "text": "Labour"
+        },
+        {
+          "id": 540,
+          "text": "UKIP"
+        },
+        {
+          "id": 537,
+          "text": "Conservative"
+        },
+        {
+          "id": 538,
+          "text": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "text": "Who is a Patron St of Scotland?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        545
+      ],
+      "options": [
+        {
+          "id": 548,
+          "text": "St Patrick"
+        },
+        {
+          "id": 545,
+          "text": "St Andrew"
+        },
+        {
+          "id": 546,
+          "text": "St David"
+        },
+        {
+          "id": 547,
+          "text": "St George"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "text": "Who lost a lot of their power after the Battle of Culloden in 1746?",
+      "explanation": "The clans lost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
+      "computed_correct_option_ids": [
+        701
+      ],
+      "options": [
+        {
+          "id": 704,
+          "text": "The Farmers"
+        },
+        {
+          "id": 701,
+          "text": "The Clans"
+        },
+        {
+          "id": 702,
+          "text": "The King"
+        },
+        {
+          "id": 703,
+          "text": "The Parliament"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "text": "What medal was introduced during the Crimean War?",
+      "explanation": "Queen Victoria introduced the Victoria Cross medal during the Crimean war. It honours acts of valour by soldiers.",
+      "computed_correct_option_ids": [
+        713
+      ],
+      "options": [
+        {
+          "id": 716,
+          "text": "Elizabeth gold"
+        },
+        {
+          "id": 715,
+          "text": "Medal of Honour"
+        },
+        {
+          "id": 714,
+          "text": "The Elizabeth Medal"
+        },
+        {
+          "id": 713,
+          "text": "The Victoria Cross"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "text": "What is the day before Lent called?",
+      "explanation": "The 40 days before Easter are known as Lent. The day before Lent starts is called Shrove Tuesday, or Pancake Day.",
+      "computed_correct_option_ids": [
+        730
+      ],
+      "options": [
+        {
+          "id": 730,
+          "text": "Pancake Day"
+        },
+        {
+          "id": 729,
+          "text": "Easter Monday"
+        },
+        {
+          "id": 732,
+          "text": "Ash Wednesday"
+        },
+        {
+          "id": 731,
+          "text": "Shrove Monday"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "text": "What were the refugees that came from France called?",
+      "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+      "computed_correct_option_ids": [
+        901
+      ],
+      "options": [
+        {
+          "id": 904,
+          "text": "Jacobites"
+        },
+        {
+          "id": 901,
+          "text": "Huguenots"
+        },
+        {
+          "id": 902,
+          "text": "Cavaliers"
+        },
+        {
+          "id": 903,
+          "text": "Roundheads"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "text": "When did the first professional football clubs form?",
+      "explanation": "Football is the UK's most popular sport. It has a long history in the UK and the first professional football clubs were formed in the late 19th century.",
+      "computed_correct_option_ids": [
+        1389
+      ],
+      "options": [
+        {
+          "id": 1389,
+          "text": "19th century"
+        },
+        {
+          "id": 1392,
+          "text": "20th century"
+        },
+        {
+          "id": 1391,
+          "text": "17th century"
+        },
+        {
+          "id": 1390,
+          "text": "18th century"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "text": "What is 'Snowdon'?",
+      "explanation": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+      "computed_correct_option_ids": [
+        1405
+      ],
+      "options": [
+        {
+          "id": 1408,
+          "text": "A castle"
+        },
+        {
+          "id": 1407,
+          "text": "A garden"
+        },
+        {
+          "id": 1406,
+          "text": "A lake"
+        },
+        {
+          "id": 1405,
+          "text": "A mountain"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "text": "Where is the Cenotaph located?",
+      "explanation": "At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+      "computed_correct_option_ids": [
+        1573
+      ],
+      "options": [
+        {
+          "id": 1576,
+          "text": "Derbyshire"
+        },
+        {
+          "id": 1575,
+          "text": "New Delhi"
+        },
+        {
+          "id": 1574,
+          "text": "Dorset"
+        },
+        {
+          "id": 1573,
+          "text": "Whitehall"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "text": "What created The Kingdom of Great Britain in 1707?",
+      "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was agreed in 1707, creating the Kingdom of Great Britain.",
+      "computed_correct_option_ids": [
+        1792
+      ],
+      "options": [
+        {
+          "id": 1793,
+          "text": "The Bill of Rights"
+        },
+        {
+          "id": 1792,
+          "text": "The Act of Union"
+        },
+        {
+          "id": 1794,
+          "text": "The Kingdom Act"
+        },
+        {
+          "id": 1791,
+          "text": "The act of Government of Wales"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "text": "The UN was set up straight after the First World War. It now has over 190 countries as members",
+      "explanation": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+      "computed_correct_option_ids": [
+        1986
+      ],
+      "options": [
+        {
+          "id": 1985,
+          "text": "True"
+        },
+        {
+          "id": 1986,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "text": "When did the First World War end?",
+      "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.",
+      "computed_correct_option_ids": [
+        2031
+      ],
+      "options": [
+        {
+          "id": 2029,
+          "text": "1916"
+        },
+        {
+          "id": 2032,
+          "text": "1919"
+        },
+        {
+          "id": 2031,
+          "text": "1918"
+        },
+        {
+          "id": 2030,
+          "text": "1917"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "text": "Choose TWO examples of a civil law offence",
+      "explanation": "Examples of civil laws are - Housing law: this includes disputes between landlords and tenants over issues such as repairs and eviction; Consumer rights: an example of this is a dispute about faulty goods or services; Employment law: these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace; Debt: people might be taken to court if they owe money to someone.",
+      "computed_correct_option_ids": [
+        2067,
+        2070
+      ],
+      "options": [
+        {
+          "id": 2069,
+          "text": "Theft and assault"
+        },
+        {
+          "id": 2070,
+          "text": "Disputes between landlords and tenants"
+        },
+        {
+          "id": 2068,
+          "text": "Murder, racial crime"
+        },
+        {
+          "id": 2067,
+          "text": "Unfair dismissal or discrimination in the workplace"
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "text": "In what year was Germany comprehensively defeated by the Allies during the WWII?",
+      "explanation": "Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany. The Allies comprehensively defeated Germany in May 1945.",
+      "computed_correct_option_ids": [
+        2202
+      ],
+      "options": [
+        {
+          "id": 2204,
+          "text": "Jun-46"
+        },
+        {
+          "id": 2201,
+          "text": "May-39"
+        },
+        {
+          "id": 2202,
+          "text": "May-45"
+        },
+        {
+          "id": 2203,
+          "text": "Apr-44"
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "text": "By law, radio and television coverage of the political parties must be _____ , so equal time has to be given to rival viewpoints",
+      "explanation": "By law, radio and television coverage of the political parties must be balanced, so equal time has to be given to rival viewpoints.",
+      "computed_correct_option_ids": [
+        2340
+      ],
+      "options": [
+        {
+          "id": 2342,
+          "text": "Classified"
+        },
+        {
+          "id": 2339,
+          "text": "Loyal"
+        },
+        {
+          "id": 2340,
+          "text": "Balanced"
+        },
+        {
+          "id": 2341,
+          "text": "Ethical"
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "text": "Which of these athletes is a Paralympian who won gold medals for swimming?",
+      "explanation": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.",
+      "computed_correct_option_ids": [
+        2732
+      ],
+      "options": [
+        {
+          "id": 2729,
+          "text": "Jessica Ennis"
+        },
+        {
+          "id": 2731,
+          "text": "Baroness Tanni Grey-Thompson"
+        },
+        {
+          "id": 2730,
+          "text": "David Weir"
+        },
+        {
+          "id": 2732,
+          "text": "Ellie Simmonds"
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "text": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait",
+      "explanation": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the Former Republic of Yugoslavia. Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq.",
+      "computed_correct_option_ids": [
+        2795
+      ],
+      "options": [
+        {
+          "id": 2795,
+          "text": "True"
+        },
+        {
+          "id": 2796,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "text": "Which novel is the satirical novelist Evelyn Waugh best known for?",
+      "explanation": "Evelyn Waugh (1903-66) wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited.",
+      "computed_correct_option_ids": [
+        2856
+      ],
+      "options": [
+        {
+          "id": 2856,
+          "text": "Brideshead Revisited"
+        },
+        {
+          "id": 2854,
+          "text": "Romeo and Juliet"
+        },
+        {
+          "id": 2853,
+          "text": "The Harry Potter Series"
+        },
+        {
+          "id": 2855,
+          "text": "Lord of the Rings"
+        }
+      ]
+    },
+    {
+      "id": 951,
+      "text": "Which TWO are major political parties in the UK?",
+      "explanation": "The Conservative Party, the Labour Party, the Liberal Democrats are big political parties",
+      "computed_correct_option_ids": [
+        3455,
+        3457
+      ],
+      "options": [
+        {
+          "id": 3456,
+          "text": "Democrats"
+        },
+        {
+          "id": 3457,
+          "text": "Labour Party"
+        },
+        {
+          "id": 3458,
+          "text": "Republicans"
+        },
+        {
+          "id": 3455,
+          "text": "Conservative Party"
+        }
+      ]
+    },
+    {
+      "id": 964,
+      "text": "Complaints against the Police can only be made by writing to the Police Complaints Commissioner",
+      "explanation": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+      "computed_correct_option_ids": [
+        3495
+      ],
+      "options": [
+        {
+          "id": 3496,
+          "text": "True"
+        },
+        {
+          "id": 3495,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "text": "The UK government hasn't used the power to suspend the Northern Ireland Assembly",
+      "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+      "computed_correct_option_ids": [
+        3677
+      ],
+      "options": [
+        {
+          "id": 3677,
+          "text": "False"
+        },
+        {
+          "id": 3678,
+          "text": "True"
+        }
+      ]
+    }
+  ]
+}

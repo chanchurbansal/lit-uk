@@ -1,0 +1,585 @@
+{
+  "id": 388,
+  "name": "Life in the UK Test 30",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 59,
+      "text": "Who designed the new St Paul Cathedral?",
+      "explanation": "Christopher Wren designed a new St Paul Cathedral after the previous one was destroyed by a great fire in 1666.",
+      "computed_correct_option_ids": [
+        229
+      ],
+      "options": [
+        {
+          "id": 229,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 232,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 231,
+          "text": "Isambard Kingdom Brunel"
+        },
+        {
+          "id": 230,
+          "text": "Samuel Pepys"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Who won two gold medals for running in the 2004 Olympic Games?",
+      "explanation": "Dame Kelly Holmes (1970-) won two gold medals for running in the 2004 Olympic Games.",
+      "computed_correct_option_ids": [
+        265
+      ],
+      "options": [
+        {
+          "id": 266,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 267,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 268,
+          "text": "Christopher Dean"
+        },
+        {
+          "id": 265,
+          "text": "Dame Kelly Holmes"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "text": "What was the purpose of the Corn Laws in 1846?",
+      "explanation": "Corn Laws in 1846 had prevented the import of cheap grain.",
+      "computed_correct_option_ids": [
+        609
+      ],
+      "options": [
+        {
+          "id": 610,
+          "text": "To improve working conditions"
+        },
+        {
+          "id": 609,
+          "text": "To prevent the import of cheap grain"
+        },
+        {
+          "id": 612,
+          "text": "To build railways"
+        },
+        {
+          "id": 611,
+          "text": "To improve transport systems"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "text": "Where did the Vikings come from?",
+      "explanation": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves.",
+      "computed_correct_option_ids": [
+        677
+      ],
+      "options": [
+        {
+          "id": 680,
+          "text": "Norway and Sweden"
+        },
+        {
+          "id": 678,
+          "text": "Spain and France"
+        },
+        {
+          "id": 679,
+          "text": "Austria and Germany"
+        },
+        {
+          "id": 677,
+          "text": "Norway and Denmark"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "text": "Which movement campaigned for the women's rights?",
+      "explanation": "In the late 19th and early 20th centuries, an increasing number of women campaigned and demonstrated for greater rights and, in particular, the right to vote. They formed the women's suffrage movement and became known as 'suffragettes'.",
+      "computed_correct_option_ids": [
+        1089
+      ],
+      "options": [
+        {
+          "id": 1092,
+          "text": "Bishops"
+        },
+        {
+          "id": 1089,
+          "text": "Suffragettes"
+        },
+        {
+          "id": 1090,
+          "text": "Chartists"
+        },
+        {
+          "id": 1091,
+          "text": "Quakers"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "text": "Who became famous in silent movies for his tramp character?",
+      "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood.",
+      "computed_correct_option_ids": [
+        1121
+      ],
+      "options": [
+        {
+          "id": 1124,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 1123,
+          "text": "Sir Francis Drake"
+        },
+        {
+          "id": 1122,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 1121,
+          "text": "Sir Charles Chaplin"
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "text": "What do many theatres in the UK produce at Christmas time?",
+      "explanation": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man.",
+      "computed_correct_option_ids": [
+        1209
+      ],
+      "options": [
+        {
+          "id": 1210,
+          "text": "A music event"
+        },
+        {
+          "id": 1211,
+          "text": "An opera"
+        },
+        {
+          "id": 1212,
+          "text": "A stand up comedy show"
+        },
+        {
+          "id": 1209,
+          "text": "A pantomime"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "text": "What does St Patrick's cross look like?",
+      "explanation": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+      "computed_correct_option_ids": [
+        1904
+      ],
+      "options": [
+        {
+          "id": 1906,
+          "text": "Welsh dragon cross"
+        },
+        {
+          "id": 1903,
+          "text": "A red cross on a white ground"
+        },
+        {
+          "id": 1904,
+          "text": "A diagonal red cross on a white ground"
+        },
+        {
+          "id": 1905,
+          "text": "A diagonal white cross on a blue ground"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "text": "The House of Lords is more independent of the government than the House of Commons",
+      "explanation": "The House of Lords is normally more independent of the government than the House of Commons. It can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose.",
+      "computed_correct_option_ids": [
+        2173
+      ],
+      "options": [
+        {
+          "id": 2173,
+          "text": "True"
+        },
+        {
+          "id": 2174,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "text": "Who should you contact to get your National Insurance number?",
+      "explanation": "You will need to telephone the Department for Work and Pensions (DWP) to arrange to get a National Insurance number.",
+      "computed_correct_option_ids": [
+        2185
+      ],
+      "options": [
+        {
+          "id": 2188,
+          "text": "Your local school"
+        },
+        {
+          "id": 2187,
+          "text": "The Home secretary"
+        },
+        {
+          "id": 2186,
+          "text": "Local government"
+        },
+        {
+          "id": 2185,
+          "text": "DWP (Department for Work and Pensions)"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "text": "What is the name given to the conflict between those wishing for full Irish independence and those wishing to remain loyal to the UK government?",
+      "explanation": "The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as 'the Troubles'.",
+      "computed_correct_option_ids": [
+        2200
+      ],
+      "options": [
+        {
+          "id": 2197,
+          "text": "The Clearances"
+        },
+        {
+          "id": 2200,
+          "text": "The Troubles"
+        },
+        {
+          "id": 2199,
+          "text": "The Problems"
+        },
+        {
+          "id": 2198,
+          "text": "The Great Depression"
+        }
+      ]
+    },
+    {
+      "id": 654,
+      "text": "During the Middle Ages, which TWO wars were fought abroad?",
+      "explanation": "During the Middle Ages, the English kings also fought a number of wars abroad. Many knights took part in the Crusades, in which European Christians fought for control of the Holy Land. English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years).",
+      "computed_correct_option_ids": [
+        2453,
+        2454
+      ],
+      "options": [
+        {
+          "id": 2453,
+          "text": "Crusaders"
+        },
+        {
+          "id": 2454,
+          "text": "Hundred Years War"
+        },
+        {
+          "id": 2456,
+          "text": "Battle of Hastings"
+        },
+        {
+          "id": 2455,
+          "text": "The War of the Roses"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "text": "Which party forms the government?",
+      "explanation": "Most MPs belong to a political party, and the party with the majority of MPs forms the government. If one party does not get a majority, two parties can join together to form a coalition.",
+      "computed_correct_option_ids": [
+        2497
+      ],
+      "options": [
+        {
+          "id": 2497,
+          "text": "The party with the majority of the members of Parliament (MPs)"
+        },
+        {
+          "id": 2499,
+          "text": "The party appointed by the Monarch"
+        },
+        {
+          "id": 2498,
+          "text": "The party with the most votes"
+        },
+        {
+          "id": 2500,
+          "text": "The party which is the most popular"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "text": "Who appoints the government, which most people have chosen in a democratic election?",
+      "explanation": "The monarch does not rule the country but appoints the government, which the people have chosen in a democratic election. The monarch invites the leader of the party with the largest number of MPs, or the leader of a coalition between more than one party, to become the Prime Minister.",
+      "computed_correct_option_ids": [
+        2580
+      ],
+      "options": [
+        {
+          "id": 2582,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 2579,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 2580,
+          "text": "The Monarch"
+        },
+        {
+          "id": 2581,
+          "text": "The Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "text": "Those who don't respect the law should not expect to be allowed to become permanent residents",
+      "explanation": "If you don't respect the law you should not expect to be allowed to settle in the UK",
+      "computed_correct_option_ids": [
+        2597
+      ],
+      "options": [
+        {
+          "id": 2597,
+          "text": "True"
+        },
+        {
+          "id": 2598,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 714,
+      "text": "How often do the PM's questions take place?",
+      "explanation": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. One important opportunity to do this is at Prime Minister's Questions, which takes place every week while Parliament is sitting",
+      "computed_correct_option_ids": [
+        2649
+      ],
+      "options": [
+        {
+          "id": 2651,
+          "text": "Every month"
+        },
+        {
+          "id": 2649,
+          "text": "Every week"
+        },
+        {
+          "id": 2650,
+          "text": "Every day"
+        },
+        {
+          "id": 2652,
+          "text": "Every year"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "text": "The Anglo-Saxons established Christianity when they invaded Britain",
+      "explanation": "The Anglo-Saxons were not Christians when they first came to Britain but, during this period, missionaries came to Britain to preach about Christianity.",
+      "computed_correct_option_ids": [
+        2672
+      ],
+      "options": [
+        {
+          "id": 2672,
+          "text": "False"
+        },
+        {
+          "id": 2671,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "text": "Which of these international events was held in London in 2012?",
+      "explanation": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The Paralympic Games for 2012 were also hosted in London.",
+      "computed_correct_option_ids": [
+        3039
+      ],
+      "options": [
+        {
+          "id": 3040,
+          "text": "EURO 2012"
+        },
+        {
+          "id": 3039,
+          "text": "The Paralympic Games"
+        },
+        {
+          "id": 3038,
+          "text": "The Commonwealth Games"
+        },
+        {
+          "id": 3037,
+          "text": "The World Cup"
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "text": "Pressure groups and lobby groups are organisations which try to influence government policy",
+      "explanation": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics.",
+      "computed_correct_option_ids": [
+        3091
+      ],
+      "options": [
+        {
+          "id": 3091,
+          "text": "True"
+        },
+        {
+          "id": 3092,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 863,
+      "text": "The National Citizen Service provides military training to young people",
+      "explanation": "The National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        3166
+      ],
+      "options": [
+        {
+          "id": 3166,
+          "text": "False"
+        },
+        {
+          "id": 3165,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 935,
+      "text": "The Monarch appoints the members of the Cabinet",
+      "explanation": "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the Cabinet and has control over many important public appointments.",
+      "computed_correct_option_ids": [
+        3406
+      ],
+      "options": [
+        {
+          "id": 3406,
+          "text": "False"
+        },
+        {
+          "id": 3405,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "text": "Which TWO of the athletes are paralympians?",
+      "explanation": "Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games. David Weir (1979-) is a Paralympian who uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.",
+      "computed_correct_option_ids": [
+        3643,
+        3644
+      ],
+      "options": [
+        {
+          "id": 3643,
+          "text": "Ellie Simmonds"
+        },
+        {
+          "id": 3646,
+          "text": "Andy Murray"
+        },
+        {
+          "id": 3645,
+          "text": "Jessica Ennis"
+        },
+        {
+          "id": 3644,
+          "text": "David Weir"
+        }
+      ]
+    },
+    {
+      "id": 1037,
+      "text": "After Cromwell defeated Charles II at Worcester, where did Charles II hide?",
+      "explanation": "The Scots had not agreed to the execution of Charles I and declared his son Charles II to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+      "computed_correct_option_ids": [
+        3753
+      ],
+      "options": [
+        {
+          "id": 3756,
+          "text": "In a house"
+        },
+        {
+          "id": 3755,
+          "text": "In a lake"
+        },
+        {
+          "id": 3754,
+          "text": "In a field"
+        },
+        {
+          "id": 3753,
+          "text": "In an oak tree"
+        }
+      ]
+    },
+    {
+      "id": 1071,
+      "text": "Where does the Scottish Grand National take place?",
+      "explanation": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        3881
+      ],
+      "options": [
+        {
+          "id": 3881,
+          "text": "Ayr"
+        },
+        {
+          "id": 3882,
+          "text": "Aintree"
+        },
+        {
+          "id": 3883,
+          "text": "Berkshire"
+        },
+        {
+          "id": 3884,
+          "text": "The borders"
+        }
+      ]
+    }
+  ]
+}

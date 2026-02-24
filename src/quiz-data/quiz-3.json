@@ -1,0 +1,592 @@
+{
+  "id": 361,
+  "name": "Life in the UK Test 3",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 78,
+      "text": "What did Henry VII do?",
+      "explanation": "Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.",
+      "computed_correct_option_ids": [
+        305
+      ],
+      "options": [
+        {
+          "id": 308,
+          "text": "Broke away from the Church of Rome"
+        },
+        {
+          "id": 305,
+          "text": "Reduced the power of the nobles"
+        },
+        {
+          "id": 306,
+          "text": "Restricted King's power"
+        },
+        {
+          "id": 307,
+          "text": "Increased the power of the nobles"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "text": "Which of these is not a music festival?",
+      "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer. The Fringe (One of the festivals) is a showcase of mainly theatre and comedy performances.",
+      "computed_correct_option_ids": [
+        449
+      ],
+      "options": [
+        {
+          "id": 449,
+          "text": "The Fringe"
+        },
+        {
+          "id": 452,
+          "text": "Creamfields"
+        },
+        {
+          "id": 451,
+          "text": "Glastonbury"
+        },
+        {
+          "id": 450,
+          "text": "V festival"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "text": "Who is responsible for crime and immigration?",
+      "explanation": "Home Secretary is responsible for crime, policing and immigration.",
+      "computed_correct_option_ids": [
+        753
+      ],
+      "options": [
+        {
+          "id": 755,
+          "text": "Foreign Secretary"
+        },
+        {
+          "id": 753,
+          "text": "Home Secretary"
+        },
+        {
+          "id": 754,
+          "text": "Chancellor of the Exchequer"
+        },
+        {
+          "id": 756,
+          "text": "Secretary of State"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "text": "When did the English civil war begin?",
+      "explanation": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        1467
+      ],
+      "options": [
+        {
+          "id": 1468,
+          "text": "1646"
+        },
+        {
+          "id": 1465,
+          "text": "1640"
+        },
+        {
+          "id": 1466,
+          "text": "1641"
+        },
+        {
+          "id": 1467,
+          "text": "1642"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "text": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+      "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+      "computed_correct_option_ids": [
+        1731
+      ],
+      "options": [
+        {
+          "id": 1731,
+          "text": "True"
+        },
+        {
+          "id": 1732,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "text": "When were the Anglo-Saxon kingdoms established in England?",
+      "explanation": "By about AD 600, Anglo-Saxon kingdoms were established in Britain. These kingdoms were mainly in what is now England.",
+      "computed_correct_option_ids": [
+        1878
+      ],
+      "options": [
+        {
+          "id": 1876,
+          "text": "By AD 500"
+        },
+        {
+          "id": 1877,
+          "text": "By AD 550"
+        },
+        {
+          "id": 1878,
+          "text": "By AD 600"
+        },
+        {
+          "id": 1875,
+          "text": "By AD 410"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "text": "The Scottish Parliament (after the Magna Carta was established in England) was split into two estates: the Lords and the Commons",
+      "explanation": "In England, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons. Only a small part of the population was able to join in electing the members of the Commons. In Scotland, the parliament had three Houses, called Estates: the Lords, the Commons and the Clergy.",
+      "computed_correct_option_ids": [
+        1890
+      ],
+      "options": [
+        {
+          "id": 1890,
+          "text": "False"
+        },
+        {
+          "id": 1889,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "text": "What is the Shadow Cabinet?",
+      "explanation": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. The leader of the opposition also appoints senior opposition MPs to be 'shadow ministers'. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+      "computed_correct_option_ids": [
+        2103
+      ],
+      "options": [
+        {
+          "id": 2105,
+          "text": "The cabinet that is in trouble"
+        },
+        {
+          "id": 2104,
+          "text": "The cabinet where the Prime Minister had to resign"
+        },
+        {
+          "id": 2103,
+          "text": "Senior members of the main opposition party who 'shadow' Government ministers in different departments"
+        },
+        {
+          "id": 2106,
+          "text": "The name of the office of the Leader of the Opposition in the Parliament"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "text": "Who wrote about their experiences in the First World War?",
+      "explanation": "Wilfred Owen and Siegfried Sassoon - were inspired to write about their experiences in the First World War.",
+      "computed_correct_option_ids": [
+        2145
+      ],
+      "options": [
+        {
+          "id": 2147,
+          "text": "Lord Byron and John Masefield"
+        },
+        {
+          "id": 2148,
+          "text": "Wilfred Owen and William Blake"
+        },
+        {
+          "id": 2146,
+          "text": "Elizabeth and Robert Browning"
+        },
+        {
+          "id": 2145,
+          "text": "Wilfred Owen and Siegfried Sassoon"
+        }
+      ]
+    },
+    {
+      "id": 643,
+      "text": "Discrimination in the workplace is a criminal offence",
+      "explanation": "An example of civil laws are disputes over wages and cases of unfair dismissal or discrimination in the workplace.",
+      "computed_correct_option_ids": [
+        2418
+      ],
+      "options": [
+        {
+          "id": 2417,
+          "text": "True"
+        },
+        {
+          "id": 2418,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "text": "What is the Giant's Causeway made of?",
+      "explanation": "Located on the north-east coast of Northern Ireland, the Giant's Causeway is a land formation of columns made from volcanic lava. It was formed about 50 million years ago. There are many legends about the Causeway and how it was formed.",
+      "computed_correct_option_ids": [
+        2540
+      ],
+      "options": [
+        {
+          "id": 2540,
+          "text": "Volcanic Lava"
+        },
+        {
+          "id": 2539,
+          "text": "Bronze"
+        },
+        {
+          "id": 2538,
+          "text": "Iron"
+        },
+        {
+          "id": 2537,
+          "text": "Stone"
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "text": "Conditions in Ireland in the 19th century were much better than in the rest of the UK",
+      "explanation": "Conditions in Ireland were not as good as in the rest of the UK. Two-thirds of the population still depended on farming to make their living, often on very small plots of land. Many depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+      "computed_correct_option_ids": [
+        2624
+      ],
+      "options": [
+        {
+          "id": 2623,
+          "text": "True"
+        },
+        {
+          "id": 2624,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "text": "Radar was developed by Scotsman Sir Robert Watson-Watt",
+      "explanation": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+      "computed_correct_option_ids": [
+        2645
+      ],
+      "options": [
+        {
+          "id": 2645,
+          "text": "True"
+        },
+        {
+          "id": 2646,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 729,
+      "text": "When did the BBC begin the world's first regular TV service?",
+      "explanation": "The BBC started radio broadcasts in 1922 and began the world's first regular television service in 1936.",
+      "computed_correct_option_ids": [
+        2701
+      ],
+      "options": [
+        {
+          "id": 2699,
+          "text": "1921"
+        },
+        {
+          "id": 2700,
+          "text": "1922"
+        },
+        {
+          "id": 2701,
+          "text": "1936"
+        },
+        {
+          "id": 2702,
+          "text": "1938"
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "text": "Satirical magazines began to be published in the 19th century. When was 'Punch' first published?",
+      "explanation": "Punch' was published for the first time in the 1840s",
+      "computed_correct_option_ids": [
+        2705
+      ],
+      "options": [
+        {
+          "id": 2703,
+          "text": "1810s"
+        },
+        {
+          "id": 2704,
+          "text": "1870s"
+        },
+        {
+          "id": 2706,
+          "text": "1890s"
+        },
+        {
+          "id": 2705,
+          "text": "1840s"
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "text": "What destroyed London in year 1666?",
+      "explanation": "During Charles II's reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul's Cathedral.",
+      "computed_correct_option_ids": [
+        2767
+      ],
+      "options": [
+        {
+          "id": 2770,
+          "text": "Nuclear Plant"
+        },
+        {
+          "id": 2767,
+          "text": "Fire"
+        },
+        {
+          "id": 2768,
+          "text": "Water"
+        },
+        {
+          "id": 2769,
+          "text": "Plague"
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "text": "Other than London universities, which university was credited with the discovery of the DNA molecule in 1953?",
+      "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916-2004), one of those awarded the Nobel Prize for this discovery, was British.",
+      "computed_correct_option_ids": [
+        2850
+      ],
+      "options": [
+        {
+          "id": 2850,
+          "text": "Cambridge"
+        },
+        {
+          "id": 2851,
+          "text": "Oxford"
+        },
+        {
+          "id": 2849,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 2852,
+          "text": "Aberdeen"
+        }
+      ]
+    },
+    {
+      "id": 811,
+      "text": "During the reigns of Elizabeth I and James I, where did the English government encourage Scottish and English Protestants to settle?",
+      "explanation": "During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in Ulster, the northern province of Ireland, taking over the land from Catholic landholders. These settlements were known as plantations.",
+      "computed_correct_option_ids": [
+        2983
+      ],
+      "options": [
+        {
+          "id": 2982,
+          "text": "Cardiff"
+        },
+        {
+          "id": 2981,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 2984,
+          "text": "East London"
+        },
+        {
+          "id": 2983,
+          "text": "Ulster"
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "text": "Which architectural style are the famous London buildings of the 19th century, such as the House of Parliament and St Pancras Station, associated with?",
+      "explanation": "In the 19th century, the medieval 'gothic' style became popular again. As cities expanded, many great public buildings were built in this style. The Houses of Parliament and St Pancras Station were built at this time, as were the town halls in cities such as Manchester and Sheffield.",
+      "computed_correct_option_ids": [
+        3013
+      ],
+      "options": [
+        {
+          "id": 3013,
+          "text": "Gothic"
+        },
+        {
+          "id": 3014,
+          "text": "Indian"
+        },
+        {
+          "id": 3012,
+          "text": "Catholic"
+        },
+        {
+          "id": 3011,
+          "text": "Roman"
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "text": "What can the Laws made by the EU also be called?",
+      "explanation": "EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.",
+      "computed_correct_option_ids": [
+        3078
+      ],
+      "options": [
+        {
+          "id": 3077,
+          "text": "Framework Decisions"
+        },
+        {
+          "id": 3075,
+          "text": "Regulations"
+        },
+        {
+          "id": 3076,
+          "text": "Directives"
+        },
+        {
+          "id": 3078,
+          "text": "All of these"
+        }
+      ]
+    },
+    {
+      "id": 868,
+      "text": "Which TWO things happened when Mary Stuart's husband got murdered?",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen. Much of her childhood was spent in France. When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I's cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+      "computed_correct_option_ids": [
+        3184,
+        3185
+      ],
+      "options": [
+        {
+          "id": 3186,
+          "text": "She fled to France"
+        },
+        {
+          "id": 3183,
+          "text": "She gave her throne to Elizabeth I"
+        },
+        {
+          "id": 3184,
+          "text": "She was suspected of involvement in the murder"
+        },
+        {
+          "id": 3185,
+          "text": "She asked Elizabeth I for help"
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "text": "Whom did the serfs serve?",
+      "explanation": "The Normans used a system of land ownership known as feudalism. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army. Some peasants had their own land but most were serfs.",
+      "computed_correct_option_ids": [
+        3695
+      ],
+      "options": [
+        {
+          "id": 3697,
+          "text": "Slaves"
+        },
+        {
+          "id": 3698,
+          "text": "Knights"
+        },
+        {
+          "id": 3696,
+          "text": "Peasants"
+        },
+        {
+          "id": 3695,
+          "text": "Lords"
+        }
+      ]
+    },
+    {
+      "id": 1055,
+      "text": "The Victoria Cross medal was introduced during which war?",
+      "explanation": "Queen Victoria introduced the Victoria Cross medal during the Crimean war. It honours acts of valour by soldiers.",
+      "computed_correct_option_ids": [
+        3819
+      ],
+      "options": [
+        {
+          "id": 3817,
+          "text": "The First World War"
+        },
+        {
+          "id": 3820,
+          "text": "The Hundred Years War"
+        },
+        {
+          "id": 3819,
+          "text": "The Crimean War"
+        },
+        {
+          "id": 3818,
+          "text": "The Second World War"
+        }
+      ]
+    },
+    {
+      "id": 1073,
+      "text": "What is the 'Divine Right of Kings?",
+      "explanation": "Divine Right of Kings' is the idea that the king was directly appointed by God to rule. The king should be able to act without having to seek approval from Parliament.",
+      "computed_correct_option_ids": [
+        3889
+      ],
+      "options": [
+        {
+          "id": 3892,
+          "text": "Increased power of the parliament"
+        },
+        {
+          "id": 3889,
+          "text": "The King was Appointed by God"
+        },
+        {
+          "id": 3890,
+          "text": "Reduced the power of the nobles"
+        },
+        {
+          "id": 3891,
+          "text": "Reduced the power of the King"
+        }
+      ]
+    }
+  ]
+}

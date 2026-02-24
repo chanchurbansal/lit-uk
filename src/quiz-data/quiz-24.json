@@ -1,0 +1,593 @@
+{
+  "id": 382,
+  "name": "Life in the UK Test 24",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which TWO are British Overseas territories?",
+      "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+      "computed_correct_option_ids": [
+        1,
+        2
+      ],
+      "options": [
+        {
+          "id": 4,
+          "text": "Hawaii"
+        },
+        {
+          "id": 3,
+          "text": "Ireland"
+        },
+        {
+          "id": 2,
+          "text": "St Helena"
+        },
+        {
+          "id": 1,
+          "text": "The Falkland Islands"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Which flag has a white cross on a blue background?",
+      "explanation": "Scottish flag has a white cross on a blue background because St Andrew was the Patron Saint of Scotland.",
+      "computed_correct_option_ids": [
+        40
+      ],
+      "options": [
+        {
+          "id": 41,
+          "text": "English"
+        },
+        {
+          "id": 39,
+          "text": "Irish"
+        },
+        {
+          "id": 42,
+          "text": "Welsh"
+        },
+        {
+          "id": 40,
+          "text": "Scottish"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Where does the Fringe take place?",
+      "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer. The most well-known is the Edinburgh Festival Fringe, also known as the Fringe.",
+      "computed_correct_option_ids": [
+        149
+      ],
+      "options": [
+        {
+          "id": 151,
+          "text": "Liverpool"
+        },
+        {
+          "id": 149,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 150,
+          "text": "London"
+        },
+        {
+          "id": 152,
+          "text": "Newcastle"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "When did the Roman army leave Britain?",
+      "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned.",
+      "computed_correct_option_ids": [
+        205
+      ],
+      "options": [
+        {
+          "id": 207,
+          "text": "AD 43"
+        },
+        {
+          "id": 205,
+          "text": "AD 410"
+        },
+        {
+          "id": 206,
+          "text": "AD 630"
+        },
+        {
+          "id": 208,
+          "text": "AD 100"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "text": "What helped the progress of the industrial revolution?",
+      "explanation": "Scientific discoveries, such as James Watt's work on steam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        421
+      ],
+      "options": [
+        {
+          "id": 423,
+          "text": "Human Nature ideas"
+        },
+        {
+          "id": 424,
+          "text": "New Economics ideas"
+        },
+        {
+          "id": 422,
+          "text": "New Political Ideas"
+        },
+        {
+          "id": 421,
+          "text": "Steam Power"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "text": "What was the estimated population of the British Empire?",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+      "computed_correct_option_ids": [
+        525
+      ],
+      "options": [
+        {
+          "id": 525,
+          "text": "400 million"
+        },
+        {
+          "id": 526,
+          "text": "350 million"
+        },
+        {
+          "id": 527,
+          "text": "300 million"
+        },
+        {
+          "id": 528,
+          "text": "250 million"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "text": "How many times did Sir Jackie Stewart win the Formula 1 championship?",
+      "explanation": "Sir Jackie Stewart (1939-) is a Scottish former racing driver who won the Formula 1 world championship three times.",
+      "computed_correct_option_ids": [
+        1033
+      ],
+      "options": [
+        {
+          "id": 1033,
+          "text": "3"
+        },
+        {
+          "id": 1036,
+          "text": "4"
+        },
+        {
+          "id": 1034,
+          "text": "2"
+        },
+        {
+          "id": 1035,
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "text": "Who was R. A. Butler?",
+      "explanation": "Richard Austen Butler (later Lord Butler) was born in 1902. He became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941.",
+      "computed_correct_option_ids": [
+        1329
+      ],
+      "options": [
+        {
+          "id": 1329,
+          "text": "A Conservative MP"
+        },
+        {
+          "id": 1330,
+          "text": "A Poet"
+        },
+        {
+          "id": 1331,
+          "text": "Minister of Health"
+        },
+        {
+          "id": 1332,
+          "text": "An Economist"
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "text": "What county is 'Maiden Castle' in?",
+      "explanation": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+      "computed_correct_option_ids": [
+        1345
+      ],
+      "options": [
+        {
+          "id": 1348,
+          "text": "Berkshire"
+        },
+        {
+          "id": 1347,
+          "text": "Lothians"
+        },
+        {
+          "id": 1346,
+          "text": "Wiltshire"
+        },
+        {
+          "id": 1345,
+          "text": "Dorset"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "text": "What country did Britain fight against during the Crimean War?",
+      "explanation": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War. It was the first war to be extensively covered by the media through news stories and photographs. Many soldiers died from illnesses they caught in the hospitals, rather than from war wounds. Queen Victoria introduced the Victoria Cross medal during this war.",
+      "computed_correct_option_ids": [
+        1451
+      ],
+      "options": [
+        {
+          "id": 1452,
+          "text": "France"
+        },
+        {
+          "id": 1451,
+          "text": "Russia"
+        },
+        {
+          "id": 1450,
+          "text": "India"
+        },
+        {
+          "id": 1449,
+          "text": "Turkey"
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "text": "The Medieval Period is referred to the period after the Norman Conquest up until what year?",
+      "explanation": "The period after the Norman Conquest up until about 1485 is called the Middle Ages (or the medieval period). It was a time of almost constant war.",
+      "computed_correct_option_ids": [
+        1543
+      ],
+      "options": [
+        {
+          "id": 1544,
+          "text": "1400"
+        },
+        {
+          "id": 1541,
+          "text": "1385"
+        },
+        {
+          "id": 1542,
+          "text": "1455"
+        },
+        {
+          "id": 1543,
+          "text": "1485"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "text": "In Northern Ireland, minor cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.",
+      "computed_correct_option_ids": [
+        1995
+      ],
+      "options": [
+        {
+          "id": 1995,
+          "text": "True"
+        },
+        {
+          "id": 1996,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 639,
+      "text": "How long does it take to give blood?",
+      "explanation": "Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do.",
+      "computed_correct_option_ids": [
+        2407
+      ],
+      "options": [
+        {
+          "id": 2408,
+          "text": "About 3 hours"
+        },
+        {
+          "id": 2405,
+          "text": "About 10 mins"
+        },
+        {
+          "id": 2406,
+          "text": "About 20 mins"
+        },
+        {
+          "id": 2407,
+          "text": "About 1 hour"
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "text": "Falkland Islands are a Crown Dependency",
+      "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+      "computed_correct_option_ids": [
+        2434
+      ],
+      "options": [
+        {
+          "id": 2433,
+          "text": "True"
+        },
+        {
+          "id": 2434,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "text": "Which of these statements is incorrect?",
+      "explanation": "Owing money is a civil offence",
+      "computed_correct_option_ids": [
+        2564
+      ],
+      "options": [
+        {
+          "id": 2561,
+          "text": "Selling or buying drugs such as heroin is illegal in the UK"
+        },
+        {
+          "id": 2562,
+          "text": "It's a criminal offence to offend one's religion or ethnic origin"
+        },
+        {
+          "id": 2563,
+          "text": "It's a criminal offence to carry a weapon of any kind"
+        },
+        {
+          "id": 2564,
+          "text": "It's a criminal offence to owe someone money"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "text": "Which TWO countries took part in the development of Concorde?",
+      "explanation": "The 1960s was also a time of technological progress. Britain and France developed the world's only supersonic commercial airliner, Concorde. New styles of architecture, including high-rise buildings and the use of concrete and steel, became common.",
+      "computed_correct_option_ids": [
+        2657,
+        2660
+      ],
+      "options": [
+        {
+          "id": 2657,
+          "text": "UK"
+        },
+        {
+          "id": 2660,
+          "text": "France"
+        },
+        {
+          "id": 2659,
+          "text": "Russia"
+        },
+        {
+          "id": 2658,
+          "text": "USA"
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "text": "Which of the following statements is correct?",
+      "explanation": "The king's army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+      "computed_correct_option_ids": [
+        2954
+      ],
+      "options": [
+        {
+          "id": 2953,
+          "text": "Charles I's army was defeated at the Battle of Marston Moor but won the Battle of Naseby"
+        },
+        {
+          "id": 2954,
+          "text": "Parliament won the English Civil War"
+        }
+      ]
+    },
+    {
+      "id": 918,
+      "text": "What is the highest denomination of coins one can find in the UK?",
+      "explanation": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+      "computed_correct_option_ids": [
+        3354
+      ],
+      "options": [
+        {
+          "id": 3356,
+          "text": "£20"
+        },
+        {
+          "id": 3353,
+          "text": "£50"
+        },
+        {
+          "id": 3354,
+          "text": "£2"
+        },
+        {
+          "id": 3355,
+          "text": "£1"
+        }
+      ]
+    },
+    {
+      "id": 947,
+      "text": "Sir Ian Botham is famous for his achievements in which sport?",
+      "explanation": "Sir Ian Botham (1955-) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.",
+      "computed_correct_option_ids": [
+        3443
+      ],
+      "options": [
+        {
+          "id": 3446,
+          "text": "Cycling"
+        },
+        {
+          "id": 3443,
+          "text": "Cricket"
+        },
+        {
+          "id": 3444,
+          "text": "Football"
+        },
+        {
+          "id": 3445,
+          "text": "Rugby"
+        }
+      ]
+    },
+    {
+      "id": 981,
+      "text": "National Trust is a charity that works to preserve important buildings, coastline and countryside",
+      "explanation": "Many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+      "computed_correct_option_ids": [
+        3551
+      ],
+      "options": [
+        {
+          "id": 3552,
+          "text": "False"
+        },
+        {
+          "id": 3551,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 990,
+      "text": "What character did Charlie Chaplin play?",
+      "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood.",
+      "computed_correct_option_ids": [
+        3582
+      ],
+      "options": [
+        {
+          "id": 3582,
+          "text": "Tramp"
+        },
+        {
+          "id": 3584,
+          "text": "Comedian"
+        },
+        {
+          "id": 3583,
+          "text": "Hero"
+        },
+        {
+          "id": 3581,
+          "text": "Detective"
+        }
+      ]
+    },
+    {
+      "id": 992,
+      "text": "Who ran 1 mile in 4 minutes in 1954?",
+      "explanation": "Sir Roger Bannister (1929-) was the first man in the world to run a mile in under four minutes, in 1954.",
+      "computed_correct_option_ids": [
+        3589
+      ],
+      "options": [
+        {
+          "id": 3589,
+          "text": "Sir Roger Bannister"
+        },
+        {
+          "id": 3590,
+          "text": "Sir Jackie Stewart"
+        },
+        {
+          "id": 3591,
+          "text": "Sir Steve Redgrave"
+        },
+        {
+          "id": 3592,
+          "text": "Sir Chris Hoy"
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "text": "Queen Elizabeth I was a devout Catholic and persecuted Protestants",
+      "explanation": "Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as 'Bloody Mary'). Mary also died after a short reign and the next monarch was her half-sister, Elizabeth, the daughter of Henry VIII and Anne Boleyn.",
+      "computed_correct_option_ids": [
+        3668
+      ],
+      "options": [
+        {
+          "id": 3668,
+          "text": "False"
+        },
+        {
+          "id": 3667,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1070,
+      "text": "When did the UK join the EU?",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After UK's Brexit vote, there are now 27 EU member states.",
+      "computed_correct_option_ids": [
+        3877
+      ],
+      "options": [
+        {
+          "id": 3877,
+          "text": "1973"
+        },
+        {
+          "id": 3878,
+          "text": "1957"
+        },
+        {
+          "id": 3879,
+          "text": "1961"
+        },
+        {
+          "id": 3880,
+          "text": "1967"
+        }
+      ]
+    }
+  ]
+}

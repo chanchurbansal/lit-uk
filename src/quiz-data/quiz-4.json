@@ -1,0 +1,602 @@
+{
+  "id": 362,
+  "name": "Life in the UK Test 4",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 21,
+      "text": "Which of these UK landmarks is in Wales?",
+      "explanation": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+      "computed_correct_option_ids": [
+        79
+      ],
+      "options": [
+        {
+          "id": 82,
+          "text": "The Lake District"
+        },
+        {
+          "id": 79,
+          "text": "Snowdonia"
+        },
+        {
+          "id": 80,
+          "text": "Loch Lomond"
+        },
+        {
+          "id": 81,
+          "text": "The Giant's Causeway"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "text": "What's the age requirement to drink wine with a meal with someone over 18?",
+      "explanation": "16 year olds can drink wine or beer with a meal in a hotel or restaurant as long as they are with someone over 18.",
+      "computed_correct_option_ids": [
+        457
+      ],
+      "options": [
+        {
+          "id": 460,
+          "text": "21"
+        },
+        {
+          "id": 457,
+          "text": "16"
+        },
+        {
+          "id": 458,
+          "text": "17"
+        },
+        {
+          "id": 459,
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "text": "Who tried to arrest 5 parliamentary leaders from the House of Commons?",
+      "explanation": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. This led to the English Civil war in 1642.",
+      "computed_correct_option_ids": [
+        853
+      ],
+      "options": [
+        {
+          "id": 854,
+          "text": "Henry VII"
+        },
+        {
+          "id": 856,
+          "text": "James I"
+        },
+        {
+          "id": 853,
+          "text": "Charles I"
+        },
+        {
+          "id": 855,
+          "text": "Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "text": "When did Protestant ideas begin to spread?",
+      "explanation": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+      "computed_correct_option_ids": [
+        993
+      ],
+      "options": [
+        {
+          "id": 996,
+          "text": "15th century"
+        },
+        {
+          "id": 993,
+          "text": "16th century"
+        },
+        {
+          "id": 994,
+          "text": "17th century"
+        },
+        {
+          "id": 995,
+          "text": "18th century"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "text": "What yearly event happens between Oxford and Cambridge Universities?",
+      "explanation": "Rowing is also popular, both as a leisure activity and as a competitive sport. There is a popular yearly race on the Thames between Oxford and Cambridge Universities.",
+      "computed_correct_option_ids": [
+        1205
+      ],
+      "options": [
+        {
+          "id": 1208,
+          "text": "A game of Basketball"
+        },
+        {
+          "id": 1205,
+          "text": "A Rowing Race"
+        },
+        {
+          "id": 1206,
+          "text": "A Game of Football"
+        },
+        {
+          "id": 1207,
+          "text": "A Tennis Match"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "text": "As per 2021 census, what percentage of the population in England and Wales doesn't follow a religion?",
+      "explanation": "The 2021 Census results released so far show 37% of people in England and Wales (from a total sampled 60 million) stated not to follow any religion. 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), while 0.5% of people followed another religion.",
+      "computed_correct_option_ids": [
+        1383
+      ],
+      "options": [
+        {
+          "id": 1384,
+          "text": "6%"
+        },
+        {
+          "id": 1381,
+          "text": "21%"
+        },
+        {
+          "id": 1382,
+          "text": "14%"
+        },
+        {
+          "id": 1383,
+          "text": "37%"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "text": "People living in the UK must pay tax on which of the following TWO?",
+      "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment; profits from self-employment, taxable benefits; pensions; income from property, savings and dividends.",
+      "computed_correct_option_ids": [
+        1503,
+        1505
+      ],
+      "options": [
+        {
+          "id": 1506,
+          "text": "Payday Loans"
+        },
+        {
+          "id": 1505,
+          "text": "Income from property, savings and dividends"
+        },
+        {
+          "id": 1503,
+          "text": "Wages from paid employment"
+        },
+        {
+          "id": 1504,
+          "text": "Student Loans"
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "text": "Where were the first farmers that came to Britain from?",
+      "explanation": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe.",
+      "computed_correct_option_ids": [
+        1535
+      ],
+      "options": [
+        {
+          "id": 1535,
+          "text": "South east Europe"
+        },
+        {
+          "id": 1534,
+          "text": "North Europe"
+        },
+        {
+          "id": 1533,
+          "text": "South west Europe"
+        },
+        {
+          "id": 1536,
+          "text": "North west Europe"
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "text": "D-Day is the day when the British evacuated the French from Normandy",
+      "explanation": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as 'D-Day').",
+      "computed_correct_option_ids": [
+        1568
+      ],
+      "options": [
+        {
+          "id": 1568,
+          "text": "False"
+        },
+        {
+          "id": 1567,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "text": "Which TWO are Police duties?",
+      "explanation": "The job of the police in the UK is to: protect life and property; prevent disturbances (also known as keeping the peace); prevent and detect crime.",
+      "computed_correct_option_ids": [
+        1609,
+        1610
+      ],
+      "options": [
+        {
+          "id": 1610,
+          "text": "Detect and prevent crime"
+        },
+        {
+          "id": 1612,
+          "text": "Misuse their authority"
+        },
+        {
+          "id": 1611,
+          "text": "Be corrupt"
+        },
+        {
+          "id": 1609,
+          "text": "Protect life and property"
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "text": "Where was Isaac Newton born?",
+      "explanation": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University.",
+      "computed_correct_option_ids": [
+        1625
+      ],
+      "options": [
+        {
+          "id": 1628,
+          "text": "Ireland"
+        },
+        {
+          "id": 1627,
+          "text": "Scotland"
+        },
+        {
+          "id": 1626,
+          "text": "Wales"
+        },
+        {
+          "id": 1625,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "text": "How many countries make up the EU?",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After the Brexit vote to leave in 2020, there are now 27 EU member states",
+      "computed_correct_option_ids": [
+        1850
+      ],
+      "options": [
+        {
+          "id": 1852,
+          "text": "190"
+        },
+        {
+          "id": 1851,
+          "text": "54"
+        },
+        {
+          "id": 1850,
+          "text": "27"
+        },
+        {
+          "id": 1849,
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "text": "Children's Hearings system is used in which country?",
+      "explanation": "In Scotland a system called the Children's Hearings System is used to deal with children and young people who have committed an offence. Northern Ireland has a system of youth conferencing to consider how a child should be dealt with when they have committed an offence.",
+      "computed_correct_option_ids": [
+        1853
+      ],
+      "options": [
+        {
+          "id": 1856,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 1855,
+          "text": "England"
+        },
+        {
+          "id": 1854,
+          "text": "Wales"
+        },
+        {
+          "id": 1853,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "text": "During the Bronze age people lived in roundhouses and buried their dead in tombs called round barrows",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        1857
+      ],
+      "options": [
+        {
+          "id": 1857,
+          "text": "True"
+        },
+        {
+          "id": 1858,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "text": "What party won the General Election in 2010?",
+      "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+      "computed_correct_option_ids": [
+        1866
+      ],
+      "options": [
+        {
+          "id": 1865,
+          "text": "Liberal democrats"
+        },
+        {
+          "id": 1866,
+          "text": "None, Liberal Democrats and Conservative party formed a Coalition"
+        },
+        {
+          "id": 1863,
+          "text": "Tories"
+        },
+        {
+          "id": 1864,
+          "text": "Labour Party"
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "text": "Which TWO did the Romans establish in Britain?",
+      "explanation": "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals",
+      "computed_correct_option_ids": [
+        1881,
+        1882
+      ],
+      "options": [
+        {
+          "id": 1882,
+          "text": "Introduced new plants and animals"
+        },
+        {
+          "id": 1881,
+          "text": "Created a structure of law"
+        },
+        {
+          "id": 1884,
+          "text": "Introduced constitutional monarchy"
+        },
+        {
+          "id": 1883,
+          "text": "Introduced basic democracy"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "text": "Robert the Bruce is associated with which country?",
+      "explanation": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+      "computed_correct_option_ids": [
+        1887
+      ],
+      "options": [
+        {
+          "id": 1885,
+          "text": "Ireland"
+        },
+        {
+          "id": 1887,
+          "text": "Scotland"
+        },
+        {
+          "id": 1888,
+          "text": "Wales"
+        },
+        {
+          "id": 1886,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "text": "What system can be used to complete a tax return if you are self-employed?",
+      "explanation": "For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue Customs (HMRC), the government department that collects taxes. This system is called 'Pay As You Earn' (PAYE). If you are self-employed, you need to pay your own tax through a system called 'self-assessment', which includes completing a tax return.",
+      "computed_correct_option_ids": [
+        2012
+      ],
+      "options": [
+        {
+          "id": 2011,
+          "text": "Self-checkout"
+        },
+        {
+          "id": 2014,
+          "text": "National Insurance contribution"
+        },
+        {
+          "id": 2013,
+          "text": "PAYE (Pay as you earn)"
+        },
+        {
+          "id": 2012,
+          "text": "Self-assessment"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "text": "The London Eye is situated on the southern bank of which river?",
+      "explanation": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK's celebration of the new millennium and continues to be an important part of New Year celebrations.",
+      "computed_correct_option_ids": [
+        2057
+      ],
+      "options": [
+        {
+          "id": 2058,
+          "text": "Clyde"
+        },
+        {
+          "id": 2055,
+          "text": "Tyburn"
+        },
+        {
+          "id": 2056,
+          "text": "Walbrook"
+        },
+        {
+          "id": 2057,
+          "text": "Thames"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "text": "NSPCC is a charity for which of the following?",
+      "explanation": "Children - the National Society for the Prevention of Cruelty to Children (NSPCC); The homeless - Crisis and Shelter; Medical research charities - Cancer Research UK; Environmental charities- the National Trust and Friends of the Earth; Animals - People's Dispensary for Sick Animals (PDSA).",
+      "computed_correct_option_ids": [
+        2178
+      ],
+      "options": [
+        {
+          "id": 2180,
+          "text": "Environment"
+        },
+        {
+          "id": 2177,
+          "text": "Old people"
+        },
+        {
+          "id": 2178,
+          "text": "Children"
+        },
+        {
+          "id": 2179,
+          "text": "Animals"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "text": "After the Black Death, a new social class appeared, - owners of large areas of land. What were they called?",
+      "explanation": "New social classes appeared, including owners of large areas of land called 'the gentry', and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+      "computed_correct_option_ids": [
+        2194
+      ],
+      "options": [
+        {
+          "id": 2196,
+          "text": "The Tudors"
+        },
+        {
+          "id": 2193,
+          "text": "The Clans"
+        },
+        {
+          "id": 2194,
+          "text": "The Gentry"
+        },
+        {
+          "id": 2195,
+          "text": "The Serfs"
+        }
+      ]
+    },
+    {
+      "id": 652,
+      "text": "The Chartists are associated with the Civil War which took place in the 17th century",
+      "explanation": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes: for every man to have the vote; elections every year; for all regions to be equal in the electoral system; secret ballots; for any man to be able to stand as an MP; for MPs to be paid.",
+      "computed_correct_option_ids": [
+        2448
+      ],
+      "options": [
+        {
+          "id": 2448,
+          "text": "False"
+        },
+        {
+          "id": 2447,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "text": "Mothering Sunday is the third Sunday in June",
+      "explanation": "Mothering Sunday (or Mother's Day) is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers.",
+      "computed_correct_option_ids": [
+        2724
+      ],
+      "options": [
+        {
+          "id": 2723,
+          "text": "True"
+        },
+        {
+          "id": 2724,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "text": "In 1348, a disease, probably a form of plague, came to Britain. What was it called?",
+      "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+      "computed_correct_option_ids": [
+        3785
+      ],
+      "options": [
+        {
+          "id": 3786,
+          "text": "White Death"
+        },
+        {
+          "id": 3785,
+          "text": "Black Death"
+        },
+        {
+          "id": 3788,
+          "text": "Malaria"
+        },
+        {
+          "id": 3787,
+          "text": "Giant Evil"
+        }
+      ]
+    }
+  ]
+}

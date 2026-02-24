@@ -1,0 +1,609 @@
+{
+  "id": 376,
+  "name": "Life in the UK Test 18",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 29,
+      "text": "Where did the people of the Bronze Age bury their dead?",
+      "explanation": "People lived in roundhouses and buried their dead in tombs called round barrows.",
+      "computed_correct_option_ids": [
+        109
+      ],
+      "options": [
+        {
+          "id": 112,
+          "text": "Gardens"
+        },
+        {
+          "id": 109,
+          "text": "Round barrows"
+        },
+        {
+          "id": 110,
+          "text": "Graveyards"
+        },
+        {
+          "id": 111,
+          "text": "Coffin Houses"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "What does the UK offer to its residents?",
+      "explanation": "In return, the UK offers: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial, a right to join in the election of a government.",
+      "computed_correct_option_ids": [
+        285
+      ],
+      "options": [
+        {
+          "id": 285,
+          "text": "Freedom of belief and religion"
+        },
+        {
+          "id": 286,
+          "text": "Untaxed income"
+        },
+        {
+          "id": 288,
+          "text": "Luxurious Life"
+        },
+        {
+          "id": 287,
+          "text": "Free TV license"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "text": "When were the women given the right to vote at the same age as men?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        529
+      ],
+      "options": [
+        {
+          "id": 530,
+          "text": "1918"
+        },
+        {
+          "id": 532,
+          "text": "1957"
+        },
+        {
+          "id": 531,
+          "text": "1969"
+        },
+        {
+          "id": 529,
+          "text": "1928"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "text": "What is known as the Bessemer process?",
+      "explanation": "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways.",
+      "computed_correct_option_ids": [
+        605
+      ],
+      "options": [
+        {
+          "id": 608,
+          "text": "Production of coal"
+        },
+        {
+          "id": 605,
+          "text": "Production of steel"
+        },
+        {
+          "id": 606,
+          "text": "Production of iron"
+        },
+        {
+          "id": 607,
+          "text": "Production of bronze"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "text": "Which party formed the government in 2010?",
+      "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+      "computed_correct_option_ids": [
+        669
+      ],
+      "options": [
+        {
+          "id": 671,
+          "text": "Conservative Party only"
+        },
+        {
+          "id": 669,
+          "text": "It was a coalition"
+        },
+        {
+          "id": 672,
+          "text": "Labour Party only"
+        },
+        {
+          "id": 670,
+          "text": "Liberal Democrats only"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "text": "What organisations try to influence government policy?",
+      "explanation": "Pressure and lobby groups are organisations which try to influence government policy. They play an important role in politics.",
+      "computed_correct_option_ids": [
+        757
+      ],
+      "options": [
+        {
+          "id": 757,
+          "text": "Pressure and lobby groups"
+        },
+        {
+          "id": 760,
+          "text": "The Cabinet"
+        },
+        {
+          "id": 759,
+          "text": "Quakers"
+        },
+        {
+          "id": 758,
+          "text": "Chartists"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "text": "Where are the youth cases heard in Scotland?",
+      "explanation": "In Scotland a system called the Children's Hearings System is used to deal with children and young people who have committed an offence.",
+      "computed_correct_option_ids": [
+        777
+      ],
+      "options": [
+        {
+          "id": 777,
+          "text": "There is a Children's Hearings System"
+        },
+        {
+          "id": 780,
+          "text": "Sheriff Court"
+        },
+        {
+          "id": 779,
+          "text": "Crown Court"
+        },
+        {
+          "id": 778,
+          "text": "Youth Court"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "text": "When did Scotland abolish the authority of the Pope?",
+      "explanation": "Scotland had also been strongly influenced by Protestant ideas. In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal.",
+      "computed_correct_option_ids": [
+        857
+      ],
+      "options": [
+        {
+          "id": 858,
+          "text": "1600"
+        },
+        {
+          "id": 857,
+          "text": "1560"
+        },
+        {
+          "id": 860,
+          "text": "1501"
+        },
+        {
+          "id": 859,
+          "text": "1450"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "text": "Which play was written by Shakespeare?",
+      "explanation": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet. Lines from his plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18, Shall I Compare Thee To a Summer's Day).",
+      "computed_correct_option_ids": [
+        861
+      ],
+      "options": [
+        {
+          "id": 863,
+          "text": "Before the Dawn"
+        },
+        {
+          "id": 864,
+          "text": "Freedom of Love"
+        },
+        {
+          "id": 862,
+          "text": "Come, Walk with me"
+        },
+        {
+          "id": 861,
+          "text": "Hamlet"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "text": "Where is the Eden Project located?",
+      "explanation": "The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.",
+      "computed_correct_option_ids": [
+        1129
+      ],
+      "options": [
+        {
+          "id": 1131,
+          "text": "London"
+        },
+        {
+          "id": 1132,
+          "text": "Liverpool"
+        },
+        {
+          "id": 1129,
+          "text": "Cornwall"
+        },
+        {
+          "id": 1130,
+          "text": "Dorset"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "text": "Which TWO scientists led a team which was the first to clone an animal?",
+      "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep. This has led to further research into the possible use of cloning to preserve endangered species and for medical purposes.",
+      "computed_correct_option_ids": [
+        1570,
+        1572
+      ],
+      "options": [
+        {
+          "id": 1570,
+          "text": "Sir Ian Wilmot"
+        },
+        {
+          "id": 1569,
+          "text": "Ernest Rutherford"
+        },
+        {
+          "id": 1572,
+          "text": "Keith Campbell"
+        },
+        {
+          "id": 1571,
+          "text": "James Goodfellow"
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "text": "When did the American colonies declare independence?",
+      "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
+      "computed_correct_option_ids": [
+        1629
+      ],
+      "options": [
+        {
+          "id": 1632,
+          "text": "1783"
+        },
+        {
+          "id": 1629,
+          "text": "1776"
+        },
+        {
+          "id": 1630,
+          "text": "1779"
+        },
+        {
+          "id": 1631,
+          "text": "1781"
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "text": "The Monarch is responsible for the opening of the new parliamentary session each year",
+      "explanation": "The Monarch has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Monarch makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in her/his name.",
+      "computed_correct_option_ids": [
+        1847
+      ],
+      "options": [
+        {
+          "id": 1847,
+          "text": "True"
+        },
+        {
+          "id": 1848,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "text": "Who is the next heir to the throne?",
+      "explanation": "Queen Elizabeth II reigned since her father's death in 1952 (in 2012 she celebrated her Diamond Jubilee - 60 years as queen) until she passed away in 2022. Her eldest son, King Charles III (previously the Prince of Wales) became the new monarch. His elder son, William, Prince of Wales is next in line.",
+      "computed_correct_option_ids": [
+        1992
+      ],
+      "options": [
+        {
+          "id": 1989,
+          "text": "Queen Elizabeth II's eldest son"
+        },
+        {
+          "id": 1990,
+          "text": "Queen Elizabeth II's husband"
+        },
+        {
+          "id": 1991,
+          "text": "Prince Harry"
+        },
+        {
+          "id": 1992,
+          "text": "Prince William"
+        }
+      ]
+    },
+    {
+      "id": 627,
+      "text": "Henry VIII's fourth wife, Anne of Cleves was a Spanish princess",
+      "explanation": "Anne of Cleves was a German princess. Henry married her for political reasons but divorced her soon after.",
+      "computed_correct_option_ids": [
+        2364
+      ],
+      "options": [
+        {
+          "id": 2364,
+          "text": "False"
+        },
+        {
+          "id": 2363,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 630,
+      "text": "In Elizabeth I's time, English settlers began to colonise which part of the world?",
+      "explanation": "In Elizabeth I's time, English settlers first began to colonise the eastern coast of America. The Elizabethan period is also remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare.",
+      "computed_correct_option_ids": [
+        2371
+      ],
+      "options": [
+        {
+          "id": 2373,
+          "text": "India"
+        },
+        {
+          "id": 2374,
+          "text": "Australia"
+        },
+        {
+          "id": 2371,
+          "text": "Eastern coast of America"
+        },
+        {
+          "id": 2372,
+          "text": "Central Africa"
+        }
+      ]
+    },
+    {
+      "id": 634,
+      "text": "In which years did British Film Studios flourish?",
+      "explanation": "British studios flourished in the 1930s. The 1950s and 1960s were a high point for British comedies, including Passport to Pimlico, The Ladykillers and, later, the Carry On films.",
+      "computed_correct_option_ids": [
+        2389
+      ],
+      "options": [
+        {
+          "id": 2388,
+          "text": "1910's"
+        },
+        {
+          "id": 2387,
+          "text": "1970's"
+        },
+        {
+          "id": 2390,
+          "text": "1950's"
+        },
+        {
+          "id": 2389,
+          "text": "1930's"
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "text": "The jury decides whether a person is 'guilty' or 'not guilty' based on what they have heard",
+      "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard. In Scotland, a third verdict of 'not proven' is also possible. If the jury finds a defendant guilty, the judge decides on the penalty. The judge is only responsible for interpreting the law.",
+      "computed_correct_option_ids": [
+        2765
+      ],
+      "options": [
+        {
+          "id": 2765,
+          "text": "True"
+        },
+        {
+          "id": 2766,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 790,
+      "text": "How many Olympic gold medals has the Scottish cyclist, Sir Chris Hoy, won?",
+      "explanation": "Sir Chris Hoy (1976-) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+      "computed_correct_option_ids": [
+        2907
+      ],
+      "options": [
+        {
+          "id": 2906,
+          "text": "5"
+        },
+        {
+          "id": 2905,
+          "text": "2"
+        },
+        {
+          "id": 2907,
+          "text": "6"
+        },
+        {
+          "id": 2908,
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "id": 799,
+      "text": "During the WWII, the evacuation of more than 300,000 British and French soldiers from France gave rise to which phrase?",
+      "explanation": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+      "computed_correct_option_ids": [
+        2938
+      ],
+      "options": [
+        {
+          "id": 2939,
+          "text": "The British rescue"
+        },
+        {
+          "id": 2938,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 2937,
+          "text": "The Blitz"
+        },
+        {
+          "id": 2940,
+          "text": "The Great escape"
+        }
+      ]
+    },
+    {
+      "id": 1019,
+      "text": "Which film or film franchise produced in UK has been the biggest gross earner?",
+      "explanation": "Many of the films now produced in the UK are made by foreign companies, using British expertise. Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK.",
+      "computed_correct_option_ids": [
+        3688
+      ],
+      "options": [
+        {
+          "id": 3690,
+          "text": "Charlie Chaplin"
+        },
+        {
+          "id": 3688,
+          "text": "James Bond"
+        },
+        {
+          "id": 3689,
+          "text": "Matrix"
+        },
+        {
+          "id": 3687,
+          "text": "Lord of the rings"
+        }
+      ]
+    },
+    {
+      "id": 1031,
+      "text": "What is the reason for more ageing population? Choose Two Answers",
+      "explanation": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+      "computed_correct_option_ids": [
+        3729,
+        3730
+      ],
+      "options": [
+        {
+          "id": 3731,
+          "text": "Improved Education"
+        },
+        {
+          "id": 3729,
+          "text": "Better Health Care"
+        },
+        {
+          "id": 3730,
+          "text": "Better Living Standards"
+        },
+        {
+          "id": 3732,
+          "text": "Cheaper Food"
+        }
+      ]
+    },
+    {
+      "id": 1062,
+      "text": "What is the National Anthem of the UK?",
+      "explanation": "The National Anthem of the UK is 'God Save the King/Queen'. It is played at important national occasions and at events attended by the King/Queen or the Royal Family. The first verse is: 'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'.",
+      "computed_correct_option_ids": [
+        3845
+      ],
+      "options": [
+        {
+          "id": 3848,
+          "text": "United we stand"
+        },
+        {
+          "id": 3845,
+          "text": "God Save the King/Queen"
+        },
+        {
+          "id": 3846,
+          "text": "God Save the UK"
+        },
+        {
+          "id": 3847,
+          "text": "King reign over the UK"
+        }
+      ]
+    },
+    {
+      "id": 1080,
+      "text": "What did the 'Bill of Rights' confirm?",
+      "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
+      "computed_correct_option_ids": [
+        3917
+      ],
+      "options": [
+        {
+          "id": 3917,
+          "text": "Parliament's increased power"
+        },
+        {
+          "id": 3919,
+          "text": "Kings can collect taxes"
+        },
+        {
+          "id": 3920,
+          "text": "Kings can administer justice"
+        },
+        {
+          "id": 3918,
+          "text": "King's increased power"
+        }
+      ]
+    }
+  ]
+}

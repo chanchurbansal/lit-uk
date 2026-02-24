@@ -1,0 +1,633 @@
+{
+  "id": 415,
+  "name": "Life in the UK Test 55",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8001,
+      "text": "In which English county is the monument of Stonehenge located?",
+      "explanation": "The ancestors of the first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land. One of these monuments, Stonehenge, still stands in what is now the English county ofWiltshire.",
+      "computed_correct_option_ids": [
+        9003
+      ],
+      "options": [
+        {
+          "id": 9001,
+          "text": "Bedfordshire"
+        },
+        {
+          "id": 9002,
+          "text": "Cheshire"
+        },
+        {
+          "id": 9003,
+          "text": "Wiltshire"
+        },
+        {
+          "id": 9004,
+          "text": "Cornwall"
+        }
+      ]
+    },
+    {
+      "id": 8002,
+      "text": "What is the best-known work from Robert Burns?",
+      "explanation": "Burns’ best-known work is probably the songAuld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+      "computed_correct_option_ids": [
+        9011
+      ],
+      "options": [
+        {
+          "id": 9011,
+          "text": "Auld Lang Syne"
+        },
+        {
+          "id": 9012,
+          "text": "Hamlet"
+        },
+        {
+          "id": 9013,
+          "text": "A rose by another name"
+        },
+        {
+          "id": 9014,
+          "text": "George’s Marvellous Medicine"
+        }
+      ]
+    },
+    {
+      "id": 8003,
+      "text": "Which of the following crosses does NOT form part of the Union Flag?",
+      "explanation": "The cross of St David, patron saint of Wales does not form part of the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England.",
+      "computed_correct_option_ids": [
+        9022
+      ],
+      "options": [
+        {
+          "id": 9021,
+          "text": "The cross of St George, patron saint of England"
+        },
+        {
+          "id": 9022,
+          "text": "The cross of St David, patron saint of Wales"
+        },
+        {
+          "id": 9023,
+          "text": "The cross of St Patrick, patron saint of Ireland"
+        },
+        {
+          "id": 9024,
+          "text": "The cross of St Andrew, patron saint of Scotland"
+        }
+      ]
+    },
+    {
+      "id": 8004,
+      "text": "What day is Halloween celebrated?",
+      "explanation": "Halloween is celebrated on the31st of October.",
+      "computed_correct_option_ids": [
+        9034
+      ],
+      "options": [
+        {
+          "id": 9031,
+          "text": "30th of November"
+        },
+        {
+          "id": 9032,
+          "text": "30th of October"
+        },
+        {
+          "id": 9033,
+          "text": "14th of February"
+        },
+        {
+          "id": 9034,
+          "text": "31st of October"
+        }
+      ]
+    },
+    {
+      "id": 8005,
+      "text": "Who was the first British distance runner to win a gold medal in the Olympic games in the 10,000 metres?",
+      "explanation": "Mo Farah(1983-) is a British distance runner, born in Somalia. He won gold medals in the 2012 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.",
+      "computed_correct_option_ids": [
+        9041
+      ],
+      "options": [
+        {
+          "id": 9041,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 9042,
+          "text": "Bradley Wiggins"
+        },
+        {
+          "id": 9043,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 9044,
+          "text": "David Weir"
+        }
+      ]
+    },
+    {
+      "id": 8006,
+      "text": "Which of the following statements is TRUE?",
+      "explanation": "In Scotland, the 31st December is called Hogmanay and 2 January is also a public holiday. For some Scottish people, Hogmanay is a bigger holiday than Christmas.",
+      "computed_correct_option_ids": [
+        9051
+      ],
+      "options": [
+        {
+          "id": 9051,
+          "text": "For some Scottish people, Hogmanay is a bigger holiday than Christmas"
+        },
+        {
+          "id": 9052,
+          "text": "For some Scottish people, Hogmanay is a bigger holiday than New Year’s Eve"
+        },
+        {
+          "id": 9053,
+          "text": "For some Welsh people, Hogmanay is a bigger holiday than Christmas"
+        },
+        {
+          "id": 9054,
+          "text": "For some Irish people, Hogmanay is a bigger holiday than New Year’s Eve"
+        }
+      ]
+    },
+    {
+      "id": 8007,
+      "text": "Light-hearted plays with music and comedy, which are enjoyed by family audiences and based on fairy stories are known as:",
+      "explanation": "Many theatres produce apantomimeat Christmas time. They are based on fairy stories and are light-plays with music and comedy, enjoyed by family audiences.",
+      "computed_correct_option_ids": [
+        9062
+      ],
+      "options": [
+        {
+          "id": 9061,
+          "text": "Children’s plays"
+        },
+        {
+          "id": 9062,
+          "text": "Pantomimes"
+        },
+        {
+          "id": 9063,
+          "text": "Hogmanay"
+        },
+        {
+          "id": 9064,
+          "text": "Parades"
+        }
+      ]
+    },
+    {
+      "id": 8008,
+      "text": "What British actor was best known for his roles in various Shakespeare plays?",
+      "explanation": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actorSir Laurence Olivier, late Lord Olivier, who was best known for his roles in various Shakespeare plays.",
+      "computed_correct_option_ids": [
+        9071
+      ],
+      "options": [
+        {
+          "id": 9071,
+          "text": "Sir Laurence Olivier"
+        },
+        {
+          "id": 9072,
+          "text": "Joseph Turner"
+        },
+        {
+          "id": 9073,
+          "text": "Andrew Lloyd Webber"
+        },
+        {
+          "id": 9074,
+          "text": "Tim Rice"
+        }
+      ]
+    },
+    {
+      "id": 8009,
+      "text": "Who built the Tower of London after becoming king in 1066?",
+      "explanation": "The Tower of London was first built byWilliam the Conquerorafter he became king in 1066.",
+      "computed_correct_option_ids": [
+        9083
+      ],
+      "options": [
+        {
+          "id": 9081,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 9082,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 9083,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 9084,
+          "text": "Henry VII"
+        }
+      ]
+    },
+    {
+      "id": 8010,
+      "text": "Who succeeded David Cameron as Prime Minister after the referendum on the UK’s membership of the European Union?",
+      "explanation": "David Cameron was succeeded as Prime Minister after the Brexit referendum byTheresa Mayon 13 July 2016.",
+      "computed_correct_option_ids": [
+        9092
+      ],
+      "options": [
+        {
+          "id": 9091,
+          "text": "Boris Johnson"
+        },
+        {
+          "id": 9092,
+          "text": "Theresa May"
+        },
+        {
+          "id": 9093,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 9094,
+          "text": "Liz Truss"
+        }
+      ]
+    },
+    {
+      "id": 8011,
+      "text": "Who composed a suite of pieces themed around the planets and the solar system called ‘The Planets’?",
+      "explanation": "Important British composers includeGustav Holst, whose work includes The Planets, a suite of pieces themed around the planets and the solar system.",
+      "computed_correct_option_ids": [
+        9103
+      ],
+      "options": [
+        {
+          "id": 9101,
+          "text": "The Edward Elgar"
+        },
+        {
+          "id": 9102,
+          "text": "George Frederick Handel"
+        },
+        {
+          "id": 9103,
+          "text": "Gustav Holst"
+        },
+        {
+          "id": 9104,
+          "text": "Sir William Walton"
+        }
+      ]
+    },
+    {
+      "id": 8012,
+      "text": "What was the population of the UK in 1998?",
+      "explanation": "The population of the UK in 1998 was57 millionpeople.",
+      "computed_correct_option_ids": [
+        9114
+      ],
+      "options": [
+        {
+          "id": 9111,
+          "text": "40 million"
+        },
+        {
+          "id": 9112,
+          "text": "50 million"
+        },
+        {
+          "id": 9113,
+          "text": "55 million"
+        },
+        {
+          "id": 9114,
+          "text": "57 million"
+        }
+      ]
+    },
+    {
+      "id": 8013,
+      "text": "Who is the chief officer of the House of Commons?",
+      "explanation": "Debates in the House of Commons are chaired bythe Speaker. This person is the chief officer of the House of Commons.",
+      "computed_correct_option_ids": [
+        9122
+      ],
+      "options": [
+        {
+          "id": 9121,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 9122,
+          "text": "The Speaker"
+        },
+        {
+          "id": 9123,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 9124,
+          "text": "The leader of the opposition"
+        }
+      ]
+    },
+    {
+      "id": 8014,
+      "text": "What characterises the British constitution?",
+      "explanation": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’.",
+      "computed_correct_option_ids": [
+        9133
+      ],
+      "options": [
+        {
+          "id": 9131,
+          "text": "It was written by the Prime Minister"
+        },
+        {
+          "id": 9132,
+          "text": "It was written by the King"
+        },
+        {
+          "id": 9133,
+          "text": "It is not written down in any single document, and therefore it is described as ‘unwritten"
+        },
+        {
+          "id": 9134,
+          "text": "It was written by Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 8015,
+      "text": "How old was Queen Victoria when she became Queen in 1837?",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of18.",
+      "computed_correct_option_ids": [
+        9144
+      ],
+      "options": [
+        {
+          "id": 9141,
+          "text": "A week old"
+        },
+        {
+          "id": 9142,
+          "text": "4 years old"
+        },
+        {
+          "id": 9143,
+          "text": "20 years old"
+        },
+        {
+          "id": 9144,
+          "text": "18 years old"
+        }
+      ]
+    },
+    {
+      "id": 8016,
+      "text": "When did the First World War start?",
+      "explanation": "On 28 June1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18).",
+      "computed_correct_option_ids": [
+        9152
+      ],
+      "options": [
+        {
+          "id": 9151,
+          "text": "1912"
+        },
+        {
+          "id": 9152,
+          "text": "1914"
+        },
+        {
+          "id": 9153,
+          "text": "1942"
+        },
+        {
+          "id": 9154,
+          "text": "1940"
+        }
+      ]
+    },
+    {
+      "id": 8017,
+      "text": "Who forms the judiciary?",
+      "explanation": "Judges (who are together called ‘the judiciary’) are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+      "computed_correct_option_ids": [
+        9161
+      ],
+      "options": [
+        {
+          "id": 9161,
+          "text": "The judges collectively"
+        },
+        {
+          "id": 9162,
+          "text": "The Magistrates together"
+        },
+        {
+          "id": 9163,
+          "text": "The MPs together"
+        },
+        {
+          "id": 9164,
+          "text": "The judges and Magistrates together"
+        }
+      ]
+    },
+    {
+      "id": 8018,
+      "text": "Which of the following is a musical venue located in London?",
+      "explanation": "There are many large venues that host music events throughout the year, such as:The O2in Greenwich, south-east London.",
+      "computed_correct_option_ids": [
+        9171
+      ],
+      "options": [
+        {
+          "id": 9171,
+          "text": "The O2"
+        },
+        {
+          "id": 9172,
+          "text": "Glastonbury"
+        },
+        {
+          "id": 9173,
+          "text": "The Dome"
+        },
+        {
+          "id": 9174,
+          "text": "The Fringe"
+        }
+      ]
+    },
+    {
+      "id": 8019,
+      "text": "Who directed the movie ‘The Killing Fields’ in 1984?",
+      "explanation": "The Killing Fields (1984) was directed byRoland Joffé.",
+      "computed_correct_option_ids": [
+        9181
+      ],
+      "options": [
+        {
+          "id": 9181,
+          "text": "Roland Joffé"
+        },
+        {
+          "id": 9182,
+          "text": "Hugh Hudson"
+        },
+        {
+          "id": 9183,
+          "text": "Kevin MacDonald"
+        },
+        {
+          "id": 9184,
+          "text": "Nicolas Roeg"
+        }
+      ]
+    },
+    {
+      "id": 8020,
+      "text": "Which TWO of the following castles are located in Scotland?",
+      "explanation": "Inveraray CastleandCrathes Castleare located in Scotland.",
+      "computed_correct_option_ids": [
+        9193,
+        9194
+      ],
+      "options": [
+        {
+          "id": 9191,
+          "text": "Conwy Castle"
+        },
+        {
+          "id": 9192,
+          "text": "Caernarfon Castle"
+        },
+        {
+          "id": 9193,
+          "text": "Crathes Castle"
+        },
+        {
+          "id": 9194,
+          "text": "Inveraray Castle"
+        }
+      ]
+    },
+    {
+      "id": 8021,
+      "text": "Which battle signified the end of the Wars of the Roses?",
+      "explanation": "The Wars of the Roses ended withthe Battle of Bosworth Fieldin 1485.",
+      "computed_correct_option_ids": [
+        9202
+      ],
+      "options": [
+        {
+          "id": 9201,
+          "text": "The Battle of Agincourt"
+        },
+        {
+          "id": 9202,
+          "text": "The Battle of Bosworth Field"
+        },
+        {
+          "id": 9203,
+          "text": "The Battle of Bannockburn"
+        },
+        {
+          "id": 9204,
+          "text": "The Battle of Marston Moor"
+        }
+      ]
+    },
+    {
+      "id": 8022,
+      "text": "Which court deals with minor criminal offences in Scotland?",
+      "explanation": "In Scotland, minor criminal offences go to aJustice of the Peace Court.",
+      "computed_correct_option_ids": [
+        9211
+      ],
+      "options": [
+        {
+          "id": 9211,
+          "text": "The Justice of the Peace Court"
+        },
+        {
+          "id": 9212,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 9213,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 9214,
+          "text": "The Crown Court"
+        }
+      ]
+    },
+    {
+      "id": 8023,
+      "text": "If an MP dies or resigns, there will be a fresh election, which is known as:",
+      "explanation": "If an MP dies or resigns, there will be a fresh election, called aby-election, in his or her constituency.",
+      "computed_correct_option_ids": [
+        9223
+      ],
+      "options": [
+        {
+          "id": 9221,
+          "text": "Hansard"
+        },
+        {
+          "id": 9222,
+          "text": "First past the post"
+        },
+        {
+          "id": 9223,
+          "text": "By-election"
+        },
+        {
+          "id": 9224,
+          "text": "Coalition"
+        }
+      ]
+    },
+    {
+      "id": 8024,
+      "text": "A person who has not paid enough National Insurance contributions will not be able to receive certain contributory benefits including (choose TWO options):",
+      "explanation": "Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such asJobseeker’s Allowance or a full state retirement pension.",
+      "computed_correct_option_ids": [
+        9231,
+        9232
+      ],
+      "options": [
+        {
+          "id": 9231,
+          "text": "Jobseeker’s Allowance"
+        },
+        {
+          "id": 9232,
+          "text": "A full state retirement pension"
+        },
+        {
+          "id": 9233,
+          "text": "Maternity Allowance"
+        },
+        {
+          "id": 9234,
+          "text": "Disability Living Allowance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": 437,
+  "name": "Life in the UK Test 77",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10201,
+      "text": "British values and principles are based on history and traditions and are protected by law, customs and expectations.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11201
+      ],
+      "options": [
+        {
+          "id": 11201,
+          "text": "True"
+        },
+        {
+          "id": 11202,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10202,
+      "text": "When did the first Christian communities begin to appear in Britain?",
+      "explanation": "It wasduring the 3rd and 4th centuries ADthat the first Christian communities began to appear in Britain.",
+      "computed_correct_option_ids": [
+        11213
+      ],
+      "options": [
+        {
+          "id": 11211,
+          "text": "During the 1st and 2nd centuries AD"
+        },
+        {
+          "id": 11212,
+          "text": "During the 2nd and 3rd centuries AD"
+        },
+        {
+          "id": 11213,
+          "text": "During the 3rd and 4th centuries AD"
+        },
+        {
+          "id": 11214,
+          "text": "During the 4th and 5th centuries AD"
+        }
+      ]
+    },
+    {
+      "id": 10203,
+      "text": "Which of the following is NOT a devolved administration?",
+      "explanation": "There are three devolved administrations in the UK, this include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly",
+      "computed_correct_option_ids": [
+        11223
+      ],
+      "options": [
+        {
+          "id": 11221,
+          "text": "The Scottish Parliament"
+        },
+        {
+          "id": 11222,
+          "text": "The Welsh government"
+        },
+        {
+          "id": 11223,
+          "text": "The Irish Parliament"
+        },
+        {
+          "id": 11224,
+          "text": "The Northern Ireland Assembly"
+        }
+      ]
+    },
+    {
+      "id": 10204,
+      "text": "Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?",
+      "explanation": "Areas of what is now Scotland were never conquered by the Romans, and theEmperor Hadrianbuilt a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+      "computed_correct_option_ids": [
+        11233
+      ],
+      "options": [
+        {
+          "id": 11231,
+          "text": "Emperor Claudius"
+        },
+        {
+          "id": 11232,
+          "text": "Napoleon"
+        },
+        {
+          "id": 11233,
+          "text": "Emperor Hadrian"
+        },
+        {
+          "id": 11234,
+          "text": "Julius Caesar"
+        }
+      ]
+    },
+    {
+      "id": 10205,
+      "text": "Who looks after Edinburgh Castle?",
+      "explanation": "Edinburgh castle is a dominant feature of the skyline in Edinburgh, Scotland. It has a long history, dating back to the early Middle Ages. It is looked after byHistoric Environment Scotland.",
+      "computed_correct_option_ids": [
+        11241
+      ],
+      "options": [
+        {
+          "id": 11241,
+          "text": "Historic Environment Scotland"
+        },
+        {
+          "id": 11242,
+          "text": "SEPA"
+        },
+        {
+          "id": 11243,
+          "text": "The Scottish Parliament"
+        },
+        {
+          "id": 11244,
+          "text": "The National Trust"
+        }
+      ]
+    },
+    {
+      "id": 10206,
+      "text": "Each MP represents a parliamentary constituency, which is a small area of the country:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11251
+      ],
+      "options": [
+        {
+          "id": 11251,
+          "text": "True"
+        },
+        {
+          "id": 11252,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10207,
+      "text": "Who were the pioneers of the IVF (in-vitro fertilisation) therapy?",
+      "explanation": "IVF (in-vitro fertilisation) therapy for the treatment of infertility was pioneered in Britain by physiologistSir Robert Edwards(1925-)andgynaecologistPatrick Steptoe(1913-88). The world’s first ‘test-tube baby’ was born in Oldham, Lancashire in 1978.",
+      "computed_correct_option_ids": [
+        11262
+      ],
+      "options": [
+        {
+          "id": 11261,
+          "text": "Sir Frank Whittle and Sir Christopher Cockerell"
+        },
+        {
+          "id": 11262,
+          "text": "Sir Robert Edwards and Patrick Steptoe"
+        },
+        {
+          "id": 11263,
+          "text": "Francis Creek and John Logie Baird"
+        },
+        {
+          "id": 11264,
+          "text": "Sir Ian Wilmot and Keith Campbell"
+        }
+      ]
+    },
+    {
+      "id": 10208,
+      "text": "Who led the establishment of the National Health System (NHS) in 1948?",
+      "explanation": "In 1948,Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+      "computed_correct_option_ids": [
+        11271
+      ],
+      "options": [
+        {
+          "id": 11271,
+          "text": "Aneurin (Nye) Bevan"
+        },
+        {
+          "id": 11272,
+          "text": "Harold Macmillan"
+        },
+        {
+          "id": 11273,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 11274,
+          "text": "William Beveridge"
+        }
+      ]
+    },
+    {
+      "id": 10209,
+      "text": "Which of the following countries were granted their independence in 1947 (choose THREE answers)?",
+      "explanation": "In 1947, independence was granted to nine countries, includingIndia, Pakistan and Ceylon (now Sri Lanka).",
+      "computed_correct_option_ids": [
+        11281,
+        11283,
+        11284
+      ],
+      "options": [
+        {
+          "id": 11281,
+          "text": "India"
+        },
+        {
+          "id": 11282,
+          "text": "Bangladesh"
+        },
+        {
+          "id": 11283,
+          "text": "Pakistan"
+        },
+        {
+          "id": 11284,
+          "text": "Ceylon (Sri Lanka)"
+        }
+      ]
+    },
+    {
+      "id": 10210,
+      "text": "In the UK, bank holidays of no religious significance are celebrated at the beginning of May, in late May or early June, and in August:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11291
+      ],
+      "options": [
+        {
+          "id": 11291,
+          "text": "True"
+        },
+        {
+          "id": 11292,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10211,
+      "text": "Where can Admiral Nelson’s ship known as HMS Victory be visited?",
+      "explanation": "Admiral Nelson’s ship, HMS Victory, can be visited inPortsmouth.",
+      "computed_correct_option_ids": [
+        11303
+      ],
+      "options": [
+        {
+          "id": 11301,
+          "text": "Plymouth"
+        },
+        {
+          "id": 11302,
+          "text": "Bournemouth"
+        },
+        {
+          "id": 11303,
+          "text": "Portsmouth"
+        },
+        {
+          "id": 11304,
+          "text": "Hastings"
+        }
+      ]
+    },
+    {
+      "id": 10212,
+      "text": "Who were the Puritans?",
+      "explanation": "The Puritans werea group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England.",
+      "computed_correct_option_ids": [
+        11312
+      ],
+      "options": [
+        {
+          "id": 11311,
+          "text": "A group of Catholics who advocated strict and simple religious doctrine and worship"
+        },
+        {
+          "id": 11312,
+          "text": "A group of Protestants who advocated strict and simple religious doctrine and worship"
+        },
+        {
+          "id": 11313,
+          "text": "A group of landowners from the 18th century"
+        },
+        {
+          "id": 11314,
+          "text": "A group of local leaders that surged in Wales with strict religious views"
+        }
+      ]
+    },
+    {
+      "id": 10213,
+      "text": "What TWO different types of rugby are practised in the UK?",
+      "explanation": "There are two different types of rugby, which have different rules:union and league.",
+      "computed_correct_option_ids": [
+        11321,
+        11322
+      ],
+      "options": [
+        {
+          "id": 11321,
+          "text": "Union"
+        },
+        {
+          "id": 11322,
+          "text": "League"
+        },
+        {
+          "id": 11323,
+          "text": "Rugby open"
+        },
+        {
+          "id": 11324,
+          "text": "Free style"
+        }
+      ]
+    },
+    {
+      "id": 10214,
+      "text": "What do William Blake, John Keats and Lord Byron have in common?",
+      "explanation": "Poetry was very popular in the 19th century, with poets such as William Blake, John Keats, Lord Byron, Percy Shelley, Alfred Lord Tennyson, and Robert and Elizabeth Browning.",
+      "computed_correct_option_ids": [
+        11331
+      ],
+      "options": [
+        {
+          "id": 11331,
+          "text": "They were British poets of the 19th century"
+        },
+        {
+          "id": 11332,
+          "text": "They were British painters of the Swinging Sixties"
+        },
+        {
+          "id": 11333,
+          "text": "They were musicians of the middle ages"
+        },
+        {
+          "id": 11334,
+          "text": "They were British scientist"
+        }
+      ]
+    },
+    {
+      "id": 10215,
+      "text": "The Laurence Olivier Awards take place annually at different venues in Liverpool:",
+      "explanation": "The Laurence Olivier Awards take place annually atdifferent venues in London.",
+      "computed_correct_option_ids": [
+        11342
+      ],
+      "options": [
+        {
+          "id": 11341,
+          "text": "True"
+        },
+        {
+          "id": 11342,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10216,
+      "text": "An additional rented piece of land where people can grow fruit and vegetables is known as:",
+      "explanation": "In the UK, some people rent additional land called‘an allotment’, where they grow fruit and vegetables.",
+      "computed_correct_option_ids": [
+        11354
+      ],
+      "options": [
+        {
+          "id": 11351,
+          "text": "Parcel"
+        },
+        {
+          "id": 11352,
+          "text": "Garden"
+        },
+        {
+          "id": 11353,
+          "text": "Terrain"
+        },
+        {
+          "id": 11354,
+          "text": "Allotment"
+        }
+      ]
+    },
+    {
+      "id": 10217,
+      "text": "What is the name of the battle where the Scottish led by Robert the Bruce defeated the English in 1314?",
+      "explanation": "In 1314 the Scottish, led by Robert the Bruce, defeated the English atthe Battle of Bannockburn.",
+      "computed_correct_option_ids": [
+        11362
+      ],
+      "options": [
+        {
+          "id": 11361,
+          "text": "The Battle of Agincourt"
+        },
+        {
+          "id": 11362,
+          "text": "The Battle of Bannockburn"
+        },
+        {
+          "id": 11363,
+          "text": "The Battle of Trafalgar"
+        },
+        {
+          "id": 11364,
+          "text": "The Battle of Waterloo"
+        }
+      ]
+    },
+    {
+      "id": 10218,
+      "text": "Who took the English throne after the death of Henry VIII?",
+      "explanation": "Henry VIII was succeeded by his sonEdward VI.",
+      "computed_correct_option_ids": [
+        11372
+      ],
+      "options": [
+        {
+          "id": 11371,
+          "text": "Elizabeth I"
+        },
+        {
+          "id": 11372,
+          "text": "Edward VI"
+        },
+        {
+          "id": 11373,
+          "text": "Queen Mary"
+        },
+        {
+          "id": 11374,
+          "text": "James I"
+        }
+      ]
+    },
+    {
+      "id": 10219,
+      "text": "Carrying a weapon is a criminal offence, unless it is for self-defence:",
+      "explanation": "It is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury.",
+      "computed_correct_option_ids": [
+        11382
+      ],
+      "options": [
+        {
+          "id": 11381,
+          "text": "True"
+        },
+        {
+          "id": 11382,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10220,
+      "text": "Prohibition of thought, conscience and religion is one of the principles included in the European Convention of Human Rights:",
+      "explanation": "Freedom of thought, conscience and religion is one of the principles included in the European Convention of Human Rights.",
+      "computed_correct_option_ids": [
+        11392
+      ],
+      "options": [
+        {
+          "id": 11391,
+          "text": "True"
+        },
+        {
+          "id": 11392,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10221,
+      "text": "Which TWO pop music groups became popular in the 1960s?",
+      "explanation": "Two well-known pop music groups in the 1960s wereThe Beatles and The Rolling Stones.",
+      "computed_correct_option_ids": [
+        11402,
+        11403
+      ],
+      "options": [
+        {
+          "id": 11401,
+          "text": "Queen"
+        },
+        {
+          "id": 11402,
+          "text": "The Rolling Stones"
+        },
+        {
+          "id": 11403,
+          "text": "The Beatles"
+        },
+        {
+          "id": 11404,
+          "text": "The Carpenters"
+        }
+      ]
+    },
+    {
+      "id": 10222,
+      "text": "Which of the following words comes from the Viking language?",
+      "explanation": "Words such asGrimsby and Scunthorpecome from the Viking languages.",
+      "computed_correct_option_ids": [
+        11412
+      ],
+      "options": [
+        {
+          "id": 11411,
+          "text": "Table"
+        },
+        {
+          "id": 11412,
+          "text": "Scunthorpe"
+        },
+        {
+          "id": 11413,
+          "text": "Pencil"
+        },
+        {
+          "id": 11414,
+          "text": "Rabbit"
+        }
+      ]
+    },
+    {
+      "id": 10223,
+      "text": "Eid ul Adha is the day when Muslims thank Allah for giving them the strength to complete the fast:",
+      "explanation": "The day when Muslims thank Allah for giving them the strength to complete the fast is calledEid a-Fitr.",
+      "computed_correct_option_ids": [
+        11422
+      ],
+      "options": [
+        {
+          "id": 11421,
+          "text": "True"
+        },
+        {
+          "id": 11422,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10224,
+      "text": "Will a non-UK national living in the UK and looking for work, starting work or setting up as self-employed need a National Insurance number?",
+      "explanation": "A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one.",
+      "computed_correct_option_ids": [
+        11431
+      ],
+      "options": [
+        {
+          "id": 11431,
+          "text": "Yes"
+        },
+        {
+          "id": 11432,
+          "text": "No"
+        }
+      ]
+    }
+  ]
+}

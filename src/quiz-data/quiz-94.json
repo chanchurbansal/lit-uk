@@ -1,0 +1,593 @@
+{
+  "id": 494,
+  "name": "British Citizenship Test 9",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10901,
+      "text": "Which flower is associated with Northern Ireland?",
+      "explanation": "The flower associated with Northern Ireland isthe shamrock.",
+      "computed_correct_option_ids": [
+        11903
+      ],
+      "options": [
+        {
+          "id": 11901,
+          "text": "The daffodil"
+        },
+        {
+          "id": 11902,
+          "text": "The thistle"
+        },
+        {
+          "id": 11903,
+          "text": "The shamrock"
+        },
+        {
+          "id": 11904,
+          "text": "The rose"
+        }
+      ]
+    },
+    {
+      "id": 10902,
+      "text": "The last battle between Britain and France was the battle of Waterloo.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11911
+      ],
+      "options": [
+        {
+          "id": 11911,
+          "text": "True"
+        },
+        {
+          "id": 11912,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10903,
+      "text": "£100 is the highest value note in circulation in the UK.",
+      "explanation": "This statement isfalse.",
+      "computed_correct_option_ids": [
+        11921
+      ],
+      "options": [
+        {
+          "id": 11921,
+          "text": "True"
+        },
+        {
+          "id": 11922,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10904,
+      "text": "Where is the Lake District National Park located?",
+      "explanation": "Lake District is inEngland.",
+      "computed_correct_option_ids": [
+        11933
+      ],
+      "options": [
+        {
+          "id": 11931,
+          "text": "Scotland"
+        },
+        {
+          "id": 11932,
+          "text": "Wales"
+        },
+        {
+          "id": 11933,
+          "text": "England"
+        },
+        {
+          "id": 11934,
+          "text": "Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 10905,
+      "text": "Which two responsibilities will you have as a British citizen?",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law,look after yourself and your family,respect the rights of others, including their right to their own opinions,treat others with fairness and look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        11943,
+        11944
+      ],
+      "options": [
+        {
+          "id": 11941,
+          "text": "To buy food locally"
+        },
+        {
+          "id": 11942,
+          "text": "To volunteer in a community project at least once a year"
+        },
+        {
+          "id": 11943,
+          "text": "To look after yourself and your family"
+        },
+        {
+          "id": 11944,
+          "text": "To respect the rights of others, including their right to their own opinions"
+        }
+      ]
+    },
+    {
+      "id": 10906,
+      "text": "Who was born in Stratford-upon-Avon?",
+      "explanation": "William Shakespearewas born in Stratford-upon-Avon, England.",
+      "computed_correct_option_ids": [
+        11953
+      ],
+      "options": [
+        {
+          "id": 11951,
+          "text": "Jane Austen"
+        },
+        {
+          "id": 11952,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 11953,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 11954,
+          "text": "Thomas Hardy"
+        }
+      ]
+    },
+    {
+      "id": 10907,
+      "text": "Why is 1928 an important year in women’s voting history?",
+      "explanation": "Women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        11964
+      ],
+      "options": [
+        {
+          "id": 11961,
+          "text": "Women were given the right to vote at the age of 18, the same as men."
+        },
+        {
+          "id": 11962,
+          "text": "Women were given the right to vote at the age of 25."
+        },
+        {
+          "id": 11963,
+          "text": "Women were given the right to vote at the age of 30."
+        },
+        {
+          "id": 11964,
+          "text": "Women were given the right to vote at the age of 21, the same as men."
+        }
+      ]
+    },
+    {
+      "id": 10908,
+      "text": "What does Hogmanay refer to?",
+      "explanation": "In Scotland,the 31st of December (New Year’s Eve)is called Hogmanay.",
+      "computed_correct_option_ids": [
+        11972
+      ],
+      "options": [
+        {
+          "id": 11971,
+          "text": "Christmas Day in Wales"
+        },
+        {
+          "id": 11972,
+          "text": "New Year’s Eve in Scotland"
+        },
+        {
+          "id": 11973,
+          "text": "Christmas Day in Scotland"
+        },
+        {
+          "id": 11974,
+          "text": "New Year’s Eve in Wales"
+        }
+      ]
+    },
+    {
+      "id": 10909,
+      "text": "What is the capital city of Northern Ireland?",
+      "explanation": "The capital city of Northern Ireland isBelfast.",
+      "computed_correct_option_ids": [
+        11983
+      ],
+      "options": [
+        {
+          "id": 11981,
+          "text": "Cork"
+        },
+        {
+          "id": 11982,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 11983,
+          "text": "Belfast"
+        },
+        {
+          "id": 11984,
+          "text": "Dublin"
+        }
+      ]
+    },
+    {
+      "id": 10910,
+      "text": "Which of the following wars took place between 1899 and 1902 in South Africa?",
+      "explanation": "The Boer War.",
+      "computed_correct_option_ids": [
+        11992
+      ],
+      "options": [
+        {
+          "id": 11991,
+          "text": "The Hundred Years War"
+        },
+        {
+          "id": 11992,
+          "text": "The Boer War"
+        },
+        {
+          "id": 11993,
+          "text": "The First World War"
+        },
+        {
+          "id": 11994,
+          "text": "The Crimean War"
+        }
+      ]
+    },
+    {
+      "id": 10911,
+      "text": "Northern Ireland uses a system called ‘individual registration’ and all those entitled to vote must complete their own registration form.",
+      "explanation": "This statement isTrue.",
+      "computed_correct_option_ids": [
+        12001
+      ],
+      "options": [
+        {
+          "id": 12001,
+          "text": "True"
+        },
+        {
+          "id": 12002,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10912,
+      "text": "Which two of the following policies are not controlled by the devolved administrations?",
+      "explanation": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control.However, many other public services, such as education, are controlled by the devolved administrations.",
+      "computed_correct_option_ids": [
+        12013,
+        12014
+      ],
+      "options": [
+        {
+          "id": 12011,
+          "text": "Health"
+        },
+        {
+          "id": 12012,
+          "text": "Education"
+        },
+        {
+          "id": 12013,
+          "text": "Defence"
+        },
+        {
+          "id": 12014,
+          "text": "Immigration"
+        }
+      ]
+    },
+    {
+      "id": 10913,
+      "text": "How old do citizens of the UK, the Irish Republic or the Commonwealth have to be to stand for public office?",
+      "explanation": "Most citizens of the UK, the Irish republic or the Commonwealth aged18 or overcan stand for public office. There are some exceptions, including: members of the armed forces, civil servants and people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        12021
+      ],
+      "options": [
+        {
+          "id": 12021,
+          "text": "18"
+        },
+        {
+          "id": 12022,
+          "text": "21"
+        },
+        {
+          "id": 12023,
+          "text": "16"
+        },
+        {
+          "id": 12024,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 10914,
+      "text": "How did the Government promote policies of free trade during the Victorian Age?",
+      "explanation": "During Victorian times, the government began to promote policies of free trade,abolishing a number of taxes on imported goods. One example of this was the repealing of the Corn Laws in 1846. These had prevented the import of cheap grain. The reforms helped the development of the British industry, because raw materials could now be imported cheaply.",
+      "computed_correct_option_ids": [
+        12031
+      ],
+      "options": [
+        {
+          "id": 12031,
+          "text": "Abolishing a number of taxes on imported goods"
+        },
+        {
+          "id": 12032,
+          "text": "Abolishing the exportation of local produce"
+        },
+        {
+          "id": 12033,
+          "text": "Preventing the importation of cheap raw materials"
+        },
+        {
+          "id": 12034,
+          "text": "Preventing the importation of cheap grain"
+        }
+      ]
+    },
+    {
+      "id": 10915,
+      "text": "Who was Admiral Nelson?",
+      "explanation": "Admiral Nelson wasin charge of the British fleet at the Battle of Trafalgar against the Spanish fleetand was killed in the battle.",
+      "computed_correct_option_ids": [
+        12044
+      ],
+      "options": [
+        {
+          "id": 12041,
+          "text": "One of the tribal leaders who fought against the Romans"
+        },
+        {
+          "id": 12042,
+          "text": "A British officer in charge of the British army at the Battle of Waterloo"
+        },
+        {
+          "id": 12043,
+          "text": "A British general who established the authority of the English Parliament"
+        },
+        {
+          "id": 12044,
+          "text": "A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet"
+        }
+      ]
+    },
+    {
+      "id": 10916,
+      "text": "During the Middle Ages, who were the serfs?",
+      "explanation": "Serfs werepeasants who had a small area of their lord’s land where they could grow food.",
+      "computed_correct_option_ids": [
+        12051
+      ],
+      "options": [
+        {
+          "id": 12051,
+          "text": "Peasants who had a small area of their lord’s agricultural land"
+        },
+        {
+          "id": 12052,
+          "text": "Soldiers who fought at the Battle of Trafalgar"
+        },
+        {
+          "id": 12053,
+          "text": "Noblemen who formed part of the king’s council of advisers"
+        },
+        {
+          "id": 12054,
+          "text": "A group of skilled people from Holland who came to England during the Middle Ages"
+        }
+      ]
+    },
+    {
+      "id": 10917,
+      "text": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+      "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries. Britain was the first country to industrialise on a large scale. It happened because of the development of machinery and the use ofsteam power.",
+      "computed_correct_option_ids": [
+        12062
+      ],
+      "options": [
+        {
+          "id": 12061,
+          "text": "The Radar"
+        },
+        {
+          "id": 12062,
+          "text": "The Steam Power"
+        },
+        {
+          "id": 12063,
+          "text": "The Jet Engine"
+        },
+        {
+          "id": 12064,
+          "text": "The Turing Machine"
+        }
+      ]
+    },
+    {
+      "id": 10918,
+      "text": "MPs can only be contacted by post.",
+      "explanation": "False. You can contact MPs byletter or telephoneat their constituency office, or at their office in the House of Commons. In addition, many MPs, Assembly members, MSPs and MEPs hold regular local ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them.",
+      "computed_correct_option_ids": [
+        12071
+      ],
+      "options": [
+        {
+          "id": 12071,
+          "text": "True"
+        },
+        {
+          "id": 12072,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10919,
+      "text": "What movement challenged the authority of the Pope?",
+      "explanation": "The Reformationwas a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.",
+      "computed_correct_option_ids": [
+        12082
+      ],
+      "options": [
+        {
+          "id": 12081,
+          "text": "The Swinging Sixties"
+        },
+        {
+          "id": 12082,
+          "text": "The Reformation"
+        },
+        {
+          "id": 12083,
+          "text": "The Suffragettes"
+        },
+        {
+          "id": 12084,
+          "text": "The Enlightenment"
+        }
+      ]
+    },
+    {
+      "id": 10920,
+      "text": "What English King introduced the Domesday Book?",
+      "explanation": "William the Conquerorsent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book.",
+      "computed_correct_option_ids": [
+        12093
+      ],
+      "options": [
+        {
+          "id": 12091,
+          "text": "King Henry V"
+        },
+        {
+          "id": 12092,
+          "text": "King Henry IV"
+        },
+        {
+          "id": 12093,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 12094,
+          "text": "Harold, the Saxon king of England"
+        }
+      ]
+    },
+    {
+      "id": 10921,
+      "text": "What did ’the Butler Act’ introduce in 1944?",
+      "explanation": "Richard Austen Butler became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941. In this role, he oversaw the introduction of the Education Act 1944 (often called ‘The Butler Act’), which introducedfree secondary education in England and Wales.",
+      "computed_correct_option_ids": [
+        12104
+      ],
+      "options": [
+        {
+          "id": 12101,
+          "text": "Free primary education in England, Wales and Scotland"
+        },
+        {
+          "id": 12102,
+          "text": "Free university fees in England, Wales, Scotland and Northern Ireland"
+        },
+        {
+          "id": 12103,
+          "text": "Free primary and secondary education in England, Wales and Scotland"
+        },
+        {
+          "id": 12104,
+          "text": "Free secondary education in England and Wales"
+        }
+      ]
+    },
+    {
+      "id": 10922,
+      "text": "What is the small claims procedure?",
+      "explanation": "The small claims procedure isan informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer.",
+      "computed_correct_option_ids": [
+        12111
+      ],
+      "options": [
+        {
+          "id": 12111,
+          "text": "An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer"
+        },
+        {
+          "id": 12112,
+          "text": "A procedure that helps people to make small home insurance claims in certain circumstances"
+        }
+      ]
+    },
+    {
+      "id": 10923,
+      "text": "What building was constructed in Hyde Park to hold the Great Exhibition of 1851?",
+      "explanation": "In 1851, the Great Exhibition opened in Hyde Park inthe Crystal Palace, a huge building made of steel and glass. Exhibits ranged from huge machines to handmade goods.",
+      "computed_correct_option_ids": [
+        12121
+      ],
+      "options": [
+        {
+          "id": 12121,
+          "text": "The Crystal Palace"
+        },
+        {
+          "id": 12122,
+          "text": "Buckingham Palace"
+        },
+        {
+          "id": 12123,
+          "text": "Kensington Palace"
+        },
+        {
+          "id": 12124,
+          "text": "Apsley House"
+        }
+      ]
+    },
+    {
+      "id": 10924,
+      "text": "Who was Florence Nightingale?",
+      "explanation": "Florence Nightingale wasa nurse. She is often regarded asthe founder of modern nursing.",
+      "computed_correct_option_ids": [
+        12133
+      ],
+      "options": [
+        {
+          "id": 12131,
+          "text": "An economist"
+        },
+        {
+          "id": 12132,
+          "text": "A painter"
+        },
+        {
+          "id": 12133,
+          "text": "A nurse"
+        },
+        {
+          "id": 12134,
+          "text": "A poet"
+        }
+      ]
+    }
+  ]
+}

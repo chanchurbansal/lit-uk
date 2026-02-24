@@ -1,0 +1,625 @@
+{
+  "id": 418,
+  "name": "Life in the UK Test 58",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8301,
+      "text": "What characterised the Bronze Age?",
+      "explanation": "During the Bronze Age people lived in roundhouses and buried their dead in tombs called round barrows.",
+      "computed_correct_option_ids": [
+        9302
+      ],
+      "options": [
+        {
+          "id": 9301,
+          "text": "People were farmers who lived in large villages"
+        },
+        {
+          "id": 9302,
+          "text": "People lived in roundhouses and buried their dead in tombs"
+        },
+        {
+          "id": 9303,
+          "text": "People were nomads and hunters"
+        },
+        {
+          "id": 9304,
+          "text": "People started to use plastics"
+        }
+      ]
+    },
+    {
+      "id": 8302,
+      "text": "What name is given to the elected members of the Scottish Parliament?",
+      "explanation": "Elected members of the Scottish Parliament are known as Members of the Scottish Parliament (MSPs).",
+      "computed_correct_option_ids": [
+        9311
+      ],
+      "options": [
+        {
+          "id": 9311,
+          "text": "MSPs"
+        },
+        {
+          "id": 9312,
+          "text": "SMs"
+        },
+        {
+          "id": 9313,
+          "text": "MLAs"
+        },
+        {
+          "id": 9314,
+          "text": "MPs"
+        }
+      ]
+    },
+    {
+      "id": 8303,
+      "text": "Which game do people usually play at Halloween?",
+      "explanation": "During Halloween young people will often dress up in frightening costumes to play‘trick or treat’.",
+      "computed_correct_option_ids": [
+        9322
+      ],
+      "options": [
+        {
+          "id": 9321,
+          "text": "Chess"
+        },
+        {
+          "id": 9322,
+          "text": "Trick or treat"
+        },
+        {
+          "id": 9323,
+          "text": "Hide and seek"
+        },
+        {
+          "id": 9324,
+          "text": "Netball"
+        }
+      ]
+    },
+    {
+      "id": 8304,
+      "text": "The public can listen to debates in the Palace of Westminster from public galleries located in:",
+      "explanation": "The public can listen to debates in the Palace of Westminster from public galleries inboth the House of Commons and the House of Lords.",
+      "computed_correct_option_ids": [
+        9333
+      ],
+      "options": [
+        {
+          "id": 9331,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 9332,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 9333,
+          "text": "Both, the House of Commons and House of Lords"
+        },
+        {
+          "id": 9334,
+          "text": "All of the above are false"
+        }
+      ]
+    },
+    {
+      "id": 8305,
+      "text": "What is the most well-known gallery in Wales?",
+      "explanation": "In the UK, some of the most well-known galleries are The National Gallery, Tate Britain and Tate Modern in London,the National Museumin Cardiff, and the National Gallery of Scotland in Edinburgh.",
+      "computed_correct_option_ids": [
+        9342
+      ],
+      "options": [
+        {
+          "id": 9341,
+          "text": "Tate Britain"
+        },
+        {
+          "id": 9342,
+          "text": "The National Museum"
+        },
+        {
+          "id": 9343,
+          "text": "The National Gallery"
+        },
+        {
+          "id": 9344,
+          "text": "Tate Modern"
+        }
+      ]
+    },
+    {
+      "id": 8306,
+      "text": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from:",
+      "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author fromthe Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968.",
+      "computed_correct_option_ids": [
+        9351
+      ],
+      "options": [
+        {
+          "id": 9351,
+          "text": "The Commonwealth, Ireland or Zimbabwe"
+        },
+        {
+          "id": 9352,
+          "text": "The European Union, Zambia or Zimbabwe"
+        },
+        {
+          "id": 9353,
+          "text": "The Commonwealth, the USA or Australia"
+        },
+        {
+          "id": 9354,
+          "text": "The European Union, Canada or Australia"
+        }
+      ]
+    },
+    {
+      "id": 8307,
+      "text": "Which of the following statements regarding Gaelic language is TRUE?",
+      "explanation": "In Scotland, Gaelic is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic.",
+      "computed_correct_option_ids": [
+        9363
+      ],
+      "options": [
+        {
+          "id": 9361,
+          "text": "In Wales, Gaelic is spoken in some parts of the coast"
+        },
+        {
+          "id": 9362,
+          "text": "In Scotland, Gaelic is spoken everywhere"
+        },
+        {
+          "id": 9363,
+          "text": "In Scotland, Gaelic is spoken in some parts of the Highlands and Islands"
+        },
+        {
+          "id": 9364,
+          "text": "In Wales, Gaelic is the main language"
+        }
+      ]
+    },
+    {
+      "id": 8308,
+      "text": "Participation in community life is a fundamental principle of British life.",
+      "explanation": "The fundamental principles of British life include: participation in community life.",
+      "computed_correct_option_ids": [
+        9371
+      ],
+      "options": [
+        {
+          "id": 9371,
+          "text": "True"
+        },
+        {
+          "id": 9372,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8309,
+      "text": "How many British citizens left the country between 1853 and 1913?",
+      "explanation": "Between 1853 and 1913, as many as13 million British citizensleft the country.",
+      "computed_correct_option_ids": [
+        9382
+      ],
+      "options": [
+        {
+          "id": 9381,
+          "text": "10 million"
+        },
+        {
+          "id": 9382,
+          "text": "13 million"
+        },
+        {
+          "id": 9383,
+          "text": "15 million"
+        },
+        {
+          "id": 9384,
+          "text": "18 million"
+        }
+      ]
+    },
+    {
+      "id": 8310,
+      "text": "Where was the main Olympic site for the 2012 Games?",
+      "explanation": "The main Olympic site for the 2012 Games was inStratford, East London.",
+      "computed_correct_option_ids": [
+        9391
+      ],
+      "options": [
+        {
+          "id": 9391,
+          "text": "Stratford"
+        },
+        {
+          "id": 9392,
+          "text": "Bristol"
+        },
+        {
+          "id": 9393,
+          "text": "Liverpool"
+        },
+        {
+          "id": 9394,
+          "text": "Watford"
+        }
+      ]
+    },
+    {
+      "id": 8311,
+      "text": "Who forms the shadow cabinet?",
+      "explanation": "The leader of the opposition also appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+      "computed_correct_option_ids": [
+        9401
+      ],
+      "options": [
+        {
+          "id": 9401,
+          "text": "Senior opposition MPs appointed by the leader of the opposition"
+        },
+        {
+          "id": 9402,
+          "text": "Junior opposition MPs appointed by the leader of the governing party"
+        },
+        {
+          "id": 9403,
+          "text": "Junior opposition MPs appointed by the leader of the opposition"
+        },
+        {
+          "id": 9404,
+          "text": "Local councillors"
+        }
+      ]
+    },
+    {
+      "id": 8312,
+      "text": "Who directed the movie ‘Brief Encounter’ in 1945?",
+      "explanation": "Brief Encounter (1945) was directed byDavid Lean.",
+      "computed_correct_option_ids": [
+        9414
+      ],
+      "options": [
+        {
+          "id": 9411,
+          "text": "Alfred Hitchcock"
+        },
+        {
+          "id": 9412,
+          "text": "Hugh Hudson"
+        },
+        {
+          "id": 9413,
+          "text": "Carol Reed"
+        },
+        {
+          "id": 9414,
+          "text": "David Lean"
+        }
+      ]
+    },
+    {
+      "id": 8313,
+      "text": "Who was the leader of the English Republic?",
+      "explanation": "Oliver Cromwellwas the leader of the English republic.",
+      "computed_correct_option_ids": [
+        9422
+      ],
+      "options": [
+        {
+          "id": 9421,
+          "text": "King Richard III"
+        },
+        {
+          "id": 9422,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 9423,
+          "text": "Charles II"
+        },
+        {
+          "id": 9424,
+          "text": "Charles I"
+        }
+      ]
+    },
+    {
+      "id": 8314,
+      "text": "According to the 2011 Census, what percentage of the population identified themselves as Hindu?",
+      "explanation": "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%),Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+      "computed_correct_option_ids": [
+        9433
+      ],
+      "options": [
+        {
+          "id": 9431,
+          "text": "0.5%"
+        },
+        {
+          "id": 9432,
+          "text": "1%"
+        },
+        {
+          "id": 9433,
+          "text": "1.5%"
+        },
+        {
+          "id": 9434,
+          "text": "3%"
+        }
+      ]
+    },
+    {
+      "id": 8315,
+      "text": "People in the UK have to pay tax on any earnings from (choose THREE options)?",
+      "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment, profits from self-employment, taxable benefits, pensions and income from property, savings and dividends.",
+      "computed_correct_option_ids": [
+        9441,
+        9442,
+        9444
+      ],
+      "options": [
+        {
+          "id": 9441,
+          "text": "Profits in self-employment"
+        },
+        {
+          "id": 9442,
+          "text": "Income from property, savings and dividends"
+        },
+        {
+          "id": 9443,
+          "text": "Valuable gifts"
+        },
+        {
+          "id": 9444,
+          "text": "Taxable benefits"
+        }
+      ]
+    },
+    {
+      "id": 8316,
+      "text": "How many devolved administrations are there in the UK?",
+      "explanation": "There arethreedevolved administrations in the UK, these include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly.",
+      "computed_correct_option_ids": [
+        9452
+      ],
+      "options": [
+        {
+          "id": 9451,
+          "text": "2"
+        },
+        {
+          "id": 9452,
+          "text": "3"
+        },
+        {
+          "id": 9453,
+          "text": "4"
+        },
+        {
+          "id": 9454,
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "id": 8317,
+      "text": "Who is responsible for interpreting the law and ensuring that trials are conducted fairly?",
+      "explanation": "Judges (who are together called‘the judiciary’) are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+      "computed_correct_option_ids": [
+        9463
+      ],
+      "options": [
+        {
+          "id": 9461,
+          "text": "The government"
+        },
+        {
+          "id": 9462,
+          "text": "The police officers"
+        },
+        {
+          "id": 9463,
+          "text": "The judiciary"
+        },
+        {
+          "id": 9464,
+          "text": "The Prime Minister and the MPs"
+        }
+      ]
+    },
+    {
+      "id": 8318,
+      "text": "How often do people who are 70 years old or over need to renew their driving licence?",
+      "explanation": "Drivers can use their driving licence until they are 70 years old. After that, the licence is valid forthree yearsat a time.",
+      "computed_correct_option_ids": [
+        9473
+      ],
+      "options": [
+        {
+          "id": 9471,
+          "text": "Every year"
+        },
+        {
+          "id": 9472,
+          "text": "Every 2 years"
+        },
+        {
+          "id": 9473,
+          "text": "Every 3 years"
+        },
+        {
+          "id": 9474,
+          "text": "Every 5 years"
+        }
+      ]
+    },
+    {
+      "id": 8319,
+      "text": "Where was Margaret Thatcher born?",
+      "explanation": "Margaret Thatcher was the daughter of a grocer from Grantham inLincolnshire.",
+      "computed_correct_option_ids": [
+        9483
+      ],
+      "options": [
+        {
+          "id": 9481,
+          "text": "Buckinghamshire"
+        },
+        {
+          "id": 9482,
+          "text": "Cheshire"
+        },
+        {
+          "id": 9483,
+          "text": "Lincolnshire"
+        },
+        {
+          "id": 9484,
+          "text": "Bedfordshire"
+        }
+      ]
+    },
+    {
+      "id": 8320,
+      "text": "Where are the Welsh government and the Senedd based?",
+      "explanation": "The Welsh government and Senedd are basedin Cardiff, the capital city of Wales.",
+      "computed_correct_option_ids": [
+        9491
+      ],
+      "options": [
+        {
+          "id": 9491,
+          "text": "In Cardiff"
+        },
+        {
+          "id": 9492,
+          "text": "In Swansea"
+        },
+        {
+          "id": 9493,
+          "text": "In Conwy"
+        },
+        {
+          "id": 9494,
+          "text": "In Llandudno"
+        }
+      ]
+    },
+    {
+      "id": 8321,
+      "text": "Jenson Button is a famous:",
+      "explanation": "Jenson Button is a famousFormula 1 driver.",
+      "computed_correct_option_ids": [
+        9504
+      ],
+      "options": [
+        {
+          "id": 9501,
+          "text": "British poet"
+        },
+        {
+          "id": 9502,
+          "text": "Football player"
+        },
+        {
+          "id": 9503,
+          "text": "Tennis player"
+        },
+        {
+          "id": 9504,
+          "text": "Formula 1 driver"
+        }
+      ]
+    },
+    {
+      "id": 8322,
+      "text": "Who introduced the Statute of Rhuddlan by which Wales was annexed to the Crown of England in 1284?",
+      "explanation": "In 1284King Edward I of Englandintroduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+      "computed_correct_option_ids": [
+        9511
+      ],
+      "options": [
+        {
+          "id": 9511,
+          "text": "King Edward I of England"
+        },
+        {
+          "id": 9512,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 9513,
+          "text": "King Henry V"
+        },
+        {
+          "id": 9514,
+          "text": "William III of England"
+        }
+      ]
+    },
+    {
+      "id": 8323,
+      "text": "When was the Brexit referendum held?",
+      "explanation": "The Brexit referendum was held on23 June 2016.",
+      "computed_correct_option_ids": [
+        9524
+      ],
+      "options": [
+        {
+          "id": 9521,
+          "text": "23rd June 2015"
+        },
+        {
+          "id": 9522,
+          "text": "13th July 2015"
+        },
+        {
+          "id": 9523,
+          "text": "13th July 2016"
+        },
+        {
+          "id": 9524,
+          "text": "23rd June 2016"
+        }
+      ]
+    },
+    {
+      "id": 8324,
+      "text": "In the UK, alcohol cannot be sold to anyone under the age of:",
+      "explanation": "It is a criminal offence to sell alcohol to anyone who isunder 18or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant.",
+      "computed_correct_option_ids": [
+        9532
+      ],
+      "options": [
+        {
+          "id": 9531,
+          "text": "16"
+        },
+        {
+          "id": 9532,
+          "text": "18"
+        },
+        {
+          "id": 9533,
+          "text": "20"
+        },
+        {
+          "id": 9534,
+          "text": "21"
+        }
+      ]
+    }
+  ]
+}

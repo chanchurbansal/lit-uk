@@ -1,0 +1,620 @@
+{
+  "id": 387,
+  "name": "Life in the UK Test 29",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 117,
+      "text": "Who is currently the Head of State of the UK?",
+      "explanation": "King Charles III is the head of state of the UK. He is also the monarch or head of state for many countries in the Commonwealth.",
+      "computed_correct_option_ids": [
+        461
+      ],
+      "options": [
+        {
+          "id": 461,
+          "text": "King Charles III"
+        },
+        {
+          "id": 464,
+          "text": "Prince Charles"
+        },
+        {
+          "id": 463,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 462,
+          "text": "Prince Philip"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "text": "Why was Mary known as 'Bloody Mary'?",
+      "explanation": "Mary was a devout Catholic and persecuted Protestants.",
+      "computed_correct_option_ids": [
+        577
+      ],
+      "options": [
+        {
+          "id": 579,
+          "text": "She killed her father"
+        },
+        {
+          "id": 580,
+          "text": "She put her sister in prison"
+        },
+        {
+          "id": 577,
+          "text": "She persecuted Protestants"
+        },
+        {
+          "id": 578,
+          "text": "She fought in numerous battles"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "text": "What was encouraged to develop the UK economy in 1950?",
+      "explanation": "During the 1950s, there was still a shortage of labour in the UK. Further immigration was therefore encouraged for economic reasons, and many industries advertised for workers from overseas.",
+      "computed_correct_option_ids": [
+        1093
+      ],
+      "options": [
+        {
+          "id": 1096,
+          "text": "Savings Accounts"
+        },
+        {
+          "id": 1093,
+          "text": "Immigration"
+        },
+        {
+          "id": 1094,
+          "text": "Education"
+        },
+        {
+          "id": 1095,
+          "text": "Slave Trade"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "text": "What was the first war to be extensively covered by the media?",
+      "explanation": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War. It was the first war to be extensively covered by the media through news stories and photographs",
+      "computed_correct_option_ids": [
+        1814
+      ],
+      "options": [
+        {
+          "id": 1813,
+          "text": "The Battle Of Britain"
+        },
+        {
+          "id": 1815,
+          "text": "The Battle of Waterloo"
+        },
+        {
+          "id": 1816,
+          "text": "The Battle of Hastings"
+        },
+        {
+          "id": 1814,
+          "text": "The Crimean War"
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "text": "Which of these countries was NOT UK's ally in the WWII?",
+      "explanation": "The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies",
+      "computed_correct_option_ids": [
+        1909
+      ],
+      "options": [
+        {
+          "id": 1910,
+          "text": "Soviet Union"
+        },
+        {
+          "id": 1912,
+          "text": "France"
+        },
+        {
+          "id": 1909,
+          "text": "Japan"
+        },
+        {
+          "id": 1911,
+          "text": "Poland"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "text": "The members of the Armed Forces can stand for Public Office",
+      "explanation": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for Public Office. There are some exceptions, including: members of the armed forces; civil servants; people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        2102
+      ],
+      "options": [
+        {
+          "id": 2102,
+          "text": "False"
+        },
+        {
+          "id": 2101,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "text": "Where is the SECC located?",
+      "explanation": "There are many large venues that host music events throughout the year, such as: Wembley Stadium; The O2 in Greenwich, south-east London; and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.",
+      "computed_correct_option_ids": [
+        2144
+      ],
+      "options": [
+        {
+          "id": 2141,
+          "text": "London"
+        },
+        {
+          "id": 2142,
+          "text": "Wales"
+        },
+        {
+          "id": 2144,
+          "text": "Glasgow"
+        },
+        {
+          "id": 2143,
+          "text": "Swansea"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "text": "People of the Iron Age sometimes defended sites. What were these sites?",
+      "explanation": "People still lived in roundhouses, grouped together into larger settlements, and sometimes defended sites called hill forts. A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+      "computed_correct_option_ids": [
+        2211
+      ],
+      "options": [
+        {
+          "id": 2212,
+          "text": "Round barrows"
+        },
+        {
+          "id": 2211,
+          "text": "Hill forts"
+        },
+        {
+          "id": 2214,
+          "text": "Skara Braes"
+        },
+        {
+          "id": 2213,
+          "text": "Hill barrows"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "text": "What is the capital of Wales?",
+      "explanation": "Cardiff is the capital city of Wales",
+      "computed_correct_option_ids": [
+        2235
+      ],
+      "options": [
+        {
+          "id": 2233,
+          "text": "Swansea"
+        },
+        {
+          "id": 2234,
+          "text": "Belfast"
+        },
+        {
+          "id": 2235,
+          "text": "Cardiff"
+        },
+        {
+          "id": 2236,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "text": "How often are the European Parliament elections held?",
+      "explanation": "Elections for the European Parliament are also held every five years. Elected members are called members of the European Parliament (MEPs). Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won.",
+      "computed_correct_option_ids": [
+        2338
+      ],
+      "options": [
+        {
+          "id": 2338,
+          "text": "5"
+        },
+        {
+          "id": 2336,
+          "text": "3"
+        },
+        {
+          "id": 2335,
+          "text": "1"
+        },
+        {
+          "id": 2337,
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "id": 628,
+      "text": "How is the Church of England often called?",
+      "explanation": "In England, there is a constitutional link between Church and state. The official Church of the state is the Church of England called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States.",
+      "computed_correct_option_ids": [
+        2366
+      ],
+      "options": [
+        {
+          "id": 2366,
+          "text": "The Anglican Church"
+        },
+        {
+          "id": 2368,
+          "text": "The New Age Church"
+        },
+        {
+          "id": 2365,
+          "text": "The Catholic Church"
+        },
+        {
+          "id": 2367,
+          "text": "The Christian Church"
+        }
+      ]
+    },
+    {
+      "id": 638,
+      "text": "What do the Brit Awards celebrate?",
+      "explanation": "The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+      "computed_correct_option_ids": [
+        2401
+      ],
+      "options": [
+        {
+          "id": 2403,
+          "text": "Movies"
+        },
+        {
+          "id": 2404,
+          "text": "Art"
+        },
+        {
+          "id": 2402,
+          "text": "Theatre"
+        },
+        {
+          "id": 2401,
+          "text": "Music"
+        }
+      ]
+    },
+    {
+      "id": 651,
+      "text": "Which TWO houses formed the House of Tudor?",
+      "explanation": "King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII. Henry then married King Richard's niece, Elizabeth of York, and united the two families. Henry was the first king of the House of Tudor. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+      "computed_correct_option_ids": [
+        2443,
+        2446
+      ],
+      "options": [
+        {
+          "id": 2444,
+          "text": "House of Lords"
+        },
+        {
+          "id": 2443,
+          "text": "House of Lancaster"
+        },
+        {
+          "id": 2446,
+          "text": "House of York"
+        },
+        {
+          "id": 2445,
+          "text": "House of Commons"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "text": "Which TWO are famous UK sports stars?",
+      "explanation": "Sir Jackie Stewart (1939-) is a Scottish former racing driver who won the Formula 1 world championship three times. Sir Chris Hoy (1976-) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.",
+      "computed_correct_option_ids": [
+        2549,
+        2550
+      ],
+      "options": [
+        {
+          "id": 2549,
+          "text": "Jackie Stewart"
+        },
+        {
+          "id": 2547,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 2550,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 2548,
+          "text": "Thomas Gainsborough"
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "text": "Which Monarch entered the House of Commons to arrest 5 parliamentary leaders?",
+      "explanation": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.) Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        2691
+      ],
+      "options": [
+        {
+          "id": 2693,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 2694,
+          "text": "James II"
+        },
+        {
+          "id": 2691,
+          "text": "Charles I"
+        },
+        {
+          "id": 2692,
+          "text": "James I"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "text": "Who appoints life peers to the House of Lords?",
+      "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        2751
+      ],
+      "options": [
+        {
+          "id": 2753,
+          "text": "The cabinet"
+        },
+        {
+          "id": 2751,
+          "text": "The monarch"
+        },
+        {
+          "id": 2754,
+          "text": "Their parents/guardians"
+        },
+        {
+          "id": 2752,
+          "text": "The prime minister"
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "text": "Which government was elected in 1945?",
+      "explanation": "Clement Attlee was Winston Churchill's Deputy Prime Minister in the wartime coalition government and became Prime Minister after the Labour Party won the 1945 election. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years. Attlee's government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge's plans for a stronger welfare state.",
+      "computed_correct_option_ids": [
+        2941
+      ],
+      "options": [
+        {
+          "id": 2941,
+          "text": "Labour"
+        },
+        {
+          "id": 2944,
+          "text": "UKIP"
+        },
+        {
+          "id": 2943,
+          "text": "Liberal Democrats"
+        },
+        {
+          "id": 2942,
+          "text": "Conservative"
+        }
+      ]
+    },
+    {
+      "id": 876,
+      "text": "Which TWO are famous British sailors?",
+      "explanation": "A British sailor, Sir Francis Chichester, was the first person to sail single-handed around the world, in 1966/67. Two years later, Sir Robin Knox-Johnston became the first person to do this without stopping.",
+      "computed_correct_option_ids": [
+        3214,
+        3215
+      ],
+      "options": [
+        {
+          "id": 3215,
+          "text": "Sir Robin Knox-Johnston"
+        },
+        {
+          "id": 3216,
+          "text": "Sir Jackie Stewart"
+        },
+        {
+          "id": 3214,
+          "text": "Sir Francis Chichester"
+        },
+        {
+          "id": 3213,
+          "text": "Sir Ian Botham"
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "text": "Which TWO of the following are major horse-racing events in the UK?",
+      "explanation": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        3293,
+        3294
+      ],
+      "options": [
+        {
+          "id": 3296,
+          "text": "The Open Championship"
+        },
+        {
+          "id": 3293,
+          "text": "Scottish Grand National"
+        },
+        {
+          "id": 3294,
+          "text": "Royal Ascot"
+        },
+        {
+          "id": 3295,
+          "text": "Six Nations Championship"
+        }
+      ]
+    },
+    {
+      "id": 942,
+      "text": "Which TWO are associated with a Bank Holiday?",
+      "explanation": "Bank holidays are public holidays, when banks and many other businesses are closed for the day.",
+      "computed_correct_option_ids": [
+        3423,
+        3424
+      ],
+      "options": [
+        {
+          "id": 3424,
+          "text": "A day when most people have an official day off"
+        },
+        {
+          "id": 3423,
+          "text": "A public holiday"
+        },
+        {
+          "id": 3425,
+          "text": "A holiday which is always on a Monday"
+        },
+        {
+          "id": 3426,
+          "text": "A day off for all the banks in the country"
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "text": "Which of the following is a William Wordsworth's poem?",
+      "explanation": "All 4 options are poems, but all written by different poets.(Robert Browning, 1812-89 'Home Thoughts from Abroad'), (Lord Byron, 1788-1824 'She Walks in Beauty'), (William Blake, 1757-1827 'The Tyger'), (William Wordsworth, 1770-1850 'The Daffodils' - 'I wander'd lonely as a cloud, That floats on high o'er vales and hills, When all at once I saw a crowd, A host of golden daffodils').",
+      "computed_correct_option_ids": [
+        3483
+      ],
+      "options": [
+        {
+          "id": 3486,
+          "text": "Home Thoughts from Abroad"
+        },
+        {
+          "id": 3483,
+          "text": "The Daffodils"
+        },
+        {
+          "id": 3484,
+          "text": "She Walks in Beauty"
+        },
+        {
+          "id": 3485,
+          "text": "The Tyger"
+        }
+      ]
+    },
+    {
+      "id": 1025,
+      "text": "Pakistan is part of the Commonwealth",
+      "explanation": "Pakistan is currently part of the Commonwealth",
+      "computed_correct_option_ids": [
+        3707
+      ],
+      "options": [
+        {
+          "id": 3708,
+          "text": "False"
+        },
+        {
+          "id": 3707,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1048,
+      "text": "Which of the following traditional heavy industries were badly affected during the great depression?",
+      "explanation": "The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries - including the automobile and aviation industries - developed.",
+      "computed_correct_option_ids": [
+        3793
+      ],
+      "options": [
+        {
+          "id": 3795,
+          "text": "Automobile"
+        },
+        {
+          "id": 3796,
+          "text": "Railway"
+        },
+        {
+          "id": 3793,
+          "text": "Shipbuilding"
+        },
+        {
+          "id": 3794,
+          "text": "Aviation"
+        }
+      ]
+    },
+    {
+      "id": 1059,
+      "text": "Who is the head of the Church of England?",
+      "explanation": "The monarch is the head of the Church of England. The spiritual leader of the Church of England is the Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        3833
+      ],
+      "options": [
+        {
+          "id": 3836,
+          "text": "The Duke of Edinburgh"
+        },
+        {
+          "id": 3835,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 3833,
+          "text": "The Monarch"
+        },
+        {
+          "id": 3834,
+          "text": "The Pope"
+        }
+      ]
+    }
+  ]
+}

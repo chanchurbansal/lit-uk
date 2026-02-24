@@ -1,0 +1,611 @@
+{
+  "id": 500,
+  "name": "British Citizenship Test 15",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 11501,
+      "text": "Which two languages were used across England during the Middle Ages?",
+      "explanation": "The Middle Ages saw the development of a national culture and identity. After the Norman Conquest, the king and his noblemen had spokenNorman Frenchand the peasants had continued to speakAnglo-Saxon.",
+      "computed_correct_option_ids": [
+        12503,
+        12504
+      ],
+      "options": [
+        {
+          "id": 12501,
+          "text": "Welsh"
+        },
+        {
+          "id": 12502,
+          "text": "Gaelic"
+        },
+        {
+          "id": 12503,
+          "text": "Norman French"
+        },
+        {
+          "id": 12504,
+          "text": "Anglo-Saxon"
+        }
+      ]
+    },
+    {
+      "id": 11502,
+      "text": "In 1776, which British colonies declared their independence because they demanded that there should be ‘no taxation without representation‘.",
+      "explanation": "In 1776, 13North Americancolonies declared their independence, stating that people had a right to establish their own governments.",
+      "computed_correct_option_ids": [
+        12513
+      ],
+      "options": [
+        {
+          "id": 12511,
+          "text": "North African"
+        },
+        {
+          "id": 12512,
+          "text": "Asian"
+        },
+        {
+          "id": 12513,
+          "text": "North American"
+        },
+        {
+          "id": 12514,
+          "text": "South African"
+        }
+      ]
+    },
+    {
+      "id": 11503,
+      "text": "When was England ruled by a republic and not by a monarch?",
+      "explanation": "When Charles I was executed, England declared itself a republic, called the Commonwealth. It no longer had a monarch.",
+      "computed_correct_option_ids": [
+        12522
+      ],
+      "options": [
+        {
+          "id": 12521,
+          "text": "When Elizabeth I died without any successor"
+        },
+        {
+          "id": 12522,
+          "text": "When Charles I was executed"
+        },
+        {
+          "id": 12523,
+          "text": "When the Carta Magna restricted the king’s power"
+        },
+        {
+          "id": 12524,
+          "text": "When kind Harold died after the Battle of Hastings"
+        }
+      ]
+    },
+    {
+      "id": 11504,
+      "text": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+      "explanation": "Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potterand James Bond), have been produced in the UK.",
+      "computed_correct_option_ids": [
+        12531
+      ],
+      "options": [
+        {
+          "id": 12531,
+          "text": "Harry Potter"
+        },
+        {
+          "id": 12532,
+          "text": "Spider-man"
+        },
+        {
+          "id": 12533,
+          "text": "The Lord of the Rings"
+        },
+        {
+          "id": 12534,
+          "text": "Indiana Jones"
+        }
+      ]
+    },
+    {
+      "id": 11505,
+      "text": "When did the first farmers come to Britain?",
+      "explanation": "The first farmers arrived in Britain6,000 years ago.",
+      "computed_correct_option_ids": [
+        12542
+      ],
+      "options": [
+        {
+          "id": 12541,
+          "text": "10,000 years ago"
+        },
+        {
+          "id": 12542,
+          "text": "6,000 years ago"
+        },
+        {
+          "id": 12543,
+          "text": "15,000 years ago"
+        },
+        {
+          "id": 12544,
+          "text": "2,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 11506,
+      "text": "When did the First World War end?",
+      "explanation": "The First World War endedat 11.00 am on 11th November 1918with victory for Britain and its allies.",
+      "computed_correct_option_ids": [
+        12554
+      ],
+      "options": [
+        {
+          "id": 12551,
+          "text": "At 12.00 pm on 11th November 1914"
+        },
+        {
+          "id": 12552,
+          "text": "At 12.00 pm on 11th November 1918"
+        },
+        {
+          "id": 12553,
+          "text": "At 11.00 am on 11th November 1914"
+        },
+        {
+          "id": 12554,
+          "text": "At 11.00 am on 11th November 1918"
+        }
+      ]
+    },
+    {
+      "id": 11507,
+      "text": "Can court orders be obtained to protect a person from being forced into a marriage?",
+      "explanation": "True. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage.",
+      "computed_correct_option_ids": [
+        12561
+      ],
+      "options": [
+        {
+          "id": 12561,
+          "text": "Yes"
+        },
+        {
+          "id": 12562,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 11508,
+      "text": "What medal did Mary Peters win in the 1972 Olympics?",
+      "explanation": "Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who wonan Olympic gold medalin the pentathlon in 1972.",
+      "computed_correct_option_ids": [
+        12573
+      ],
+      "options": [
+        {
+          "id": 12571,
+          "text": "She did not win any medals"
+        },
+        {
+          "id": 12572,
+          "text": "Silver"
+        },
+        {
+          "id": 12573,
+          "text": "Gold"
+        },
+        {
+          "id": 12574,
+          "text": "Bronze"
+        }
+      ]
+    },
+    {
+      "id": 11509,
+      "text": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+      "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front ofup to three specially trained magistrates or a District Judge.",
+      "computed_correct_option_ids": [
+        12581,
+        12582
+      ],
+      "options": [
+        {
+          "id": 12581,
+          "text": "Up to 3 specially trained magistrates"
+        },
+        {
+          "id": 12582,
+          "text": "A District Judge"
+        },
+        {
+          "id": 12583,
+          "text": "A sheriff"
+        },
+        {
+          "id": 12584,
+          "text": "Up to 5 specially trained magistrates"
+        }
+      ]
+    },
+    {
+      "id": 11510,
+      "text": "What was invented by Alan Turing in the 1930s?",
+      "explanation": "ATuring machineis a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s.",
+      "computed_correct_option_ids": [
+        12593
+      ],
+      "options": [
+        {
+          "id": 12591,
+          "text": "The jet engine"
+        },
+        {
+          "id": 12592,
+          "text": "The television"
+        },
+        {
+          "id": 12593,
+          "text": "The Turing machine"
+        },
+        {
+          "id": 12594,
+          "text": "The ball pen"
+        }
+      ]
+    },
+    {
+      "id": 11511,
+      "text": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+      "explanation": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was calledthe Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+      "computed_correct_option_ids": [
+        12601
+      ],
+      "options": [
+        {
+          "id": 12601,
+          "text": "The Domesday Book"
+        },
+        {
+          "id": 12602,
+          "text": "The Book of Common Prayer"
+        },
+        {
+          "id": 12603,
+          "text": "The Canterbury Tales"
+        },
+        {
+          "id": 12604,
+          "text": "The Carta Magna"
+        }
+      ]
+    },
+    {
+      "id": 11512,
+      "text": "Who led a team of scientists to ‘split the atom‘ for the first time?",
+      "explanation": "Scientists led byErnest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom‘ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+      "computed_correct_option_ids": [
+        12613
+      ],
+      "options": [
+        {
+          "id": 12611,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 12612,
+          "text": "Alan Turing"
+        },
+        {
+          "id": 12613,
+          "text": "Ernest Rutherford"
+        },
+        {
+          "id": 12614,
+          "text": "Sir Peter Mansfield"
+        }
+      ]
+    },
+    {
+      "id": 11513,
+      "text": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+      "explanation": "The song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+      "computed_correct_option_ids": [
+        12621
+      ],
+      "options": [
+        {
+          "id": 12621,
+          "text": "Auld Lang Syne"
+        },
+        {
+          "id": 12622,
+          "text": "The British Anthem"
+        },
+        {
+          "id": 12623,
+          "text": "Jingle Bells"
+        },
+        {
+          "id": 12624,
+          "text": "White Christmas"
+        }
+      ]
+    },
+    {
+      "id": 11514,
+      "text": "Who fought in the English Civil war of 1642?",
+      "explanation": "The Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        12633
+      ],
+      "options": [
+        {
+          "id": 12631,
+          "text": "The House of York and the House of Lancaster"
+        },
+        {
+          "id": 12632,
+          "text": "The Anglo-Saxons and the Vikings"
+        },
+        {
+          "id": 12633,
+          "text": "The Cavaliers and the Roundheads"
+        },
+        {
+          "id": 12634,
+          "text": "The House of Fraser and the House of Stuart"
+        }
+      ]
+    },
+    {
+      "id": 11515,
+      "text": "Which two of these forts were part of Hadrian‘s wall?",
+      "explanation": "Parts of Hadrian‘s Wall, include the forts ofHousesteads and Vindolanda.",
+      "computed_correct_option_ids": [
+        12641,
+        12643
+      ],
+      "options": [
+        {
+          "id": 12641,
+          "text": "Vindolanda"
+        },
+        {
+          "id": 12642,
+          "text": "Maiden Castle"
+        },
+        {
+          "id": 12643,
+          "text": "Housesteads"
+        },
+        {
+          "id": 12644,
+          "text": "Grimsby"
+        }
+      ]
+    },
+    {
+      "id": 11516,
+      "text": "What was the religion of the Puritans?",
+      "explanation": "The Puritans were a group ofProtestantswho advocated strict and simple religious doctrine and worship.",
+      "computed_correct_option_ids": [
+        12654
+      ],
+      "options": [
+        {
+          "id": 12651,
+          "text": "Hindu"
+        },
+        {
+          "id": 12652,
+          "text": "Catholic"
+        },
+        {
+          "id": 12653,
+          "text": "Sikh"
+        },
+        {
+          "id": 12654,
+          "text": "Protestant"
+        }
+      ]
+    },
+    {
+      "id": 11517,
+      "text": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+      "explanation": "The Irish Nationalist movement had grown strongly through the 19th century. Some, such asthe Fenians, favoured complete independence.",
+      "computed_correct_option_ids": [
+        12661
+      ],
+      "options": [
+        {
+          "id": 12661,
+          "text": "Fenians"
+        },
+        {
+          "id": 12662,
+          "text": "Quakers"
+        },
+        {
+          "id": 12663,
+          "text": "Highlanders"
+        },
+        {
+          "id": 12664,
+          "text": "Suffragettes"
+        }
+      ]
+    },
+    {
+      "id": 11518,
+      "text": "Which two British pop music groups were famous during the Swinging Sixties?",
+      "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time wereThe BeatlesandThe Rolling Stones.",
+      "computed_correct_option_ids": [
+        12671,
+        12672
+      ],
+      "options": [
+        {
+          "id": 12671,
+          "text": "The Rolling Stones"
+        },
+        {
+          "id": 12672,
+          "text": "The Beatles"
+        },
+        {
+          "id": 12673,
+          "text": "ABBA"
+        },
+        {
+          "id": 12674,
+          "text": "Radiohead"
+        }
+      ]
+    },
+    {
+      "id": 11519,
+      "text": "What is the minimum age required to drive a motorcycle?",
+      "explanation": "In the UK, you must be at least17years to drive a car or motorcycle and you must have a driving licence to drive on public roads.",
+      "computed_correct_option_ids": [
+        12682
+      ],
+      "options": [
+        {
+          "id": 12681,
+          "text": "16 years old"
+        },
+        {
+          "id": 12682,
+          "text": "17 years old"
+        },
+        {
+          "id": 12683,
+          "text": "18 years old"
+        },
+        {
+          "id": 12684,
+          "text": "21 years old"
+        }
+      ]
+    },
+    {
+      "id": 11520,
+      "text": "The members of the House of Lords, known as peers, are elected by the people.",
+      "explanation": "False. The members of the House of Lords, known as peers,are not elected by the people.",
+      "computed_correct_option_ids": [
+        12692
+      ],
+      "options": [
+        {
+          "id": 12691,
+          "text": "True"
+        },
+        {
+          "id": 12692,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11521,
+      "text": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+      "explanation": "In1833the Emancipation Act abolished slavery throughout the British Empire.",
+      "computed_correct_option_ids": [
+        12704
+      ],
+      "options": [
+        {
+          "id": 12701,
+          "text": "1835"
+        },
+        {
+          "id": 12702,
+          "text": "1823"
+        },
+        {
+          "id": 12703,
+          "text": "1807"
+        },
+        {
+          "id": 12704,
+          "text": "1833"
+        }
+      ]
+    },
+    {
+      "id": 11522,
+      "text": "Who is responsible for crime, policing and immigration?",
+      "explanation": "The Home Secretaryis responsible for crime, policing and immigration.",
+      "computed_correct_option_ids": [
+        12714
+      ],
+      "options": [
+        {
+          "id": 12711,
+          "text": "The Chancellor of the Exchequer"
+        },
+        {
+          "id": 12712,
+          "text": "The Foreign Secretary"
+        },
+        {
+          "id": 12713,
+          "text": "The Speaker"
+        },
+        {
+          "id": 12714,
+          "text": "The Home Secretary"
+        }
+      ]
+    },
+    {
+      "id": 11523,
+      "text": "What kind of genre was the film Wallace and Gromit created by Nick Park?",
+      "explanation": "Nick Park won four Oscars for hisanimated films, including three for films featuring Wallace and Gromit.",
+      "computed_correct_option_ids": [
+        12723
+      ],
+      "options": [
+        {
+          "id": 12721,
+          "text": "A soap opera"
+        },
+        {
+          "id": 12722,
+          "text": "A silent movie"
+        },
+        {
+          "id": 12723,
+          "text": "An animated film"
+        },
+        {
+          "id": 12724,
+          "text": "An action film"
+        }
+      ]
+    },
+    {
+      "id": 11524,
+      "text": "Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.",
+      "explanation": "True. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.",
+      "computed_correct_option_ids": [
+        12731
+      ],
+      "options": [
+        {
+          "id": 12731,
+          "text": "True"
+        },
+        {
+          "id": 12732,
+          "text": "False"
+        }
+      ]
+    }
+  ]
+}

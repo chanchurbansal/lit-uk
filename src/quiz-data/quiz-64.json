@@ -1,0 +1,623 @@
+{
+  "id": 424,
+  "name": "Life in the UK Test 64",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8901,
+      "text": "How often are the general elections held in the UK?",
+      "explanation": "MPs are elected at a General Election, which is held at leastevery five years.",
+      "computed_correct_option_ids": [
+        9904
+      ],
+      "options": [
+        {
+          "id": 9901,
+          "text": "Every year"
+        },
+        {
+          "id": 9902,
+          "text": "Every 2 years"
+        },
+        {
+          "id": 9903,
+          "text": "Every 4 years"
+        },
+        {
+          "id": 9904,
+          "text": "Every 5 years"
+        }
+      ]
+    },
+    {
+      "id": 8902,
+      "text": "Where is the Grand National horse racing event celebrated?",
+      "explanation": "The Grand National horse racing event is celebratedin Aintreenear Liverpool.",
+      "computed_correct_option_ids": [
+        9912
+      ],
+      "options": [
+        {
+          "id": 9911,
+          "text": "In London"
+        },
+        {
+          "id": 9912,
+          "text": "In Aintree"
+        },
+        {
+          "id": 9913,
+          "text": "In Bedford"
+        },
+        {
+          "id": 9914,
+          "text": "In Slough"
+        }
+      ]
+    },
+    {
+      "id": 8903,
+      "text": "What was Charles Chaplin famous for?",
+      "explanation": "Sir Charles (Charlie) Chaplin became famous insilent moviesfor his tramp character and was one of many British actors to make a career in Hollywood.",
+      "computed_correct_option_ids": [
+        9923
+      ],
+      "options": [
+        {
+          "id": 9921,
+          "text": "Special effects movies"
+        },
+        {
+          "id": 9922,
+          "text": "Horror movies"
+        },
+        {
+          "id": 9923,
+          "text": "Silent movies"
+        },
+        {
+          "id": 9924,
+          "text": "Murder-mystery movies"
+        }
+      ]
+    },
+    {
+      "id": 8904,
+      "text": "What was Boudicca, the queen of the Iceni in what is now eastern England, known for?",
+      "explanation": "One of the tribal leaders whofought against the Romanswas Boudicca, the queen of the Iceni in what is now eastern England.",
+      "computed_correct_option_ids": [
+        9932
+      ],
+      "options": [
+        {
+          "id": 9931,
+          "text": "Her rebellion against the Vikings"
+        },
+        {
+          "id": 9932,
+          "text": "Her rebellion against the Romans"
+        },
+        {
+          "id": 9933,
+          "text": "Her rebellion against the Normans"
+        },
+        {
+          "id": 9934,
+          "text": "Her rebellion against the Anglo-Saxons"
+        }
+      ]
+    },
+    {
+      "id": 8905,
+      "text": "What percentage of the British population has a parent or grandparent born outside of the UK as a result of post-war immigration?",
+      "explanation": "Post-war immigration means thatnearly 10% of the populationhas a parent or grandparent born outside the UK.",
+      "computed_correct_option_ids": [
+        9942
+      ],
+      "options": [
+        {
+          "id": 9941,
+          "text": "Nearly 5% of the population"
+        },
+        {
+          "id": 9942,
+          "text": "Nearly 10% of the population"
+        },
+        {
+          "id": 9943,
+          "text": "Nearly 15% of the population"
+        },
+        {
+          "id": 9944,
+          "text": "Nearly 25% of the population"
+        }
+      ]
+    },
+    {
+      "id": 8906,
+      "text": "When was the hovercraft invented?",
+      "explanation": "Sir Christopher Cockerell (1910-99), a British inventor, invented the hovercraftin the 1950s.",
+      "computed_correct_option_ids": [
+        9954
+      ],
+      "options": [
+        {
+          "id": 9951,
+          "text": "In the 1920s"
+        },
+        {
+          "id": 9952,
+          "text": "In the 1930s"
+        },
+        {
+          "id": 9953,
+          "text": "In the 1940s"
+        },
+        {
+          "id": 9954,
+          "text": "In the 1950s"
+        }
+      ]
+    },
+    {
+      "id": 8907,
+      "text": "Who is the author of the famous play ‘Macbeth’?",
+      "explanation": "Macbeth is a famous play byWilliam Shakespeare.",
+      "computed_correct_option_ids": [
+        9962
+      ],
+      "options": [
+        {
+          "id": 9961,
+          "text": "Alexander Thomas"
+        },
+        {
+          "id": 9962,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 9963,
+          "text": "Harold Pinter"
+        },
+        {
+          "id": 9964,
+          "text": "Evelyn Waugh"
+        }
+      ]
+    },
+    {
+      "id": 8908,
+      "text": "What animal was cloned by scientists Sir Ian Wilmot and Keith Campbell?",
+      "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly thesheep.",
+      "computed_correct_option_ids": [
+        9974
+      ],
+      "options": [
+        {
+          "id": 9971,
+          "text": "A cow"
+        },
+        {
+          "id": 9972,
+          "text": "A rabbit"
+        },
+        {
+          "id": 9973,
+          "text": "A cat"
+        },
+        {
+          "id": 9974,
+          "text": "A sheep"
+        }
+      ]
+    },
+    {
+      "id": 8909,
+      "text": "What is the name of the building where the Northern Ireland Assembly meet?",
+      "explanation": "The Northern Ireland Assembly building is known asStormont.",
+      "computed_correct_option_ids": [
+        9984
+      ],
+      "options": [
+        {
+          "id": 9981,
+          "text": "Westminster"
+        },
+        {
+          "id": 9982,
+          "text": "Holyrood"
+        },
+        {
+          "id": 9983,
+          "text": "Senedd"
+        },
+        {
+          "id": 9984,
+          "text": "Stormont"
+        }
+      ]
+    },
+    {
+      "id": 8910,
+      "text": "Which of the following is NOT a function of the House of Lords?",
+      "explanation": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.",
+      "computed_correct_option_ids": [
+        9994
+      ],
+      "options": [
+        {
+          "id": 9991,
+          "text": "Suggest amendments to existing laws"
+        },
+        {
+          "id": 9992,
+          "text": "Check laws that have been passed by the House of Commons"
+        },
+        {
+          "id": 9993,
+          "text": "Propose new laws"
+        },
+        {
+          "id": 9994,
+          "text": "Cancel existing laws"
+        }
+      ]
+    },
+    {
+      "id": 8911,
+      "text": "Which of the following is NOT a World Heritage Site?",
+      "explanation": "The London Eyeis not a World Heritage Site.",
+      "computed_correct_option_ids": [
+        10001
+      ],
+      "options": [
+        {
+          "id": 10001,
+          "text": "The London Eye"
+        },
+        {
+          "id": 10002,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 10003,
+          "text": "The forts of Housesteads and Vindolanda"
+        },
+        {
+          "id": 10004,
+          "text": "The Houses of Parliament"
+        }
+      ]
+    },
+    {
+      "id": 8912,
+      "text": "Which famous murder-mystery play has been running in the west end since 1952 and has had the longest initial run of any show in history?",
+      "explanation": "The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the west end since 1952 and has had the longest initial run of any show in history.",
+      "computed_correct_option_ids": [
+        10012
+      ],
+      "options": [
+        {
+          "id": 10011,
+          "text": "The Phantom of the Opera"
+        },
+        {
+          "id": 10012,
+          "text": "The Mousetrap"
+        },
+        {
+          "id": 10013,
+          "text": "Evita"
+        },
+        {
+          "id": 10014,
+          "text": "Jesus Christ Superstar"
+        }
+      ]
+    },
+    {
+      "id": 8913,
+      "text": "When was the Giant’s Causeway formed?",
+      "explanation": "The Giant’s Causeway was formed about50 million years ago.",
+      "computed_correct_option_ids": [
+        10023
+      ],
+      "options": [
+        {
+          "id": 10021,
+          "text": "20 million years ago"
+        },
+        {
+          "id": 10022,
+          "text": "40 million years ago"
+        },
+        {
+          "id": 10023,
+          "text": "50 million years ago"
+        },
+        {
+          "id": 10024,
+          "text": "15 million years ago"
+        }
+      ]
+    },
+    {
+      "id": 8914,
+      "text": "Who was the first person to sail single-handed around the world without stopping?",
+      "explanation": "A British sailor, Sir Francis Chichester, was the first person to sail singlehanded around the world, in 1966/67. Two years later,Sir Robin Knox- Johnstonbecame the first person to do this without stopping.",
+      "computed_correct_option_ids": [
+        10033
+      ],
+      "options": [
+        {
+          "id": 10031,
+          "text": "Sir Francis Drake"
+        },
+        {
+          "id": 10032,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 10033,
+          "text": "Sir Robin Knox-Johnston"
+        },
+        {
+          "id": 10034,
+          "text": "Sir Francis Chichester"
+        }
+      ]
+    },
+    {
+      "id": 8915,
+      "text": "What British writer created the fictional detective Sherlock Holmes?",
+      "explanation": "Sir Arthur Conan Doylewas a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives.",
+      "computed_correct_option_ids": [
+        10043
+      ],
+      "options": [
+        {
+          "id": 10041,
+          "text": "Sir Kingsley Amis"
+        },
+        {
+          "id": 10042,
+          "text": "Robert Louis Stevenson"
+        },
+        {
+          "id": 10043,
+          "text": "Sir Arthur Conan Doyle"
+        },
+        {
+          "id": 10044,
+          "text": "Jane Austen"
+        }
+      ]
+    },
+    {
+      "id": 8916,
+      "text": "How can you visit the  Senedd?",
+      "explanation": "To book guided tours or seats in the public galleries for the Senedd you cancontact the Senedd Booking Serviceon 0300 200 6565, email contact@senedd.wales or visit www.senedd.wales for an online booking form.",
+      "computed_correct_option_ids": [
+        10052
+      ],
+      "options": [
+        {
+          "id": 10051,
+          "text": "Contacting the Education Service"
+        },
+        {
+          "id": 10052,
+          "text": "Contacting the Senedd Booking Service"
+        },
+        {
+          "id": 10053,
+          "text": "Contacting an MP"
+        },
+        {
+          "id": 10054,
+          "text": "Contacting an MLA"
+        }
+      ]
+    },
+    {
+      "id": 8917,
+      "text": "How were Elizabeth I and ‘Mary, Queen of Scots’ related?",
+      "explanation": "‘Mary, Queen of Scots’ was Elizabeth I’s cousin.",
+      "computed_correct_option_ids": [
+        10061
+      ],
+      "options": [
+        {
+          "id": 10061,
+          "text": "They were cousins"
+        },
+        {
+          "id": 10062,
+          "text": "They were sisters"
+        },
+        {
+          "id": 10063,
+          "text": "They were mother and daughter"
+        },
+        {
+          "id": 10064,
+          "text": "They were not related"
+        }
+      ]
+    },
+    {
+      "id": 8918,
+      "text": "Choose the correct answer. The Middle Ages were:",
+      "explanation": "The Middle Ages (or the medieval period) was a time of almostconstant war.",
+      "computed_correct_option_ids": [
+        10073
+      ],
+      "options": [
+        {
+          "id": 10071,
+          "text": "A period of peace in Britain"
+        },
+        {
+          "id": 10072,
+          "text": "A period where liberal ideas were introduced in Britain"
+        },
+        {
+          "id": 10073,
+          "text": "A period of constant war"
+        },
+        {
+          "id": 10074,
+          "text": "A period where new ideas about politics and philosophy were introduced in Britain"
+        }
+      ]
+    },
+    {
+      "id": 8919,
+      "text": "What does the NATO stand for?",
+      "explanation": "NATO stands forThe North Atlantic Treaty Organisation.",
+      "computed_correct_option_ids": [
+        10083
+      ],
+      "options": [
+        {
+          "id": 10081,
+          "text": "The North American Transparent Organisation"
+        },
+        {
+          "id": 10082,
+          "text": "The North Atlantic Trust Organisation"
+        },
+        {
+          "id": 10083,
+          "text": "The North Atlantic Treaty Organisation"
+        },
+        {
+          "id": 10084,
+          "text": "The North American Treaty Organisation"
+        }
+      ]
+    },
+    {
+      "id": 8920,
+      "text": "What characterised the people from the Bronze Age?",
+      "explanation": "The people of the Bronze Agewere accomplished metalworkerswho made many beautiful objects in bronze and gold, including tools, ornaments and weapons.",
+      "computed_correct_option_ids": [
+        10091
+      ],
+      "options": [
+        {
+          "id": 10091,
+          "text": "They were accomplished metalworkers"
+        },
+        {
+          "id": 10092,
+          "text": "They were farmers who lived in large villages"
+        },
+        {
+          "id": 10093,
+          "text": "They were nomads and hunters"
+        },
+        {
+          "id": 10094,
+          "text": "They were divided into clans"
+        }
+      ]
+    },
+    {
+      "id": 8921,
+      "text": "Where is the National Horseracing Museum located?",
+      "explanation": "The National Horseracing Museum is located inNewmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        10101
+      ],
+      "options": [
+        {
+          "id": 10101,
+          "text": "In Newmarket, Suffolk"
+        },
+        {
+          "id": 10102,
+          "text": "In St Andrews, Scotland"
+        },
+        {
+          "id": 10103,
+          "text": "In Richmond, London"
+        },
+        {
+          "id": 10104,
+          "text": "In Aintree, near Liverpool"
+        }
+      ]
+    },
+    {
+      "id": 8922,
+      "text": "In which of the following matters the Scottish Parliament CANNOT legislate?",
+      "explanation": "The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning and additional tax-raising powers.",
+      "computed_correct_option_ids": [
+        10113
+      ],
+      "options": [
+        {
+          "id": 10111,
+          "text": "Health"
+        },
+        {
+          "id": 10112,
+          "text": "Education"
+        },
+        {
+          "id": 10113,
+          "text": "Immigration"
+        },
+        {
+          "id": 10114,
+          "text": "Planning"
+        }
+      ]
+    },
+    {
+      "id": 8923,
+      "text": "Which of the following is a popular showcase of mainly theatre and comedy performances and the biggest and most well-known festival that takes place during the Edinburgh Festival?",
+      "explanation": "The Fringeis a showcase of mainly theatre and comedy performances. It often shows experimental work.The biggest and most well-known being the Edinburgh Festival Fringe.",
+      "computed_correct_option_ids": [
+        10122
+      ],
+      "options": [
+        {
+          "id": 10121,
+          "text": "The Proms"
+        },
+        {
+          "id": 10122,
+          "text": "The Fringe"
+        },
+        {
+          "id": 10123,
+          "text": "The Festival of Lights"
+        },
+        {
+          "id": 10124,
+          "text": "The Aldeburgh Festival"
+        }
+      ]
+    },
+    {
+      "id": 8924,
+      "text": "Does Britain have a constitutional monarchy?",
+      "explanation": "The UK has a constitutional monarchy.",
+      "computed_correct_option_ids": [
+        10131
+      ],
+      "options": [
+        {
+          "id": 10131,
+          "text": "Yes"
+        },
+        {
+          "id": 10132,
+          "text": "No"
+        }
+      ]
+    }
+  ]
+}

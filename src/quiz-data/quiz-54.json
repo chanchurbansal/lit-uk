@@ -1,0 +1,608 @@
+{
+  "id": 414,
+  "name": "Life in the UK Test 54",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7901,
+      "text": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+      "explanation": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed withthe names of Iron Age kings.",
+      "computed_correct_option_ids": [
+        8902
+      ],
+      "options": [
+        {
+          "id": 8901,
+          "text": "Celtic symbols"
+        },
+        {
+          "id": 8902,
+          "text": "The names of Iron Age Kings"
+        },
+        {
+          "id": 8903,
+          "text": "Drawings of animals"
+        },
+        {
+          "id": 8904,
+          "text": "The names of medicine plants"
+        }
+      ]
+    },
+    {
+      "id": 7902,
+      "text": "What name is given to the Church of England in Scotland and the United States?",
+      "explanation": "The Church of England is calledthe Episcopal Churchin Scotland and the United States.",
+      "computed_correct_option_ids": [
+        8913
+      ],
+      "options": [
+        {
+          "id": 8911,
+          "text": "The Main Church"
+        },
+        {
+          "id": 8912,
+          "text": "The King’s Church"
+        },
+        {
+          "id": 8913,
+          "text": "The Episcopal Church"
+        },
+        {
+          "id": 8914,
+          "text": "The Catholic Church"
+        }
+      ]
+    },
+    {
+      "id": 7903,
+      "text": "Who directed the movie ‘Four Weddings and a Funeral’ in 1994?",
+      "explanation": "Four Weddings and a Funeral (1994) was directed byMike Newell.",
+      "computed_correct_option_ids": [
+        8921
+      ],
+      "options": [
+        {
+          "id": 8921,
+          "text": "Mike Newell"
+        },
+        {
+          "id": 8922,
+          "text": "Hugh Hudson"
+        },
+        {
+          "id": 8923,
+          "text": "Kevin MacDonald"
+        },
+        {
+          "id": 8924,
+          "text": "Nicolas Roeg"
+        }
+      ]
+    },
+    {
+      "id": 7904,
+      "text": "What was the population of the UK in 1951?",
+      "explanation": "The population of the UK in 1951 was50 millionpeople.",
+      "computed_correct_option_ids": [
+        8934
+      ],
+      "options": [
+        {
+          "id": 8931,
+          "text": "20 million"
+        },
+        {
+          "id": 8932,
+          "text": "40 million"
+        },
+        {
+          "id": 8933,
+          "text": "35 million"
+        },
+        {
+          "id": 8934,
+          "text": "50 million"
+        }
+      ]
+    },
+    {
+      "id": 7905,
+      "text": "Which TWO religions celebrate Diwali?",
+      "explanation": "Diwali is celebrated byHindus and Sikhs. It normally falls in October or November and lasts for five days. It is also often called the Festival of Lights.",
+      "computed_correct_option_ids": [
+        8943,
+        8944
+      ],
+      "options": [
+        {
+          "id": 8941,
+          "text": "Buddhist"
+        },
+        {
+          "id": 8942,
+          "text": "Muslim"
+        },
+        {
+          "id": 8943,
+          "text": "Hindu"
+        },
+        {
+          "id": 8944,
+          "text": "Sikh"
+        }
+      ]
+    },
+    {
+      "id": 7906,
+      "text": "Which of the following statements is true?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
+      "computed_correct_option_ids": [
+        8951
+      ],
+      "options": [
+        {
+          "id": 8951,
+          "text": "Proceedings in Parliament are broadcast on television and published in official reports"
+        },
+        {
+          "id": 8952,
+          "text": "Proceedings in Parliament are not broadcast on television but published in official reports"
+        },
+        {
+          "id": 8953,
+          "text": "Proceedings in Parliament are broadcast on the radio and not published in official reports"
+        },
+        {
+          "id": 8954,
+          "text": "Proceedings in Parliament are broadcast on the radio only"
+        }
+      ]
+    },
+    {
+      "id": 7907,
+      "text": "In Northern Ireland, a newly qualified driver must display an R plate for one year after passing the test.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        8961
+      ],
+      "options": [
+        {
+          "id": 8961,
+          "text": "True"
+        },
+        {
+          "id": 8962,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7908,
+      "text": "When did Emmeline Pankhurst set up the women’s Franchise League, which fought to get the vote in local elections for married women?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU).",
+      "computed_correct_option_ids": [
+        8972
+      ],
+      "options": [
+        {
+          "id": 8971,
+          "text": "1880"
+        },
+        {
+          "id": 8972,
+          "text": "1889"
+        },
+        {
+          "id": 8973,
+          "text": "1890"
+        },
+        {
+          "id": 8974,
+          "text": "1899"
+        }
+      ]
+    },
+    {
+      "id": 7909,
+      "text": "How many ski centres are there in Scotland?",
+      "explanation": "There arefiveski centres in Scotland, as well as Europe’s longest dry ski slope near Edinburgh.",
+      "computed_correct_option_ids": [
+        8982
+      ],
+      "options": [
+        {
+          "id": 8981,
+          "text": "4"
+        },
+        {
+          "id": 8982,
+          "text": "5"
+        },
+        {
+          "id": 8983,
+          "text": "6"
+        },
+        {
+          "id": 8984,
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "id": 7910,
+      "text": "The public can listen to debates in the Palace of Westminster from public galleries in the House of Commons but not in the House of Lords:",
+      "explanation": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.",
+      "computed_correct_option_ids": [
+        8992
+      ],
+      "options": [
+        {
+          "id": 8991,
+          "text": "True"
+        },
+        {
+          "id": 8992,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7911,
+      "text": "Which is the oldest tennis tournament in the world?",
+      "explanation": "The most famous tournament hosted in Britain isThe Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass.",
+      "computed_correct_option_ids": [
+        9004
+      ],
+      "options": [
+        {
+          "id": 9001,
+          "text": "The Australian open"
+        },
+        {
+          "id": 9002,
+          "text": "The U.S. Open"
+        },
+        {
+          "id": 9003,
+          "text": "Roland Garros"
+        },
+        {
+          "id": 9004,
+          "text": "The Wimbledon Championships"
+        }
+      ]
+    },
+    {
+      "id": 7912,
+      "text": "Which of the following is a British invention of the 20th century?",
+      "explanation": "TheHarrier jump jet, an aircraft capable of taking off vertically, is a British invention of the 20th century.",
+      "computed_correct_option_ids": [
+        9011
+      ],
+      "options": [
+        {
+          "id": 9011,
+          "text": "The Harrier jump jet"
+        },
+        {
+          "id": 9012,
+          "text": "Radon"
+        },
+        {
+          "id": 9013,
+          "text": "Paraffin wax"
+        },
+        {
+          "id": 9014,
+          "text": "The lightbulb"
+        }
+      ]
+    },
+    {
+      "id": 7913,
+      "text": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        9021
+      ],
+      "options": [
+        {
+          "id": 9021,
+          "text": "True"
+        },
+        {
+          "id": 9022,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7914,
+      "text": "During the 17th century there were two main groups in Parliament, which were known as:",
+      "explanation": "During the 17th century there were two main groups in Parliament, known asthe Whigs and the Tories.",
+      "computed_correct_option_ids": [
+        9031
+      ],
+      "options": [
+        {
+          "id": 9031,
+          "text": "The Whigs and the Tories"
+        },
+        {
+          "id": 9032,
+          "text": "The Liberal Democrats and the Labour Party"
+        },
+        {
+          "id": 9033,
+          "text": "The lefties and the right wing"
+        },
+        {
+          "id": 9034,
+          "text": "The Conservative Party and the Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "id": 7915,
+      "text": "Where is the ‘Eden Project’ located?",
+      "explanation": "The Eden Project is located inCornwall, in the south west of England.",
+      "computed_correct_option_ids": [
+        9041
+      ],
+      "options": [
+        {
+          "id": 9041,
+          "text": "Cornwall"
+        },
+        {
+          "id": 9042,
+          "text": "Devon"
+        },
+        {
+          "id": 9043,
+          "text": "Doncaster"
+        },
+        {
+          "id": 9044,
+          "text": "Dublin"
+        }
+      ]
+    },
+    {
+      "id": 7916,
+      "text": "When was the Women’s Social and Political Union (WSPU) established?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In1903she helped found the Women’s Social and Political Union (WSPU).",
+      "computed_correct_option_ids": [
+        9054
+      ],
+      "options": [
+        {
+          "id": 9051,
+          "text": "1889"
+        },
+        {
+          "id": 9052,
+          "text": "1901"
+        },
+        {
+          "id": 9053,
+          "text": "1899"
+        },
+        {
+          "id": 9054,
+          "text": "1903"
+        }
+      ]
+    },
+    {
+      "id": 7917,
+      "text": "Which of the following is a traditional food from Northern Ireland?",
+      "explanation": "Ulster fry– a fried meal with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread – is a traditional food from Northern Ireland.",
+      "computed_correct_option_ids": [
+        9064
+      ],
+      "options": [
+        {
+          "id": 9061,
+          "text": "Roast beef"
+        },
+        {
+          "id": 9062,
+          "text": "Haggis"
+        },
+        {
+          "id": 9063,
+          "text": "Sausage casserole"
+        },
+        {
+          "id": 9064,
+          "text": "Ulster fry"
+        }
+      ]
+    },
+    {
+      "id": 7918,
+      "text": "Who is the author of the murder mystery play ‘The Mousetrap’?",
+      "explanation": "The Mousetrap, a murder-mystery play byDame Agatha Christie, has been running in the west end since 1952 and has had the longest initial run of any show in history.",
+      "computed_correct_option_ids": [
+        9073
+      ],
+      "options": [
+        {
+          "id": 9071,
+          "text": "Tim Rice"
+        },
+        {
+          "id": 9072,
+          "text": "Andrew Lloyd Webber"
+        },
+        {
+          "id": 9073,
+          "text": "Dame Agatha Christie"
+        },
+        {
+          "id": 9074,
+          "text": "Gilbert and Sullivan"
+        }
+      ]
+    },
+    {
+      "id": 7919,
+      "text": "Under which Act was the United Kingdom of Great Britain and Northern Ireland created?",
+      "explanation": "In 1801, Ireland became unified with England, Scotland and Wales afterthe Act of Unionof 1800. This created the United Kingdom of Great Britain and Ireland.",
+      "computed_correct_option_ids": [
+        9081
+      ],
+      "options": [
+        {
+          "id": 9081,
+          "text": "The Act of Union"
+        },
+        {
+          "id": 9082,
+          "text": "The Great Act"
+        },
+        {
+          "id": 9083,
+          "text": "The United Kingdom Act"
+        },
+        {
+          "id": 9084,
+          "text": "The Act of Great Britain"
+        }
+      ]
+    },
+    {
+      "id": 7920,
+      "text": "When was the voting age reduced to 18 for men and women?",
+      "explanation": "In1969, the voting age was reduced to 18 for men and women.",
+      "computed_correct_option_ids": [
+        9092
+      ],
+      "options": [
+        {
+          "id": 9091,
+          "text": "1965"
+        },
+        {
+          "id": 9092,
+          "text": "1969"
+        },
+        {
+          "id": 9093,
+          "text": "1919"
+        },
+        {
+          "id": 9094,
+          "text": "1929"
+        }
+      ]
+    },
+    {
+      "id": 7921,
+      "text": "When is April Fool’s Day?",
+      "explanation": "April Fool’s Day is on the1st of April.",
+      "computed_correct_option_ids": [
+        9101
+      ],
+      "options": [
+        {
+          "id": 9101,
+          "text": "1st of April"
+        },
+        {
+          "id": 9102,
+          "text": "13th of April"
+        },
+        {
+          "id": 9103,
+          "text": "30th of April"
+        },
+        {
+          "id": 9104,
+          "text": "5th of April"
+        }
+      ]
+    },
+    {
+      "id": 7922,
+      "text": "Where is the city of Bradford located?",
+      "explanation": "Bradford is located inEngland.",
+      "computed_correct_option_ids": [
+        9111
+      ],
+      "options": [
+        {
+          "id": 9111,
+          "text": "In England"
+        },
+        {
+          "id": 9112,
+          "text": "In Scotland"
+        },
+        {
+          "id": 9113,
+          "text": "In Wales"
+        },
+        {
+          "id": 9114,
+          "text": "In Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 7923,
+      "text": "Which flag comprises a red cross on a white ground?",
+      "explanation": "The cross of St George, patron saint of England, is a red cross on a white ground.",
+      "computed_correct_option_ids": [
+        9124
+      ],
+      "options": [
+        {
+          "id": 9121,
+          "text": "The cross of St Andrew, patron saint of Scotland"
+        },
+        {
+          "id": 9122,
+          "text": "The cross of St David, patron saint of Wales"
+        },
+        {
+          "id": 9123,
+          "text": "The cross of St Patrick, patron saint of Ireland"
+        },
+        {
+          "id": 9124,
+          "text": "The cross of St George, patron saint of England"
+        }
+      ]
+    },
+    {
+      "id": 7924,
+      "text": "When did the first farmers arrive in Britain?",
+      "explanation": "The first farmers arrived in Britain6,000 years ago.",
+      "computed_correct_option_ids": [
+        9131
+      ],
+      "options": [
+        {
+          "id": 9131,
+          "text": "6,000 years ago"
+        },
+        {
+          "id": 9132,
+          "text": "7,000 years ago"
+        },
+        {
+          "id": 9133,
+          "text": "8,000 years ago"
+        },
+        {
+          "id": 9134,
+          "text": "10,000 years ago"
+        }
+      ]
+    }
+  ]
+}

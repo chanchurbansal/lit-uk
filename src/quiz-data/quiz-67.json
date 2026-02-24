@@ -1,0 +1,602 @@
+{
+  "id": 427,
+  "name": "Life in the UK Test 67",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9201,
+      "text": "What was the name of Sir Francis Drake’s ship and which was one of the first to sail around the world?",
+      "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship,the Golden Hind, was one of the first to sail right around (‘circumnavigate’) the world.",
+      "computed_correct_option_ids": [
+        10202
+      ],
+      "options": [
+        {
+          "id": 10201,
+          "text": "The Golden Eye"
+        },
+        {
+          "id": 10202,
+          "text": "The Golden Hind"
+        },
+        {
+          "id": 10203,
+          "text": "Elizabeth"
+        },
+        {
+          "id": 10204,
+          "text": "The Sharp"
+        }
+      ]
+    },
+    {
+      "id": 9202,
+      "text": "To whom do new citizens have to swear or affirm loyalty as part of the citizenship ceremony?",
+      "explanation": "New citizens swear or affirm loyalty tothe Kingas part of the citizenship ceremony.",
+      "computed_correct_option_ids": [
+        10213
+      ],
+      "options": [
+        {
+          "id": 10211,
+          "text": "The Pope"
+        },
+        {
+          "id": 10212,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 10213,
+          "text": "The King"
+        },
+        {
+          "id": 10214,
+          "text": "The Church of England"
+        }
+      ]
+    },
+    {
+      "id": 9203,
+      "text": "Why did Henry VIII marry Anne of Cleves?",
+      "explanation": "Henry married Anne of Clevesfor political reasonsbut divorced her soon after.",
+      "computed_correct_option_ids": [
+        10222
+      ],
+      "options": [
+        {
+          "id": 10221,
+          "text": "He was deeply in love"
+        },
+        {
+          "id": 10222,
+          "text": "For political reasons"
+        },
+        {
+          "id": 10223,
+          "text": "For her fortune"
+        },
+        {
+          "id": 10224,
+          "text": "She was expecting a child"
+        }
+      ]
+    },
+    {
+      "id": 9204,
+      "text": "How many Formula 1 Grand Prix events are held in the UK every year?",
+      "explanation": "A Formula 1 Grand Prix event is held in the UK each yearand a number of British Grand Prix drivers have won the Formula 1 World Championship.",
+      "computed_correct_option_ids": [
+        10231
+      ],
+      "options": [
+        {
+          "id": 10231,
+          "text": "One"
+        },
+        {
+          "id": 10232,
+          "text": "Two"
+        },
+        {
+          "id": 10233,
+          "text": "Three"
+        },
+        {
+          "id": 10234,
+          "text": "Four"
+        }
+      ]
+    },
+    {
+      "id": 9205,
+      "text": "How can you visit the UK Parliament (choose TWO options)?",
+      "explanation": "To visit the UK Parliament, you can write to your local MP in advance to ask for tickets or you can Queue on the day at the public entrance.",
+      "computed_correct_option_ids": [
+        10242,
+        10243
+      ],
+      "options": [
+        {
+          "id": 10241,
+          "text": "Arranging a tour through the visitor services"
+        },
+        {
+          "id": 10242,
+          "text": "Writing to your local MP to ask for tickets"
+        },
+        {
+          "id": 10243,
+          "text": "Queueing on the day at the public entrance"
+        },
+        {
+          "id": 10244,
+          "text": "Contacting an MSP"
+        }
+      ]
+    },
+    {
+      "id": 9206,
+      "text": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership:",
+      "explanation": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership.",
+      "computed_correct_option_ids": [
+        10251
+      ],
+      "options": [
+        {
+          "id": 10251,
+          "text": "True"
+        },
+        {
+          "id": 10252,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9207,
+      "text": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK and shops and businesses are obliged to accept them:",
+      "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However,shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        10261
+      ],
+      "options": [
+        {
+          "id": 10261,
+          "text": "True"
+        },
+        {
+          "id": 10262,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9208,
+      "text": "How many American colonies declared their independence in 1776, stating that people had a right to establish their own governments?",
+      "explanation": "In 1776,13 American coloniesdeclared their independence, stating that people had a right to establish their own governments.",
+      "computed_correct_option_ids": [
+        10273
+      ],
+      "options": [
+        {
+          "id": 10271,
+          "text": "11"
+        },
+        {
+          "id": 10272,
+          "text": "12"
+        },
+        {
+          "id": 10273,
+          "text": "13"
+        },
+        {
+          "id": 10274,
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "id": 9209,
+      "text": "Which TWO words come from the Viking language?",
+      "explanation": "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the Danelaw (many place names there, such asGrimsby and Scunthorpecome from the Viking languages).",
+      "computed_correct_option_ids": [
+        10281,
+        10282
+      ],
+      "options": [
+        {
+          "id": 10281,
+          "text": "Grimsby"
+        },
+        {
+          "id": 10282,
+          "text": "Scunthorpe"
+        },
+        {
+          "id": 10283,
+          "text": "Thunderstorm"
+        },
+        {
+          "id": 10284,
+          "text": "Butterfly"
+        }
+      ]
+    },
+    {
+      "id": 9210,
+      "text": "Which of the following drugs is NOT illegal in the UK?",
+      "explanation": "Drugs such as heroin, cocaine, ecstasy and cannabis are illegal in the UK.",
+      "computed_correct_option_ids": [
+        10294
+      ],
+      "options": [
+        {
+          "id": 10291,
+          "text": "Cannabis"
+        },
+        {
+          "id": 10292,
+          "text": "Cocaine"
+        },
+        {
+          "id": 10293,
+          "text": "Ecstasy"
+        },
+        {
+          "id": 10294,
+          "text": "All of the above are illegal"
+        }
+      ]
+    },
+    {
+      "id": 9211,
+      "text": "How is the Speaker elected?",
+      "explanation": "The Speaker is chosenby other MPs in a secret ballot.",
+      "computed_correct_option_ids": [
+        10301
+      ],
+      "options": [
+        {
+          "id": 10301,
+          "text": "By other MPs in a secret ballot"
+        },
+        {
+          "id": 10302,
+          "text": "By the members of the House of Lords by proportional representation"
+        },
+        {
+          "id": 10303,
+          "text": "By the members of the House of Commons in a public ballot"
+        },
+        {
+          "id": 10304,
+          "text": "By the Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 9212,
+      "text": "Which TWO of the following are traditional British foods?",
+      "explanation": "Roast beef and fish and chipsare traditional British foods.",
+      "computed_correct_option_ids": [
+        10313,
+        10314
+      ],
+      "options": [
+        {
+          "id": 10311,
+          "text": "Pasta carbonara"
+        },
+        {
+          "id": 10312,
+          "text": "Green curry"
+        },
+        {
+          "id": 10313,
+          "text": "Roast Beef"
+        },
+        {
+          "id": 10314,
+          "text": "Fish and Chips"
+        }
+      ]
+    },
+    {
+      "id": 9213,
+      "text": "When was the Northern Ireland Parliament established for the first time?",
+      "explanation": "A Northern Ireland Parliament was established in1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969.",
+      "computed_correct_option_ids": [
+        10321
+      ],
+      "options": [
+        {
+          "id": 10321,
+          "text": "In 1922"
+        },
+        {
+          "id": 10322,
+          "text": "In 1932"
+        },
+        {
+          "id": 10323,
+          "text": "In 1925"
+        },
+        {
+          "id": 10324,
+          "text": "In 1928"
+        }
+      ]
+    },
+    {
+      "id": 9214,
+      "text": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        10331
+      ],
+      "options": [
+        {
+          "id": 10331,
+          "text": "True"
+        },
+        {
+          "id": 10332,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9215,
+      "text": "The ‘swinging sixties’ was a period of significant social change and it was known for its growth in:",
+      "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth inBritish fashion, cinema and popular music.",
+      "computed_correct_option_ids": [
+        10341
+      ],
+      "options": [
+        {
+          "id": 10341,
+          "text": "British fashion, cinema and popular music"
+        },
+        {
+          "id": 10342,
+          "text": "The Punk movement"
+        },
+        {
+          "id": 10343,
+          "text": "English literature and comedy"
+        },
+        {
+          "id": 10344,
+          "text": "The ownership of cars"
+        }
+      ]
+    },
+    {
+      "id": 9216,
+      "text": "What is the name given to the system used to deal with children and young people who have committed an offence in Scotland?",
+      "explanation": "In Scotland a system calledthe Children’s Hearings Systemis used to deal with children and young people who have committed an offence.",
+      "computed_correct_option_ids": [
+        10351
+      ],
+      "options": [
+        {
+          "id": 10351,
+          "text": "The Children’s Hearings System"
+        },
+        {
+          "id": 10352,
+          "text": "The Youth Court System"
+        },
+        {
+          "id": 10353,
+          "text": "The Sheriff Court for Young Children"
+        },
+        {
+          "id": 10354,
+          "text": "The Young’s System"
+        }
+      ]
+    },
+    {
+      "id": 9217,
+      "text": "Which prehistoric village located in northern Europe has helped archaeologists to understand more about how people live near the end of the Stone Age?",
+      "explanation": "Skara Braeon Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+      "computed_correct_option_ids": [
+        10364
+      ],
+      "options": [
+        {
+          "id": 10361,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 10362,
+          "text": "Scunthorpe"
+        },
+        {
+          "id": 10363,
+          "text": "Danelaw"
+        },
+        {
+          "id": 10364,
+          "text": "Skara Brae"
+        }
+      ]
+    },
+    {
+      "id": 9218,
+      "text": "During the Middle Ages, a Parliament was developed in Scotland, which had three Houses called Estates. These were:",
+      "explanation": "The Parliament developed in Scotland in the Middle Ages had three Houses, called Estates:the lords, the commons and the clergy.",
+      "computed_correct_option_ids": [
+        10371
+      ],
+      "options": [
+        {
+          "id": 10371,
+          "text": "The lords, the commons and the clergy"
+        },
+        {
+          "id": 10372,
+          "text": "The lords, the commons and the farmers"
+        },
+        {
+          "id": 10373,
+          "text": "The farmers, the blacksmiths and the clergy"
+        },
+        {
+          "id": 10374,
+          "text": "The farmers, the blacksmiths and the teachers"
+        }
+      ]
+    },
+    {
+      "id": 9219,
+      "text": "Which landscape architect designed grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes?",
+      "explanation": "In the 18th century,Lancelot ‘Capability’ Browndesigned the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often worked with Edwin Lutyens to design colourful gardens around the houses he designed.",
+      "computed_correct_option_ids": [
+        10382
+      ],
+      "options": [
+        {
+          "id": 10381,
+          "text": "Clarice Cliff"
+        },
+        {
+          "id": 10382,
+          "text": "Lancelot ‘Capability’ Brown"
+        },
+        {
+          "id": 10383,
+          "text": "Alexander McQueen"
+        },
+        {
+          "id": 10384,
+          "text": "Vivienne Westwood"
+        }
+      ]
+    },
+    {
+      "id": 9220,
+      "text": "Which of the following scientific discoveries helped the progress of the Industrial Revolution?",
+      "explanation": "Scientific discoveries, such as James Watt’s work onsteam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        10393
+      ],
+      "options": [
+        {
+          "id": 10391,
+          "text": "Penicillin"
+        },
+        {
+          "id": 10392,
+          "text": "The aeroplane"
+        },
+        {
+          "id": 10393,
+          "text": "Steam power"
+        },
+        {
+          "id": 10394,
+          "text": "The lightbulb"
+        }
+      ]
+    },
+    {
+      "id": 9221,
+      "text": "What is the function of the UN Security Council?",
+      "explanation": "The UN Security Council, whichrecommends action when there are international crises and threats to peace.",
+      "computed_correct_option_ids": [
+        10401
+      ],
+      "options": [
+        {
+          "id": 10401,
+          "text": "Recommend action when there are international crises and threats to peace"
+        },
+        {
+          "id": 10402,
+          "text": "Recommend humanitarian action when there are natural disasters"
+        },
+        {
+          "id": 10403,
+          "text": "Protect and promote human rights"
+        },
+        {
+          "id": 10404,
+          "text": "Promote international trade relationships"
+        }
+      ]
+    },
+    {
+      "id": 9222,
+      "text": "Who were the parents of Elizabeth I?",
+      "explanation": "Henry VIII and Anne Boleynwere the parents of Elizabeth I.",
+      "computed_correct_option_ids": [
+        10411
+      ],
+      "options": [
+        {
+          "id": 10411,
+          "text": "Henry VIII and Anne Boleyn"
+        },
+        {
+          "id": 10412,
+          "text": "Henry VII and Anne of Cleves"
+        },
+        {
+          "id": 10413,
+          "text": "Henry VIII and Catherine of Aragon"
+        },
+        {
+          "id": 10414,
+          "text": "Henry VII and Catherine Howard"
+        }
+      ]
+    },
+    {
+      "id": 9223,
+      "text": "The Isle of Man is a Crown dependency.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        10421
+      ],
+      "options": [
+        {
+          "id": 10421,
+          "text": "True"
+        },
+        {
+          "id": 10422,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9224,
+      "text": "Which of the following charities works for the prevention of cruelty to children?",
+      "explanation": "TheNSPCCis the National Society for the Prevention of Cruelty to Children.",
+      "computed_correct_option_ids": [
+        10433
+      ],
+      "options": [
+        {
+          "id": 10431,
+          "text": "PDSA"
+        },
+        {
+          "id": 10432,
+          "text": "RSPB"
+        },
+        {
+          "id": 10433,
+          "text": "NSPCC"
+        },
+        {
+          "id": 10434,
+          "text": "Crisis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "id": 395,
+  "name": "Life in the UK Test 37",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7,
+      "text": "Which charity works to preserve important buildings?",
+      "explanation": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+      "computed_correct_option_ids": [
+        23
+      ],
+      "options": [
+        {
+          "id": 24,
+          "text": "Age UK"
+        },
+        {
+          "id": 23,
+          "text": "The National Trust"
+        },
+        {
+          "id": 26,
+          "text": "The Red Cross"
+        },
+        {
+          "id": 25,
+          "text": "NSPCC"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "What is the capital of England?",
+      "explanation": "London is the capital city of England and the United Kingdom.",
+      "computed_correct_option_ids": [
+        44
+      ],
+      "options": [
+        {
+          "id": 44,
+          "text": "London"
+        },
+        {
+          "id": 43,
+          "text": "Belfast"
+        },
+        {
+          "id": 46,
+          "text": "Cardiff"
+        },
+        {
+          "id": 45,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Who became Prime Minister during WWII?",
+      "explanation": "Hitler invaded Poland and took control of Belgium and the Netherlands. At this time of national crisis, Winston Churchill became Prime Minister.",
+      "computed_correct_option_ids": [
+        121
+      ],
+      "options": [
+        {
+          "id": 121,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 122,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 123,
+          "text": "Robert Walpole"
+        },
+        {
+          "id": 124,
+          "text": "Tony Blair"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "When is Boxing Day?",
+      "explanation": "Boxing Day (26th of December) is the day after Christmas Day (25th of December) and is a public holiday.",
+      "computed_correct_option_ids": [
+        261
+      ],
+      "options": [
+        {
+          "id": 261,
+          "text": "The day after Christmas Day"
+        },
+        {
+          "id": 262,
+          "text": "The day before Christmas Day"
+        },
+        {
+          "id": 263,
+          "text": "The day before Easter"
+        },
+        {
+          "id": 264,
+          "text": "The day after Easter"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "What is the capital of Wales?",
+      "explanation": "Cardiff is the capital of Wales.",
+      "computed_correct_option_ids": [
+        329
+      ],
+      "options": [
+        {
+          "id": 329,
+          "text": "Cardiff"
+        },
+        {
+          "id": 330,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 331,
+          "text": "London"
+        },
+        {
+          "id": 332,
+          "text": "Belfast"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "Where are the most serious civil cases heard in England and Wales?",
+      "explanation": "More serious civil cases - for example, when a large amount of compensation is being claimed - are dealt with in the High Court in England, Wales and Northern Ireland.",
+      "computed_correct_option_ids": [
+        369
+      ],
+      "options": [
+        {
+          "id": 372,
+          "text": "Sheriff Court"
+        },
+        {
+          "id": 369,
+          "text": "High Court"
+        },
+        {
+          "id": 371,
+          "text": "Crown Court"
+        },
+        {
+          "id": 370,
+          "text": "The Court of Session"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "text": "Where is the Millennium Stadium located?",
+      "explanation": "Sporting events take place at major stadiums such as Wembley Stadium in London and the Millennium Stadium in Cardiff.",
+      "computed_correct_option_ids": [
+        549
+      ],
+      "options": [
+        {
+          "id": 552,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 549,
+          "text": "Cardiff"
+        },
+        {
+          "id": 550,
+          "text": "London"
+        },
+        {
+          "id": 551,
+          "text": "Manchester"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "text": "What event is known as the evacuation of 300,000 people from the beaches?",
+      "explanation": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+      "computed_correct_option_ids": [
+        717
+      ],
+      "options": [
+        {
+          "id": 718,
+          "text": "The Battle of Britain"
+        },
+        {
+          "id": 717,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 720,
+          "text": "The Blitz spirit"
+        },
+        {
+          "id": 719,
+          "text": "D-Day"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "text": "Which river banks the London eye?",
+      "explanation": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK's celebration of the new millennium and continues to be an important part of New Year celebrations.",
+      "computed_correct_option_ids": [
+        745
+      ],
+      "options": [
+        {
+          "id": 747,
+          "text": "Trent"
+        },
+        {
+          "id": 746,
+          "text": "Severn"
+        },
+        {
+          "id": 745,
+          "text": "Thames"
+        },
+        {
+          "id": 748,
+          "text": "Wye"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "text": "How many years did Charles I try to rule without Parliament?",
+      "explanation": "For 11 years, Charles I found ways in which to raise money without Parliament's approval but eventually trouble in Scotland meant that he had to recall Parliament.",
+      "computed_correct_option_ids": [
+        1069
+      ],
+      "options": [
+        {
+          "id": 1072,
+          "text": "20"
+        },
+        {
+          "id": 1071,
+          "text": "16"
+        },
+        {
+          "id": 1070,
+          "text": "14"
+        },
+        {
+          "id": 1069,
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "text": "When did the first Christian communities begin to appear in Britain?",
+      "explanation": "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain.",
+      "computed_correct_option_ids": [
+        1538
+      ],
+      "options": [
+        {
+          "id": 1539,
+          "text": "4th and 5th centuries"
+        },
+        {
+          "id": 1540,
+          "text": "5th and 6th centuries"
+        },
+        {
+          "id": 1537,
+          "text": "2nd and 3rd centuries"
+        },
+        {
+          "id": 1538,
+          "text": "3rd and 4th centuries"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "text": "Where are the most serious criminal cases in Scotland heard at?",
+      "explanation": "The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+      "computed_correct_option_ids": [
+        1668
+      ],
+      "options": [
+        {
+          "id": 1666,
+          "text": "Sheriff Court"
+        },
+        {
+          "id": 1667,
+          "text": "Crown Court"
+        },
+        {
+          "id": 1668,
+          "text": "High Court"
+        },
+        {
+          "id": 1665,
+          "text": "Court of Session"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "text": "Clans lost a lot of their power and influence after which event?",
+      "explanation": "The clans lost a lot of their power and influence after the Battle of Culloden (1746). Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
+      "computed_correct_option_ids": [
+        1757
+      ],
+      "options": [
+        {
+          "id": 1759,
+          "text": "The Battle of Agincourt"
+        },
+        {
+          "id": 1760,
+          "text": "The Crimean War"
+        },
+        {
+          "id": 1757,
+          "text": "The Battle of Culloden"
+        },
+        {
+          "id": 1758,
+          "text": "The Battle of Trafalgar"
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "text": "Where in Scotland is known as the home of golf?",
+      "explanation": "Game of golf can be traced back to 15th century Scotland. It is a popular sport played socially as well as professionally. There are public and private golf courses all over the UK. St Andrews in Scotland is known as the home of golf.",
+      "computed_correct_option_ids": [
+        2293
+      ],
+      "options": [
+        {
+          "id": 2296,
+          "text": "Inverness"
+        },
+        {
+          "id": 2295,
+          "text": "Glasgow"
+        },
+        {
+          "id": 2294,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 2293,
+          "text": "St Andrews"
+        }
+      ]
+    },
+    {
+      "id": 635,
+      "text": "Which of the following was written by Lord Byron?",
+      "explanation": "She Walks in Beauty is a short poem by Lord Byron",
+      "computed_correct_option_ids": [
+        2392
+      ],
+      "options": [
+        {
+          "id": 2394,
+          "text": "Anthem for Doomed Youth"
+        },
+        {
+          "id": 2393,
+          "text": "The Daffodils"
+        },
+        {
+          "id": 2392,
+          "text": "She Walks in Beauty"
+        },
+        {
+          "id": 2391,
+          "text": "The Tyger"
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "text": "Who gets appointed by local authorities to be the ceremonial leader of the council?",
+      "explanation": "Many local authorities appoint a mayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.",
+      "computed_correct_option_ids": [
+        2426
+      ],
+      "options": [
+        {
+          "id": 2428,
+          "text": "Teamleader"
+        },
+        {
+          "id": 2427,
+          "text": "MP"
+        },
+        {
+          "id": 2426,
+          "text": "Mayor"
+        },
+        {
+          "id": 2425,
+          "text": "Council leader"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "text": "Which country (or colony) did NOT gain its independence from the British Empire in 1947?",
+      "explanation": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean (e.g. The British West Indies) and the Pacific achieved independence over the next 20 years.",
+      "computed_correct_option_ids": [
+        2830
+      ],
+      "options": [
+        {
+          "id": 2828,
+          "text": "India"
+        },
+        {
+          "id": 2830,
+          "text": "The British West Indies"
+        },
+        {
+          "id": 2827,
+          "text": "Sri Lanka"
+        },
+        {
+          "id": 2829,
+          "text": "Pakistan"
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "text": "What language did the peasants speak after the Norman conquest?",
+      "explanation": "The Middle Ages saw the development of a national culture and identity. After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+      "computed_correct_option_ids": [
+        2969
+      ],
+      "options": [
+        {
+          "id": 2972,
+          "text": "Gaelic"
+        },
+        {
+          "id": 2971,
+          "text": "English"
+        },
+        {
+          "id": 2969,
+          "text": "Anglo Saxon"
+        },
+        {
+          "id": 2970,
+          "text": "Norman French"
+        }
+      ]
+    },
+    {
+      "id": 858,
+      "text": "EastEnders and Coronation Street are popular soap operas.",
+      "explanation": "British television shows a wide variety of programmes. Popular programmes include regular soap operas such as Coronation Street and EastEnders.",
+      "computed_correct_option_ids": [
+        3151
+      ],
+      "options": [
+        {
+          "id": 3152,
+          "text": "False"
+        },
+        {
+          "id": 3151,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 859,
+      "text": "Which TWO are used in making an Ulster fry?",
+      "explanation": "Ulster fry - a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+      "computed_correct_option_ids": [
+        3153,
+        3154
+      ],
+      "options": [
+        {
+          "id": 3154,
+          "text": "Sausage"
+        },
+        {
+          "id": 3153,
+          "text": "Bacon"
+        },
+        {
+          "id": 3156,
+          "text": "Oatmeal"
+        },
+        {
+          "id": 3155,
+          "text": "Beef"
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "text": "In 1998, what was the estimated population of the UK?",
+      "explanation": "(1951, 50 million), (1998, 57 million), (2005, Just under 60 million), (2010, Just over 62 million)",
+      "computed_correct_option_ids": [
+        3231
+      ],
+      "options": [
+        {
+          "id": 3231,
+          "text": "57 million"
+        },
+        {
+          "id": 3229,
+          "text": "75 million"
+        },
+        {
+          "id": 3230,
+          "text": "42 million"
+        },
+        {
+          "id": 3232,
+          "text": "62 million"
+        }
+      ]
+    },
+    {
+      "id": 895,
+      "text": "Mary Stuart, often now called Mary Queen of Scots was a Protestant",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen",
+      "computed_correct_option_ids": [
+        3278
+      ],
+      "options": [
+        {
+          "id": 3278,
+          "text": "False"
+        },
+        {
+          "id": 3277,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 985,
+      "text": "Which TWO are some of the key roles of Governors and school boards?",
+      "explanation": "Governors and school boards have an important part to play in raising school standards. They have three key roles: setting the strategic direction of the school; ensuring accountability; monitoring and evaluating school performance.",
+      "computed_correct_option_ids": [
+        3563,
+        3564
+      ],
+      "options": [
+        {
+          "id": 3566,
+          "text": "Monitoring expenses"
+        },
+        {
+          "id": 3563,
+          "text": "Evaluating school performance"
+        },
+        {
+          "id": 3564,
+          "text": "Setting the strategic direction"
+        },
+        {
+          "id": 3565,
+          "text": "Looking after school's finances"
+        }
+      ]
+    },
+    {
+      "id": 1044,
+      "text": "Which of the following flowers represents England?",
+      "explanation": "The national flower of England is the Rose.",
+      "computed_correct_option_ids": [
+        3779
+      ],
+      "options": [
+        {
+          "id": 3779,
+          "text": "Rose"
+        },
+        {
+          "id": 3781,
+          "text": "Daffodil"
+        },
+        {
+          "id": 3782,
+          "text": "Thistle"
+        },
+        {
+          "id": 3780,
+          "text": "Shamrock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "id": 380,
+  "name": "Life in the UK Test 22",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 18,
+      "text": "Where is the Cenotaph located?",
+      "explanation": "The Cenotaph can be visited in London in Whitehall.",
+      "computed_correct_option_ids": [
+        67
+      ],
+      "options": [
+        {
+          "id": 67,
+          "text": "Whitehall"
+        },
+        {
+          "id": 70,
+          "text": "Wiltshire"
+        },
+        {
+          "id": 69,
+          "text": "Dorset"
+        },
+        {
+          "id": 68,
+          "text": "Trafalgar Square"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "What proportion of the population died because of the Black Death?",
+      "explanation": "One third of the population of England and a similar proportion in Scotland and Wales died because of the Black Death.",
+      "computed_correct_option_ids": [
+        213
+      ],
+      "options": [
+        {
+          "id": 216,
+          "text": "One half"
+        },
+        {
+          "id": 213,
+          "text": "One third"
+        },
+        {
+          "id": 214,
+          "text": "One fourth"
+        },
+        {
+          "id": 215,
+          "text": "One fifth"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "text": "How long does it take to give blood?",
+      "explanation": "Donated blood is used by hospitals to help people with a wide range of injuries and illnesses, it takes about an hour to do so.",
+      "computed_correct_option_ids": [
+        661
+      ],
+      "options": [
+        {
+          "id": 663,
+          "text": "20 minutes"
+        },
+        {
+          "id": 661,
+          "text": "1 hour"
+        },
+        {
+          "id": 662,
+          "text": "10 minutes"
+        },
+        {
+          "id": 664,
+          "text": "2 hours"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "text": "What country is Swansea in?",
+      "explanation": "Swansea is a Welsh city.",
+      "computed_correct_option_ids": [
+        721
+      ],
+      "options": [
+        {
+          "id": 722,
+          "text": "England"
+        },
+        {
+          "id": 724,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 723,
+          "text": "Scotland"
+        },
+        {
+          "id": 721,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "text": "How is the New Year often called in Scotland?",
+      "explanation": "Known in Scotland as 'The Bard', Robert Burns was a Scottish poet. His best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland).",
+      "computed_correct_option_ids": [
+        905
+      ],
+      "options": [
+        {
+          "id": 908,
+          "text": "Second Christmas"
+        },
+        {
+          "id": 905,
+          "text": "Hogmanay"
+        },
+        {
+          "id": 906,
+          "text": "New Year"
+        },
+        {
+          "id": 907,
+          "text": "New Year's eve"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "text": "What did the Magna Carta do?",
+      "explanation": "The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king's power to collect taxes or to make or change laws.",
+      "computed_correct_option_ids": [
+        981
+      ],
+      "options": [
+        {
+          "id": 983,
+          "text": "Introduced Christianity"
+        },
+        {
+          "id": 984,
+          "text": "Allowed to collect taxes"
+        },
+        {
+          "id": 982,
+          "text": "Introduced Democracy"
+        },
+        {
+          "id": 981,
+          "text": "Restricted King's power"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "text": "Which of these is known as West End in London?",
+      "explanation": "There are theatres in most towns and cities throughout the UK, ranging from the large to the small. London's West End, also known as 'Theatreland', is particularly well known.",
+      "computed_correct_option_ids": [
+        1057
+      ],
+      "options": [
+        {
+          "id": 1058,
+          "text": "Playland"
+        },
+        {
+          "id": 1057,
+          "text": "Theatreland"
+        },
+        {
+          "id": 1060,
+          "text": "Actland"
+        },
+        {
+          "id": 1059,
+          "text": "Actorland"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "text": "The King James' Bible is a new translation of the Bible into English",
+      "explanation": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+      "computed_correct_option_ids": [
+        1641
+      ],
+      "options": [
+        {
+          "id": 1641,
+          "text": "True"
+        },
+        {
+          "id": 1642,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "text": "For which TWO subjects are the Secretaries of State responsible?",
+      "explanation": "Secretaries of State are responsible for subjects such as education, health and defence.",
+      "computed_correct_option_ids": [
+        1687,
+        1688
+      ],
+      "options": [
+        {
+          "id": 1687,
+          "text": "Education"
+        },
+        {
+          "id": 1688,
+          "text": "Defence"
+        },
+        {
+          "id": 1689,
+          "text": "Economy"
+        },
+        {
+          "id": 1690,
+          "text": "Policing"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "text": "Which TWO kings believed in the 'Divine Right of Kings'?",
+      "explanation": "James I and his son Charles I were less skilled politically. Both believed in the 'Divine Right of Kings': the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament.",
+      "computed_correct_option_ids": [
+        1745,
+        1747
+      ],
+      "options": [
+        {
+          "id": 1746,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 1747,
+          "text": "Charles I"
+        },
+        {
+          "id": 1748,
+          "text": "William of Orange"
+        },
+        {
+          "id": 1745,
+          "text": "James I"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "text": "Which TWO of these aircrafts were used by Britain in WWII?",
+      "explanation": "The most important planes used by the Royal Air Force in the Battle of Britain(1940) were the Spitfire and the Hurricane - which were designed and built in Britain.",
+      "computed_correct_option_ids": [
+        1769,
+        1772
+      ],
+      "options": [
+        {
+          "id": 1771,
+          "text": "F-22"
+        },
+        {
+          "id": 1770,
+          "text": "Mig-21"
+        },
+        {
+          "id": 1769,
+          "text": "Hurricane"
+        },
+        {
+          "id": 1772,
+          "text": "Spitfire"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "text": "During Queen Elizabeth I's reign the English (1588) defeated a large fleet of ships. Where did the ships come from?",
+      "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        1789
+      ],
+      "options": [
+        {
+          "id": 1787,
+          "text": "France"
+        },
+        {
+          "id": 1790,
+          "text": "Spain and France"
+        },
+        {
+          "id": 1789,
+          "text": "Spain"
+        },
+        {
+          "id": 1788,
+          "text": "Netherlands"
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "text": "People don't celebrate Christmas as much as they used to before",
+      "explanation": "Christmas remains very popular in the UK. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
+      "computed_correct_option_ids": [
+        2288
+      ],
+      "options": [
+        {
+          "id": 2287,
+          "text": "True"
+        },
+        {
+          "id": 2288,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 633,
+      "text": "Which TWO British Actors have recently won Oscars?",
+      "explanation": "British actors continue to be popular and continue to win awards throughout the world. Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+      "computed_correct_option_ids": [
+        2385,
+        2386
+      ],
+      "options": [
+        {
+          "id": 2383,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 2384,
+          "text": "Simon Cowell"
+        },
+        {
+          "id": 2385,
+          "text": "Dame Judi Dench"
+        },
+        {
+          "id": 2386,
+          "text": "Kate Winslet"
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "text": "Which of these statements is correct?",
+      "explanation": "Most citizens of the UK, the Irish Republic or the Commonwealth aged 18 or over can stand for Public Office. There are some exceptions, including: members of the armed forces; civil servants; people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        2413
+      ],
+      "options": [
+        {
+          "id": 2414,
+          "text": "People found guilty of all criminal offences cannot stand for Public Office"
+        },
+        {
+          "id": 2413,
+          "text": "People found guilty of certain criminal offences cannot stand for Public Office"
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "text": "In Northern Ireland, Deputy District Judges hear minor criminal cases",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.",
+      "computed_correct_option_ids": [
+        2585
+      ],
+      "options": [
+        {
+          "id": 2585,
+          "text": "True"
+        },
+        {
+          "id": 2586,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "text": "Big Ben was named 'Elizabeth Tower' in honour of Queen Elizabeth I",
+      "explanation": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over 150 years old and is a popular tourist attraction. The clock tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
+      "computed_correct_option_ids": [
+        2664
+      ],
+      "options": [
+        {
+          "id": 2664,
+          "text": "False"
+        },
+        {
+          "id": 2663,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "text": "The Lake District is the largest national park in Scotland",
+      "explanation": "The Lake District is England's largest national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is Windermere. In 2007, television viewers voted Wastwater as Britain's favourite view.",
+      "computed_correct_option_ids": [
+        3348
+      ],
+      "options": [
+        {
+          "id": 3348,
+          "text": "False"
+        },
+        {
+          "id": 3347,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 923,
+      "text": "What is the minimum age for going into betting shops or gambling clubs?",
+      "explanation": "You have to be 18 to go into betting shops or gambling clubs.",
+      "computed_correct_option_ids": [
+        3369
+      ],
+      "options": [
+        {
+          "id": 3370,
+          "text": "21"
+        },
+        {
+          "id": 3372,
+          "text": "16"
+        },
+        {
+          "id": 3371,
+          "text": "17"
+        },
+        {
+          "id": 3369,
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 959,
+      "text": "What is the name of the charity that works to preserve important buildings, coastline and countryside in the UK?",
+      "explanation": "Many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
+      "computed_correct_option_ids": [
+        3477
+      ],
+      "options": [
+        {
+          "id": 3476,
+          "text": "Eden Project"
+        },
+        {
+          "id": 3475,
+          "text": "NSPCC"
+        },
+        {
+          "id": 3477,
+          "text": "National Trust"
+        },
+        {
+          "id": 3478,
+          "text": "Red Cross"
+        }
+      ]
+    },
+    {
+      "id": 983,
+      "text": "Every MP in the UK has his/her own constituency",
+      "explanation": "Voters in each constituency elect their member of Parliament (MP) in a General Election. All of the elected MPs from the House of Commons. Most MPs belong to a political party, and the party with the majority of MPs forms the government.",
+      "computed_correct_option_ids": [
+        3557
+      ],
+      "options": [
+        {
+          "id": 3557,
+          "text": "True"
+        },
+        {
+          "id": 3558,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1024,
+      "text": "Everyone in England, Wales and Scotland have to fill in individual electoral registration form. (Also known as 'Individual Registration')",
+      "explanation": "This system operates in Northern Ireland. This is called 'individual registration' and all those entitled to vote must complete their own registration form",
+      "computed_correct_option_ids": [
+        3705
+      ],
+      "options": [
+        {
+          "id": 3706,
+          "text": "True"
+        },
+        {
+          "id": 3705,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1036,
+      "text": "Who helped found the Women's Social and Political Union (WSPU) in 1903?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women's Social and Political Union (WSPU).",
+      "computed_correct_option_ids": [
+        3749
+      ],
+      "options": [
+        {
+          "id": 3749,
+          "text": "Emmeline Pankhurst"
+        },
+        {
+          "id": 3750,
+          "text": "Elizabeth of York"
+        },
+        {
+          "id": 3751,
+          "text": "Jane Seymour"
+        },
+        {
+          "id": 3752,
+          "text": "Mary Peters"
+        }
+      ]
+    },
+    {
+      "id": 1054,
+      "text": "The Union Jack is comprised of four countries' crosses. They are: England, Wales, Scotland and Northern Ireland.",
+      "explanation": "One symbol of the union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack. The flag combined crosses associated with England, Scotland and Ireland. It is still used today as the official flag of the UK.",
+      "computed_correct_option_ids": [
+        3815
+      ],
+      "options": [
+        {
+          "id": 3816,
+          "text": "True"
+        },
+        {
+          "id": 3815,
+          "text": "False"
+        }
+      ]
+    }
+  ]
+}

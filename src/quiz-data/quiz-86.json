@@ -1,0 +1,610 @@
+{
+  "id": 486,
+  "name": "British Citizenship Test 1",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10101,
+      "text": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should:look after yourself and your family, look after the area in which you live and the environment, respect and obey the law, respect the rights of others, including their right to their own opinions and treat others with fairness.",
+      "computed_correct_option_ids": [
+        11101,
+        11102
+      ],
+      "options": [
+        {
+          "id": 11101,
+          "text": "To look after the area in which you live and the environment"
+        },
+        {
+          "id": 11102,
+          "text": "To look after yourself and your family"
+        },
+        {
+          "id": 11103,
+          "text": "To stay in the UK forever"
+        },
+        {
+          "id": 11104,
+          "text": "To promote work in your local community"
+        }
+      ]
+    },
+    {
+      "id": 10102,
+      "text": "Where is Big Ben located?",
+      "explanation": "Big Ben is the nickname for the great bell of the clockat the Houses of Parliament in London.",
+      "computed_correct_option_ids": [
+        11114
+      ],
+      "options": [
+        {
+          "id": 11111,
+          "text": "Buckingham Palace"
+        },
+        {
+          "id": 11112,
+          "text": "The Tower of London"
+        },
+        {
+          "id": 11113,
+          "text": "Trafalgar Square"
+        },
+        {
+          "id": 11114,
+          "text": "The Houses of the Parliament"
+        }
+      ]
+    },
+    {
+      "id": 10103,
+      "text": "When were men and women given the right to vote at the age of 21?",
+      "explanation": "In1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        11123
+      ],
+      "options": [
+        {
+          "id": 11121,
+          "text": "1918"
+        },
+        {
+          "id": 11122,
+          "text": "1903"
+        },
+        {
+          "id": 11123,
+          "text": "1928"
+        },
+        {
+          "id": 11124,
+          "text": "1923"
+        }
+      ]
+    },
+    {
+      "id": 10104,
+      "text": "Where is the UK geographically located?",
+      "explanation": "The UK is located in thenorth west of Europe.",
+      "computed_correct_option_ids": [
+        11133
+      ],
+      "options": [
+        {
+          "id": 11131,
+          "text": "South west of Europe"
+        },
+        {
+          "id": 11132,
+          "text": "North east of Europe"
+        },
+        {
+          "id": 11133,
+          "text": "North west of Europe"
+        },
+        {
+          "id": 11134,
+          "text": "South east of Europe"
+        }
+      ]
+    },
+    {
+      "id": 10105,
+      "text": "Who is the patron Saint of Scotland?",
+      "explanation": "The patron Saint of Scotland isSt Andrew.",
+      "computed_correct_option_ids": [
+        11144
+      ],
+      "options": [
+        {
+          "id": 11141,
+          "text": "St David"
+        },
+        {
+          "id": 11142,
+          "text": "St Patrick"
+        },
+        {
+          "id": 11143,
+          "text": "St George"
+        },
+        {
+          "id": 11144,
+          "text": "St Andrew"
+        }
+      ]
+    },
+    {
+      "id": 10106,
+      "text": "Which two houses fought in the Wars of the Roses?",
+      "explanation": "The Wars of the Roses were fought between the supporters of two families:the House of Lancaster and the House of York.",
+      "computed_correct_option_ids": [
+        11152,
+        11153
+      ],
+      "options": [
+        {
+          "id": 11151,
+          "text": "The House of Chester"
+        },
+        {
+          "id": 11152,
+          "text": "The House of York"
+        },
+        {
+          "id": 11153,
+          "text": "The House of Lancaster"
+        },
+        {
+          "id": 11154,
+          "text": "The House of Newcastle"
+        }
+      ]
+    },
+    {
+      "id": 10107,
+      "text": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+      "explanation": "False. The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power.",
+      "computed_correct_option_ids": [
+        11162
+      ],
+      "options": [
+        {
+          "id": 11161,
+          "text": "True"
+        },
+        {
+          "id": 11162,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10108,
+      "text": "What is the Cenotaph?",
+      "explanation": "The Cenotaph isa war memorialand it is the site of the annual Remembrance Day service attended by the King, politicians and foreign ambassadors.",
+      "computed_correct_option_ids": [
+        11173
+      ],
+      "options": [
+        {
+          "id": 11171,
+          "text": "A flower"
+        },
+        {
+          "id": 11172,
+          "text": "A Christian church"
+        },
+        {
+          "id": 11173,
+          "text": "A war memorial"
+        },
+        {
+          "id": 11174,
+          "text": "A theatre"
+        }
+      ]
+    },
+    {
+      "id": 10109,
+      "text": "Who was the first female Prime Minister of the UK?",
+      "explanation": "Margaret Thatcherwas the first woman Prime Minister of the UK.",
+      "computed_correct_option_ids": [
+        11183
+      ],
+      "options": [
+        {
+          "id": 11181,
+          "text": "Mary Stuart"
+        },
+        {
+          "id": 11182,
+          "text": "Theresa May"
+        },
+        {
+          "id": 11183,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 11184,
+          "text": "Florence Nightingale"
+        }
+      ]
+    },
+    {
+      "id": 10110,
+      "text": "Who chairs the debates at the House of Commons?",
+      "explanation": "Debates in the House of Commons are chaired bythe Speaker.",
+      "computed_correct_option_ids": [
+        11193
+      ],
+      "options": [
+        {
+          "id": 11191,
+          "text": "A bishop"
+        },
+        {
+          "id": 11192,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 11193,
+          "text": "The Speaker"
+        },
+        {
+          "id": 11194,
+          "text": "The archbishop of Canterbury"
+        }
+      ]
+    },
+    {
+      "id": 10111,
+      "text": "Who was the captain of the English football team that won the World Cup in 1966?",
+      "explanation": "Bobby Moorecaptained the English football team that won the World Cup in 1966.",
+      "computed_correct_option_ids": [
+        11204
+      ],
+      "options": [
+        {
+          "id": 11201,
+          "text": "Sir Roger Bannister"
+        },
+        {
+          "id": 11202,
+          "text": "Sir Jackie Stewart"
+        },
+        {
+          "id": 11203,
+          "text": "Sir Ian Botham"
+        },
+        {
+          "id": 11204,
+          "text": "Bobby Moore"
+        }
+      ]
+    },
+    {
+      "id": 10112,
+      "text": "When did the English defeat the Spanish Armada?",
+      "explanation": "In1588the English defeated the Spanish Armada.",
+      "computed_correct_option_ids": [
+        11214
+      ],
+      "options": [
+        {
+          "id": 11211,
+          "text": "1466"
+        },
+        {
+          "id": 11212,
+          "text": "1066"
+        },
+        {
+          "id": 11213,
+          "text": "1254"
+        },
+        {
+          "id": 11214,
+          "text": "1588"
+        }
+      ]
+    },
+    {
+      "id": 10113,
+      "text": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        11221
+      ],
+      "options": [
+        {
+          "id": 11221,
+          "text": "True"
+        },
+        {
+          "id": 11222,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10114,
+      "text": "What is the minimum age required to serve on a jury?",
+      "explanation": "Anyone who is on the electoral register and is aged18to 70 can be asked to serve on a jury.",
+      "computed_correct_option_ids": [
+        11232
+      ],
+      "options": [
+        {
+          "id": 11231,
+          "text": "16"
+        },
+        {
+          "id": 11232,
+          "text": "18"
+        },
+        {
+          "id": 11233,
+          "text": "21"
+        },
+        {
+          "id": 11234,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 10115,
+      "text": "How is a jury selected?",
+      "explanation": "As well as getting the right to vote,people on the electoral register are randomly selectedto serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+      "computed_correct_option_ids": [
+        11242
+      ],
+      "options": [
+        {
+          "id": 11241,
+          "text": "From the NHS registration system"
+        },
+        {
+          "id": 11242,
+          "text": "Randomly from the electoral register"
+        },
+        {
+          "id": 11243,
+          "text": "Alphabetically from the telephone directory"
+        },
+        {
+          "id": 11244,
+          "text": "From a postcode selection"
+        }
+      ]
+    },
+    {
+      "id": 10116,
+      "text": "What is a bank holiday?",
+      "explanation": "There are public holidays each year called bank holidays,when banks and many other businesses are closed for the day.",
+      "computed_correct_option_ids": [
+        11254
+      ],
+      "options": [
+        {
+          "id": 11251,
+          "text": "A public holiday when banks are open all day"
+        },
+        {
+          "id": 11252,
+          "text": "A public holiday for people working in banks"
+        },
+        {
+          "id": 11253,
+          "text": "An additional day off that every worker in the UK is entitled to"
+        },
+        {
+          "id": 11254,
+          "text": "A public holiday when banks and many other businesses are closed for the day"
+        }
+      ]
+    },
+    {
+      "id": 10117,
+      "text": "What will you be given to vote before a general election takes place?",
+      "explanation": "Before the election you will be sent apoll card.",
+      "computed_correct_option_ids": [
+        11262
+      ],
+      "options": [
+        {
+          "id": 11261,
+          "text": "A ballot slip"
+        },
+        {
+          "id": 11262,
+          "text": "A poll card"
+        },
+        {
+          "id": 11263,
+          "text": "A voting slip"
+        },
+        {
+          "id": 11264,
+          "text": "A poll tax relief"
+        }
+      ]
+    },
+    {
+      "id": 10118,
+      "text": "Which of the following statements is correct?",
+      "explanation": "Solicitors’ charges are usually based on how much time they spend of a case.",
+      "computed_correct_option_ids": [
+        11271
+      ],
+      "options": [
+        {
+          "id": 11271,
+          "text": "Solicitors’ charges are usually based on how much time they spend on a case"
+        },
+        {
+          "id": 11272,
+          "text": "Solicitors’ charges are usually based on the nature of a case and its importance"
+        }
+      ]
+    },
+    {
+      "id": 10119,
+      "text": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+      "explanation": "By law,radio and televisioncoverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+      "computed_correct_option_ids": [
+        11281,
+        11284
+      ],
+      "options": [
+        {
+          "id": 11281,
+          "text": "Television"
+        },
+        {
+          "id": 11282,
+          "text": "Internet"
+        },
+        {
+          "id": 11283,
+          "text": "Newspapers"
+        },
+        {
+          "id": 11284,
+          "text": "Radio"
+        }
+      ]
+    },
+    {
+      "id": 10120,
+      "text": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+      "explanation": "The Channel Islandsis a British overseas territory linked to the UK, but it is not part of it.",
+      "computed_correct_option_ids": [
+        11293
+      ],
+      "options": [
+        {
+          "id": 11291,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11292,
+          "text": "Wales"
+        },
+        {
+          "id": 11293,
+          "text": "The Channel Islands"
+        },
+        {
+          "id": 11294,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10121,
+      "text": "What did Sir Frank Whittle invent in the 1930s?",
+      "explanation": "Thejet enginewas developed in Britain in the 1930s bySir Frank Whittle.",
+      "computed_correct_option_ids": [
+        11303
+      ],
+      "options": [
+        {
+          "id": 11301,
+          "text": "Radar"
+        },
+        {
+          "id": 11302,
+          "text": "Hovercraft"
+        },
+        {
+          "id": 11303,
+          "text": "Jet engine"
+        },
+        {
+          "id": 11304,
+          "text": "Ballpoint pen"
+        }
+      ]
+    },
+    {
+      "id": 10122,
+      "text": "Who wrote ‘The Daffodils’?",
+      "explanation": "The British poetWilliam Wordsworthwrote ‘The Daffodils’.",
+      "computed_correct_option_ids": [
+        11314
+      ],
+      "options": [
+        {
+          "id": 11311,
+          "text": "William Blake"
+        },
+        {
+          "id": 11312,
+          "text": "Robert Browning"
+        },
+        {
+          "id": 11313,
+          "text": "Lord Byron"
+        },
+        {
+          "id": 11314,
+          "text": "William Wordsworth"
+        }
+      ]
+    },
+    {
+      "id": 10123,
+      "text": "Who was given the title of Lord Protector?",
+      "explanation": "Oliver Cromwellwas given the title of Lord Protector and ruled until his death in 1658.",
+      "computed_correct_option_ids": [
+        11324
+      ],
+      "options": [
+        {
+          "id": 11321,
+          "text": "Charles I"
+        },
+        {
+          "id": 11322,
+          "text": "Charles II"
+        },
+        {
+          "id": 11323,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 11324,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 10124,
+      "text": "What are the 40 days before Easter called?",
+      "explanation": "The 40 days before Easter are known asLent.",
+      "computed_correct_option_ids": [
+        11332
+      ],
+      "options": [
+        {
+          "id": 11331,
+          "text": "Diwali"
+        },
+        {
+          "id": 11332,
+          "text": "Lent"
+        },
+        {
+          "id": 11333,
+          "text": "Hannukah"
+        },
+        {
+          "id": 11334,
+          "text": "Vaisakhi"
+        }
+      ]
+    }
+  ]
+}

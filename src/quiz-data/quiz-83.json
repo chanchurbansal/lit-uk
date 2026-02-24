@@ -1,0 +1,608 @@
+{
+  "id": 443,
+  "name": "Life in the UK Test 83",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10801,
+      "text": "In which of the following years did England win the World Cup?",
+      "explanation": "England won the World Cup in1966when it was captained by Bobby Moore.",
+      "computed_correct_option_ids": [
+        11804
+      ],
+      "options": [
+        {
+          "id": 11801,
+          "text": "1974"
+        },
+        {
+          "id": 11802,
+          "text": "1986"
+        },
+        {
+          "id": 11803,
+          "text": "1982"
+        },
+        {
+          "id": 11804,
+          "text": "1966"
+        }
+      ]
+    },
+    {
+      "id": 10802,
+      "text": "During the Battle of Trafalgar Britain fought against:",
+      "explanation": "Britain’s navy fought against combinedFrench and Spanish fleets, winning the Battle of Trafalgar in 1805.",
+      "computed_correct_option_ids": [
+        11812
+      ],
+      "options": [
+        {
+          "id": 11811,
+          "text": "France and Belgium"
+        },
+        {
+          "id": 11812,
+          "text": "France and Spain"
+        },
+        {
+          "id": 11813,
+          "text": "France and Italy"
+        },
+        {
+          "id": 11814,
+          "text": "Italy and Spain"
+        }
+      ]
+    },
+    {
+      "id": 10803,
+      "text": "What is the name given to the first formal anti-slavery groups set up in the late 1700s?",
+      "explanation": "The first formal anti-slavery groups were set up by theQuakersin the late 1700s, and they petitioned Parliament to ban the practice.",
+      "computed_correct_option_ids": [
+        11823
+      ],
+      "options": [
+        {
+          "id": 11821,
+          "text": "Beefeaters"
+        },
+        {
+          "id": 11822,
+          "text": "Suffragettes"
+        },
+        {
+          "id": 11823,
+          "text": "Quakers"
+        },
+        {
+          "id": 11824,
+          "text": "Canutes"
+        }
+      ]
+    },
+    {
+      "id": 10804,
+      "text": "More women than men study at university.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        11831
+      ],
+      "options": [
+        {
+          "id": 11831,
+          "text": "True"
+        },
+        {
+          "id": 11832,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10805,
+      "text": "Why did Ireland suffer a famine in the middle of the 19th century?",
+      "explanation": "In the middle of the centurythe potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+      "computed_correct_option_ids": [
+        11843
+      ],
+      "options": [
+        {
+          "id": 11841,
+          "text": "There was a heat wave"
+        },
+        {
+          "id": 11842,
+          "text": "The whole country was flooded"
+        },
+        {
+          "id": 11843,
+          "text": "The potato crop failed"
+        },
+        {
+          "id": 11844,
+          "text": "There were not enough farmers"
+        }
+      ]
+    },
+    {
+      "id": 10806,
+      "text": "What sort of battle was ‘the Battle of Britain’?",
+      "explanation": "Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucialaerial battle against the Germans, called ‘the Battle of Britain’, in the summer of 1940.",
+      "computed_correct_option_ids": [
+        11853
+      ],
+      "options": [
+        {
+          "id": 11851,
+          "text": "A naval battle against the Spanish."
+        },
+        {
+          "id": 11852,
+          "text": "An aerial battle against the French."
+        },
+        {
+          "id": 11853,
+          "text": "An aerial battle against the Germans."
+        },
+        {
+          "id": 11854,
+          "text": "A naval battle against the French."
+        }
+      ]
+    },
+    {
+      "id": 10807,
+      "text": "Who is in charge of appointing the local Chief Constable?",
+      "explanation": "PCCs (Police and Crime Commissioners)set local police priorities and the local policing budget. They also appoint the local Chief Constable.",
+      "computed_correct_option_ids": [
+        11862
+      ],
+      "options": [
+        {
+          "id": 11861,
+          "text": "A judge"
+        },
+        {
+          "id": 11862,
+          "text": "Police and Crime Commissioners"
+        },
+        {
+          "id": 11863,
+          "text": "The mayor"
+        },
+        {
+          "id": 11864,
+          "text": "The local community members"
+        }
+      ]
+    },
+    {
+      "id": 10808,
+      "text": "What does the money from the National Insurance Contributions pay for (CHOOSE TWO)?",
+      "explanation": "The money raised from National Insurance Contributions is used to pay for state benefits and services such as thestate retirement pension and the National Health Service (NHS).",
+      "computed_correct_option_ids": [
+        11872,
+        11873
+      ],
+      "options": [
+        {
+          "id": 11871,
+          "text": "Police force salaries"
+        },
+        {
+          "id": 11872,
+          "text": "State retirement pensions"
+        },
+        {
+          "id": 11873,
+          "text": "National Health Service"
+        },
+        {
+          "id": 11874,
+          "text": "University fees"
+        }
+      ]
+    },
+    {
+      "id": 10809,
+      "text": "How many British died on the first day alone of the Battle of Somme?",
+      "explanation": "The British attack of the Somme in July 1916, resulted in about60,000 British casualtieson the first day alone.",
+      "computed_correct_option_ids": [
+        11881
+      ],
+      "options": [
+        {
+          "id": 11881,
+          "text": "60,000"
+        },
+        {
+          "id": 11882,
+          "text": "65,000"
+        },
+        {
+          "id": 11883,
+          "text": "40,000"
+        },
+        {
+          "id": 11884,
+          "text": "55,000"
+        }
+      ]
+    },
+    {
+      "id": 10810,
+      "text": "When was the first Union flag created?",
+      "explanation": "The first Union Flag was createdin 1606from the flags of Scotland and England, the Principality of Wales was already untied with England.",
+      "computed_correct_option_ids": [
+        11894
+      ],
+      "options": [
+        {
+          "id": 11891,
+          "text": "1515"
+        },
+        {
+          "id": 11892,
+          "text": "1616"
+        },
+        {
+          "id": 11893,
+          "text": "1505"
+        },
+        {
+          "id": 11894,
+          "text": "1606"
+        }
+      ]
+    },
+    {
+      "id": 10811,
+      "text": "Which of the following territories is not part of the UK?",
+      "explanation": "The UK comprises England, Wales, Scotland and Northern Ireland. There are several islands which are closely linked with the UK but are not part of it: the Channel Islands andthe Isle of Man.",
+      "computed_correct_option_ids": [
+        11902
+      ],
+      "options": [
+        {
+          "id": 11901,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11902,
+          "text": "The Isle of Man"
+        },
+        {
+          "id": 11903,
+          "text": "Wales"
+        },
+        {
+          "id": 11904,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10812,
+      "text": "Which of the following is NOT a fundamental principle of British life?",
+      "explanation": "The fundamental principles of British life include: democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs and participation in community life.",
+      "computed_correct_option_ids": [
+        11913
+      ],
+      "options": [
+        {
+          "id": 11911,
+          "text": "Individual liberty"
+        },
+        {
+          "id": 11912,
+          "text": "Democracy"
+        },
+        {
+          "id": 11913,
+          "text": "Communism"
+        },
+        {
+          "id": 11914,
+          "text": "Participation in community life"
+        }
+      ]
+    },
+    {
+      "id": 10813,
+      "text": "What do Sir Terence Conran, Clarice Cliff and Thomas Chippendale have in common?",
+      "explanation": "Britain has produced many greatdesigners, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer).",
+      "computed_correct_option_ids": [
+        11921
+      ],
+      "options": [
+        {
+          "id": 11921,
+          "text": "They were British designers"
+        },
+        {
+          "id": 11922,
+          "text": "They developed the atomic bomb"
+        },
+        {
+          "id": 11923,
+          "text": "They were British explorers"
+        },
+        {
+          "id": 11924,
+          "text": "They were British poets"
+        }
+      ]
+    },
+    {
+      "id": 10814,
+      "text": "Which of the following cities is not in Wales?",
+      "explanation": "Bradfordis located in England.",
+      "computed_correct_option_ids": [
+        11933
+      ],
+      "options": [
+        {
+          "id": 11931,
+          "text": "Cardiff"
+        },
+        {
+          "id": 11932,
+          "text": "Swansea"
+        },
+        {
+          "id": 11933,
+          "text": "Bradford"
+        },
+        {
+          "id": 11934,
+          "text": "Newport"
+        }
+      ]
+    },
+    {
+      "id": 10815,
+      "text": "People on the electoral register with ages between 18 and 70 can be asked to serve on a jury.",
+      "explanation": "True. As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+      "computed_correct_option_ids": [
+        11941
+      ],
+      "options": [
+        {
+          "id": 11941,
+          "text": "True"
+        },
+        {
+          "id": 11942,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10816,
+      "text": "Which Saxon king of England was killed at the Battle of Hastings in 1066?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeatedHarold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle.",
+      "computed_correct_option_ids": [
+        11952
+      ],
+      "options": [
+        {
+          "id": 11951,
+          "text": "Kenneth MacAlpin"
+        },
+        {
+          "id": 11952,
+          "text": "Harold"
+        },
+        {
+          "id": 11953,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 11954,
+          "text": "Henry V"
+        }
+      ]
+    },
+    {
+      "id": 10817,
+      "text": "During the ‘swinging sixties’ Britain experienced a growth in:",
+      "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth inBritish fashion, cinema and popular music.",
+      "computed_correct_option_ids": [
+        11962
+      ],
+      "options": [
+        {
+          "id": 11961,
+          "text": "Sports such as rowing and cycling"
+        },
+        {
+          "id": 11962,
+          "text": "Fashion, cinema and popular music"
+        },
+        {
+          "id": 11963,
+          "text": "Holistic therapies"
+        },
+        {
+          "id": 11964,
+          "text": "People going to university"
+        }
+      ]
+    },
+    {
+      "id": 10818,
+      "text": "As a permanent resident or citizen of the UK you should:",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law, respect the rights of others, including their right to their own opinions, treat others with fairness, look after yourself and your family and look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        11974
+      ],
+      "options": [
+        {
+          "id": 11971,
+          "text": "Treat other with fairness"
+        },
+        {
+          "id": 11972,
+          "text": "Look after yourself and your family"
+        },
+        {
+          "id": 11973,
+          "text": "Look after the area in which you live and the environment"
+        },
+        {
+          "id": 11974,
+          "text": "All the answers are correct"
+        }
+      ]
+    },
+    {
+      "id": 10819,
+      "text": "When did the BBC start the world’s first regular television service?",
+      "explanation": "The BBC started radio broadcasts in 1922 and began the world’s first regular television servicein 1936.",
+      "computed_correct_option_ids": [
+        11983
+      ],
+      "options": [
+        {
+          "id": 11981,
+          "text": "1922"
+        },
+        {
+          "id": 11982,
+          "text": "1932"
+        },
+        {
+          "id": 11983,
+          "text": "1936"
+        },
+        {
+          "id": 11984,
+          "text": "1944"
+        }
+      ]
+    },
+    {
+      "id": 10820,
+      "text": "Women in Britain today make up about one third of the workforce.",
+      "explanation": "Women in Britain today make upabout half of the workforce.",
+      "computed_correct_option_ids": [
+        11992
+      ],
+      "options": [
+        {
+          "id": 11991,
+          "text": "True"
+        },
+        {
+          "id": 11992,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10821,
+      "text": "The evacuation of British and French soldiers from France in a huge naval operation during WWII gave rise to which phrase:",
+      "explanation": "During WWII as France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase‘the Dunkirk spirit’.",
+      "computed_correct_option_ids": [
+        12003
+      ],
+      "options": [
+        {
+          "id": 12001,
+          "text": "The Harbour spirit"
+        },
+        {
+          "id": 12002,
+          "text": "The Blitz operation"
+        },
+        {
+          "id": 12003,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 12004,
+          "text": "The D-Day operation"
+        }
+      ]
+    },
+    {
+      "id": 10822,
+      "text": "Which programme helps 16 and 17 year-olds develop their skills and are part in community projects?",
+      "explanation": "The National Citizen Service programmegives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        12013
+      ],
+      "options": [
+        {
+          "id": 12011,
+          "text": "The Youth Working Programme"
+        },
+        {
+          "id": 12012,
+          "text": "The National Development Programme"
+        },
+        {
+          "id": 12013,
+          "text": "The National Citizen Service Programme"
+        },
+        {
+          "id": 12014,
+          "text": "The Skills Development Programme"
+        }
+      ]
+    },
+    {
+      "id": 10823,
+      "text": "Queen Victoria became queen in:",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18.",
+      "computed_correct_option_ids": [
+        12021
+      ],
+      "options": [
+        {
+          "id": 12021,
+          "text": "1837"
+        },
+        {
+          "id": 12022,
+          "text": "1847"
+        },
+        {
+          "id": 12023,
+          "text": "1835"
+        },
+        {
+          "id": 12024,
+          "text": "1836"
+        }
+      ]
+    },
+    {
+      "id": 10824,
+      "text": "Who wrote the books ‘Pride and Prejudice’ and ‘Sense and Sensibility’?",
+      "explanation": "Jane Austen(1775-1817) was an English novelist. Her books include Pride and Prejudice and Sense and Sensibility.",
+      "computed_correct_option_ids": [
+        12034
+      ],
+      "options": [
+        {
+          "id": 12031,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 12032,
+          "text": "Robert Louis Stevenson"
+        },
+        {
+          "id": 12033,
+          "text": "Evelyn Waugh"
+        },
+        {
+          "id": 12034,
+          "text": "Jane Austen"
+        }
+      ]
+    }
+  ]
+}

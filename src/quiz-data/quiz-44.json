@@ -1,0 +1,609 @@
+{
+  "id": 402,
+  "name": "Life in the UK Test 44",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 72,
+      "text": "How often are the General Elections held?",
+      "explanation": "MPs are elected at a General Election, which is held at least every five years.",
+      "computed_correct_option_ids": [
+        281
+      ],
+      "options": [
+        {
+          "id": 284,
+          "text": "Every year"
+        },
+        {
+          "id": 281,
+          "text": "Every 5 years"
+        },
+        {
+          "id": 282,
+          "text": "Every 7 years"
+        },
+        {
+          "id": 283,
+          "text": "Every 3 years"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "text": "How long is the Bayeux Tapestry?",
+      "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry which is 70 meters long.",
+      "computed_correct_option_ids": [
+        585
+      ],
+      "options": [
+        {
+          "id": 586,
+          "text": "3m"
+        },
+        {
+          "id": 588,
+          "text": "40m"
+        },
+        {
+          "id": 587,
+          "text": "12m"
+        },
+        {
+          "id": 585,
+          "text": "70m"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "text": "Who invaded the Falkland Islands in 1982?",
+      "explanation": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+      "computed_correct_option_ids": [
+        617
+      ],
+      "options": [
+        {
+          "id": 618,
+          "text": "Spain"
+        },
+        {
+          "id": 617,
+          "text": "Argentina"
+        },
+        {
+          "id": 620,
+          "text": "Columbia"
+        },
+        {
+          "id": 619,
+          "text": "Portugal"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "text": "Who first introduced James Bond?",
+      "explanation": "Ian Fleming's books introduced James Bond.",
+      "computed_correct_option_ids": [
+        813
+      ],
+      "options": [
+        {
+          "id": 814,
+          "text": "J K Rowling"
+        },
+        {
+          "id": 813,
+          "text": "Ian Fleming"
+        },
+        {
+          "id": 816,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 815,
+          "text": "JRR Tolkien"
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "text": "Who is responsible for the economy?",
+      "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+      "computed_correct_option_ids": [
+        1229
+      ],
+      "options": [
+        {
+          "id": 1229,
+          "text": "Chancellor of the Exchequer"
+        },
+        {
+          "id": 1232,
+          "text": "Secretary of State"
+        },
+        {
+          "id": 1231,
+          "text": "Foreign Secretary"
+        },
+        {
+          "id": 1230,
+          "text": "Home Secretary"
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "text": "What was an important English export in the Middle Ages?",
+      "explanation": "English wool became a very important export in the middle ages. People came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland.",
+      "computed_correct_option_ids": [
+        1301
+      ],
+      "options": [
+        {
+          "id": 1303,
+          "text": "Glass"
+        },
+        {
+          "id": 1301,
+          "text": "Wool"
+        },
+        {
+          "id": 1304,
+          "text": "Stone"
+        },
+        {
+          "id": 1302,
+          "text": "Potatoes"
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "text": "Who sat in the House of Commons in the Middle Ages?",
+      "explanation": "In the middle ages, the nobility, great landowners and bishops sat in the House of Lords. Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons.",
+      "computed_correct_option_ids": [
+        1361
+      ],
+      "options": [
+        {
+          "id": 1364,
+          "text": "Bishops"
+        },
+        {
+          "id": 1363,
+          "text": "Great Landowners"
+        },
+        {
+          "id": 1362,
+          "text": "The Nobility"
+        },
+        {
+          "id": 1361,
+          "text": "Knights"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "text": "Where can you find a solicitor in the UK?",
+      "explanation": "Solicitors are trained lawyers who give advice on legal matters. They take action for their clients and represent them in court. The Citizens Advice Bureau can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society.",
+      "computed_correct_option_ids": [
+        1507
+      ],
+      "options": [
+        {
+          "id": 1510,
+          "text": "By contacting the police"
+        },
+        {
+          "id": 1507,
+          "text": "The Citizens Advice Bureau"
+        },
+        {
+          "id": 1508,
+          "text": "Paying expensive Law firms to find one"
+        },
+        {
+          "id": 1509,
+          "text": "Go to one of the Youth Courts"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "text": "How many members does a jury have in Scotland?",
+      "explanation": "A jury is made up of members of the public chosen at random from the local electoral register (see The Electoral Register). In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+      "computed_correct_option_ids": [
+        2168
+      ],
+      "options": [
+        {
+          "id": 2167,
+          "text": "12"
+        },
+        {
+          "id": 2168,
+          "text": "15"
+        },
+        {
+          "id": 2169,
+          "text": "18"
+        },
+        {
+          "id": 2170,
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "text": "The Commonwealth is made up of countries which were once part of the British Empire only",
+      "explanation": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+      "computed_correct_option_ids": [
+        2524
+      ],
+      "options": [
+        {
+          "id": 2524,
+          "text": "False"
+        },
+        {
+          "id": 2523,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 677,
+      "text": "During the civil war of 1455, what colour rose was the symbol of the House of Lancaster?",
+      "explanation": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose.",
+      "computed_correct_option_ids": [
+        2525
+      ],
+      "options": [
+        {
+          "id": 2528,
+          "text": "Orange"
+        },
+        {
+          "id": 2526,
+          "text": "White"
+        },
+        {
+          "id": 2527,
+          "text": "Red and White"
+        },
+        {
+          "id": 2525,
+          "text": "Red"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "text": "Which TWO are famous British fashion designers?",
+      "explanation": "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer). Leading fashion designers of recent years include Mary Quant, Alexander McQueen and Vivienne Westwood.",
+      "computed_correct_option_ids": [
+        2551,
+        2553
+      ],
+      "options": [
+        {
+          "id": 2553,
+          "text": "Alexander McQueen"
+        },
+        {
+          "id": 2551,
+          "text": "Mary Quant"
+        },
+        {
+          "id": 2554,
+          "text": "Isambard Kingdom Brunel"
+        },
+        {
+          "id": 2552,
+          "text": "Robert Adam"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "text": "Which of these is correct?",
+      "explanation": "Rape in a romantic relationship and marriage is considered Marital Rape. This includes forced sex and sexual assault between spouses. It is an offense.",
+      "computed_correct_option_ids": [
+        2583
+      ],
+      "options": [
+        {
+          "id": 2583,
+          "text": "Any man who forces a woman to have sex, including her husband, can be charged with rape"
+        },
+        {
+          "id": 2584,
+          "text": "Any man who forces a woman to have sex, excluding her husband, can be charged with rape"
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "text": "In 1982, which country invaded the Falklands prompting UK to send its naval force in defense?",
+      "explanation": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval task force was sent from the UK and military action led to the recovery of the islands.",
+      "computed_correct_option_ids": [
+        2865
+      ],
+      "options": [
+        {
+          "id": 2866,
+          "text": "France"
+        },
+        {
+          "id": 2867,
+          "text": "Spain"
+        },
+        {
+          "id": 2868,
+          "text": "Belgium"
+        },
+        {
+          "id": 2865,
+          "text": "Argentina"
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "text": "What service does the TV licence pay for?",
+      "explanation": "The money from TV licences is used to pay for the British Broadcasting Corporation (BBC).",
+      "computed_correct_option_ids": [
+        2909
+      ],
+      "options": [
+        {
+          "id": 2910,
+          "text": "Freeview channels"
+        },
+        {
+          "id": 2912,
+          "text": "None of these"
+        },
+        {
+          "id": 2911,
+          "text": "Free radio and tv channels"
+        },
+        {
+          "id": 2909,
+          "text": "The BBC"
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "text": "Who directed the British movie the Belles of St Trinian's in 1954?",
+      "explanation": "The Belles of St Trinian's (1954) was directed by Frank Launder",
+      "computed_correct_option_ids": [
+        2919
+      ],
+      "options": [
+        {
+          "id": 2920,
+          "text": "David Lean"
+        },
+        {
+          "id": 2919,
+          "text": "Frank Launder"
+        },
+        {
+          "id": 2922,
+          "text": "Mary Peters"
+        },
+        {
+          "id": 2921,
+          "text": "Alfred Hitchcock"
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "text": "Who was the first Archbishop of Canterbury?",
+      "explanation": "Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland, and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        2949
+      ],
+      "options": [
+        {
+          "id": 2952,
+          "text": "St George"
+        },
+        {
+          "id": 2949,
+          "text": "St Augustine"
+        },
+        {
+          "id": 2950,
+          "text": "St Patrick"
+        },
+        {
+          "id": 2951,
+          "text": "St Columba"
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "text": "How many ski centres are there in Scotland?",
+      "explanation": "Skiing is increasingly popular in the UK. Many people go abroad to ski and there are also dry ski slopes throughout the UK. Skiing on snow may also be possible during the winter. There are five ski centres in Scotland, as well as Europe's longest dry ski slope near Edinburgh.",
+      "computed_correct_option_ids": [
+        3283
+      ],
+      "options": [
+        {
+          "id": 3284,
+          "text": "13"
+        },
+        {
+          "id": 3281,
+          "text": "1"
+        },
+        {
+          "id": 3282,
+          "text": "2"
+        },
+        {
+          "id": 3283,
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "id": 899,
+      "text": "Which TWO are 20th century British inventions?",
+      "explanation": "Britain and France developed Concorde, the world's only supersonic passenger aircraft. It first flew in 1969 and began carrying passengers in 1976. Concorde was retired from service in 2003. The television was developed by Scotsman John Logie Baird in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
+      "computed_correct_option_ids": [
+        3289,
+        3290
+      ],
+      "options": [
+        {
+          "id": 3292,
+          "text": "Aspirin"
+        },
+        {
+          "id": 3291,
+          "text": "AC motor"
+        },
+        {
+          "id": 3290,
+          "text": "Television"
+        },
+        {
+          "id": 3289,
+          "text": "Concorde"
+        }
+      ]
+    },
+    {
+      "id": 904,
+      "text": "When walking your dog in a public place, what must you ensure?",
+      "explanation": "A lot of people in the UK have pets such as cats or dogs. They might have them for company or because they enjoy looking after them. It is against the law to treat a pet cruelly or to neglect it. All dogs in public places must wear a collar showing the name and address of the owner. The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.",
+      "computed_correct_option_ids": [
+        3307
+      ],
+      "options": [
+        {
+          "id": 3310,
+          "text": "That your dog wears a special dog coat"
+        },
+        {
+          "id": 3309,
+          "text": "That your dog never strays more than 3 metres away from you"
+        },
+        {
+          "id": 3308,
+          "text": "That your dog does not come into contact with other dogs"
+        },
+        {
+          "id": 3307,
+          "text": "That your dog wears a collar showing the name and address of the owner"
+        }
+      ]
+    },
+    {
+      "id": 953,
+      "text": "Arranged marriages are allowed in the UK",
+      "explanation": "A marriage should be entered into with the full and free consent of both people involved. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK.",
+      "computed_correct_option_ids": [
+        3461
+      ],
+      "options": [
+        {
+          "id": 3462,
+          "text": "False"
+        },
+        {
+          "id": 3461,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "text": "What lead the American colonies to declare their independence?",
+      "explanation": "By the 1760s, there were substantial British colonies in North America. The colonies were wealthy and largely in control of their own affairs. Many of the colonist families had originally gone to North America in order to have religious freedom. They were well educated and interested in ideas of liberty. The British government wanted to tax the colonies.",
+      "computed_correct_option_ids": [
+        3659
+      ],
+      "options": [
+        {
+          "id": 3662,
+          "text": "The UK not providing enough health care"
+        },
+        {
+          "id": 3661,
+          "text": "The UK not sending enough money"
+        },
+        {
+          "id": 3659,
+          "text": "The UK wanting to tax the colonies"
+        },
+        {
+          "id": 3660,
+          "text": "The UK wanting to stop the slave trade"
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "text": "What did Sir Frank Whittle invent in the 1930s?",
+      "explanation": "The jet engine was developed in Britain in the 1930s by Sir Frank Whittle (1907-96), a British Royal Air Force engineer Officer.",
+      "computed_correct_option_ids": [
+        3673
+      ],
+      "options": [
+        {
+          "id": 3674,
+          "text": "Telephone"
+        },
+        {
+          "id": 3673,
+          "text": "Jet engine"
+        },
+        {
+          "id": 3676,
+          "text": "Ballpoint pen"
+        },
+        {
+          "id": 3675,
+          "text": "Computer"
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "text": "Where is Tate Britain and Tate Modern located?",
+      "explanation": "Works by British and international artists are displayed in galleries across the UK. Some of the most well-known galleries are The National Gallery, Tate Britain and Tate Modern in London, the National Museum in Cardiff, and the National Gallery of Scotland in Edinburgh.",
+      "computed_correct_option_ids": [
+        3713
+      ],
+      "options": [
+        {
+          "id": 3715,
+          "text": "Cardiff"
+        },
+        {
+          "id": 3713,
+          "text": "London"
+        },
+        {
+          "id": 3716,
+          "text": "Manchester"
+        },
+        {
+          "id": 3714,
+          "text": "Edinburgh"
+        }
+      ]
+    }
+  ]
+}

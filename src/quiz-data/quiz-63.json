@@ -1,0 +1,608 @@
+{
+  "id": 423,
+  "name": "Life in the UK Test 63",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8801,
+      "text": "Which of the following was one of the most famous battles of the Hundred Years War?",
+      "explanation": "One of the most famous battles of the Hundred Years War wasthe Battle of Agincourtin 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        9801
+      ],
+      "options": [
+        {
+          "id": 9801,
+          "text": "The Battle of Agincourt"
+        },
+        {
+          "id": 9802,
+          "text": "The Battle of Bannockburn"
+        },
+        {
+          "id": 9803,
+          "text": "The Battle of Culloden"
+        },
+        {
+          "id": 9804,
+          "text": "The Battle of Waterloo"
+        }
+      ]
+    },
+    {
+      "id": 8802,
+      "text": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the engineers come from?",
+      "explanation": "During the Middle Ages, people came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers fromGermany, glass manufacturers from Italy and canal builders from Holland.",
+      "computed_correct_option_ids": [
+        9813
+      ],
+      "options": [
+        {
+          "id": 9811,
+          "text": "France"
+        },
+        {
+          "id": 9812,
+          "text": "Holland"
+        },
+        {
+          "id": 9813,
+          "text": "Germany"
+        },
+        {
+          "id": 9814,
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 8803,
+      "text": "Who was the captain of the English football team that won the World Cup in 1966?",
+      "explanation": "Bobby Moore(1941-93) captained the English football team that won the World Cup in 1966.",
+      "computed_correct_option_ids": [
+        9822
+      ],
+      "options": [
+        {
+          "id": 9821,
+          "text": "David Beckham"
+        },
+        {
+          "id": 9822,
+          "text": "Bobby Moore"
+        },
+        {
+          "id": 9823,
+          "text": "Sir Ian Botham"
+        },
+        {
+          "id": 9824,
+          "text": "Sir Roger Bannister"
+        }
+      ]
+    },
+    {
+      "id": 8804,
+      "text": "Membership to the Commonwealth  is compulsory for its members:",
+      "explanation": "Membership to the Commonwealth is voluntary.",
+      "computed_correct_option_ids": [
+        9831
+      ],
+      "options": [
+        {
+          "id": 9831,
+          "text": "True"
+        },
+        {
+          "id": 9832,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8805,
+      "text": "How many verdicts are possible in trials in Scotland?",
+      "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based of what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible.",
+      "computed_correct_option_ids": [
+        9842
+      ],
+      "options": [
+        {
+          "id": 9841,
+          "text": "Two: ‘guilty’ or ‘not guilty’"
+        },
+        {
+          "id": 9842,
+          "text": "Three: ‘guilty’, ‘not guilty’ or ‘not proven’"
+        },
+        {
+          "id": 9843,
+          "text": "Three: ‘guilty’, ‘not guilty’ or ‘on hold’"
+        },
+        {
+          "id": 9844,
+          "text": "Two: ‘guilty’ or ‘not proven’"
+        }
+      ]
+    },
+    {
+      "id": 8806,
+      "text": "How many wives did Henry VIII have?",
+      "explanation": "Henry VIII hadsix wives.",
+      "computed_correct_option_ids": [
+        9852
+      ],
+      "options": [
+        {
+          "id": 9851,
+          "text": "Five"
+        },
+        {
+          "id": 9852,
+          "text": "Six"
+        },
+        {
+          "id": 9853,
+          "text": "Seven"
+        },
+        {
+          "id": 9854,
+          "text": "Eight"
+        }
+      ]
+    },
+    {
+      "id": 8807,
+      "text": "Which of the following charities works with sick animals?",
+      "explanation": "ThePDSAis the People’s Dispensary for Sick Animals.",
+      "computed_correct_option_ids": [
+        9861
+      ],
+      "options": [
+        {
+          "id": 9861,
+          "text": "PDSA"
+        },
+        {
+          "id": 9862,
+          "text": "NSPCC"
+        },
+        {
+          "id": 9863,
+          "text": "Crisis"
+        },
+        {
+          "id": 9864,
+          "text": "Age UK"
+        }
+      ]
+    },
+    {
+      "id": 8808,
+      "text": "Which of the following is the responsibility of the Home Secretary?",
+      "explanation": "The Home Secretary is responsible forcrime, policing and immigration.",
+      "computed_correct_option_ids": [
+        9871
+      ],
+      "options": [
+        {
+          "id": 9871,
+          "text": "Crime, policing and immigration"
+        },
+        {
+          "id": 9872,
+          "text": "Managing relationships with foreign countries"
+        },
+        {
+          "id": 9873,
+          "text": "Education and health"
+        },
+        {
+          "id": 9874,
+          "text": "National and international defence"
+        }
+      ]
+    },
+    {
+      "id": 8809,
+      "text": "Which of the following sports can be traced as far back as the Roman times?",
+      "explanation": "There is a very long history ofhorse racingin Britain, with evidence of events taking place as far back as Roman times.",
+      "computed_correct_option_ids": [
+        9883
+      ],
+      "options": [
+        {
+          "id": 9881,
+          "text": "Tennis"
+        },
+        {
+          "id": 9882,
+          "text": "Football"
+        },
+        {
+          "id": 9883,
+          "text": "Horse racing"
+        },
+        {
+          "id": 9884,
+          "text": "Pool"
+        }
+      ]
+    },
+    {
+      "id": 8810,
+      "text": "When did the English become the preferred language of the royal court and Parliament?",
+      "explanation": "By1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
+      "computed_correct_option_ids": [
+        9892
+      ],
+      "options": [
+        {
+          "id": 9891,
+          "text": "In 1300"
+        },
+        {
+          "id": 9892,
+          "text": "In 1400"
+        },
+        {
+          "id": 9893,
+          "text": "In 1345"
+        },
+        {
+          "id": 9894,
+          "text": "In 1567"
+        }
+      ]
+    },
+    {
+      "id": 8811,
+      "text": "When is St Andrews Day, patron saint of Scotland?",
+      "explanation": "St Andrews Day, patron saint of Scotland, is celebrated on the30th of November.",
+      "computed_correct_option_ids": [
+        9904
+      ],
+      "options": [
+        {
+          "id": 9901,
+          "text": "23rd of April"
+        },
+        {
+          "id": 9902,
+          "text": "1st of March"
+        },
+        {
+          "id": 9903,
+          "text": "17th of March"
+        },
+        {
+          "id": 9904,
+          "text": "30th of November"
+        }
+      ]
+    },
+    {
+      "id": 8812,
+      "text": "Which organisation has been organising ‘The Proms’ since 1927?",
+      "explanation": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London. It has been in various venues, including the Royal Albert Hall in London. It has been organised bythe British Broadcasting Corporation (BBC)since 1927.",
+      "computed_correct_option_ids": [
+        9913
+      ],
+      "options": [
+        {
+          "id": 9911,
+          "text": "The MTV"
+        },
+        {
+          "id": 9912,
+          "text": "Channel 4"
+        },
+        {
+          "id": 9913,
+          "text": "The BBC"
+        },
+        {
+          "id": 9914,
+          "text": "CNTV"
+        }
+      ]
+    },
+    {
+      "id": 8813,
+      "text": "Which of the following organisations has no power to make laws but draws up conventions and charters, including the European Convention on Human Rights and Fundamental Freedoms?",
+      "explanation": "The Council of Europeis responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.",
+      "computed_correct_option_ids": [
+        9922
+      ],
+      "options": [
+        {
+          "id": 9921,
+          "text": "The UN Security Council"
+        },
+        {
+          "id": 9922,
+          "text": "The Council of Europe"
+        },
+        {
+          "id": 9923,
+          "text": "The United Nations"
+        },
+        {
+          "id": 9924,
+          "text": "The European Union"
+        }
+      ]
+    },
+    {
+      "id": 8814,
+      "text": "Where is Snowdonia National Park located?",
+      "explanation": "Snowdonia is a national park inNorth Wales.",
+      "computed_correct_option_ids": [
+        9931
+      ],
+      "options": [
+        {
+          "id": 9931,
+          "text": "North Wales"
+        },
+        {
+          "id": 9932,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 9933,
+          "text": "South Wales"
+        },
+        {
+          "id": 9934,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 8815,
+      "text": "What actions did Henry VII take after his victory in the Wars of the Roses?",
+      "explanation": "After his victory in the Wars of the Roses, Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.",
+      "computed_correct_option_ids": [
+        9941
+      ],
+      "options": [
+        {
+          "id": 9941,
+          "text": "Reduced the power of the nobles"
+        },
+        {
+          "id": 9942,
+          "text": "Broke away with the Church of Rome"
+        },
+        {
+          "id": 9943,
+          "text": "Converted Britain to the Christianism"
+        },
+        {
+          "id": 9944,
+          "text": "Increased the power of the nobles"
+        }
+      ]
+    },
+    {
+      "id": 8816,
+      "text": "Which Court deals with the most serious civil cases in Scotland?",
+      "explanation": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court of England, Wales and Northern Ireland. In Scotland, they are dealt with inthe Court of Sessionin Edinburgh.",
+      "computed_correct_option_ids": [
+        9953
+      ],
+      "options": [
+        {
+          "id": 9951,
+          "text": "The High Court"
+        },
+        {
+          "id": 9952,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 9953,
+          "text": "The Court of Session"
+        },
+        {
+          "id": 9954,
+          "text": "The Crown Court"
+        }
+      ]
+    },
+    {
+      "id": 8817,
+      "text": "The leader of the opposition leads his or her party in pointing out what they see as the government’s (choose TWO options):",
+      "explanation": "The leader of the opposition leads his or her party in pointing out what they see asthe government’s failures and weaknesses.",
+      "computed_correct_option_ids": [
+        9961,
+        9964
+      ],
+      "options": [
+        {
+          "id": 9961,
+          "text": "Failures"
+        },
+        {
+          "id": 9962,
+          "text": "Achievements"
+        },
+        {
+          "id": 9963,
+          "text": "Strengths"
+        },
+        {
+          "id": 9964,
+          "text": "Weaknesses"
+        }
+      ]
+    },
+    {
+      "id": 8818,
+      "text": "Who became Prime Minister of the UK in May 2010?",
+      "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party,David Cameron, became Prime Minister.",
+      "computed_correct_option_ids": [
+        9971
+      ],
+      "options": [
+        {
+          "id": 9971,
+          "text": "David Cameron"
+        },
+        {
+          "id": 9972,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 9973,
+          "text": "Tony Blair"
+        },
+        {
+          "id": 9974,
+          "text": "Ed Miliband"
+        }
+      ]
+    },
+    {
+      "id": 8819,
+      "text": "The Reform Act of 1832 abolished the old pocket and rotten boroughs.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        9981
+      ],
+      "options": [
+        {
+          "id": 9981,
+          "text": "True"
+        },
+        {
+          "id": 9982,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8820,
+      "text": "What is the minimum age requirement to drive a moped in the UK?",
+      "explanation": "You need to be at least16years old to ride a moped, and there are other age requirements and special tests for driving large vehicles.",
+      "computed_correct_option_ids": [
+        9991
+      ],
+      "options": [
+        {
+          "id": 9991,
+          "text": "16"
+        },
+        {
+          "id": 9992,
+          "text": "18"
+        },
+        {
+          "id": 9993,
+          "text": "20"
+        },
+        {
+          "id": 9994,
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "id": 8821,
+      "text": "Which of the following statements is true?",
+      "explanation": "Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.",
+      "computed_correct_option_ids": [
+        10004
+      ],
+      "options": [
+        {
+          "id": 10001,
+          "text": "Great Britain refers only to England, Wales, Northern Ireland, not to Scotland."
+        },
+        {
+          "id": 10002,
+          "text": "Great Britain refers only to England, Northern Ireland and Scotland, not to Wales."
+        },
+        {
+          "id": 10003,
+          "text": "Great Britain refers to England, Scotland, Wales and Northern Ireland."
+        },
+        {
+          "id": 10004,
+          "text": "Great Britain refers only to England, Scotland and Wales, not to Northern Ireland."
+        }
+      ]
+    },
+    {
+      "id": 8822,
+      "text": "How many countries formed the European Economic Community (EEC) when it was first created in 1957?",
+      "explanation": "The European Economic Community (EEC), was set up bysixwestern European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957.",
+      "computed_correct_option_ids": [
+        10012
+      ],
+      "options": [
+        {
+          "id": 10011,
+          "text": "Five"
+        },
+        {
+          "id": 10012,
+          "text": "Six"
+        },
+        {
+          "id": 10013,
+          "text": "Seven"
+        },
+        {
+          "id": 10014,
+          "text": "Nine"
+        }
+      ]
+    },
+    {
+      "id": 8823,
+      "text": "Northern Ireland and Wales have their own banknotes, which are valid everywhere in the UK. However, shop and businesses do not have to accept them:",
+      "explanation": "Northern Ireland and Scotlandhave their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        10021
+      ],
+      "options": [
+        {
+          "id": 10021,
+          "text": "True"
+        },
+        {
+          "id": 10022,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8824,
+      "text": "What is donated blood used for?",
+      "explanation": "Donated blood is used by hospitalsto help people with a wide range of injuries and illnesses.",
+      "computed_correct_option_ids": [
+        10031
+      ],
+      "options": [
+        {
+          "id": 10031,
+          "text": "To help people with a wide range of injuries and illnesses"
+        },
+        {
+          "id": 10032,
+          "text": "Blood cannot be donated in the UK"
+        },
+        {
+          "id": 10033,
+          "text": "To carry out research with your DNA"
+        },
+        {
+          "id": 10034,
+          "text": "To be stored in the hospital in case you need it in the future"
+        }
+      ]
+    }
+  ]
+}

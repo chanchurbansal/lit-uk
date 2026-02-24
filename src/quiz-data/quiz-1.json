@@ -1,0 +1,601 @@
+{
+  "id": 359,
+  "name": "Life in the UK Test 1",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 36,
+      "text": "What is known as Lent?",
+      "explanation": "The 40 days before Easter are known as Lent.",
+      "computed_correct_option_ids": [
+        137
+      ],
+      "options": [
+        {
+          "id": 137,
+          "text": "The 40 days before Easter"
+        },
+        {
+          "id": 140,
+          "text": "The 40 days after Christmas"
+        },
+        {
+          "id": 139,
+          "text": "The 40 days before Christmas"
+        },
+        {
+          "id": 138,
+          "text": "The 40 days after Easter"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "Which country's flag is not part of the Union Flag?",
+      "explanation": "The Welsh dragon is not part of the Union Flag.",
+      "computed_correct_option_ids": [
+        241
+      ],
+      "options": [
+        {
+          "id": 241,
+          "text": "Wales"
+        },
+        {
+          "id": 244,
+          "text": "Ireland"
+        },
+        {
+          "id": 243,
+          "text": "Scotland"
+        },
+        {
+          "id": 242,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "What is the judiciary responsible for?",
+      "explanation": "Judges, who are together called 'the judiciary', are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+      "computed_correct_option_ids": [
+        365
+      ],
+      "options": [
+        {
+          "id": 366,
+          "text": "Deciding whether a person is guilty"
+        },
+        {
+          "id": 365,
+          "text": "Interpreting the law"
+        },
+        {
+          "id": 368,
+          "text": "Looking after a jury"
+        },
+        {
+          "id": 367,
+          "text": "Putting people in prison"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "text": "When did the Habeas Corpus Act become law?",
+      "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
+      "computed_correct_option_ids": [
+        417
+      ],
+      "options": [
+        {
+          "id": 417,
+          "text": "1679"
+        },
+        {
+          "id": 420,
+          "text": "1687"
+        },
+        {
+          "id": 419,
+          "text": "1685"
+        },
+        {
+          "id": 418,
+          "text": "1683"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "text": "Which of the events is the bombing of English cities by the Germans?",
+      "explanation": "The Blitz was the German air force bombing London and other British cities at night-time. The phrase 'the Blitz spirit' is still used today to describe Britons pulling together in the face of adversity.",
+      "computed_correct_option_ids": [
+        433
+      ],
+      "options": [
+        {
+          "id": 433,
+          "text": "The Blitz"
+        },
+        {
+          "id": 436,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 435,
+          "text": "D-Day"
+        },
+        {
+          "id": 434,
+          "text": "The Battle of Britain"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "text": "Why is it called 'The Glorious Revolution'?",
+      "explanation": "This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.",
+      "computed_correct_option_ids": [
+        697
+      ],
+      "options": [
+        {
+          "id": 700,
+          "text": "Women were given the right to vote"
+        },
+        {
+          "id": 697,
+          "text": "Because there was no fighting"
+        },
+        {
+          "id": 698,
+          "text": "Because of new technological advances"
+        },
+        {
+          "id": 699,
+          "text": "Because of new achievements"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "text": "Which of these venues is located in Greenwich?",
+      "explanation": "There are many large venues that host music events throughout the year, such as: The O2 in Greenwich and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.",
+      "computed_correct_option_ids": [
+        737
+      ],
+      "options": [
+        {
+          "id": 739,
+          "text": "The Copenhagen Concert Hall"
+        },
+        {
+          "id": 738,
+          "text": "The SECC"
+        },
+        {
+          "id": 737,
+          "text": "The O2"
+        },
+        {
+          "id": 740,
+          "text": "Auditorio de Tenerife"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "text": "When did the UK leave the EU following the Brexit Vote?",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After UK's Brexit vote in 2020, there are now 27 EU member states.",
+      "computed_correct_option_ids": [
+        785
+      ],
+      "options": [
+        {
+          "id": 788,
+          "text": "1987"
+        },
+        {
+          "id": 785,
+          "text": "2020"
+        },
+        {
+          "id": 786,
+          "text": "1957"
+        },
+        {
+          "id": 787,
+          "text": "1973"
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "text": "When was The First British Prime minister (Sir Robert Walpole) in power?",
+      "explanation": "The first man to be called 'Prime Minister' was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+      "computed_correct_option_ids": [
+        1459
+      ],
+      "options": [
+        {
+          "id": 1457,
+          "text": "1707-1714"
+        },
+        {
+          "id": 1460,
+          "text": "1742-1746"
+        },
+        {
+          "id": 1459,
+          "text": "1721-1742"
+        },
+        {
+          "id": 1458,
+          "text": "1714-1721"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "text": "Which country's national flower is a thistle?",
+      "explanation": "A thistle is a national flower of Scotland.",
+      "computed_correct_option_ids": [
+        2048
+      ],
+      "options": [
+        {
+          "id": 2050,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 2047,
+          "text": "England"
+        },
+        {
+          "id": 2048,
+          "text": "Scotland"
+        },
+        {
+          "id": 2049,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "text": "Who developed ideas about economics during the Enlightenment period which are still referred to today?",
+      "explanation": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today. David Hume's ideas about human nature continue to influence philosophers. Scientific discoveries, such as James Watt's work on steam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        2219
+      ],
+      "options": [
+        {
+          "id": 2222,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 2219,
+          "text": "Adam Smith"
+        },
+        {
+          "id": 2220,
+          "text": "James Watt"
+        },
+        {
+          "id": 2221,
+          "text": "David Hume"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "text": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence",
+      "explanation": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence",
+      "computed_correct_option_ids": [
+        2269
+      ],
+      "options": [
+        {
+          "id": 2270,
+          "text": "False"
+        },
+        {
+          "id": 2269,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 640,
+      "text": "Magistrates and Justices of the Peace (JPs) are members of what?",
+      "explanation": "Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications. They receive training to do the job and are supported by a legal adviser.",
+      "computed_correct_option_ids": [
+        2410
+      ],
+      "options": [
+        {
+          "id": 2410,
+          "text": "Local Community"
+        },
+        {
+          "id": 2412,
+          "text": "Police Force"
+        },
+        {
+          "id": 2411,
+          "text": "Ruling Party"
+        },
+        {
+          "id": 2409,
+          "text": "Law Society"
+        }
+      ]
+    },
+    {
+      "id": 656,
+      "text": "A 2 minutes silence is observed on Easter to commemorate the death of Jesus Christ",
+      "explanation": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+      "computed_correct_option_ids": [
+        2460
+      ],
+      "options": [
+        {
+          "id": 2460,
+          "text": "False"
+        },
+        {
+          "id": 2459,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "text": "Peers nominated by the Prime Minister can only serve for their lifetime",
+      "explanation": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        2491
+      ],
+      "options": [
+        {
+          "id": 2492,
+          "text": "False"
+        },
+        {
+          "id": 2491,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 806,
+      "text": "Which TWO countries took part in the Battle of Agincourt?",
+      "explanation": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        2963,
+        2964
+      ],
+      "options": [
+        {
+          "id": 2964,
+          "text": "France"
+        },
+        {
+          "id": 2965,
+          "text": "Scotland"
+        },
+        {
+          "id": 2966,
+          "text": "Wales"
+        },
+        {
+          "id": 2963,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "text": "Who is credited with the introduction of the National Health Service (NHS) in 1948?",
+      "explanation": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use",
+      "computed_correct_option_ids": [
+        3031
+      ],
+      "options": [
+        {
+          "id": 3033,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 3032,
+          "text": "Florence Nightingale"
+        },
+        {
+          "id": 3034,
+          "text": "David Hume"
+        },
+        {
+          "id": 3031,
+          "text": "Aneurin Bevan"
+        }
+      ]
+    },
+    {
+      "id": 926,
+      "text": "The Speaker is an MP, he/she represents a constituency and deals with constituents' problems like any other MP",
+      "explanation": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP.",
+      "computed_correct_option_ids": [
+        3379
+      ],
+      "options": [
+        {
+          "id": 3380,
+          "text": "False"
+        },
+        {
+          "id": 3379,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 937,
+      "text": "What religion were Puritans?",
+      "explanation": "Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship.",
+      "computed_correct_option_ids": [
+        3411
+      ],
+      "options": [
+        {
+          "id": 3409,
+          "text": "Buddhists"
+        },
+        {
+          "id": 3412,
+          "text": "Jews"
+        },
+        {
+          "id": 3411,
+          "text": "Protestants"
+        },
+        {
+          "id": 3410,
+          "text": "Catholics"
+        }
+      ]
+    },
+    {
+      "id": 955,
+      "text": "Who can nominate life peers? (Select TWO)",
+      "explanation": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. Life peers are appointed by the monarch on the advice of the Prime Minister. They also include people nominated by the leaders of the other main political parties or by an independent Appointments Commission for non-party peers.",
+      "computed_correct_option_ids": [
+        3465,
+        3466
+      ],
+      "options": [
+        {
+          "id": 3466,
+          "text": "Leaders of other main political parties"
+        },
+        {
+          "id": 3465,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 3468,
+          "text": "The Monarchy"
+        },
+        {
+          "id": 3467,
+          "text": "The Speaker"
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "text": "What country did Hitler invade in 1939?",
+      "explanation": "The British government tried to avoid another war. However, when Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression.",
+      "computed_correct_option_ids": [
+        3543
+      ],
+      "options": [
+        {
+          "id": 3544,
+          "text": "Italy"
+        },
+        {
+          "id": 3545,
+          "text": "USSR"
+        },
+        {
+          "id": 3546,
+          "text": "The USA"
+        },
+        {
+          "id": 3543,
+          "text": "Poland"
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "text": "Name the most famous cricket competition, which is a series of Test matches played between England and Australia",
+      "explanation": "The most famous competition is the Ashes, which is a series of Test matches played between England and Australia.",
+      "computed_correct_option_ids": [
+        3683
+      ],
+      "options": [
+        {
+          "id": 3683,
+          "text": "Ashes"
+        },
+        {
+          "id": 3685,
+          "text": "Lords"
+        },
+        {
+          "id": 3686,
+          "text": "Masters"
+        },
+        {
+          "id": 3684,
+          "text": "Classics"
+        }
+      ]
+    },
+    {
+      "id": 1050,
+      "text": "In England & Wales, the small claims procedure is an informal way of helping people to settle minor disputes claims of less than?",
+      "explanation": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales; £5,000 in Scotland and £5,000 in Northern Ireland (Changed from £3000).",
+      "computed_correct_option_ids": [
+        3799
+      ],
+      "options": [
+        {
+          "id": 3800,
+          "text": "£4,000"
+        },
+        {
+          "id": 3801,
+          "text": "£3,000"
+        },
+        {
+          "id": 3802,
+          "text": "£2,000"
+        },
+        {
+          "id": 3799,
+          "text": "£10,000"
+        }
+      ]
+    },
+    {
+      "id": 1077,
+      "text": "Which tribes invaded Britain after the Romans had left?",
+      "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+      "computed_correct_option_ids": [
+        3905
+      ],
+      "options": [
+        {
+          "id": 3907,
+          "text": "The Normans"
+        },
+        {
+          "id": 3906,
+          "text": "The Vikings"
+        },
+        {
+          "id": 3905,
+          "text": "The Jutes and the Anglo-Saxons"
+        },
+        {
+          "id": 3908,
+          "text": "The Celtics"
+        }
+      ]
+    }
+  ]
+}

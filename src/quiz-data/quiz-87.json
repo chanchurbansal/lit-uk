@@ -1,0 +1,600 @@
+{
+  "id": 487,
+  "name": "British Citizenship Test 2",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10201,
+      "text": "What is the Home Secretary responsible for?",
+      "explanation": "The Home Secretary is responsible forcrime, policing and immigration.",
+      "computed_correct_option_ids": [
+        11204
+      ],
+      "options": [
+        {
+          "id": 11201,
+          "text": "Health"
+        },
+        {
+          "id": 11202,
+          "text": "Defence"
+        },
+        {
+          "id": 11203,
+          "text": "Education"
+        },
+        {
+          "id": 11204,
+          "text": "Policing"
+        }
+      ]
+    },
+    {
+      "id": 10202,
+      "text": "St Helena is a British overseas territory and it is part of the United Kingdom.",
+      "explanation": "British overseas territories, such as St Helena and the Falkland Islands are linked to the UK but arenot part of it.",
+      "computed_correct_option_ids": [
+        11212
+      ],
+      "options": [
+        {
+          "id": 11211,
+          "text": "True"
+        },
+        {
+          "id": 11212,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10203,
+      "text": "Several Church of England bishops sit in the House of Lords.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11221
+      ],
+      "options": [
+        {
+          "id": 11221,
+          "text": "True"
+        },
+        {
+          "id": 11222,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10204,
+      "text": "When walking your dog in a public place, you must ensure:",
+      "explanation": "All dogs in public places must weara collar showing the name and address of the owner.",
+      "computed_correct_option_ids": [
+        11232
+      ],
+      "options": [
+        {
+          "id": 11231,
+          "text": "That your dog does not play with other dogs"
+        },
+        {
+          "id": 11232,
+          "text": "That your dog wears a collar showing the name and address of the owner"
+        },
+        {
+          "id": 11233,
+          "text": "That your dog wears a high visibility jacket"
+        },
+        {
+          "id": 11234,
+          "text": "That your dog does not bark"
+        }
+      ]
+    },
+    {
+      "id": 10205,
+      "text": "Women over the age of 30 were given the right to vote as a result of their contribution towards the war effort. Which war was that?",
+      "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during theFirst World War.",
+      "computed_correct_option_ids": [
+        11243
+      ],
+      "options": [
+        {
+          "id": 11241,
+          "text": "The Second World War"
+        },
+        {
+          "id": 11242,
+          "text": "The Crimean War"
+        },
+        {
+          "id": 11243,
+          "text": "The First World War"
+        },
+        {
+          "id": 11244,
+          "text": "The Civil War"
+        }
+      ]
+    },
+    {
+      "id": 10206,
+      "text": "When did Ireland become a republic?",
+      "explanation": "Ireland became a republic in1949.",
+      "computed_correct_option_ids": [
+        11253
+      ],
+      "options": [
+        {
+          "id": 11251,
+          "text": "1925"
+        },
+        {
+          "id": 11252,
+          "text": "1939"
+        },
+        {
+          "id": 11253,
+          "text": "1949"
+        },
+        {
+          "id": 11254,
+          "text": "1927"
+        }
+      ]
+    },
+    {
+      "id": 10207,
+      "text": "Where did the first farmers come from?",
+      "explanation": "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came fromsouth-east Europe.",
+      "computed_correct_option_ids": [
+        11262
+      ],
+      "options": [
+        {
+          "id": 11261,
+          "text": "South-west Europe"
+        },
+        {
+          "id": 11262,
+          "text": "South-east Europe"
+        },
+        {
+          "id": 11263,
+          "text": "North-east America"
+        },
+        {
+          "id": 11264,
+          "text": "North-west Asia"
+        }
+      ]
+    },
+    {
+      "id": 10208,
+      "text": "Who was an important contributor to the ‘pop art’ movement of the 1960’s?",
+      "explanation": "David Hockneywas an important contributor to the ‘pop art’ movement of the 1960s and continues to be influential today.",
+      "computed_correct_option_ids": [
+        11271
+      ],
+      "options": [
+        {
+          "id": 11271,
+          "text": "David Hockney"
+        },
+        {
+          "id": 11272,
+          "text": "Lucian Freud"
+        },
+        {
+          "id": 11273,
+          "text": "John Petts"
+        },
+        {
+          "id": 11274,
+          "text": "Henry Moore"
+        }
+      ]
+    },
+    {
+      "id": 10209,
+      "text": "Who became Prime Minister and was an inspirational leader to the British people during WWII?",
+      "explanation": "Winston Churchill.",
+      "computed_correct_option_ids": [
+        11281
+      ],
+      "options": [
+        {
+          "id": 11281,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 11282,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 11283,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 11284,
+          "text": "Sir Robert Walpole"
+        }
+      ]
+    },
+    {
+      "id": 10210,
+      "text": "Who led the first invasion of Britain?",
+      "explanation": "Julius Caesarled a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
+      "computed_correct_option_ids": [
+        11292
+      ],
+      "options": [
+        {
+          "id": 11291,
+          "text": "Emperor Hadrian"
+        },
+        {
+          "id": 11292,
+          "text": "Julius Caesar"
+        },
+        {
+          "id": 11293,
+          "text": "Canute"
+        },
+        {
+          "id": 11294,
+          "text": "William, the Duke of Normandy"
+        }
+      ]
+    },
+    {
+      "id": 10211,
+      "text": "Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?",
+      "explanation": "The Anglo-Saxon kingdoms in England united underKing Alfred the Great, who defeated the Vikings.",
+      "computed_correct_option_ids": [
+        11302
+      ],
+      "options": [
+        {
+          "id": 11301,
+          "text": "William of Orange"
+        },
+        {
+          "id": 11302,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 11303,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 11304,
+          "text": "Robert the Bruce"
+        }
+      ]
+    },
+    {
+      "id": 10212,
+      "text": "When was the Magna Carta created?",
+      "explanation": "The Magna Carta was created in1215.",
+      "computed_correct_option_ids": [
+        11312
+      ],
+      "options": [
+        {
+          "id": 11311,
+          "text": "1514"
+        },
+        {
+          "id": 11312,
+          "text": "1215"
+        },
+        {
+          "id": 11313,
+          "text": "1415"
+        },
+        {
+          "id": 11314,
+          "text": "1314"
+        }
+      ]
+    },
+    {
+      "id": 10213,
+      "text": "Northern Ireland has its own banknotes, which are valid everywhere in the UK.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11321
+      ],
+      "options": [
+        {
+          "id": 11321,
+          "text": "True"
+        },
+        {
+          "id": 11322,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10214,
+      "text": "Which of the following plays was written by William Shakespeare?",
+      "explanation": "William Shakespeare’s most famous plays includeA Midsummer Night’s dream.",
+      "computed_correct_option_ids": [
+        11332
+      ],
+      "options": [
+        {
+          "id": 11331,
+          "text": "Pride and Prejudice"
+        },
+        {
+          "id": 11332,
+          "text": "A Midsummer Night’s dream"
+        },
+        {
+          "id": 11333,
+          "text": "Sense and Sensibility"
+        },
+        {
+          "id": 11334,
+          "text": "Great Expectations"
+        }
+      ]
+    },
+    {
+      "id": 10215,
+      "text": "How many members does a jury have in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland a jury has12 members.",
+      "computed_correct_option_ids": [
+        11342
+      ],
+      "options": [
+        {
+          "id": 11341,
+          "text": "9"
+        },
+        {
+          "id": 11342,
+          "text": "12"
+        },
+        {
+          "id": 11343,
+          "text": "15"
+        },
+        {
+          "id": 11344,
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "id": 10216,
+      "text": "Which two of the following religious communities celebrate Diwali?",
+      "explanation": "Diwali is celebrated byHindus and Sikhs.",
+      "computed_correct_option_ids": [
+        11352,
+        11354
+      ],
+      "options": [
+        {
+          "id": 11351,
+          "text": "Buddhists"
+        },
+        {
+          "id": 11352,
+          "text": "Hindus"
+        },
+        {
+          "id": 11353,
+          "text": "Jews"
+        },
+        {
+          "id": 11354,
+          "text": "Sikhs"
+        }
+      ]
+    },
+    {
+      "id": 10217,
+      "text": "What is Good Friday?",
+      "explanation": "Good Fridaymarks the death of Jesus Christduring the Easter.",
+      "computed_correct_option_ids": [
+        11363
+      ],
+      "options": [
+        {
+          "id": 11361,
+          "text": "The day when Jesus Christ rose from the dead"
+        },
+        {
+          "id": 11362,
+          "text": "The day when Jesus Christ was born"
+        },
+        {
+          "id": 11363,
+          "text": "The day when Jesus Christ died"
+        },
+        {
+          "id": 11364,
+          "text": "The day when Jesus Christ became 30 years old"
+        }
+      ]
+    },
+    {
+      "id": 10218,
+      "text": "St Patrick’s day is a public holiday in Northern Ireland.",
+      "explanation": "True. Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close).",
+      "computed_correct_option_ids": [
+        11371
+      ],
+      "options": [
+        {
+          "id": 11371,
+          "text": "True"
+        },
+        {
+          "id": 11372,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10219,
+      "text": "Which was the last successful foreign invasion of England that took place in 1066?",
+      "explanation": "The Norman Conquestwas the last successful foreign invasion of England in 1066.",
+      "computed_correct_option_ids": [
+        11384
+      ],
+      "options": [
+        {
+          "id": 11381,
+          "text": "The Viking invasion"
+        },
+        {
+          "id": 11382,
+          "text": "The Anglo-Saxon Conquest"
+        },
+        {
+          "id": 11383,
+          "text": "The Roman invasion"
+        },
+        {
+          "id": 11384,
+          "text": "The Norman Conquest"
+        }
+      ]
+    },
+    {
+      "id": 10220,
+      "text": "Where are the Crown Jewels kept?",
+      "explanation": "The Crown Jewels are kept atthe Tower of London.",
+      "computed_correct_option_ids": [
+        11392
+      ],
+      "options": [
+        {
+          "id": 11391,
+          "text": "At the House of Commons"
+        },
+        {
+          "id": 11392,
+          "text": "At the Tower of London"
+        },
+        {
+          "id": 11393,
+          "text": "At Buckingham Palace"
+        },
+        {
+          "id": 11394,
+          "text": "At Windsor Castle"
+        }
+      ]
+    },
+    {
+      "id": 10221,
+      "text": "Which sport can be traced back to the 15th century in Scotland?",
+      "explanation": "The modern game ofgolfcan be traced back to 15th century Scotland.",
+      "computed_correct_option_ids": [
+        11401
+      ],
+      "options": [
+        {
+          "id": 11401,
+          "text": "Golf"
+        },
+        {
+          "id": 11402,
+          "text": "Tennis"
+        },
+        {
+          "id": 11403,
+          "text": "Football"
+        },
+        {
+          "id": 11404,
+          "text": "Rugby"
+        }
+      ]
+    },
+    {
+      "id": 10222,
+      "text": "Who was the first person in England to print books using a printing press?",
+      "explanation": "William Caxtonwas the first person in England to print books using a printing press.",
+      "computed_correct_option_ids": [
+        11414
+      ],
+      "options": [
+        {
+          "id": 11411,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 11412,
+          "text": "John Barbour"
+        },
+        {
+          "id": 11413,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 11414,
+          "text": "William Caxton"
+        }
+      ]
+    },
+    {
+      "id": 10223,
+      "text": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in aMagistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+      "computed_correct_option_ids": [
+        11423
+      ],
+      "options": [
+        {
+          "id": 11421,
+          "text": "High Court"
+        },
+        {
+          "id": 11422,
+          "text": "Justice of the Peace Court"
+        },
+        {
+          "id": 11423,
+          "text": "Magistrates’ Court"
+        },
+        {
+          "id": 11424,
+          "text": "Crown Court"
+        }
+      ]
+    },
+    {
+      "id": 10224,
+      "text": "What did the Scottish John Logie Baird develop?",
+      "explanation": "Thetelevisionwas developed by Scotsman John Logie Baird in the 1920s.",
+      "computed_correct_option_ids": [
+        11431
+      ],
+      "options": [
+        {
+          "id": 11431,
+          "text": "Television"
+        },
+        {
+          "id": 11432,
+          "text": "Radar"
+        },
+        {
+          "id": 11433,
+          "text": "Personal computer"
+        },
+        {
+          "id": 11434,
+          "text": "Radio"
+        }
+      ]
+    }
+  ]
+}

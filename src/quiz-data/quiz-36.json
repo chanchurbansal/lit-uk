@@ -1,0 +1,625 @@
+{
+  "id": 394,
+  "name": "Life in the UK Test 36",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 35,
+      "text": "What is the Church of England known as in Scotland and the US?",
+      "explanation": "The official Church of the state is the Church of England is called the Episcopal Church in Scotland and the United States. It is a Protestant Church.",
+      "computed_correct_option_ids": [
+        133
+      ],
+      "options": [
+        {
+          "id": 133,
+          "text": "The Episcopal Church"
+        },
+        {
+          "id": 136,
+          "text": "The Catholic Church"
+        },
+        {
+          "id": 135,
+          "text": "The State Church"
+        },
+        {
+          "id": 134,
+          "text": "The Anglican Church"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Which countries are in Great Britain?",
+      "explanation": "Great Britain consists of 3 countries: England, Wales and Scotland.",
+      "computed_correct_option_ids": [
+        193
+      ],
+      "options": [
+        {
+          "id": 196,
+          "text": "Wales, Northern Ireland, Scotland"
+        },
+        {
+          "id": 195,
+          "text": "England, Scotland, Ireland"
+        },
+        {
+          "id": 194,
+          "text": "England, Wales, Scotland, Northern Ireland"
+        },
+        {
+          "id": 193,
+          "text": "England, Wales, Scotland"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "What language did the Iron Age people speak?",
+      "explanation": "Their language was part of the Celtic language family.",
+      "computed_correct_option_ids": [
+        201
+      ],
+      "options": [
+        {
+          "id": 201,
+          "text": "Celtic"
+        },
+        {
+          "id": 204,
+          "text": "Viking"
+        },
+        {
+          "id": 203,
+          "text": "Anglo-Saxon"
+        },
+        {
+          "id": 202,
+          "text": "English"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "text": "When did the UK join the EEC?",
+      "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973.",
+      "computed_correct_option_ids": [
+        441
+      ],
+      "options": [
+        {
+          "id": 444,
+          "text": "1968"
+        },
+        {
+          "id": 441,
+          "text": "1973"
+        },
+        {
+          "id": 442,
+          "text": "1957"
+        },
+        {
+          "id": 443,
+          "text": "1964"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "text": "Who is able to change the Prime Minister during his/her term?",
+      "explanation": "The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign. The Prime Minister usually resigns if his or her party loses a General Election.",
+      "computed_correct_option_ids": [
+        645
+      ],
+      "options": [
+        {
+          "id": 645,
+          "text": "The Governing Party"
+        },
+        {
+          "id": 648,
+          "text": "The Speaker"
+        },
+        {
+          "id": 647,
+          "text": "The Monarch"
+        },
+        {
+          "id": 646,
+          "text": "Fellow MPs"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "text": "What can schools do to raise money?",
+      "explanation": "Many schools organise events to raise money for extra equipment or out-of-school activities. Activities might include book sales, toy sales or bringing food to sell.",
+      "computed_correct_option_ids": [
+        657
+      ],
+      "options": [
+        {
+          "id": 658,
+          "text": "Ask parents for money"
+        },
+        {
+          "id": 660,
+          "text": "Reduce teachers' wages"
+        },
+        {
+          "id": 659,
+          "text": "Ask the local council for extra funding"
+        },
+        {
+          "id": 657,
+          "text": "Organise events"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "text": "Which of Henry VIII's wives were executed?",
+      "explanation": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London. Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+      "computed_correct_option_ids": [
+        889
+      ],
+      "options": [
+        {
+          "id": 891,
+          "text": "Catherine Parr and Anne of Cleves"
+        },
+        {
+          "id": 889,
+          "text": "Anne Boleyn and Catherine Howard"
+        },
+        {
+          "id": 890,
+          "text": "Catherine of Aragon and Anne Boleyn"
+        },
+        {
+          "id": 892,
+          "text": "Anne of Cleves and Jane Seymour"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "text": "Who led a team to clone a mammal for the first time?",
+      "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep. This has led to further research into the possible use of cloning to preserve endangered species and for medical purposes.",
+      "computed_correct_option_ids": [
+        917
+      ],
+      "options": [
+        {
+          "id": 918,
+          "text": "Patrick Steptoe and Patrick Steptoe"
+        },
+        {
+          "id": 920,
+          "text": "John MacLeod and James Goodfellow"
+        },
+        {
+          "id": 919,
+          "text": "Jayne Torvill and Mary Peters"
+        },
+        {
+          "id": 917,
+          "text": "Sir Ian Wilmut and Keith Campbell"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "text": "What tells us about how people lived just after the Norman Conquest?",
+      "explanation": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+      "computed_correct_option_ids": [
+        973
+      ],
+      "options": [
+        {
+          "id": 973,
+          "text": "The Domesday book"
+        },
+        {
+          "id": 974,
+          "text": "Historical Landmarks"
+        },
+        {
+          "id": 975,
+          "text": "The Bayeux Tapestry"
+        },
+        {
+          "id": 976,
+          "text": "Historical Villages"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "text": "Where was William Shakespeare born?",
+      "explanation": "Shakespeare (1564-1616) was born in Stratford-upon-Avon, England.",
+      "computed_correct_option_ids": [
+        1001
+      ],
+      "options": [
+        {
+          "id": 1003,
+          "text": "London"
+        },
+        {
+          "id": 1001,
+          "text": "Stratford upon Avon"
+        },
+        {
+          "id": 1002,
+          "text": "Berkshire"
+        },
+        {
+          "id": 1004,
+          "text": "Essex"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "text": "What tools did the Bronze age people introduce?",
+      "explanation": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons.",
+      "computed_correct_option_ids": [
+        1153
+      ],
+      "options": [
+        {
+          "id": 1155,
+          "text": "Gold Currency"
+        },
+        {
+          "id": 1153,
+          "text": "Ornaments and weapons"
+        },
+        {
+          "id": 1154,
+          "text": "Basic farming machinery"
+        },
+        {
+          "id": 1156,
+          "text": "Roads"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "text": "How many colonies were granted independence in 1947?",
+      "explanation": "Another aspect of change was self-government for former colonies. In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years.",
+      "computed_correct_option_ids": [
+        1185
+      ],
+      "options": [
+        {
+          "id": 1188,
+          "text": "11"
+        },
+        {
+          "id": 1186,
+          "text": "13"
+        },
+        {
+          "id": 1187,
+          "text": "7"
+        },
+        {
+          "id": 1185,
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "text": "The Battle of Hastings is commemorated in a piece of embroidery , known as the Bayeux Tapestry",
+      "explanation": "The battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        1553
+      ],
+      "options": [
+        {
+          "id": 1554,
+          "text": "False"
+        },
+        {
+          "id": 1553,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 664,
+      "text": "What are TWO responsibilities of members of Parliament (MPs)?",
+      "explanation": "MPs have a number of different responsibilities. They:; represent everyone in their constituency; ; help to create new laws; ; scrutinise and comment on what the government is doing; ; debate important national issues;",
+      "computed_correct_option_ids": [
+        2488,
+        2490
+      ],
+      "options": [
+        {
+          "id": 2487,
+          "text": "Represent only those who voted for them"
+        },
+        {
+          "id": 2488,
+          "text": "They represent everyone in their constituency"
+        },
+        {
+          "id": 2489,
+          "text": "Appoint the Prime Minister (PM)"
+        },
+        {
+          "id": 2490,
+          "text": "Scrutinise and comment on what the government is doing"
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "text": "Where was Anne Boleyn, the wife of Henry VIII who was accused of taking lovers, executed?",
+      "explanation": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London.",
+      "computed_correct_option_ids": [
+        2519
+      ],
+      "options": [
+        {
+          "id": 2522,
+          "text": "Maiden Castle"
+        },
+        {
+          "id": 2519,
+          "text": "The Tower of London"
+        },
+        {
+          "id": 2520,
+          "text": "Windsor Castle"
+        },
+        {
+          "id": 2521,
+          "text": "Stonehenge"
+        }
+      ]
+    },
+    {
+      "id": 733,
+      "text": "What is the percentage of Sikh living in the UK?",
+      "explanation": "In the 2021 England and Wales census, around 525,000 (0.9%) people from the sampled population of 60 million identified as Sikh. 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (6.5%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 0.5% of people followed another religion and 37% stated not to follow any religion.",
+      "computed_correct_option_ids": [
+        2715
+      ],
+      "options": [
+        {
+          "id": 2713,
+          "text": "5%"
+        },
+        {
+          "id": 2714,
+          "text": "9%"
+        },
+        {
+          "id": 2716,
+          "text": "13.00%"
+        },
+        {
+          "id": 2715,
+          "text": "1%"
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "text": "Where can you find Crown Jewels?",
+      "explanation": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there.",
+      "computed_correct_option_ids": [
+        2740
+      ],
+      "options": [
+        {
+          "id": 2740,
+          "text": "The Tower of London"
+        },
+        {
+          "id": 2742,
+          "text": "The National Museum"
+        },
+        {
+          "id": 2741,
+          "text": "Queen's house in Greenwich"
+        },
+        {
+          "id": 2739,
+          "text": "The Buckingham Palace"
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "text": "How is the Queen Elizabeth II's husband, Prince Philip, often called?",
+      "explanation": "Queen Elizabeth II reigned since her father's death in 1952, in 2012 she celebrated her Diamond Jubilee (60 years as queen) until she passed away in 2022. She was married to Prince Philip, the Duke of Edinburgh. Her eldest son, Prince Charles (the Prince of Wales) became the sovereign monarch in 2022.",
+      "computed_correct_option_ids": [
+        2746
+      ],
+      "options": [
+        {
+          "id": 2745,
+          "text": "The Duke of Belfast"
+        },
+        {
+          "id": 2743,
+          "text": "The Duke of London"
+        },
+        {
+          "id": 2744,
+          "text": "The Duke of Swansea"
+        },
+        {
+          "id": 2746,
+          "text": "The Duke of Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 820,
+      "text": "What name is given to the official flag that represents the union between England, Scotland, Wales and Northern Ireland?",
+      "explanation": "One symbol of the union between England, Scotland, Wales and Northern Ireland was a new version of the official flag, the Union Flag. This is often called the Union Jack.",
+      "computed_correct_option_ids": [
+        3015
+      ],
+      "options": [
+        {
+          "id": 3017,
+          "text": "Union Queen"
+        },
+        {
+          "id": 3015,
+          "text": "Union Jack"
+        },
+        {
+          "id": 3018,
+          "text": "Union Ace"
+        },
+        {
+          "id": 3016,
+          "text": "Union King"
+        }
+      ]
+    },
+    {
+      "id": 885,
+      "text": "Which TWO describe the Wimbledon Championships?",
+      "explanation": "Modern tennis evolved in England in the late 19th century. The first tennis club was founded in Leamington Spa in 1872. The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only 'Grand Slam' event played on grass.",
+      "computed_correct_option_ids": [
+        3247,
+        3250
+      ],
+      "options": [
+        {
+          "id": 3247,
+          "text": "Only 'Grand Slam' event played on grass"
+        },
+        {
+          "id": 3250,
+          "text": "Oldest tennis tournament in the world"
+        },
+        {
+          "id": 3249,
+          "text": "Only 'Major' tournament held outside the US"
+        },
+        {
+          "id": 3248,
+          "text": "Only tennis tournament that Andy Murray won"
+        }
+      ]
+    },
+    {
+      "id": 984,
+      "text": "What is a good way to support your local community?",
+      "explanation": "A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.",
+      "computed_correct_option_ids": [
+        3559
+      ],
+      "options": [
+        {
+          "id": 3562,
+          "text": "Donating to boost the economy"
+        },
+        {
+          "id": 3561,
+          "text": "Buying good from large supermarkets"
+        },
+        {
+          "id": 3560,
+          "text": "Driving everywhere"
+        },
+        {
+          "id": 3559,
+          "text": "Shop for products locally where you can"
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "text": "What is the geographic position of the UK in Europe?",
+      "explanation": "The UK is located in the North West of Europe.",
+      "computed_correct_option_ids": [
+        3623
+      ],
+      "options": [
+        {
+          "id": 3625,
+          "text": "East"
+        },
+        {
+          "id": 3623,
+          "text": "North West"
+        },
+        {
+          "id": 3624,
+          "text": "West"
+        },
+        {
+          "id": 3626,
+          "text": "South"
+        }
+      ]
+    },
+    {
+      "id": 1063,
+      "text": "What is the official report that contains everything said in Parliament called?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
+      "computed_correct_option_ids": [
+        3849
+      ],
+      "options": [
+        {
+          "id": 3850,
+          "text": "The Domesday Book"
+        },
+        {
+          "id": 3851,
+          "text": "The Government report"
+        },
+        {
+          "id": 3852,
+          "text": "The Government press"
+        },
+        {
+          "id": 3849,
+          "text": "Hansard"
+        }
+      ]
+    },
+    {
+      "id": 1074,
+      "text": "When is St Patrick's day?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        3893
+      ],
+      "options": [
+        {
+          "id": 3896,
+          "text": "30th of November"
+        },
+        {
+          "id": 3894,
+          "text": "1st of March"
+        },
+        {
+          "id": 3895,
+          "text": "23rd of April"
+        },
+        {
+          "id": 3893,
+          "text": "17th of March"
+        }
+      ]
+    }
+  ]
+}

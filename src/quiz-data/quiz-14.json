@@ -1,0 +1,608 @@
+{
+  "id": 372,
+  "name": "Life in the UK Test 14",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 49,
+      "text": "What is the fundamental principle of British life?",
+      "explanation": "The rule of law is one of the fundamental principles of British Life.",
+      "computed_correct_option_ids": [
+        189
+      ],
+      "options": [
+        {
+          "id": 190,
+          "text": "Attending a Church on Sundays"
+        },
+        {
+          "id": 189,
+          "text": "The rule of law"
+        },
+        {
+          "id": 192,
+          "text": "Taking part in festivals"
+        },
+        {
+          "id": 191,
+          "text": "Supporting your local team"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Which word comes from the Viking language?",
+      "explanation": "Grimsby and Scunthorpe are the examples of words that come from the Viking languages.",
+      "computed_correct_option_ids": [
+        297
+      ],
+      "options": [
+        {
+          "id": 300,
+          "text": "Arm"
+        },
+        {
+          "id": 299,
+          "text": "Cow"
+        },
+        {
+          "id": 298,
+          "text": "Leg"
+        },
+        {
+          "id": 297,
+          "text": "Scunthorpe"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "text": "Who designed the Clifton Suspension Bridge?",
+      "explanation": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships. He was responsible for constructing the Great Western Railway and the Clifton Suspension Bridge.",
+      "computed_correct_option_ids": [
+        429
+      ],
+      "options": [
+        {
+          "id": 432,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 431,
+          "text": "Richard Arkwright"
+        },
+        {
+          "id": 430,
+          "text": "Florence Nightingale"
+        },
+        {
+          "id": 429,
+          "text": "Isambard Kingdom Brunel"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "text": "What happens if an MP dies or resigns?",
+      "explanation": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency.",
+      "computed_correct_option_ids": [
+        569
+      ],
+      "options": [
+        {
+          "id": 569,
+          "text": "A by-election is held"
+        },
+        {
+          "id": 570,
+          "text": "Someone takes over"
+        },
+        {
+          "id": 571,
+          "text": "The closest MP will have to cover"
+        },
+        {
+          "id": 572,
+          "text": "A new General Election is held"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "text": "How many times has the UK hosted the Olympic Games?",
+      "explanation": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The main Olympic site for the 2012 Games was in Stratford, East London.",
+      "computed_correct_option_ids": [
+        629
+      ],
+      "options": [
+        {
+          "id": 629,
+          "text": "3"
+        },
+        {
+          "id": 632,
+          "text": "4"
+        },
+        {
+          "id": 631,
+          "text": "1"
+        },
+        {
+          "id": 630,
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "text": "What does the 'R' Plate stand for?",
+      "explanation": "In Northern Ireland, a newly qualified driver must display an 'R' plate (for restricted driver) for one year after passing the test.",
+      "computed_correct_option_ids": [
+        653
+      ],
+      "options": [
+        {
+          "id": 653,
+          "text": "Restricted Driver"
+        },
+        {
+          "id": 654,
+          "text": "Repaired Damages"
+        },
+        {
+          "id": 655,
+          "text": "Rage Drinking"
+        },
+        {
+          "id": 656,
+          "text": "Refreshed Data"
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "text": "When did the Vikings first attack Britain?",
+      "explanation": "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slaves.",
+      "computed_correct_option_ids": [
+        1313
+      ],
+      "options": [
+        {
+          "id": 1314,
+          "text": "AD 798"
+        },
+        {
+          "id": 1316,
+          "text": "AD 879"
+        },
+        {
+          "id": 1315,
+          "text": "AD 897"
+        },
+        {
+          "id": 1313,
+          "text": "AD 789"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "text": "When was the Emancipation Act signed?",
+      "explanation": "In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.",
+      "computed_correct_option_ids": [
+        1373
+      ],
+      "options": [
+        {
+          "id": 1375,
+          "text": "1813"
+        },
+        {
+          "id": 1373,
+          "text": "1833"
+        },
+        {
+          "id": 1374,
+          "text": "1807"
+        },
+        {
+          "id": 1376,
+          "text": "1821"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "text": "How many members does the UN Security Council have?",
+      "explanation": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.",
+      "computed_correct_option_ids": [
+        1521
+      ],
+      "options": [
+        {
+          "id": 1524,
+          "text": "150"
+        },
+        {
+          "id": 1521,
+          "text": "15"
+        },
+        {
+          "id": 1522,
+          "text": "5"
+        },
+        {
+          "id": 1523,
+          "text": "54"
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "text": "Who had the title 'Lord Protector'?",
+      "explanation": "After his campaign in Ireland and victory over Charles II at Worcester, Cromwell was recognised as the leader of the new republic. He was given the title of Lord Protector and ruled until his death in 1658.",
+      "computed_correct_option_ids": [
+        1646
+      ],
+      "options": [
+        {
+          "id": 1646,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 1645,
+          "text": "Charles II"
+        },
+        {
+          "id": 1644,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 1643,
+          "text": "Sir Francis Drake"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "text": "When did William of Orange invade England?",
+      "explanation": "In 1688, important Protestants in England asked William to invade England and proclaim himself king.",
+      "computed_correct_option_ids": [
+        1751
+      ],
+      "options": [
+        {
+          "id": 1753,
+          "text": "1696"
+        },
+        {
+          "id": 1754,
+          "text": "1684"
+        },
+        {
+          "id": 1752,
+          "text": "1692"
+        },
+        {
+          "id": 1751,
+          "text": "1688"
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "text": "The process 'Highland Clearances' happened due to rebellion of slaves",
+      "explanation": "A process began which became known as the 'Highland Clearances'. Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+      "computed_correct_option_ids": [
+        1808
+      ],
+      "options": [
+        {
+          "id": 1807,
+          "text": "True"
+        },
+        {
+          "id": 1808,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "text": "What prehistoric village (off the north coast of Scotland) has helped archaeologists to understand more about how people lived near the end of the Stone Age?",
+      "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+      "computed_correct_option_ids": [
+        1870
+      ],
+      "options": [
+        {
+          "id": 1867,
+          "text": "Shetland"
+        },
+        {
+          "id": 1868,
+          "text": "St Helena"
+        },
+        {
+          "id": 1869,
+          "text": "Falkland Islands"
+        },
+        {
+          "id": 1870,
+          "text": "Skara Brae on Orkney"
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "text": "In what county can you see a hill fort at Maiden Castle?",
+      "explanation": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+      "computed_correct_option_ids": [
+        1874
+      ],
+      "options": [
+        {
+          "id": 1874,
+          "text": "Dorset"
+        },
+        {
+          "id": 1871,
+          "text": "Wiltshire"
+        },
+        {
+          "id": 1872,
+          "text": "Cheshire"
+        },
+        {
+          "id": 1873,
+          "text": "Lancashire"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "text": "What is the 'Grand National'?",
+      "explanation": "The Grand National at Aintree near Liverpool and the Scottish Grand National at Ayr are well known horse racing events.",
+      "computed_correct_option_ids": [
+        1967
+      ],
+      "options": [
+        {
+          "id": 1968,
+          "text": "A motor race"
+        },
+        {
+          "id": 1967,
+          "text": "A horse race"
+        },
+        {
+          "id": 1966,
+          "text": "A football cup competition"
+        },
+        {
+          "id": 1965,
+          "text": "A tennis championship"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "text": "On which TWO occasions will there be a fresh election, called a by-election, in MP's constituency?",
+      "explanation": "MPs are elected at a General Election, which is held at least every five years. If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency. MPs are elected through a system called 'first past the post'.",
+      "computed_correct_option_ids": [
+        2090,
+        2092
+      ],
+      "options": [
+        {
+          "id": 2089,
+          "text": "Gets ill"
+        },
+        {
+          "id": 2090,
+          "text": "Dies"
+        },
+        {
+          "id": 2091,
+          "text": "Goes abroad"
+        },
+        {
+          "id": 2092,
+          "text": "Resigns"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "text": "How is the Speaker elected?",
+      "explanation": "Debates in the House of Commons are chaired by the Speaker. This person is the chief Officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP. The Speaker is chosen by other MPs in a secret ballot.",
+      "computed_correct_option_ids": [
+        2096
+      ],
+      "options": [
+        {
+          "id": 2093,
+          "text": "The Archbishop of Canterbury chooses the Speaker"
+        },
+        {
+          "id": 2096,
+          "text": "Fellow MPs choose the Speaker"
+        },
+        {
+          "id": 2095,
+          "text": "The Monarch appoints the Speaker"
+        },
+        {
+          "id": 2094,
+          "text": "The PM chooses the Speaker"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "text": "Why was the Habeas Corpus Act (1679) so important?",
+      "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
+      "computed_correct_option_ids": [
+        2534
+      ],
+      "options": [
+        {
+          "id": 2536,
+          "text": "It gave women their property rights"
+        },
+        {
+          "id": 2533,
+          "text": "It gave women the right to vote"
+        },
+        {
+          "id": 2534,
+          "text": "It guaranteed that no one could be held prisoner unlawfully"
+        },
+        {
+          "id": 2535,
+          "text": "It limited the power of the monarch"
+        }
+      ]
+    },
+    {
+      "id": 796,
+      "text": "At what age did Queen Victoria become Queen of the UK?",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. At the date of writing (2013) this is the longest reign of any British monarch. Her reign is known as the Victorian Age.",
+      "computed_correct_option_ids": [
+        2927
+      ],
+      "options": [
+        {
+          "id": 2930,
+          "text": "7 years old"
+        },
+        {
+          "id": 2929,
+          "text": "3 years old"
+        },
+        {
+          "id": 2927,
+          "text": "18 years old"
+        },
+        {
+          "id": 2928,
+          "text": "One week old"
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "text": "During the Victorian period, transport link improved, enabling goods and people to move easily around the country",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        2931
+      ],
+      "options": [
+        {
+          "id": 2931,
+          "text": "True"
+        },
+        {
+          "id": 2932,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "text": "What was the more probable use for the Stonehenge?",
+      "explanation": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies",
+      "computed_correct_option_ids": [
+        3028
+      ],
+      "options": [
+        {
+          "id": 3028,
+          "text": "A special gathering place for seasonal ceremonies"
+        },
+        {
+          "id": 3027,
+          "text": "A safe place for shelter"
+        },
+        {
+          "id": 3030,
+          "text": "A fort for soldiers"
+        },
+        {
+          "id": 3029,
+          "text": "A hiding place from enemies"
+        }
+      ]
+    },
+    {
+      "id": 855,
+      "text": "John Constable (1776-1837) founded the modern Police force in England",
+      "explanation": "John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk-Essex border in the east of England.",
+      "computed_correct_option_ids": [
+        3144
+      ],
+      "options": [
+        {
+          "id": 3144,
+          "text": "False"
+        },
+        {
+          "id": 3143,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 906,
+      "text": "When was the Parliament of Northern Ireland first established?",
+      "explanation": "A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969. The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998.",
+      "computed_correct_option_ids": [
+        3313
+      ],
+      "options": [
+        {
+          "id": 3316,
+          "text": "1999"
+        },
+        {
+          "id": 3315,
+          "text": "1986"
+        },
+        {
+          "id": 3314,
+          "text": "1937"
+        },
+        {
+          "id": 3313,
+          "text": "1922"
+        }
+      ]
+    },
+    {
+      "id": 1076,
+      "text": "How old do you have to be to buy a lottery ticket or a scratch card?",
+      "explanation": "People under 18 (Changed in 2021) are not allowed to participate in the National Lottery. This includes buying Scratch Cards.",
+      "computed_correct_option_ids": [
+        3904
+      ],
+      "options": [
+        {
+          "id": 3904,
+          "text": "18"
+        },
+        {
+          "id": 3903,
+          "text": "17"
+        },
+        {
+          "id": 3902,
+          "text": "15"
+        },
+        {
+          "id": 3901,
+          "text": "16"
+        }
+      ]
+    }
+  ]
+}

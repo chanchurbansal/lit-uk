@@ -1,0 +1,593 @@
+{
+  "id": 383,
+  "name": "Life in the UK Test 25",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 83,
+      "text": "Who defeated Napoleon at the Battle of Waterloo?",
+      "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo.",
+      "computed_correct_option_ids": [
+        325
+      ],
+      "options": [
+        {
+          "id": 326,
+          "text": "Nelson"
+        },
+        {
+          "id": 327,
+          "text": "Henry VII"
+        },
+        {
+          "id": 328,
+          "text": "Louis XIV"
+        },
+        {
+          "id": 325,
+          "text": "The Duke of Wellington"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "What is the National Anthem of the UK?",
+      "explanation": "The National Anthem of the UK is 'God Save the King/Queen'. It is played at important national occasions and at events attended by the King/Queen or the Royal Family. The first verse is: 'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'.",
+      "computed_correct_option_ids": [
+        353
+      ],
+      "options": [
+        {
+          "id": 353,
+          "text": "God Save the King/Queen"
+        },
+        {
+          "id": 354,
+          "text": "God Save the UK"
+        },
+        {
+          "id": 355,
+          "text": "King reign over the UK"
+        },
+        {
+          "id": 356,
+          "text": "United we stand"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "text": "Who was the first Danish King?",
+      "explanation": "The first Danish King was Cnut, also called Canute.",
+      "computed_correct_option_ids": [
+        497
+      ],
+      "options": [
+        {
+          "id": 498,
+          "text": "Kenneth MacAlpin"
+        },
+        {
+          "id": 497,
+          "text": "Cnut also 'Canute'"
+        },
+        {
+          "id": 500,
+          "text": "William"
+        },
+        {
+          "id": 499,
+          "text": "Harold"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "text": "How long is Hanukkah celebrated for?",
+      "explanation": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews' struggle for religious freedom. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
+      "computed_correct_option_ids": [
+        625
+      ],
+      "options": [
+        {
+          "id": 628,
+          "text": "9 days"
+        },
+        {
+          "id": 626,
+          "text": "7 days"
+        },
+        {
+          "id": 625,
+          "text": "8 days"
+        },
+        {
+          "id": 627,
+          "text": "10 days"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "text": "How old do you have to be to buy a lottery ticket or a scratch card?",
+      "explanation": "As of 2021, people under 18 are not allowed to participate in the National Lottery (Previously 16). This includes buying Scratch Cards.",
+      "computed_correct_option_ids": [
+        948
+      ],
+      "options": [
+        {
+          "id": 948,
+          "text": "18"
+        },
+        {
+          "id": 945,
+          "text": "16"
+        },
+        {
+          "id": 946,
+          "text": "15"
+        },
+        {
+          "id": 947,
+          "text": "17"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "text": "How many 'local authorities' does the city of London have?",
+      "explanation": "London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital.",
+      "computed_correct_option_ids": [
+        953
+      ],
+      "options": [
+        {
+          "id": 953,
+          "text": "33"
+        },
+        {
+          "id": 954,
+          "text": "21"
+        },
+        {
+          "id": 956,
+          "text": "5"
+        },
+        {
+          "id": 955,
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "text": "Who developed important Economics ideas?",
+      "explanation": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today.",
+      "computed_correct_option_ids": [
+        1081
+      ],
+      "options": [
+        {
+          "id": 1083,
+          "text": "David Hume"
+        },
+        {
+          "id": 1082,
+          "text": "James Watt"
+        },
+        {
+          "id": 1081,
+          "text": "Adam Smith"
+        },
+        {
+          "id": 1084,
+          "text": "Richard Arkwright"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "text": "What happens at 11:00 on the Remembrance Day?",
+      "explanation": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+      "computed_correct_option_ids": [
+        1113
+      ],
+      "options": [
+        {
+          "id": 1116,
+          "text": "A 10 second silence"
+        },
+        {
+          "id": 1115,
+          "text": "A 30 second silence"
+        },
+        {
+          "id": 1114,
+          "text": "A 1 minute silence"
+        },
+        {
+          "id": 1113,
+          "text": "A 2 minute silence"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "text": "What was the purpose of the Emancipation Act?",
+      "explanation": "In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+      "computed_correct_option_ids": [
+        1181
+      ],
+      "options": [
+        {
+          "id": 1181,
+          "text": "Abolish slavery in the British Empire"
+        },
+        {
+          "id": 1184,
+          "text": "Freedom of speech"
+        },
+        {
+          "id": 1183,
+          "text": "Freedom of religion"
+        },
+        {
+          "id": 1182,
+          "text": "No one could be held prisoner unlawfully"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "text": "Who was the first 'Scottish King'?",
+      "explanation": "In the north, the threat of attack by Vikings had encouraged the people to unite under one king, Kenneth MacAlpin. The term Scotland began to be used to describe that country.",
+      "computed_correct_option_ids": [
+        1321
+      ],
+      "options": [
+        {
+          "id": 1324,
+          "text": "William I"
+        },
+        {
+          "id": 1323,
+          "text": "Harold"
+        },
+        {
+          "id": 1322,
+          "text": "Cnut also 'Canute'"
+        },
+        {
+          "id": 1321,
+          "text": "Kenneth MacAlpin"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "text": "When was the famous satirical magazine 'Punch' published?",
+      "explanation": "In the 19th century, satirical magazines began to be published. The most famous was 'Punch', which was published for the first time in the 1840s. Today, political cartoons continue to be published in newspapers, and magazines such as Private Eye continue the tradition of satire.",
+      "computed_correct_option_ids": [
+        1401
+      ],
+      "options": [
+        {
+          "id": 1404,
+          "text": "1880s"
+        },
+        {
+          "id": 1401,
+          "text": "1840s"
+        },
+        {
+          "id": 1403,
+          "text": "1860s"
+        },
+        {
+          "id": 1402,
+          "text": "1820s"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "text": "How old do you have to be to go into betting shops or gambling clubs?",
+      "explanation": "You have to be 18 to go into betting shops or gambling clubs.",
+      "computed_correct_option_ids": [
+        1476
+      ],
+      "options": [
+        {
+          "id": 1477,
+          "text": "20"
+        },
+        {
+          "id": 1475,
+          "text": "16"
+        },
+        {
+          "id": 1478,
+          "text": "21"
+        },
+        {
+          "id": 1476,
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "text": "Which TWO are used when making Haggis?",
+      "explanation": "Scottish Traditional Food: Haggis, a sheep's stomach stuffed with offal, suet, onions and oatmeal.",
+      "computed_correct_option_ids": [
+        1491,
+        1492
+      ],
+      "options": [
+        {
+          "id": 1493,
+          "text": "Chicken"
+        },
+        {
+          "id": 1494,
+          "text": "Dough"
+        },
+        {
+          "id": 1492,
+          "text": "Oatmeal"
+        },
+        {
+          "id": 1491,
+          "text": "Onions"
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "text": "What are the 40 days before Easter known as?",
+      "explanation": "The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. Traditionally, people would fast during this period and today many people will give something up, like a favourite food. The day before Lent starts is called Shrove Tuesday, or Pancake Day. Lent begins on Ash Wednesday.",
+      "computed_correct_option_ids": [
+        1582
+      ],
+      "options": [
+        {
+          "id": 1584,
+          "text": "Starve"
+        },
+        {
+          "id": 1581,
+          "text": "Fast"
+        },
+        {
+          "id": 1582,
+          "text": "Lent"
+        },
+        {
+          "id": 1583,
+          "text": "Dent"
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "text": "As per 2021 England and Wales census, what's the percetage of Jewish or Buddhist people in the UK?",
+      "explanation": "In the 2021 England and Wales census, around 525,000 people from the sampled population of 60 million identified as Sikh. 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (6.5%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 0.5% of people followed another religion and 37% stated not to follow any religion.",
+      "computed_correct_option_ids": [
+        1838
+      ],
+      "options": [
+        {
+          "id": 1837,
+          "text": "5%"
+        },
+        {
+          "id": 1835,
+          "text": "15%"
+        },
+        {
+          "id": 1836,
+          "text": "10%"
+        },
+        {
+          "id": 1838,
+          "text": "1%"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "text": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register",
+      "explanation": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register. If you are eligible to vote, you can register by contacting your local council electoral registration Office.",
+      "computed_correct_option_ids": [
+        2083
+      ],
+      "options": [
+        {
+          "id": 2084,
+          "text": "False"
+        },
+        {
+          "id": 2083,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "text": "In what year did the Troubles break out?",
+      "explanation": "Some 3,000 people lost their lives in the decades after 1969 in the violence in Northern Ireland. The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government is often referred to as 'the Troubles'.",
+      "computed_correct_option_ids": [
+        2124
+      ],
+      "options": [
+        {
+          "id": 2123,
+          "text": "1957"
+        },
+        {
+          "id": 2121,
+          "text": "1921"
+        },
+        {
+          "id": 2122,
+          "text": "1922"
+        },
+        {
+          "id": 2124,
+          "text": "1969"
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "text": "The Welsh language, spoken in Wales and is taught in schools and universities, is a completely different language from English",
+      "explanation": "The English language has many accents and dialects. In Wales, many people speak Welsh - a completely different language from English - and it is taught in schools and universities. In Scotland, Gaelic (again, a different language) is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic.",
+      "computed_correct_option_ids": [
+        2361
+      ],
+      "options": [
+        {
+          "id": 2362,
+          "text": "False"
+        },
+        {
+          "id": 2361,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "text": "In which TWO countries were PCCs elected in?",
+      "explanation": "In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities. PCCs set local police priorities and the local policing budget. They also appoint the Chief Constable.",
+      "computed_correct_option_ids": [
+        2593,
+        2595
+      ],
+      "options": [
+        {
+          "id": 2596,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 2595,
+          "text": "Wales"
+        },
+        {
+          "id": 2594,
+          "text": "Scotland"
+        },
+        {
+          "id": 2593,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "text": "When did newspapers begin to operate without a government licence?",
+      "explanation": "This was also an important time for the development of a free press (newspapers and other publications which are not controlled by the government). From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+      "computed_correct_option_ids": [
+        2654
+      ],
+      "options": [
+        {
+          "id": 2656,
+          "text": "1712"
+        },
+        {
+          "id": 2655,
+          "text": "1708"
+        },
+        {
+          "id": 2654,
+          "text": "1695"
+        },
+        {
+          "id": 2653,
+          "text": "1681"
+        }
+      ]
+    },
+    {
+      "id": 793,
+      "text": "In which country was Charles II residing before he was invited to England by the Parliament?",
+      "explanation": "In May 1660, Parliament invited Charles II to come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland.",
+      "computed_correct_option_ids": [
+        2915
+      ],
+      "options": [
+        {
+          "id": 2916,
+          "text": "Germany"
+        },
+        {
+          "id": 2917,
+          "text": "France"
+        },
+        {
+          "id": 2918,
+          "text": "Ireland"
+        },
+        {
+          "id": 2915,
+          "text": "Netherlands"
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "text": "During Queen Elizabeth's reign the British Empire became the largest empire the world had ever seen",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+      "computed_correct_option_ids": [
+        3280
+      ],
+      "options": [
+        {
+          "id": 3279,
+          "text": "True"
+        },
+        {
+          "id": 3280,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "text": "You need to be a member of a political party to be able to stand for election as an MP",
+      "explanation": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties.",
+      "computed_correct_option_ids": [
+        3311
+      ],
+      "options": [
+        {
+          "id": 3312,
+          "text": "True"
+        },
+        {
+          "id": 3311,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 922,
+      "text": "You are not responsible for cleaning up after your pet in public places",
+      "explanation": "The owner is responsible for keeping the dog under control and for cleaning up after the animal in a public place.",
+      "computed_correct_option_ids": [
+        3368
+      ],
+      "options": [
+        {
+          "id": 3368,
+          "text": "False"
+        },
+        {
+          "id": 3367,
+          "text": "True"
+        }
+      ]
+    }
+  ]
+}

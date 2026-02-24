@@ -1,0 +1,602 @@
+{
+  "id": 596,
+  "name": "British Citizenship Test 11",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 14201,
+      "text": "Is St Helena part of the UK?",
+      "explanation": "British overseas territories, such as St Helena and the Falkland Islands are linked to the UK but arenot part of it.",
+      "computed_correct_option_ids": [
+        15201
+      ],
+      "options": [
+        {
+          "id": 15201,
+          "text": "Yes"
+        },
+        {
+          "id": 15202,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 14202,
+      "text": "Where is Theatreland?",
+      "explanation": "London’s West End, also known as ‘Theatreland’, is particularly well known for its theatres.",
+      "computed_correct_option_ids": [
+        15213
+      ],
+      "options": [
+        {
+          "id": 15211,
+          "text": "Docklands"
+        },
+        {
+          "id": 15212,
+          "text": "London’s East End"
+        },
+        {
+          "id": 15213,
+          "text": "London’s West End"
+        },
+        {
+          "id": 15214,
+          "text": "London’s South End"
+        }
+      ]
+    },
+    {
+      "id": 14203,
+      "text": "What is the name of the UK currency?",
+      "explanation": "The currency in the UK is thepound sterling(symbol £).",
+      "computed_correct_option_ids": [
+        15222
+      ],
+      "options": [
+        {
+          "id": 15221,
+          "text": "Euro"
+        },
+        {
+          "id": 15222,
+          "text": "Pound Sterling"
+        },
+        {
+          "id": 15223,
+          "text": "Peso"
+        },
+        {
+          "id": 15224,
+          "text": "Dollar"
+        }
+      ]
+    },
+    {
+      "id": 14204,
+      "text": "What other name is given to Diwali?",
+      "explanation": "Diwali is often calledthe Festival of Lights.",
+      "computed_correct_option_ids": [
+        15231
+      ],
+      "options": [
+        {
+          "id": 15231,
+          "text": "The Festival of Lights"
+        },
+        {
+          "id": 15232,
+          "text": "Ash Wednesday"
+        },
+        {
+          "id": 15233,
+          "text": "Good Friday"
+        },
+        {
+          "id": 15234,
+          "text": "Easter Monday"
+        }
+      ]
+    },
+    {
+      "id": 14205,
+      "text": "What is the Enlightenment?",
+      "explanation": "The Enlightenment wasa periodduring the 18th centurywhen new ideas about politics, philosophy and science were developed.",
+      "computed_correct_option_ids": [
+        15242
+      ],
+      "options": [
+        {
+          "id": 15241,
+          "text": "A period of total peace in England"
+        },
+        {
+          "id": 15242,
+          "text": "A period when new ideas about politics, philosophy and science were developed"
+        },
+        {
+          "id": 15243,
+          "text": "A period when England became the largest empire the world had ever seen"
+        },
+        {
+          "id": 15244,
+          "text": "A period of economic recovery after the Second World War"
+        }
+      ]
+    },
+    {
+      "id": 14206,
+      "text": "Which of the following charities helps the environment?",
+      "explanation": "Friends of the Earthis an environmental charity.",
+      "computed_correct_option_ids": [
+        15253
+      ],
+      "options": [
+        {
+          "id": 15251,
+          "text": "NSPCC"
+        },
+        {
+          "id": 15252,
+          "text": "Shelter"
+        },
+        {
+          "id": 15253,
+          "text": "Friends of the Earth"
+        },
+        {
+          "id": 15254,
+          "text": "Crisis"
+        }
+      ]
+    },
+    {
+      "id": 14207,
+      "text": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+      "explanation": "The correct answer isthe Battle of Britain.",
+      "computed_correct_option_ids": [
+        15261
+      ],
+      "options": [
+        {
+          "id": 15261,
+          "text": "The Battle of Britain"
+        },
+        {
+          "id": 15262,
+          "text": "The Battle of Worcester"
+        },
+        {
+          "id": 15263,
+          "text": "The Battle of Dunbar"
+        },
+        {
+          "id": 15264,
+          "text": "The Battle of Marston Moor"
+        }
+      ]
+    },
+    {
+      "id": 14208,
+      "text": "What was Margaret Thatcher famous for?",
+      "explanation": "Margaret Thatcher wasthe first woman Prime Minister of the UK.",
+      "computed_correct_option_ids": [
+        15272
+      ],
+      "options": [
+        {
+          "id": 15271,
+          "text": "She fought for the right to vote for women"
+        },
+        {
+          "id": 15272,
+          "text": "She was the first woman Prime Minister of the UK"
+        },
+        {
+          "id": 15273,
+          "text": "She set up the women’s Franchise League"
+        },
+        {
+          "id": 15274,
+          "text": "She was the founder of modern nursing"
+        }
+      ]
+    },
+    {
+      "id": 14209,
+      "text": "Which two languages combined to become one English language?",
+      "explanation": "After the Norman Conquest, the king and his noblemen had spokenNorman Frenchand the peasants had continued to speakAnglo-Saxon. Gradually these two languages combined to become one English language.",
+      "computed_correct_option_ids": [
+        15282,
+        15284
+      ],
+      "options": [
+        {
+          "id": 15281,
+          "text": "Latin"
+        },
+        {
+          "id": 15282,
+          "text": "Anglo-Saxon"
+        },
+        {
+          "id": 15283,
+          "text": "Proto-Celtic"
+        },
+        {
+          "id": 15284,
+          "text": "Norman French"
+        }
+      ]
+    },
+    {
+      "id": 14210,
+      "text": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        15291
+      ],
+      "options": [
+        {
+          "id": 15291,
+          "text": "True"
+        },
+        {
+          "id": 15292,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14211,
+      "text": "Where did the Spanish Armada come from?",
+      "explanation": "In 1588 the English defeated the Spanish Armada (a large fleet of ships), which had been sent bySpainto conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        15302
+      ],
+      "options": [
+        {
+          "id": 15301,
+          "text": "France"
+        },
+        {
+          "id": 15302,
+          "text": "Spain"
+        },
+        {
+          "id": 15303,
+          "text": "Italy"
+        },
+        {
+          "id": 15304,
+          "text": "South America"
+        }
+      ]
+    },
+    {
+      "id": 14212,
+      "text": "What is the name of the War Memorial located in Whitehall?",
+      "explanation": "The Cenotaphis a war memorial located in Whitehall.",
+      "computed_correct_option_ids": [
+        15312
+      ],
+      "options": [
+        {
+          "id": 15311,
+          "text": "Dumfries"
+        },
+        {
+          "id": 15312,
+          "text": "Cenotaph"
+        },
+        {
+          "id": 15313,
+          "text": "Royal Crescent"
+        },
+        {
+          "id": 15314,
+          "text": "The White Tower"
+        }
+      ]
+    },
+    {
+      "id": 14213,
+      "text": "The UK government has never suspended the Northern Ireland Assembly.",
+      "explanation": "False. The Northern Ireland Assembly has been suspended on a few occasions.",
+      "computed_correct_option_ids": [
+        15321
+      ],
+      "options": [
+        {
+          "id": 15321,
+          "text": "True"
+        },
+        {
+          "id": 15322,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14214,
+      "text": "What kind of church did Scotland establish in 1560?",
+      "explanation": "In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal.A Protestant Churchof Scotland with an elected leadership was established but, unlike in England, this was not a state Church.",
+      "computed_correct_option_ids": [
+        15332
+      ],
+      "options": [
+        {
+          "id": 15331,
+          "text": "A Catholic church"
+        },
+        {
+          "id": 15332,
+          "text": "A Protestant church"
+        }
+      ]
+    },
+    {
+      "id": 14215,
+      "text": "When was the Domesday Book written?",
+      "explanation": "William the conqueror sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book, which gives a picture of society in England justafter the Norman Conquest.",
+      "computed_correct_option_ids": [
+        15342
+      ],
+      "options": [
+        {
+          "id": 15341,
+          "text": "After the Viking invasion"
+        },
+        {
+          "id": 15342,
+          "text": "After the Norman conquest"
+        },
+        {
+          "id": 15343,
+          "text": "After the last Roman invasion"
+        },
+        {
+          "id": 15344,
+          "text": "After the Anglo-Saxon invasion"
+        }
+      ]
+    },
+    {
+      "id": 14216,
+      "text": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+      "explanation": "The Northern Ireland Assembly can make decisions on issues such as: education, agriculture, the environment health and social services, but it cannot make decisions onimmigration or defenceissues.",
+      "computed_correct_option_ids": [
+        15351,
+        15354
+      ],
+      "options": [
+        {
+          "id": 15351,
+          "text": "Immigration"
+        },
+        {
+          "id": 15352,
+          "text": "Education"
+        },
+        {
+          "id": 15353,
+          "text": "Agriculture"
+        },
+        {
+          "id": 15354,
+          "text": "Defence"
+        }
+      ]
+    },
+    {
+      "id": 14217,
+      "text": "What should you do to make a complaint about the police (choose two answers)?",
+      "explanation": "Anyone can make a complaint about the policeby going to a police station and writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+      "computed_correct_option_ids": [
+        15362,
+        15363
+      ],
+      "options": [
+        {
+          "id": 15361,
+          "text": "Write a complaint letter to the House of Commons"
+        },
+        {
+          "id": 15362,
+          "text": "Go to the Police station directly"
+        },
+        {
+          "id": 15363,
+          "text": "Write to the Chief Constable of the police force involved"
+        },
+        {
+          "id": 15364,
+          "text": "Write to your MP"
+        }
+      ]
+    },
+    {
+      "id": 14218,
+      "text": "What flower did William Wordsworth write about?",
+      "explanation": "William Wordsworth wrote‘The Daffodils’.",
+      "computed_correct_option_ids": [
+        15372
+      ],
+      "options": [
+        {
+          "id": 15371,
+          "text": "Rose"
+        },
+        {
+          "id": 15372,
+          "text": "Daffodil"
+        },
+        {
+          "id": 15373,
+          "text": "Thistle"
+        },
+        {
+          "id": 15374,
+          "text": "Shamrock"
+        }
+      ]
+    },
+    {
+      "id": 14219,
+      "text": "When is St Andrew’s day celebrated?",
+      "explanation": "St Andrew’s day, patron of Scotland, is celebrated on the30th of November.",
+      "computed_correct_option_ids": [
+        15384
+      ],
+      "options": [
+        {
+          "id": 15381,
+          "text": "17th April"
+        },
+        {
+          "id": 15382,
+          "text": "31st December"
+        },
+        {
+          "id": 15383,
+          "text": "1st March"
+        },
+        {
+          "id": 15384,
+          "text": "30th November"
+        }
+      ]
+    },
+    {
+      "id": 14220,
+      "text": "Who was the architect that rebuilt Saint Paul’s cathedral after the Great Fire in 1666?",
+      "explanation": "In 1666, a great fire destroyed much of the city, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul\\\\\\\\\\\\\\'s, which was designed by a famous architect,Sir Christopher Wren.",
+      "computed_correct_option_ids": [
+        15392
+      ],
+      "options": [
+        {
+          "id": 15391,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 15392,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 15393,
+          "text": "Sir Norman Foster"
+        },
+        {
+          "id": 15394,
+          "text": "Dame Zaha Hadid"
+        }
+      ]
+    },
+    {
+      "id": 14221,
+      "text": "When were the first coins in Britain made?",
+      "explanation": "The people ofthe Iron Agemade the first coins to be minted in Britain.",
+      "computed_correct_option_ids": [
+        15403
+      ],
+      "options": [
+        {
+          "id": 15401,
+          "text": "The Stone Age"
+        },
+        {
+          "id": 15402,
+          "text": "The Bronze Age"
+        },
+        {
+          "id": 15403,
+          "text": "The Iron Age"
+        },
+        {
+          "id": 15404,
+          "text": "The Middle Ages"
+        }
+      ]
+    },
+    {
+      "id": 14222,
+      "text": "Who was Emmeline Pankhurst?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called‘suffragettes’.",
+      "computed_correct_option_ids": [
+        15411
+      ],
+      "options": [
+        {
+          "id": 15411,
+          "text": "A suffragette"
+        },
+        {
+          "id": 15412,
+          "text": "A nurse"
+        },
+        {
+          "id": 15413,
+          "text": "A doctor"
+        },
+        {
+          "id": 15414,
+          "text": "A scientist"
+        }
+      ]
+    },
+    {
+      "id": 14223,
+      "text": "Who did Britain fight against in the Crimean War?",
+      "explanation": "From 1853 to 1856, Britain fought with Turkey and France againstRussiain the Crimean War.",
+      "computed_correct_option_ids": [
+        15422
+      ],
+      "options": [
+        {
+          "id": 15421,
+          "text": "Turkey"
+        },
+        {
+          "id": 15422,
+          "text": "Russia"
+        },
+        {
+          "id": 15423,
+          "text": "France"
+        },
+        {
+          "id": 15424,
+          "text": "Germany"
+        }
+      ]
+    },
+    {
+      "id": 14224,
+      "text": "How old do you have to be to buy alcohol in the UK?",
+      "explanation": "It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant).",
+      "computed_correct_option_ids": [
+        15432
+      ],
+      "options": [
+        {
+          "id": 15431,
+          "text": "17"
+        },
+        {
+          "id": 15432,
+          "text": "18"
+        },
+        {
+          "id": 15433,
+          "text": "19"
+        },
+        {
+          "id": 15434,
+          "text": "20"
+        }
+      ]
+    }
+  ]
+}

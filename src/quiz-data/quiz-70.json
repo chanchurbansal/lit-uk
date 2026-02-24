@@ -1,0 +1,608 @@
+{
+  "id": 430,
+  "name": "Life in the UK Test 70",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9501,
+      "text": "What does the term ‘Hansard’ relate to?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
+      "computed_correct_option_ids": [
+        10501
+      ],
+      "options": [
+        {
+          "id": 10501,
+          "text": "Official reports where proceedings in Parliament are published"
+        },
+        {
+          "id": 10502,
+          "text": "A popular British soap opera"
+        },
+        {
+          "id": 10503,
+          "text": "A festival which celebrates the founding of the Sikh community"
+        },
+        {
+          "id": 10504,
+          "text": "A public holiday"
+        }
+      ]
+    },
+    {
+      "id": 9502,
+      "text": "Who was the first king of the House of Tudor?",
+      "explanation": "Henry VII (Henry Tudor)was the first king of the House of Tudor.",
+      "computed_correct_option_ids": [
+        10512
+      ],
+      "options": [
+        {
+          "id": 10511,
+          "text": "King Richard III"
+        },
+        {
+          "id": 10512,
+          "text": "Henry Tudor"
+        },
+        {
+          "id": 10513,
+          "text": "Henry V"
+        },
+        {
+          "id": 10514,
+          "text": "James I"
+        }
+      ]
+    },
+    {
+      "id": 9503,
+      "text": "What do Lewis Hamilton, Jenson Button and Damon Hill have in common?",
+      "explanation": "Lewis Hamilton, Jenson Button and Damon Hill have won the Formula 1 World Championship.",
+      "computed_correct_option_ids": [
+        10522
+      ],
+      "options": [
+        {
+          "id": 10521,
+          "text": "They are football players"
+        },
+        {
+          "id": 10522,
+          "text": "They have won the Formula 1 World Championship"
+        },
+        {
+          "id": 10523,
+          "text": "They won gold Olympic medals"
+        },
+        {
+          "id": 10524,
+          "text": "They have won the Six Nations Championship"
+        }
+      ]
+    },
+    {
+      "id": 9504,
+      "text": "According to the 2011 Census, what percentage of people said that they had no religion?",
+      "explanation": "According to the 2011 census,25% of peoplesaid they had no religion.",
+      "computed_correct_option_ids": [
+        10534
+      ],
+      "options": [
+        {
+          "id": 10531,
+          "text": "10%"
+        },
+        {
+          "id": 10532,
+          "text": "11%"
+        },
+        {
+          "id": 10533,
+          "text": "20%"
+        },
+        {
+          "id": 10534,
+          "text": "25%"
+        }
+      ]
+    },
+    {
+      "id": 9505,
+      "text": "During which period were the first coins produced in Britain?",
+      "explanation": "The people ofthe Iron Agehad a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
+      "computed_correct_option_ids": [
+        10544
+      ],
+      "options": [
+        {
+          "id": 10541,
+          "text": "The Stone Age"
+        },
+        {
+          "id": 10542,
+          "text": "The Golden Age"
+        },
+        {
+          "id": 10543,
+          "text": "The Silver Age"
+        },
+        {
+          "id": 10544,
+          "text": "The Iron Age"
+        }
+      ]
+    },
+    {
+      "id": 9506,
+      "text": "What other name is given to Diwali, the religious celebration that celebrates the victory of good over evil and the gaining of knowledge?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days. It is often calledthe Festival of Lights.",
+      "computed_correct_option_ids": [
+        10551
+      ],
+      "options": [
+        {
+          "id": 10551,
+          "text": "The Festival of Lights"
+        },
+        {
+          "id": 10552,
+          "text": "Hanukkah"
+        },
+        {
+          "id": 10553,
+          "text": "The Festival of the Lanterns"
+        },
+        {
+          "id": 10554,
+          "text": "The Festival of the Candles"
+        }
+      ]
+    },
+    {
+      "id": 9507,
+      "text": "In Wales, the jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’, ‘not guilty’ or ‘not proven’ based of what they have heard:",
+      "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based of what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible.",
+      "computed_correct_option_ids": [
+        10561
+      ],
+      "options": [
+        {
+          "id": 10561,
+          "text": "True"
+        },
+        {
+          "id": 10562,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9508,
+      "text": "The Prime Minister has a country house outside London called:",
+      "explanation": "The Prime Minister has a country house outside London calledChequers.",
+      "computed_correct_option_ids": [
+        10574
+      ],
+      "options": [
+        {
+          "id": 10571,
+          "text": "Sparkle"
+        },
+        {
+          "id": 10572,
+          "text": "Downing"
+        },
+        {
+          "id": 10573,
+          "text": "Windsor"
+        },
+        {
+          "id": 10574,
+          "text": "Chequers"
+        }
+      ]
+    },
+    {
+      "id": 9509,
+      "text": "In which English county is Maiden Castle located?",
+      "explanation": "A very impressive hill fort can be seen today at Maiden Castle, in the English county ofDorset.",
+      "computed_correct_option_ids": [
+        10581
+      ],
+      "options": [
+        {
+          "id": 10581,
+          "text": "Dorset"
+        },
+        {
+          "id": 10582,
+          "text": "Devon"
+        },
+        {
+          "id": 10583,
+          "text": "Somerset"
+        },
+        {
+          "id": 10584,
+          "text": "Cornwall"
+        }
+      ]
+    },
+    {
+      "id": 9510,
+      "text": "A National Insurance number does on its own prove to an employer that you have the right to work in the UK:",
+      "explanation": "A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.",
+      "computed_correct_option_ids": [
+        10592
+      ],
+      "options": [
+        {
+          "id": 10591,
+          "text": "True"
+        },
+        {
+          "id": 10592,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9511,
+      "text": "Which of the following is a ceremonial role to be undertaken by the King?",
+      "explanation": "The King has important ceremonial roles, such asthe opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.",
+      "computed_correct_option_ids": [
+        10601
+      ],
+      "options": [
+        {
+          "id": 10601,
+          "text": "Opening the new parliamentary session every year"
+        },
+        {
+          "id": 10602,
+          "text": "Visiting the major cities in the UK once every six months"
+        },
+        {
+          "id": 10603,
+          "text": "Choosing the Prime Minister"
+        },
+        {
+          "id": 10604,
+          "text": "Giving a speech on New Year’s Eve"
+        }
+      ]
+    },
+    {
+      "id": 9512,
+      "text": "How long can you use your driving licence in the UK if you have a licence from another country?",
+      "explanation": "If you have a licence from another country, you may use it in the UKfor up to 12 months.",
+      "computed_correct_option_ids": [
+        10611
+      ],
+      "options": [
+        {
+          "id": 10611,
+          "text": "For up to 12 months"
+        },
+        {
+          "id": 10612,
+          "text": "You need a UK driving licence"
+        },
+        {
+          "id": 10613,
+          "text": "For as long as it is valid"
+        },
+        {
+          "id": 10614,
+          "text": "For up to 2 years"
+        }
+      ]
+    },
+    {
+      "id": 9513,
+      "text": "What British discovery was influential in the development of computer science and the modern-day computer?   The Radar",
+      "explanation": "The Turing machineis a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer.",
+      "computed_correct_option_ids": [
+        10622
+      ],
+      "options": [
+        {
+          "id": 10621,
+          "text": "The Radar"
+        },
+        {
+          "id": 10622,
+          "text": "The Turing machine"
+        },
+        {
+          "id": 10623,
+          "text": "The MRI scanner"
+        },
+        {
+          "id": 10624,
+          "text": "The aeroplane"
+        }
+      ]
+    },
+    {
+      "id": 9514,
+      "text": "Which Court deals with the serious criminal offences in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, serious criminal offences are tried in front of a judge and a jury in aCrown Court.",
+      "computed_correct_option_ids": [
+        10632
+      ],
+      "options": [
+        {
+          "id": 10631,
+          "text": "The County Court"
+        },
+        {
+          "id": 10632,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 10633,
+          "text": "The High Court"
+        },
+        {
+          "id": 10634,
+          "text": "The Sheriff Court"
+        }
+      ]
+    },
+    {
+      "id": 9515,
+      "text": "Which famous philosopher developed ideas about human nature during the 18th century and that have continued to influence philosophers over the years?",
+      "explanation": "During the 18th century,David Hume’s ideas about human nature continue to influence philosophers.",
+      "computed_correct_option_ids": [
+        10644
+      ],
+      "options": [
+        {
+          "id": 10641,
+          "text": "Aristotle"
+        },
+        {
+          "id": 10642,
+          "text": "Sigmund Freud"
+        },
+        {
+          "id": 10643,
+          "text": "Platon"
+        },
+        {
+          "id": 10644,
+          "text": "David Hume"
+        }
+      ]
+    },
+    {
+      "id": 9516,
+      "text": "If you are arrested and taken to a police station, a police officer should:",
+      "explanation": "If you are arrested and taken to a police station, a police officer willtell you the reason for your arrest and you will be able to seek legal advice.",
+      "computed_correct_option_ids": [
+        10652
+      ],
+      "options": [
+        {
+          "id": 10651,
+          "text": "Make a copy of your ID and retain you until your lawyer arrives"
+        },
+        {
+          "id": 10652,
+          "text": "Tell you the reason for your arrest and that you will be able to seek legal advice"
+        },
+        {
+          "id": 10653,
+          "text": "Offer you a cup of tea"
+        },
+        {
+          "id": 10654,
+          "text": "Explain the law to you and wait for your family to arrive"
+        }
+      ]
+    },
+    {
+      "id": 9517,
+      "text": "Which British actor has recently won an Oscar?",
+      "explanation": "Recent British actors to have won Oscars include Colin Firth,Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+      "computed_correct_option_ids": [
+        10662
+      ],
+      "options": [
+        {
+          "id": 10661,
+          "text": "Hugh Grant"
+        },
+        {
+          "id": 10662,
+          "text": "Sir Anthony Hopkins"
+        },
+        {
+          "id": 10663,
+          "text": "Jude Law"
+        },
+        {
+          "id": 10664,
+          "text": "Richard Burton"
+        }
+      ]
+    },
+    {
+      "id": 9518,
+      "text": "What TWO names are given to the day before Lent?",
+      "explanation": "The day before Lent starts is calledShrove Tuesday, or Pancake Day.",
+      "computed_correct_option_ids": [
+        10671,
+        10673
+      ],
+      "options": [
+        {
+          "id": 10671,
+          "text": "Pancake day"
+        },
+        {
+          "id": 10672,
+          "text": "Domesday"
+        },
+        {
+          "id": 10673,
+          "text": "Shrove Tuesday"
+        },
+        {
+          "id": 10674,
+          "text": "Ash Wednesday"
+        }
+      ]
+    },
+    {
+      "id": 9519,
+      "text": "When did the ‘Concorde’ aircraft carry passengers for the first time?",
+      "explanation": "The ‘Concorde’ began carrying passengersin 1976.",
+      "computed_correct_option_ids": [
+        10684
+      ],
+      "options": [
+        {
+          "id": 10681,
+          "text": "In 1969"
+        },
+        {
+          "id": 10682,
+          "text": "In 1970"
+        },
+        {
+          "id": 10683,
+          "text": "In 1972"
+        },
+        {
+          "id": 10684,
+          "text": "In 1976"
+        }
+      ]
+    },
+    {
+      "id": 9520,
+      "text": "The UK is one of five permanent members of the Security Council:",
+      "explanation": "The UK is one of five permanent members of the Security Council.",
+      "computed_correct_option_ids": [
+        10691
+      ],
+      "options": [
+        {
+          "id": 10691,
+          "text": "True"
+        },
+        {
+          "id": 10692,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9521,
+      "text": "Which of the following landmarks is the largest expanse of fresh water in mainland Britain?",
+      "explanation": "Loch Lomondis the largest expanse of fresh water in mainland Britain and probably the best-known part of the park.",
+      "computed_correct_option_ids": [
+        10702
+      ],
+      "options": [
+        {
+          "id": 10701,
+          "text": "The River Thames"
+        },
+        {
+          "id": 10702,
+          "text": "Loch Lomond"
+        },
+        {
+          "id": 10703,
+          "text": "Loch Ness"
+        },
+        {
+          "id": 10704,
+          "text": "Lake District"
+        }
+      ]
+    },
+    {
+      "id": 9522,
+      "text": "Who wrote the music for the popular show Jesus Christ Superstar?",
+      "explanation": "Andrew Lloyd Webberhas written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera.",
+      "computed_correct_option_ids": [
+        10711
+      ],
+      "options": [
+        {
+          "id": 10711,
+          "text": "Andrew Lloyd Webber"
+        },
+        {
+          "id": 10712,
+          "text": "Gilbert and Sullivan"
+        },
+        {
+          "id": 10713,
+          "text": "Hans Holbein and Sir Anthony Van Dyck"
+        },
+        {
+          "id": 10714,
+          "text": "Sir Laurence Olivier"
+        }
+      ]
+    },
+    {
+      "id": 9523,
+      "text": "Which one of the following four changes did the Chartists did NOT campaign for?",
+      "explanation": "The Chartists campaigned for every man to have the vote, elections every year, for all regions to be equal in the electoral system, secret ballots, for any man to be able to stand as an MP and for MPs to be paid.",
+      "computed_correct_option_ids": [
+        10723
+      ],
+      "options": [
+        {
+          "id": 10721,
+          "text": "For any man to be able to stand as MP"
+        },
+        {
+          "id": 10722,
+          "text": "Secret ballots"
+        },
+        {
+          "id": 10723,
+          "text": "Elections every six years"
+        },
+        {
+          "id": 10724,
+          "text": "For MPs to be paid"
+        }
+      ]
+    },
+    {
+      "id": 9524,
+      "text": "Pantomimes are a British tradition that many theatres produce during:",
+      "explanation": "Many theatres produce a pantomime atChristmas time.",
+      "computed_correct_option_ids": [
+        10732
+      ],
+      "options": [
+        {
+          "id": 10731,
+          "text": "Easter"
+        },
+        {
+          "id": 10732,
+          "text": "Christmas"
+        },
+        {
+          "id": 10733,
+          "text": "Halloween"
+        },
+        {
+          "id": 10734,
+          "text": "Pancake Day"
+        }
+      ]
+    }
+  ]
+}

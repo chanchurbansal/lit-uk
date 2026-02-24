@@ -1,0 +1,579 @@
+{
+  "id": 385,
+  "name": "Life in the UK Test 27",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 69,
+      "text": "Which of these venues is located in Scotland?",
+      "explanation": "The Scottish Exhibition and Conference Centre (SECC) is located in Glasgow, Scotland.",
+      "computed_correct_option_ids": [
+        269
+      ],
+      "options": [
+        {
+          "id": 269,
+          "text": "The SECC"
+        },
+        {
+          "id": 271,
+          "text": "Wembley Stadium"
+        },
+        {
+          "id": 272,
+          "text": "Troxy"
+        },
+        {
+          "id": 270,
+          "text": "The O2"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "Which of these are 'Crown Dependencies'?",
+      "explanation": "The Channel Islands and the Isle of Man are closely related to the UK but are not part of it. They have their own governments and are called 'Crown dependencies'.",
+      "computed_correct_option_ids": [
+        289
+      ],
+      "options": [
+        {
+          "id": 291,
+          "text": "Ireland and the Channel Islands"
+        },
+        {
+          "id": 292,
+          "text": "St Helena and Falkland Islands"
+        },
+        {
+          "id": 290,
+          "text": "St Helena and Wales"
+        },
+        {
+          "id": 289,
+          "text": "The Channel Islands and the Isle of Man"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "Who was the first woman Prime Minister?",
+      "explanation": "In 1979, Margaret Thatcher became the first woman Prime Minister of the UK. She was the longest-serving Prime Minister of the 20th century, remaining in Office until 1990.",
+      "computed_correct_option_ids": [
+        377
+      ],
+      "options": [
+        {
+          "id": 377,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 380,
+          "text": "Elizabeth Brown"
+        },
+        {
+          "id": 378,
+          "text": "Florence Nightingale"
+        },
+        {
+          "id": 379,
+          "text": "Mary Peters"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "text": "What did the Chartists campaign for?",
+      "explanation": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes: for every man to have the vote;elections every year;for all regions to be equal in the electoral system; secret ballots; for any man to be able to stand as an MP; for MPs to be paid.",
+      "computed_correct_option_ids": [
+        749
+      ],
+      "options": [
+        {
+          "id": 750,
+          "text": "Anyone to be able to stand as an MP"
+        },
+        {
+          "id": 752,
+          "text": "Open ballots"
+        },
+        {
+          "id": 749,
+          "text": "Every man to have a vote"
+        },
+        {
+          "id": 751,
+          "text": "Elections every 5 years"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "text": "When did the Romans successfully invade Britain?",
+      "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
+      "computed_correct_option_ids": [
+        965
+      ],
+      "options": [
+        {
+          "id": 967,
+          "text": "63 BC"
+        },
+        {
+          "id": 965,
+          "text": "43 AD"
+        },
+        {
+          "id": 966,
+          "text": "55 BC"
+        },
+        {
+          "id": 968,
+          "text": "63 AD"
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "text": "What is the country house owned by the Prime Minister called?",
+      "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+      "computed_correct_option_ids": [
+        1141
+      ],
+      "options": [
+        {
+          "id": 1141,
+          "text": "Chequers"
+        },
+        {
+          "id": 1144,
+          "text": "Dormitory"
+        },
+        {
+          "id": 1143,
+          "text": "Cottage"
+        },
+        {
+          "id": 1142,
+          "text": "Chalet"
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "text": "Who led the team of scientists to 'split the atom' for the first time?",
+      "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to 'split the atom' and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+      "computed_correct_option_ids": [
+        1249
+      ],
+      "options": [
+        {
+          "id": 1251,
+          "text": "Dylan Thomas"
+        },
+        {
+          "id": 1249,
+          "text": "Ernest Rutherford"
+        },
+        {
+          "id": 1250,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 1252,
+          "text": "Sir Ian Wilmot"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "text": "When is Vaisakhi celebrated?",
+      "explanation": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated on 14 April each year with parades, dancing and singing.",
+      "computed_correct_option_ids": [
+        1385
+      ],
+      "options": [
+        {
+          "id": 1385,
+          "text": "In April"
+        },
+        {
+          "id": 1388,
+          "text": "In June"
+        },
+        {
+          "id": 1387,
+          "text": "In March"
+        },
+        {
+          "id": 1386,
+          "text": "In May"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "text": "What were the refugees that came from France between 1680 and 1720 called?",
+      "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+      "computed_correct_option_ids": [
+        1445
+      ],
+      "options": [
+        {
+          "id": 1448,
+          "text": "Sikhs"
+        },
+        {
+          "id": 1445,
+          "text": "Huguenots"
+        },
+        {
+          "id": 1446,
+          "text": "Quakers"
+        },
+        {
+          "id": 1447,
+          "text": "Chartists"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "text": "Where can you get help from if you are facing domestic violence?",
+      "explanation": "It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or the Citizens Advice Bureau can explain the available options.",
+      "computed_correct_option_ids": [
+        1605
+      ],
+      "options": [
+        {
+          "id": 1608,
+          "text": "Your Family"
+        },
+        {
+          "id": 1605,
+          "text": "Citizens advice Bureau"
+        },
+        {
+          "id": 1606,
+          "text": "High Court"
+        },
+        {
+          "id": 1607,
+          "text": "NSPCC"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "text": "Mary Stuart (also known as 'Mary, Queen of Scots') fled to England. She was suspected of trying to take over the throne and was kept a prisoner for 20 years",
+      "explanation": "The statement is true.",
+      "computed_correct_option_ids": [
+        1701
+      ],
+      "options": [
+        {
+          "id": 1702,
+          "text": "False"
+        },
+        {
+          "id": 1701,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "text": "Areas of what is now Scotland were never conquered by the Romans",
+      "explanation": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+      "computed_correct_option_ids": [
+        1797
+      ],
+      "options": [
+        {
+          "id": 1797,
+          "text": "True"
+        },
+        {
+          "id": 1798,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "text": "When did the First World War end?",
+      "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.",
+      "computed_correct_option_ids": [
+        1817
+      ],
+      "options": [
+        {
+          "id": 1817,
+          "text": "11th of November"
+        },
+        {
+          "id": 1820,
+          "text": "9th of july"
+        },
+        {
+          "id": 1819,
+          "text": "18th of August"
+        },
+        {
+          "id": 1818,
+          "text": "9th of May"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "text": "Which TWO of these are cycling athletes?",
+      "explanation": "Sir Chris Hoy (1976-) is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles. Bradley Wiggins (1980-) is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.",
+      "computed_correct_option_ids": [
+        1839,
+        1841
+      ],
+      "options": [
+        {
+          "id": 1840,
+          "text": "Sir Steve Redgrave"
+        },
+        {
+          "id": 1839,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 1842,
+          "text": "Jessica Ennis"
+        },
+        {
+          "id": 1841,
+          "text": "Bradley Wiggins"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "text": "In Scotland, judges developed 'common law' by following previous decisions. It was referred to as 'unwritten'",
+      "explanation": "In England, judges developed 'common law' by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were 'codified' (that is, written down).",
+      "computed_correct_option_ids": [
+        2022
+      ],
+      "options": [
+        {
+          "id": 2021,
+          "text": "True"
+        },
+        {
+          "id": 2022,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "text": "You need to buy a TV Licence if there are no TVs in your house but you watch TV programs on your mobile phone",
+      "explanation": "You must pay for a licence to watch TV through any medium.",
+      "computed_correct_option_ids": [
+        2273
+      ],
+      "options": [
+        {
+          "id": 2273,
+          "text": "True"
+        },
+        {
+          "id": 2274,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "text": "Which TWO of these are English civil war battles?",
+      "explanation": "During the civil war, the king's army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+      "computed_correct_option_ids": [
+        2529,
+        2531
+      ],
+      "options": [
+        {
+          "id": 2530,
+          "text": "Bannockburn"
+        },
+        {
+          "id": 2531,
+          "text": "Naseby"
+        },
+        {
+          "id": 2532,
+          "text": "Agincourt"
+        },
+        {
+          "id": 2529,
+          "text": "Marston Moor"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "text": "Which TWO of these are core values and responsibilities of the British society?",
+      "explanation": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
+      "computed_correct_option_ids": [
+        2599,
+        2602
+      ],
+      "options": [
+        {
+          "id": 2601,
+          "text": "Not to behave responsibly"
+        },
+        {
+          "id": 2600,
+          "text": "Always share the same views as your partner"
+        },
+        {
+          "id": 2602,
+          "text": "To vote in local and national government elections"
+        },
+        {
+          "id": 2599,
+          "text": "To work to provide for yourself and your family"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "text": "Who established the Church of England?",
+      "explanation": "To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new Church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+      "computed_correct_option_ids": [
+        2610
+      ],
+      "options": [
+        {
+          "id": 2610,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 2607,
+          "text": "The Pope"
+        },
+        {
+          "id": 2608,
+          "text": "Edward II"
+        },
+        {
+          "id": 2609,
+          "text": "Charles II"
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "text": "There is a dragon on the official flag of Wales",
+      "explanation": "here is also an official Welsh flag, which shows a Welsh dragon. The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+      "computed_correct_option_ids": [
+        3145
+      ],
+      "options": [
+        {
+          "id": 3145,
+          "text": "True"
+        },
+        {
+          "id": 3146,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 910,
+      "text": "Which TWO of these roles, in the UK, are unpaid?",
+      "explanation": "You can volunteer with the police, and become a special constable or a lay (non-police) representative. You can also apply to become a Magistrate.",
+      "computed_correct_option_ids": [
+        3325,
+        3327
+      ],
+      "options": [
+        {
+          "id": 3327,
+          "text": "Magistrate"
+        },
+        {
+          "id": 3325,
+          "text": "Special Constable"
+        },
+        {
+          "id": 3328,
+          "text": "Chief of Police"
+        },
+        {
+          "id": 3326,
+          "text": "District Judge"
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "text": "You have to be 21 years old to stand as an MP",
+      "explanation": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties. These are the Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests.",
+      "computed_correct_option_ids": [
+        3641
+      ],
+      "options": [
+        {
+          "id": 3642,
+          "text": "True"
+        },
+        {
+          "id": 3641,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "text": "Where are the minor criminal cases dealt with in England, Wales and N. Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+      "computed_correct_option_ids": [
+        3647
+      ],
+      "options": [
+        {
+          "id": 3650,
+          "text": "High Court"
+        },
+        {
+          "id": 3649,
+          "text": "Crown Court"
+        },
+        {
+          "id": 3648,
+          "text": "Justice of the Peace Court"
+        },
+        {
+          "id": 3647,
+          "text": "Magistrates' Court"
+        }
+      ]
+    },
+    {
+      "id": 1022,
+      "text": "The National Citizen Service programme gives 16 and 17 year olds the opportunity to enjoy outdoor activities, develop their skills",
+      "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project",
+      "computed_correct_option_ids": [
+        3699
+      ],
+      "options": [
+        {
+          "id": 3700,
+          "text": "False"
+        },
+        {
+          "id": 3699,
+          "text": "True"
+        }
+      ]
+    }
+  ]
+}

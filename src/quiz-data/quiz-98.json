@@ -1,0 +1,607 @@
+{
+  "id": 498,
+  "name": "British Citizenship Test 13",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 11301,
+      "text": "When is St George’s day?",
+      "explanation": "St George’s day, patron of England is celebrated on the23rd of April.",
+      "computed_correct_option_ids": [
+        12304
+      ],
+      "options": [
+        {
+          "id": 12301,
+          "text": "17th March"
+        },
+        {
+          "id": 12302,
+          "text": "30th November"
+        },
+        {
+          "id": 12303,
+          "text": "1st March"
+        },
+        {
+          "id": 12304,
+          "text": "23rd April"
+        }
+      ]
+    },
+    {
+      "id": 11302,
+      "text": "Which is the largest National Park in England?",
+      "explanation": "The Lake Districtis England’s largest national park.",
+      "computed_correct_option_ids": [
+        12314
+      ],
+      "options": [
+        {
+          "id": 12311,
+          "text": "Snowdonia"
+        },
+        {
+          "id": 12312,
+          "text": "Loch Lomond and the Trossachs National Park"
+        },
+        {
+          "id": 12313,
+          "text": "The Giant’s Causeway"
+        },
+        {
+          "id": 12314,
+          "text": "The Lake District"
+        }
+      ]
+    },
+    {
+      "id": 11303,
+      "text": "Boudicca, was a tribal leader who fought against which foreign invaders?",
+      "explanation": "One of the tribal leaders who fought againstthe Romanswas Boudicca, the queen of the Iceni.",
+      "computed_correct_option_ids": [
+        12324
+      ],
+      "options": [
+        {
+          "id": 12321,
+          "text": "The Normands"
+        },
+        {
+          "id": 12322,
+          "text": "The Vikings"
+        },
+        {
+          "id": 12323,
+          "text": "The Anglo-Saxons"
+        },
+        {
+          "id": 12324,
+          "text": "The Romans"
+        }
+      ]
+    },
+    {
+      "id": 11304,
+      "text": "Which of the following poems is about a group of people going on a pilgrimage?",
+      "explanation": "Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is calledThe Canterbury Tales.",
+      "computed_correct_option_ids": [
+        12331
+      ],
+      "options": [
+        {
+          "id": 12331,
+          "text": "The Canterbury Tales"
+        },
+        {
+          "id": 12332,
+          "text": "All the world’s a stage"
+        },
+        {
+          "id": 12333,
+          "text": "A Midsummer Night’s dream"
+        },
+        {
+          "id": 12334,
+          "text": "Great Expectations"
+        }
+      ]
+    },
+    {
+      "id": 11305,
+      "text": "How are public holidays called?",
+      "explanation": "There are public holidays each year calledbank holidays, when banks and many other businesses are closed for the day.",
+      "computed_correct_option_ids": [
+        12341
+      ],
+      "options": [
+        {
+          "id": 12341,
+          "text": "Bank Holidays"
+        },
+        {
+          "id": 12342,
+          "text": "Workers Holidays"
+        },
+        {
+          "id": 12343,
+          "text": "Business Holidays"
+        },
+        {
+          "id": 12344,
+          "text": "Summer Holidays"
+        }
+      ]
+    },
+    {
+      "id": 11306,
+      "text": "How did Charles II manage to escape to Europe after his defeat in the Civil War?",
+      "explanation": "Charles II escaped from Worcester, famouslyhiding in an oak treeon one occasion, and eventually fled to Europe.",
+      "computed_correct_option_ids": [
+        12353
+      ],
+      "options": [
+        {
+          "id": 12351,
+          "text": "Hiding in a farmer’s house"
+        },
+        {
+          "id": 12352,
+          "text": "Riding a horse"
+        },
+        {
+          "id": 12353,
+          "text": "Hiding in an oak tree"
+        },
+        {
+          "id": 12354,
+          "text": "Swimming"
+        }
+      ]
+    },
+    {
+      "id": 11307,
+      "text": "Who defeated the Vikings?",
+      "explanation": "The Anglo-Saxon kingdoms in England united underKing Alfred the Great, who defeated the Vikings.",
+      "computed_correct_option_ids": [
+        12364
+      ],
+      "options": [
+        {
+          "id": 12361,
+          "text": "Harold"
+        },
+        {
+          "id": 12362,
+          "text": "Edward I of England"
+        },
+        {
+          "id": 12363,
+          "text": "King Arthur"
+        },
+        {
+          "id": 12364,
+          "text": "King Alfred the Great"
+        }
+      ]
+    },
+    {
+      "id": 11308,
+      "text": "Who was William Caxton?",
+      "explanation": "William Caxton wasthe first person in England to print books using a printing press.",
+      "computed_correct_option_ids": [
+        12372
+      ],
+      "options": [
+        {
+          "id": 12371,
+          "text": "A poet who wrote about a group of people going to Canterbury on a pilgrimage"
+        },
+        {
+          "id": 12372,
+          "text": "The first person in England to print books using a printing press"
+        },
+        {
+          "id": 12373,
+          "text": "The first person to sail singlehanded around the world"
+        },
+        {
+          "id": 12374,
+          "text": "The inventor of the television"
+        }
+      ]
+    },
+    {
+      "id": 11309,
+      "text": "Where do Beefeaters serve as tour guides?",
+      "explanation": "Beefeaters serve as tour guides atthe Tower of London.",
+      "computed_correct_option_ids": [
+        12382
+      ],
+      "options": [
+        {
+          "id": 12381,
+          "text": "The Houses of the Parliament"
+        },
+        {
+          "id": 12382,
+          "text": "The Tower of London"
+        },
+        {
+          "id": 12383,
+          "text": "The O2"
+        },
+        {
+          "id": 12384,
+          "text": "The Big Ben"
+        }
+      ]
+    },
+    {
+      "id": 11310,
+      "text": "During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?",
+      "explanation": "Charles Edward Stuart (Bonnie Prince Charlie) was supported by clansmen fromthe Scottish Highlands.",
+      "computed_correct_option_ids": [
+        12393
+      ],
+      "options": [
+        {
+          "id": 12391,
+          "text": "Glasgow"
+        },
+        {
+          "id": 12392,
+          "text": "Galloway"
+        },
+        {
+          "id": 12393,
+          "text": "The Highlands"
+        },
+        {
+          "id": 12394,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 11311,
+      "text": "What religion did Elizabeth I follow?",
+      "explanation": "Elizabeth the I was aprotestant.",
+      "computed_correct_option_ids": [
+        12401
+      ],
+      "options": [
+        {
+          "id": 12401,
+          "text": "She was a Protestant"
+        },
+        {
+          "id": 12402,
+          "text": "She was a Catholic"
+        }
+      ]
+    },
+    {
+      "id": 11312,
+      "text": "Who became famous for his tramp character in silent movies?",
+      "explanation": "Charlie Chaplinbecame famous in silent movies for his tramp character.",
+      "computed_correct_option_ids": [
+        12414
+      ],
+      "options": [
+        {
+          "id": 12411,
+          "text": "Sir Rex Harrison"
+        },
+        {
+          "id": 12412,
+          "text": "David Niven"
+        },
+        {
+          "id": 12413,
+          "text": "Richard Burton"
+        },
+        {
+          "id": 12414,
+          "text": "Charlie Chaplin"
+        }
+      ]
+    },
+    {
+      "id": 11313,
+      "text": "Which armed force was used in the Battle of Britain?",
+      "explanation": "The correct answer isthe Royal Air Force.",
+      "computed_correct_option_ids": [
+        12424
+      ],
+      "options": [
+        {
+          "id": 12421,
+          "text": "The Royal Navy"
+        },
+        {
+          "id": 12422,
+          "text": "The Police Force"
+        },
+        {
+          "id": 12423,
+          "text": "The Naval Service"
+        },
+        {
+          "id": 12424,
+          "text": "The Royal Air Force"
+        }
+      ]
+    },
+    {
+      "id": 11314,
+      "text": "In the UK, you have to be 21 years old to be able to vote in a general election.",
+      "explanation": "False. The present voting age of18was set in 1969 and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote.",
+      "computed_correct_option_ids": [
+        12431
+      ],
+      "options": [
+        {
+          "id": 12431,
+          "text": "True"
+        },
+        {
+          "id": 12432,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11315,
+      "text": "Which of the following poets was inspired by nature?",
+      "explanation": "British poets, includingWilliam Wordsworth, were inspired by nature.",
+      "computed_correct_option_ids": [
+        12444
+      ],
+      "options": [
+        {
+          "id": 12441,
+          "text": "John Masefield"
+        },
+        {
+          "id": 12442,
+          "text": "Wilfred Owen"
+        },
+        {
+          "id": 12443,
+          "text": "Siegfried Sassoon"
+        },
+        {
+          "id": 12444,
+          "text": "William Wordsworth"
+        }
+      ]
+    },
+    {
+      "id": 11316,
+      "text": "Against which country did Britain fight at the Battle of Waterloo?",
+      "explanation": "In 1815, theFrenchWars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo.",
+      "computed_correct_option_ids": [
+        12453
+      ],
+      "options": [
+        {
+          "id": 12451,
+          "text": "Germany"
+        },
+        {
+          "id": 12452,
+          "text": "Italy"
+        },
+        {
+          "id": 12453,
+          "text": "France"
+        },
+        {
+          "id": 12454,
+          "text": "Spain"
+        }
+      ]
+    },
+    {
+      "id": 11317,
+      "text": "Who was William Wilberforce?",
+      "explanation": "William Wilberforce, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade.",
+      "computed_correct_option_ids": [
+        12463
+      ],
+      "options": [
+        {
+          "id": 12461,
+          "text": "A poet"
+        },
+        {
+          "id": 12462,
+          "text": "A sportsman"
+        },
+        {
+          "id": 12463,
+          "text": "A politician"
+        },
+        {
+          "id": 12464,
+          "text": "A musician"
+        }
+      ]
+    },
+    {
+      "id": 11318,
+      "text": "Who is the spiritual leader of the Church of England?",
+      "explanation": "The spiritual leader of the Church of England isthe Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        12471
+      ],
+      "options": [
+        {
+          "id": 12471,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 12472,
+          "text": "The Archbishop of London"
+        },
+        {
+          "id": 12473,
+          "text": "The Archbishop of Birmingham"
+        },
+        {
+          "id": 12474,
+          "text": "The Archbishop of Manchester"
+        }
+      ]
+    },
+    {
+      "id": 11319,
+      "text": "James I was King of which country before becoming King of England?",
+      "explanation": "When Elizabeth I died, her cousinJames VI of Scotland became King James I of England, Wales and Irelandand Scotland remained a separate country.",
+      "computed_correct_option_ids": [
+        12484
+      ],
+      "options": [
+        {
+          "id": 12481,
+          "text": "Wales"
+        },
+        {
+          "id": 12482,
+          "text": "Ireland"
+        },
+        {
+          "id": 12483,
+          "text": "France"
+        },
+        {
+          "id": 12484,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 11320,
+      "text": "Which of the following statements is correct?",
+      "explanation": "Most shops in the UK are open seven days a week, although trading hours on Sundays and public holidays are generally reduced.",
+      "computed_correct_option_ids": [
+        12492
+      ],
+      "options": [
+        {
+          "id": 12491,
+          "text": "Most shops in the UK open seven days a week."
+        },
+        {
+          "id": 12492,
+          "text": "All shops in the UK close on Sundays and bank holidays."
+        }
+      ]
+    },
+    {
+      "id": 11321,
+      "text": "Which country sent a fleet of ships to England in 1588?",
+      "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent bySpainto conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        12503
+      ],
+      "options": [
+        {
+          "id": 12501,
+          "text": "France"
+        },
+        {
+          "id": 12502,
+          "text": "Germany"
+        },
+        {
+          "id": 12503,
+          "text": "Spain"
+        },
+        {
+          "id": 12504,
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 11322,
+      "text": "Where is the National Horseracing Museum located?",
+      "explanation": "There is a National Horseracing Museum inNewmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        12512
+      ],
+      "options": [
+        {
+          "id": 12511,
+          "text": "Edinburgh, Scotland"
+        },
+        {
+          "id": 12512,
+          "text": "Newmarket, Suffolk"
+        },
+        {
+          "id": 12513,
+          "text": "St Andrews, Scotland"
+        },
+        {
+          "id": 12514,
+          "text": "Aintree near Liverpool"
+        }
+      ]
+    },
+    {
+      "id": 11323,
+      "text": "Which of the following castles is located in Scotland?",
+      "explanation": "Crathes Castleis located in Scotland.",
+      "computed_correct_option_ids": [
+        12521
+      ],
+      "options": [
+        {
+          "id": 12521,
+          "text": "Crathes Castle"
+        },
+        {
+          "id": 12522,
+          "text": "Caernarfon Castle"
+        },
+        {
+          "id": 12523,
+          "text": "Bodiam Castle"
+        },
+        {
+          "id": 12524,
+          "text": "Powis Castle"
+        }
+      ]
+    },
+    {
+      "id": 11324,
+      "text": "Who was a famous Art Deco ceramic designer?",
+      "explanation": "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) toClarice Cliff(who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer).",
+      "computed_correct_option_ids": [
+        12533
+      ],
+      "options": [
+        {
+          "id": 12531,
+          "text": "Alexander McQueen"
+        },
+        {
+          "id": 12532,
+          "text": "Thomas Chippendale"
+        },
+        {
+          "id": 12533,
+          "text": "Clarice Cliff"
+        },
+        {
+          "id": 12534,
+          "text": "Mary Quant"
+        }
+      ]
+    }
+  ]
+}

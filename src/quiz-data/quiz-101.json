@@ -1,0 +1,632 @@
+{
+  "id": 501,
+  "name": "Life in the UK Test 101",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 12101,
+      "text": "When was the United Nations set up?",
+      "explanation": "The UN was set upafter the Second World Warand aims to prevent war and promote international peace and security.",
+      "computed_correct_option_ids": [
+        13102
+      ],
+      "options": [
+        {
+          "id": 13101,
+          "text": "After the First World War."
+        },
+        {
+          "id": 13102,
+          "text": "After the Second World War."
+        },
+        {
+          "id": 13103,
+          "text": "Before the First World War."
+        },
+        {
+          "id": 13104,
+          "text": "Before the Second World War."
+        }
+      ]
+    },
+    {
+      "id": 12102,
+      "text": "Where is the Giant’s Causeway located?",
+      "explanation": "The Giant’s Causeway is a land formation of columns made from volcanic lava locatedon the north-east coast of Northern Ireland. It was formed about 50 million years ago. There are many legends about the Causeway and how it was formed.",
+      "computed_correct_option_ids": [
+        13114
+      ],
+      "options": [
+        {
+          "id": 13111,
+          "text": "Scotland"
+        },
+        {
+          "id": 13112,
+          "text": "England"
+        },
+        {
+          "id": 13113,
+          "text": "Wales"
+        },
+        {
+          "id": 13114,
+          "text": "Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 12103,
+      "text": "What happened to Mary, Queen of Scots, after being sent to prison for 20 years by her cousin Queen Elizabeth I?",
+      "explanation": "Mary was executed, accused of plotting against Elizabeth I.",
+      "computed_correct_option_ids": [
+        13123
+      ],
+      "options": [
+        {
+          "id": 13121,
+          "text": "She got married."
+        },
+        {
+          "id": 13122,
+          "text": "She was sent to France."
+        },
+        {
+          "id": 13123,
+          "text": "She was executed."
+        },
+        {
+          "id": 13124,
+          "text": "She was sent to Scotland."
+        }
+      ]
+    },
+    {
+      "id": 12104,
+      "text": "Which tribe came to Britain from northern Europe after the Romans left in AD 410?",
+      "explanation": "Britain was invaded by tribes from northern Europe:the Jutes,the Angles and the Saxons.",
+      "computed_correct_option_ids": [
+        13132
+      ],
+      "options": [
+        {
+          "id": 13131,
+          "text": "The Gepids"
+        },
+        {
+          "id": 13132,
+          "text": "The Jutes"
+        },
+        {
+          "id": 13133,
+          "text": "The Frisians"
+        },
+        {
+          "id": 13134,
+          "text": "The Burgundians"
+        }
+      ]
+    },
+    {
+      "id": 12105,
+      "text": "What is one of the highest-grossing film franchises produced in the UK?",
+      "explanation": "Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potter andJames Bond), have been produced in the UK.",
+      "computed_correct_option_ids": [
+        13141
+      ],
+      "options": [
+        {
+          "id": 13141,
+          "text": "James Bond"
+        },
+        {
+          "id": 13142,
+          "text": "Star Wars"
+        },
+        {
+          "id": 13143,
+          "text": "The Lord of the Rings"
+        },
+        {
+          "id": 13144,
+          "text": "Superman"
+        }
+      ]
+    },
+    {
+      "id": 12106,
+      "text": "Who can hear cases in Youth Courts in England, Wales and Northern Ireland (two answers)?",
+      "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front ofup to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+      "computed_correct_option_ids": [
+        13151,
+        13153
+      ],
+      "options": [
+        {
+          "id": 13151,
+          "text": "Specially trained magistrates."
+        },
+        {
+          "id": 13152,
+          "text": "Social workers."
+        },
+        {
+          "id": 13153,
+          "text": "District judges."
+        },
+        {
+          "id": 13154,
+          "text": "Members of the public."
+        }
+      ]
+    },
+    {
+      "id": 12107,
+      "text": "Who came from the Netherlands to become the British monarch?",
+      "explanation": "In May 1660, Parliament invitedCharles IIto come back from exile in the Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland.",
+      "computed_correct_option_ids": [
+        13162
+      ],
+      "options": [
+        {
+          "id": 13161,
+          "text": "William II"
+        },
+        {
+          "id": 13162,
+          "text": "Charles II"
+        },
+        {
+          "id": 13163,
+          "text": "Edward II"
+        },
+        {
+          "id": 13164,
+          "text": "George II"
+        }
+      ]
+    },
+    {
+      "id": 12108,
+      "text": "Who can apply for the National Citizen Service programme?",
+      "explanation": "The National Citizen Service programme gives16- and 17-year-oldsthe opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        13173
+      ],
+      "options": [
+        {
+          "id": 13171,
+          "text": "14- and 15-year-olds"
+        },
+        {
+          "id": 13172,
+          "text": "15- and 16-year-olds"
+        },
+        {
+          "id": 13173,
+          "text": "16- and 17-year-olds"
+        },
+        {
+          "id": 13174,
+          "text": "17- and 18-year-olds"
+        }
+      ]
+    },
+    {
+      "id": 12109,
+      "text": "Nick Park has won four Oscars for his animated films, including three for films featuring:",
+      "explanation": "Nick Park, who has won four Oscars for his animated films, including three for films featuringWallace and Gromit.",
+      "computed_correct_option_ids": [
+        13182
+      ],
+      "options": [
+        {
+          "id": 13181,
+          "text": "Chariots of Fire"
+        },
+        {
+          "id": 13182,
+          "text": "Wallace and Gromit"
+        },
+        {
+          "id": 13183,
+          "text": "Four Weddings and a Funeral"
+        },
+        {
+          "id": 13184,
+          "text": "Women in Love"
+        }
+      ]
+    },
+    {
+      "id": 12110,
+      "text": "Who was the British scientist who co-discovered the structure of the DNA molecule in the 1950s?",
+      "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime.Francis Crick(1916-2004), was one of those awarded the Nobel Prize for this discovery.",
+      "computed_correct_option_ids": [
+        13194
+      ],
+      "options": [
+        {
+          "id": 13191,
+          "text": "Sir Ian Wilmot"
+        },
+        {
+          "id": 13192,
+          "text": "Keith Campbell"
+        },
+        {
+          "id": 13193,
+          "text": "James Watt"
+        },
+        {
+          "id": 13194,
+          "text": "Francis Crick"
+        }
+      ]
+    },
+    {
+      "id": 12111,
+      "text": "What percentage of the UK population has a parent or grandparent born outside of the UK?",
+      "explanation": "Nearly 10%of the population has a parent or grandparent born outside the UK.",
+      "computed_correct_option_ids": [
+        13202
+      ],
+      "options": [
+        {
+          "id": 13201,
+          "text": "Around 5%"
+        },
+        {
+          "id": 13202,
+          "text": "Around 10%"
+        },
+        {
+          "id": 13203,
+          "text": "Around 15%"
+        },
+        {
+          "id": 13204,
+          "text": "Around 20%"
+        }
+      ]
+    },
+    {
+      "id": 12112,
+      "text": "How old do you have to be to drive a moped in the UK?",
+      "explanation": "In the UK, you need to be at least16 years oldto ride a moped, and there are other age requirements and special tests for driving large vehicles.",
+      "computed_correct_option_ids": [
+        13212
+      ],
+      "options": [
+        {
+          "id": 13211,
+          "text": "15 years old"
+        },
+        {
+          "id": 13212,
+          "text": "16 years old"
+        },
+        {
+          "id": 13213,
+          "text": "17 years old"
+        },
+        {
+          "id": 13214,
+          "text": "18 years old"
+        }
+      ]
+    },
+    {
+      "id": 12113,
+      "text": "Who was the leader of the Labour Party who introduced a Scottish Parliament and a Welsh Assembly?",
+      "explanation": "In 1997 the Labour Party led byTony Blairwas elected. The Blair government introduced a Scottish Parliament and a Welsh Assembly.",
+      "computed_correct_option_ids": [
+        13224
+      ],
+      "options": [
+        {
+          "id": 13221,
+          "text": "James Callaghan"
+        },
+        {
+          "id": 13222,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 13223,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 13224,
+          "text": "Tony Blair"
+        }
+      ]
+    },
+    {
+      "id": 12114,
+      "text": "What is the maximum amount you can claim through the small claims procedure in Scotland and Northern Ireland?",
+      "explanation": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales,£5,000 in Scotland and Northern Ireland.",
+      "computed_correct_option_ids": [
+        13232
+      ],
+      "options": [
+        {
+          "id": 13231,
+          "text": "£3,000"
+        },
+        {
+          "id": 13232,
+          "text": "£5,000"
+        },
+        {
+          "id": 13233,
+          "text": "£8,000"
+        },
+        {
+          "id": 13234,
+          "text": "£10,000"
+        }
+      ]
+    },
+    {
+      "id": 12115,
+      "text": "Which historical monument did William the Conqueror build?",
+      "explanation": "The White Towerin the Tower of London is an example of a Norman castle keep, built on the orders of William the Conqueror.",
+      "computed_correct_option_ids": [
+        13244
+      ],
+      "options": [
+        {
+          "id": 13241,
+          "text": "St Paul’s Cathedral"
+        },
+        {
+          "id": 13242,
+          "text": "The Cenotaph"
+        },
+        {
+          "id": 13243,
+          "text": "Dumfries House"
+        },
+        {
+          "id": 13244,
+          "text": "The White Tower"
+        }
+      ]
+    },
+    {
+      "id": 12116,
+      "text": "Who became Prime Minister after Margaret Thatcher and played an important part in the Northern Ireland peace process?",
+      "explanation": "John Majorbecame Prime Minister after Margaret Thatcher and played an important part in the Northern Ireland peace process.",
+      "computed_correct_option_ids": [
+        13252
+      ],
+      "options": [
+        {
+          "id": 13251,
+          "text": "James Callaghan"
+        },
+        {
+          "id": 13252,
+          "text": "John Major"
+        },
+        {
+          "id": 13253,
+          "text": "Tony Blair"
+        },
+        {
+          "id": 13254,
+          "text": "Harold Wilson"
+        }
+      ]
+    },
+    {
+      "id": 12117,
+      "text": "Who should you contact to report a terrorist activity?",
+      "explanation": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notifyyour local police force.",
+      "computed_correct_option_ids": [
+        13263
+      ],
+      "options": [
+        {
+          "id": 13261,
+          "text": "Your local Council."
+        },
+        {
+          "id": 13262,
+          "text": "Your local MP."
+        },
+        {
+          "id": 13263,
+          "text": "Your local police force."
+        },
+        {
+          "id": 13264,
+          "text": "The Prime Minister."
+        }
+      ]
+    },
+    {
+      "id": 12118,
+      "text": "Which Paralympic athlete has won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games?",
+      "explanation": "Ellie Simmondsis a Paralympian who won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.",
+      "computed_correct_option_ids": [
+        13272
+      ],
+      "options": [
+        {
+          "id": 13271,
+          "text": "Sophie Christiansen"
+        },
+        {
+          "id": 13272,
+          "text": "Ellie Simmonds"
+        },
+        {
+          "id": 13273,
+          "text": "Baroness Tanni Grey-Thompson"
+        },
+        {
+          "id": 13274,
+          "text": "David Weir"
+        }
+      ]
+    },
+    {
+      "id": 12119,
+      "text": "Each of the UK countries is associated with a flower symbol, which country is associated with the rose?",
+      "explanation": "The countries that make up the UK all have flowers which are particularly associated with them and which are sometimes worn on national saints’ days. The flowers associated to each country are as follows:England – the rose, Scotland – the thistle, Wales – the daffodil and Northern Ireland – the shamrock.",
+      "computed_correct_option_ids": [
+        13284
+      ],
+      "options": [
+        {
+          "id": 13281,
+          "text": "Wales"
+        },
+        {
+          "id": 13282,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 13283,
+          "text": "Scotland"
+        },
+        {
+          "id": 13284,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 12120,
+      "text": "Isambard Kingdom Brunel was responsible for:",
+      "explanation": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships. He was responsible forconstructing the Great Western Railway, which was the first major railway built in Britain. It runs from Paddington Station in London to the south west of England, the West Midlands and Wales.",
+      "computed_correct_option_ids": [
+        13291
+      ],
+      "options": [
+        {
+          "id": 13291,
+          "text": "The construction of the Great Western Railway."
+        },
+        {
+          "id": 13292,
+          "text": "The invention of the television."
+        },
+        {
+          "id": 13293,
+          "text": "The construction of the Tower of London."
+        },
+        {
+          "id": 13294,
+          "text": "The discovery of insulin."
+        }
+      ]
+    },
+    {
+      "id": 12121,
+      "text": "What is the Commonwealth?",
+      "explanation": "The Commonwealth isan association of countries that support each other and work together towards shared goals in democracy and development.Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+      "computed_correct_option_ids": [
+        13303
+      ],
+      "options": [
+        {
+          "id": 13301,
+          "text": "An organization responsible for the protection and promotion of human rights in its member countries."
+        },
+        {
+          "id": 13302,
+          "text": "A group of European and North American countries that have agreed to help each other if they come under attack."
+        },
+        {
+          "id": 13303,
+          "text": "An association of countries that support each other and work together towards shared goals in democracy and development."
+        },
+        {
+          "id": 13304,
+          "text": "An international organization that aims to prevent war and promote international peace and security."
+        }
+      ]
+    },
+    {
+      "id": 12122,
+      "text": "Under which name was the movement of opinion against the authority of the Pope during the times of Henry VIII known?",
+      "explanation": "The correct answer is theReformation.",
+      "computed_correct_option_ids": [
+        13313
+      ],
+      "options": [
+        {
+          "id": 13311,
+          "text": "The Spanish Inquisition"
+        },
+        {
+          "id": 13312,
+          "text": "The Holy Wars"
+        },
+        {
+          "id": 13313,
+          "text": "The Reformation"
+        },
+        {
+          "id": 13314,
+          "text": "The Enlightenment"
+        }
+      ]
+    },
+    {
+      "id": 12123,
+      "text": "What did Isaac Newton discover?",
+      "explanation": "Newton’s most famous published work was Philosophiae Naturalis Principia Mathematica (‘Mathematical Principle of Natural Philosophy’), which showed howgravityapplied to the whole universe. Newton also discovered that white light is made up of the colours of the rainbow.",
+      "computed_correct_option_ids": [
+        13321
+      ],
+      "options": [
+        {
+          "id": 13321,
+          "text": "Gravity"
+        },
+        {
+          "id": 13322,
+          "text": "Penicillin"
+        },
+        {
+          "id": 13323,
+          "text": "Insulin"
+        },
+        {
+          "id": 13324,
+          "text": "Lightbulb"
+        }
+      ]
+    },
+    {
+      "id": 12124,
+      "text": "What kind of movies did Academy Award winner Nick Park specialise in?",
+      "explanation": "Britain continues to be particularly strong in special effects and animation. One example is the work of Nick Park, who has won four Oscars for hisanimated films, including three for films featuring Wallace and Gromit.",
+      "computed_correct_option_ids": [
+        13332
+      ],
+      "options": [
+        {
+          "id": 13331,
+          "text": "Action movies"
+        },
+        {
+          "id": 13332,
+          "text": "Animated movies"
+        },
+        {
+          "id": 13333,
+          "text": "Thrillers"
+        },
+        {
+          "id": 13334,
+          "text": "Horror movies"
+        }
+      ]
+    }
+  ]
+}

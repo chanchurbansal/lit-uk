@@ -1,0 +1,609 @@
+{
+  "id": 444,
+  "name": "Life in the UK Test 84",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10901,
+      "text": "Which political party did Margaret Thatcher belong to?",
+      "explanation": "Margaret Thatcher ledthe Conservative governmentfrom 1979 to 1990.",
+      "computed_correct_option_ids": [
+        11902
+      ],
+      "options": [
+        {
+          "id": 11901,
+          "text": "Green Party"
+        },
+        {
+          "id": 11902,
+          "text": "Conservative Party"
+        },
+        {
+          "id": 11903,
+          "text": "Liberal Democrats Party"
+        },
+        {
+          "id": 11904,
+          "text": "Democratic Unionist Party"
+        }
+      ]
+    },
+    {
+      "id": 10902,
+      "text": "In which city is the Millennium Stadium located?",
+      "explanation": "The Millennium Stadium is located inCardiff.",
+      "computed_correct_option_ids": [
+        11914
+      ],
+      "options": [
+        {
+          "id": 11911,
+          "text": "Birmingham"
+        },
+        {
+          "id": 11912,
+          "text": "Nottingham"
+        },
+        {
+          "id": 11913,
+          "text": "Liverpool"
+        },
+        {
+          "id": 11914,
+          "text": "Cardiff"
+        }
+      ]
+    },
+    {
+      "id": 10903,
+      "text": "Who lost a lot of power and influence after the Battle of Culloden in 1746?",
+      "explanation": "The clanslost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
+      "computed_correct_option_ids": [
+        11923
+      ],
+      "options": [
+        {
+          "id": 11921,
+          "text": "The church"
+        },
+        {
+          "id": 11922,
+          "text": "Politicians"
+        },
+        {
+          "id": 11923,
+          "text": "The clans"
+        },
+        {
+          "id": 11924,
+          "text": "The King"
+        }
+      ]
+    },
+    {
+      "id": 10904,
+      "text": "What UK landmark was voted as Britain’s favourite view in 2007?",
+      "explanation": "In 2007, television viewers votedWastwateras Britain’s favourite view.",
+      "computed_correct_option_ids": [
+        11931
+      ],
+      "options": [
+        {
+          "id": 11931,
+          "text": "Wastwater in the Lake District"
+        },
+        {
+          "id": 11932,
+          "text": "Snowdon in Snowdonia"
+        },
+        {
+          "id": 11933,
+          "text": "The Crown Jewels at the Tower of London"
+        },
+        {
+          "id": 11934,
+          "text": "Loch Lomond in Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10905,
+      "text": "When did the development of a free press take place?",
+      "explanation": "From1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+      "computed_correct_option_ids": [
+        11943
+      ],
+      "options": [
+        {
+          "id": 11941,
+          "text": "1795"
+        },
+        {
+          "id": 11942,
+          "text": "1685"
+        },
+        {
+          "id": 11943,
+          "text": "1695"
+        },
+        {
+          "id": 11944,
+          "text": "1785"
+        }
+      ]
+    },
+    {
+      "id": 10906,
+      "text": "Which was the last successful foreign invasion of England?",
+      "explanation": "The Norman Conquestwas the last successful foreign invasion of England and led to many changes in government and social structures in England.",
+      "computed_correct_option_ids": [
+        11953
+      ],
+      "options": [
+        {
+          "id": 11951,
+          "text": "The Roman invasion"
+        },
+        {
+          "id": 11952,
+          "text": "The Anglo-Saxon invasion"
+        },
+        {
+          "id": 11953,
+          "text": "The Norman Conquest"
+        },
+        {
+          "id": 11954,
+          "text": "The Viking invasion"
+        }
+      ]
+    },
+    {
+      "id": 10907,
+      "text": "Who was Richard Austen Butler?",
+      "explanation": "Richard Austen Butler (later Lord Butler) becamea Conservative MPin 1923 and held several positions before becoming responsible for education in 1941.",
+      "computed_correct_option_ids": [
+        11964
+      ],
+      "options": [
+        {
+          "id": 11961,
+          "text": "A British economist"
+        },
+        {
+          "id": 11962,
+          "text": "A Welsh poet"
+        },
+        {
+          "id": 11963,
+          "text": "A Labour MP"
+        },
+        {
+          "id": 11964,
+          "text": "A Conservative MP"
+        }
+      ]
+    },
+    {
+      "id": 10908,
+      "text": "What kind of sport is played at the Wimbledon Championships?",
+      "explanation": "The most famoustennistournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club.",
+      "computed_correct_option_ids": [
+        11972
+      ],
+      "options": [
+        {
+          "id": 11971,
+          "text": "Football"
+        },
+        {
+          "id": 11972,
+          "text": "Tennis"
+        },
+        {
+          "id": 11973,
+          "text": "Rugby"
+        },
+        {
+          "id": 11974,
+          "text": "Cricket"
+        }
+      ]
+    },
+    {
+      "id": 10909,
+      "text": "Where was Isaac Newton from?",
+      "explanation": "Isaac Newton was born inLincolnshire, eastern England.",
+      "computed_correct_option_ids": [
+        11981
+      ],
+      "options": [
+        {
+          "id": 11981,
+          "text": "Lincolnshire"
+        },
+        {
+          "id": 11982,
+          "text": "Stratford-upon-Avon"
+        },
+        {
+          "id": 11983,
+          "text": "Cardiff"
+        },
+        {
+          "id": 11984,
+          "text": "Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 10910,
+      "text": "Under which Act was The Kingdom of Great Britain created?",
+      "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
+      "computed_correct_option_ids": [
+        11992
+      ],
+      "options": [
+        {
+          "id": 11991,
+          "text": "The Reform Act"
+        },
+        {
+          "id": 11992,
+          "text": "The Act of Union"
+        },
+        {
+          "id": 11993,
+          "text": "The Emancipation Act"
+        },
+        {
+          "id": 11994,
+          "text": "The Butler Act"
+        }
+      ]
+    },
+    {
+      "id": 10911,
+      "text": "The Council of Europe has the power to make new laws.",
+      "explanation": "False. The Council of Europe hasNO power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.",
+      "computed_correct_option_ids": [
+        12002
+      ],
+      "options": [
+        {
+          "id": 12001,
+          "text": "True"
+        },
+        {
+          "id": 12002,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10912,
+      "text": "Which TWO British poets wrote about their experiences in the WWI?",
+      "explanation": "Wilfred Owen and Siegfried Sassoonwere inspired to write about their experiences in the First World War.",
+      "computed_correct_option_ids": [
+        12014
+      ],
+      "options": [
+        {
+          "id": 12011,
+          "text": "Lord Byron and Percy Shelley"
+        },
+        {
+          "id": 12012,
+          "text": "John Keats and Alfred Lord Tennyson"
+        },
+        {
+          "id": 12013,
+          "text": "Robert and Elizabeth Browning"
+        },
+        {
+          "id": 12014,
+          "text": "Wilfred Owen and Siegfried Sassoon"
+        }
+      ]
+    },
+    {
+      "id": 10913,
+      "text": "If you are found driving while exceeding the alcohol limit you will:",
+      "explanation": "If you are found driving while exceeding the alcohol limit you willbe arrested.",
+      "computed_correct_option_ids": [
+        12023
+      ],
+      "options": [
+        {
+          "id": 12021,
+          "text": "Not be allowed to drive again"
+        },
+        {
+          "id": 12022,
+          "text": "Be taken to the hospital"
+        },
+        {
+          "id": 12023,
+          "text": "Be arrested"
+        },
+        {
+          "id": 12024,
+          "text": "Be taken home by the police"
+        }
+      ]
+    },
+    {
+      "id": 10914,
+      "text": "Which TWO of the following are core values of a civil servant?",
+      "explanation": "The core values of civil servants include:integrity, honesty, objectivity and impartiality(including being politically neutral).",
+      "computed_correct_option_ids": [
+        12031,
+        12034
+      ],
+      "options": [
+        {
+          "id": 12031,
+          "text": "Objectivity"
+        },
+        {
+          "id": 12032,
+          "text": "Competitiveness"
+        },
+        {
+          "id": 12033,
+          "text": "Talent"
+        },
+        {
+          "id": 12034,
+          "text": "Honesty"
+        }
+      ]
+    },
+    {
+      "id": 10915,
+      "text": "Which of the following countries belongs to the Commonwealth?",
+      "explanation": "Nauruis a member of the Commonwealth.",
+      "computed_correct_option_ids": [
+        12043
+      ],
+      "options": [
+        {
+          "id": 12041,
+          "text": "Norway"
+        },
+        {
+          "id": 12042,
+          "text": "Zimbabwe"
+        },
+        {
+          "id": 12043,
+          "text": "Nauru"
+        },
+        {
+          "id": 12044,
+          "text": "Algeria"
+        }
+      ]
+    },
+    {
+      "id": 10916,
+      "text": "What is the name of the first Danish king to rule in England?",
+      "explanation": "Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these wasCnut, also named Canute.",
+      "computed_correct_option_ids": [
+        12051
+      ],
+      "options": [
+        {
+          "id": 12051,
+          "text": "Canute"
+        },
+        {
+          "id": 12052,
+          "text": "Kenneth MacAlpin"
+        },
+        {
+          "id": 12053,
+          "text": "Henry V"
+        },
+        {
+          "id": 12054,
+          "text": "Edward I"
+        }
+      ]
+    },
+    {
+      "id": 10917,
+      "text": "What name was given to the members of the Women’s Social and Political Union founded in 1903?",
+      "explanation": "In 1903 Emmeline Pankhurst helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called‘suffragettes’.",
+      "computed_correct_option_ids": [
+        12064
+      ],
+      "options": [
+        {
+          "id": 12061,
+          "text": "Gentry"
+        },
+        {
+          "id": 12062,
+          "text": "Boers"
+        },
+        {
+          "id": 12063,
+          "text": "Rebels"
+        },
+        {
+          "id": 12064,
+          "text": "Suffragettes"
+        }
+      ]
+    },
+    {
+      "id": 10918,
+      "text": "It is a civil offence to owe money to someone and you might be taken to court.",
+      "explanation": "True. Owing money to someone is a civil offence.",
+      "computed_correct_option_ids": [
+        12071
+      ],
+      "options": [
+        {
+          "id": 12071,
+          "text": "True"
+        },
+        {
+          "id": 12072,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10919,
+      "text": "In which country of the British Empire did the Boer War take place?",
+      "explanation": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to warin South Africawith settlers from the Netherlands called the Boers.",
+      "computed_correct_option_ids": [
+        12081
+      ],
+      "options": [
+        {
+          "id": 12081,
+          "text": "South Africa"
+        },
+        {
+          "id": 12082,
+          "text": "India"
+        },
+        {
+          "id": 12083,
+          "text": "Bangladesh"
+        },
+        {
+          "id": 12084,
+          "text": "Mauritius"
+        }
+      ]
+    },
+    {
+      "id": 10920,
+      "text": "Robert Louis Stevenson, Graham Greene and Sir Kingsley Amis were British writers.",
+      "explanation": "This statement isTrue.",
+      "computed_correct_option_ids": [
+        12091
+      ],
+      "options": [
+        {
+          "id": 12091,
+          "text": "True"
+        },
+        {
+          "id": 12092,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10921,
+      "text": "Which new industries developed in the UK during the Great Depression (choose 2 answers)?",
+      "explanation": "In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries – includingthe automobile and aviation industries– developed.",
+      "computed_correct_option_ids": [
+        12102,
+        12104
+      ],
+      "options": [
+        {
+          "id": 12101,
+          "text": "The metallurgic industry"
+        },
+        {
+          "id": 12102,
+          "text": "The automobile industry"
+        },
+        {
+          "id": 12103,
+          "text": "The shipbuilding industry"
+        },
+        {
+          "id": 12104,
+          "text": "The aviation industry"
+        }
+      ]
+    },
+    {
+      "id": 10922,
+      "text": "Which of the following is a traditional pub game?",
+      "explanation": "Pool anddartsare traditional pub games.",
+      "computed_correct_option_ids": [
+        12111
+      ],
+      "options": [
+        {
+          "id": 12111,
+          "text": "Darts"
+        },
+        {
+          "id": 12112,
+          "text": "Hide and seek"
+        },
+        {
+          "id": 12113,
+          "text": "Bingo"
+        },
+        {
+          "id": 12114,
+          "text": "Checkers"
+        }
+      ]
+    },
+    {
+      "id": 10923,
+      "text": "When was the Battle of Agincourt fought?",
+      "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourtin 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        12122
+      ],
+      "options": [
+        {
+          "id": 12121,
+          "text": "1348"
+        },
+        {
+          "id": 12122,
+          "text": "1415"
+        },
+        {
+          "id": 12123,
+          "text": "1315"
+        },
+        {
+          "id": 12124,
+          "text": "1448"
+        }
+      ]
+    },
+    {
+      "id": 10924,
+      "text": "What is the Bessemer process?",
+      "explanation": "The development of the Bessemer process forthe mass production of steelled to the development of the shipbuilding industry and the railways.",
+      "computed_correct_option_ids": [
+        12134
+      ],
+      "options": [
+        {
+          "id": 12131,
+          "text": "An industrial process for the mass-production of iron"
+        },
+        {
+          "id": 12132,
+          "text": "An industrial process for the mass-production of copper"
+        },
+        {
+          "id": 12133,
+          "text": "An industrial process for the mass-production of titanium"
+        },
+        {
+          "id": 12134,
+          "text": "An industrial process for the mass-production of steel"
+        }
+      ]
+    }
+  ]
+}

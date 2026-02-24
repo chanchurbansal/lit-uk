@@ -1,0 +1,610 @@
+{
+  "id": 366,
+  "name": "Life in the UK Test 8",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 4,
+      "text": "Which Two British film actors have recently won Oscars?",
+      "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+      "computed_correct_option_ids": [
+        11,
+        12
+      ],
+      "options": [
+        {
+          "id": 14,
+          "text": "Jackie Stewart"
+        },
+        {
+          "id": 11,
+          "text": "Colin Firth"
+        },
+        {
+          "id": 12,
+          "text": "Tilda Swinton"
+        },
+        {
+          "id": 13,
+          "text": "Leonardo DiCaprio"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "What created the United Kingdom of Great Britain and Ireland?",
+      "explanation": "The Act of Union of 1800 created the United Kingdom of Great Britain and Ireland.",
+      "computed_correct_option_ids": [
+        63
+      ],
+      "options": [
+        {
+          "id": 63,
+          "text": "The Act of Union"
+        },
+        {
+          "id": 66,
+          "text": "The Act for the governments"
+        },
+        {
+          "id": 65,
+          "text": "The Great Union"
+        },
+        {
+          "id": 64,
+          "text": "The Great governments"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "What is the money limit for the small claims procedure in England and Wales?",
+      "explanation": "The small claims procedure is used for claims of less than £10,000 in England and Wales.",
+      "computed_correct_option_ids": [
+        177
+      ],
+      "options": [
+        {
+          "id": 179,
+          "text": "£6,000"
+        },
+        {
+          "id": 177,
+          "text": "£10,000"
+        },
+        {
+          "id": 178,
+          "text": "£5,000"
+        },
+        {
+          "id": 180,
+          "text": "£4,000"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "When did the 'Battle of Agincourt' take place?",
+      "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        381
+      ],
+      "options": [
+        {
+          "id": 383,
+          "text": "1200"
+        },
+        {
+          "id": 381,
+          "text": "1415"
+        },
+        {
+          "id": 382,
+          "text": "1613"
+        },
+        {
+          "id": 384,
+          "text": "1716"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "text": "What is the Church of England usually known as in other countries?",
+      "explanation": "The official Church of the state is the Church of England, called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States.",
+      "computed_correct_option_ids": [
+        725
+      ],
+      "options": [
+        {
+          "id": 725,
+          "text": "The Anglican Church"
+        },
+        {
+          "id": 726,
+          "text": "The Episcopal Church"
+        },
+        {
+          "id": 727,
+          "text": "The State Church"
+        },
+        {
+          "id": 728,
+          "text": "The Great Church"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "text": "When was the Scottish Parliament established?",
+      "explanation": "There has been a Welsh Assembly and a Scottish Parliament since 1999.",
+      "computed_correct_option_ids": [
+        1049
+      ],
+      "options": [
+        {
+          "id": 1049,
+          "text": "1999"
+        },
+        {
+          "id": 1052,
+          "text": "1997"
+        },
+        {
+          "id": 1051,
+          "text": "2000"
+        },
+        {
+          "id": 1050,
+          "text": "1998"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "text": "During Slave trade, where did slaves primarily come from?",
+      "explanation": "Slaves came primarily from West Africa. Travelling on British ships in horrible conditions, they were taken to America and the Caribbean, where they were made to work on tobacco and sugar plantations.",
+      "computed_correct_option_ids": [
+        1085
+      ],
+      "options": [
+        {
+          "id": 1087,
+          "text": "North Africa"
+        },
+        {
+          "id": 1085,
+          "text": "West Africa"
+        },
+        {
+          "id": 1086,
+          "text": "South Africa"
+        },
+        {
+          "id": 1088,
+          "text": "East Africa"
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "text": "Who is the Patron St of Wales?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        1197
+      ],
+      "options": [
+        {
+          "id": 1200,
+          "text": "St George"
+        },
+        {
+          "id": 1199,
+          "text": "St Patrick"
+        },
+        {
+          "id": 1198,
+          "text": "St Andrew"
+        },
+        {
+          "id": 1197,
+          "text": "St David"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "text": "What is the only major golf tournament held outside of the US?",
+      "explanation": "The Open Championship is the only 'Major' golf tournament held outside the United States. It is hosted by a different golf course every year.",
+      "computed_correct_option_ids": [
+        1253
+      ],
+      "options": [
+        {
+          "id": 1256,
+          "text": "The English Premier League"
+        },
+        {
+          "id": 1253,
+          "text": "The Open Championship"
+        },
+        {
+          "id": 1254,
+          "text": "The Wimbledon Championship"
+        },
+        {
+          "id": 1255,
+          "text": "Royal Ascot"
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "text": "What is Richard Arkwright remembered for?",
+      "explanation": "Born in 1732, Arkwright originally trained and worked as a barber. He was able to dye hair and make wigs. When wigs became less popular, he started to work in textiles. He improved the original carding machine. Arkwright is particularly remembered for the efficient and profitable way that he ran his factories.",
+      "computed_correct_option_ids": [
+        1293
+      ],
+      "options": [
+        {
+          "id": 1295,
+          "text": "Cutting hair"
+        },
+        {
+          "id": 1296,
+          "text": "Improving steam power"
+        },
+        {
+          "id": 1293,
+          "text": "Efficiently running factories"
+        },
+        {
+          "id": 1294,
+          "text": "Creating a carding machine"
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "text": "What is meant by 'common law'?",
+      "explanation": "In England, judges developed 'common law' by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were 'codified' (that is, written down).",
+      "computed_correct_option_ids": [
+        1305
+      ],
+      "options": [
+        {
+          "id": 1307,
+          "text": "Written down"
+        },
+        {
+          "id": 1305,
+          "text": "Following previous decisions"
+        },
+        {
+          "id": 1306,
+          "text": "Codified"
+        },
+        {
+          "id": 1308,
+          "text": "Sentence is decided by the jury"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "text": "To be or not to be' is a famous Shakespeare line from which play or poem?",
+      "explanation": "Lines from Shakespeare's plays and poems which are often still quoted include: Once more unto the breach (Henry V); To be or not to be (Hamlet); A rose by any other name (Romeo and Juliet); All the world's a stage (As You Like It); The darling buds of May (Sonnet 18 'Shall I Compare Thee To a Summer's Day).",
+      "computed_correct_option_ids": [
+        1530
+      ],
+      "options": [
+        {
+          "id": 1532,
+          "text": "As you like it"
+        },
+        {
+          "id": 1531,
+          "text": "Romeo and Juliet"
+        },
+        {
+          "id": 1530,
+          "text": "Hamlet"
+        },
+        {
+          "id": 1529,
+          "text": "Henry V"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "text": "What county does Stonehenge stand in?",
+      "explanation": "Stonehenge still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies.",
+      "computed_correct_option_ids": [
+        1704
+      ],
+      "options": [
+        {
+          "id": 1703,
+          "text": "Lincolnshire"
+        },
+        {
+          "id": 1704,
+          "text": "Wiltshire"
+        },
+        {
+          "id": 1705,
+          "text": "Dorset"
+        },
+        {
+          "id": 1706,
+          "text": "Lothians"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "text": "Where does the Grand National takes place?",
+      "explanation": "There are racecourses all over the UK. Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        2136
+      ],
+      "options": [
+        {
+          "id": 2136,
+          "text": "Near Liverpool"
+        },
+        {
+          "id": 2135,
+          "text": "Near Suffolk"
+        },
+        {
+          "id": 2134,
+          "text": "Near London"
+        },
+        {
+          "id": 2133,
+          "text": "Near Manchester"
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "text": "When is Halloween (an ancient festival) celebrated?",
+      "explanation": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play 'trick or treat'. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+      "computed_correct_option_ids": [
+        2302
+      ],
+      "options": [
+        {
+          "id": 2304,
+          "text": "31st November"
+        },
+        {
+          "id": 2303,
+          "text": "30th November"
+        },
+        {
+          "id": 2302,
+          "text": "31st October"
+        },
+        {
+          "id": 2301,
+          "text": "30th October"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "text": "What does the money raised from National Insurance Contributions pay for? (Choose TWO)",
+      "explanation": "The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+      "computed_correct_option_ids": [
+        2347,
+        2348
+      ],
+      "options": [
+        {
+          "id": 2349,
+          "text": "Child benefits"
+        },
+        {
+          "id": 2347,
+          "text": "NHS"
+        },
+        {
+          "id": 2348,
+          "text": "The state retirement pension"
+        },
+        {
+          "id": 2350,
+          "text": "Job allowances"
+        }
+      ]
+    },
+    {
+      "id": 645,
+      "text": "Who is considered ineligible to do jury service?",
+      "explanation": "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+      "computed_correct_option_ids": [
+        2422
+      ],
+      "options": [
+        {
+          "id": 2423,
+          "text": "Police"
+        },
+        {
+          "id": 2421,
+          "text": "Judges"
+        },
+        {
+          "id": 2422,
+          "text": "Anyone with a criminal conviction"
+        },
+        {
+          "id": 2424,
+          "text": "Non-Christians"
+        }
+      ]
+    },
+    {
+      "id": 668,
+      "text": "What are TWO core values of a civil servant?",
+      "explanation": "Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are: integrity, honesty, objectivity and impartiality",
+      "computed_correct_option_ids": [
+        2501,
+        2504
+      ],
+      "options": [
+        {
+          "id": 2501,
+          "text": "Impartiality"
+        },
+        {
+          "id": 2504,
+          "text": "Integrity"
+        },
+        {
+          "id": 2503,
+          "text": "Sense of humour"
+        },
+        {
+          "id": 2502,
+          "text": "Must belong to a political party"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "text": "Members of the public are allowed to attend Youth Courts hearings",
+      "explanation": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+      "computed_correct_option_ids": [
+        2510
+      ],
+      "options": [
+        {
+          "id": 2510,
+          "text": "False"
+        },
+        {
+          "id": 2509,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "text": "Who had a great influence on the English language?",
+      "explanation": "Shakespeare had a great influence on the English language and invented many words that are still common today.",
+      "computed_correct_option_ids": [
+        2611
+      ],
+      "options": [
+        {
+          "id": 2612,
+          "text": "Wilfred Owen"
+        },
+        {
+          "id": 2611,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 2614,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 2613,
+          "text": "David Lean"
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "text": "Great Britain' and 'the United Kingdom' have the same meaning",
+      "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
+      "computed_correct_option_ids": [
+        2824
+      ],
+      "options": [
+        {
+          "id": 2823,
+          "text": "True"
+        },
+        {
+          "id": 2824,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "text": "The Welsh Dragon doesn't appear on the Union Flag because Wales was already united with England in 1606",
+      "explanation": "The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+      "computed_correct_option_ids": [
+        2967
+      ],
+      "options": [
+        {
+          "id": 2968,
+          "text": "False"
+        },
+        {
+          "id": 2967,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 962,
+      "text": "Which Armed Force was used in the Battle of Britain?",
+      "explanation": "The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called 'the Battle of Britain', in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane - which were designed and built in Britain.",
+      "computed_correct_option_ids": [
+        3487
+      ],
+      "options": [
+        {
+          "id": 3489,
+          "text": "Army"
+        },
+        {
+          "id": 3487,
+          "text": "Royal Air Force"
+        },
+        {
+          "id": 3488,
+          "text": "Home Guards"
+        },
+        {
+          "id": 3490,
+          "text": "Royal Navy"
+        }
+      ]
+    },
+    {
+      "id": 986,
+      "text": "Which is a famous area in London for theatres?",
+      "explanation": "There are theaters in most towns and cities throughout the UK, ranging from the large to the small. They are an important part of local communities and often show both professional and amateur productions. London's West End, also known as 'Theatreland', is particularly well known. The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the West End since 1952 and has had the longest initial run of any show in history.",
+      "computed_correct_option_ids": [
+        3567
+      ],
+      "options": [
+        {
+          "id": 3570,
+          "text": "The City"
+        },
+        {
+          "id": 3567,
+          "text": "West End"
+        },
+        {
+          "id": 3568,
+          "text": "East End"
+        },
+        {
+          "id": 3569,
+          "text": "South End"
+        }
+      ]
+    }
+  ]
+}

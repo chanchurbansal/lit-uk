@@ -1,0 +1,607 @@
+{
+  "id": 398,
+  "name": "Life in the UK Test 40",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 14,
+      "text": "When is Christmas Eve?",
+      "explanation": "Christmas Day is on the 25th of December. Christmas Eve is the day before that which is the 24th of December.",
+      "computed_correct_option_ids": [
+        51
+      ],
+      "options": [
+        {
+          "id": 54,
+          "text": "23rd of December"
+        },
+        {
+          "id": 51,
+          "text": "24th of December"
+        },
+        {
+          "id": 52,
+          "text": "25th of December"
+        },
+        {
+          "id": 53,
+          "text": "26th of December"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "What is the system that automatically deducts tax called?",
+      "explanation": "This system that deducts tax automatically is called 'Pay As You Earn', also known as PAYE.",
+      "computed_correct_option_ids": [
+        181
+      ],
+      "options": [
+        {
+          "id": 184,
+          "text": "Self-Assessment"
+        },
+        {
+          "id": 181,
+          "text": "PAYE"
+        },
+        {
+          "id": 182,
+          "text": "PAYG"
+        },
+        {
+          "id": 183,
+          "text": "HMRC"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Where did the ancestors of the first farmers come from?",
+      "explanation": "The first farmers came to Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe.",
+      "computed_correct_option_ids": [
+        197
+      ],
+      "options": [
+        {
+          "id": 198,
+          "text": "North Europe"
+        },
+        {
+          "id": 197,
+          "text": "South-East Europe"
+        },
+        {
+          "id": 200,
+          "text": "North-East Europe"
+        },
+        {
+          "id": 199,
+          "text": "North-West Europe"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Where is Loch Lomond located?",
+      "explanation": "Loch Lomond is the largest expanse of freshwater in mainland Britain and probably the best-known part of the park. It is located in Scotland.",
+      "computed_correct_option_ids": [
+        349
+      ],
+      "options": [
+        {
+          "id": 352,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 349,
+          "text": "Scotland"
+        },
+        {
+          "id": 350,
+          "text": "England"
+        },
+        {
+          "id": 351,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "text": "When were films first shown in the UK?",
+      "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular.",
+      "computed_correct_option_ids": [
+        453
+      ],
+      "options": [
+        {
+          "id": 456,
+          "text": "1894"
+        },
+        {
+          "id": 453,
+          "text": "1896"
+        },
+        {
+          "id": 454,
+          "text": "1901"
+        },
+        {
+          "id": 455,
+          "text": "1902"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "text": "When did the Parliament begin developing into the institution it is now?",
+      "explanation": "In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king's council of advisers, which included important noblemen and the leaders of the Church.",
+      "computed_correct_option_ids": [
+        481
+      ],
+      "options": [
+        {
+          "id": 484,
+          "text": "During the Industrial Revolution"
+        },
+        {
+          "id": 481,
+          "text": "During the Middle Ages"
+        },
+        {
+          "id": 482,
+          "text": "During the Bronze Age"
+        },
+        {
+          "id": 483,
+          "text": "During the Iron Age"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "text": "Who set up the first formal anti-slavery campaigns?",
+      "explanation": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s, and they petitioned Parliament to ban the practice.",
+      "computed_correct_option_ids": [
+        521
+      ],
+      "options": [
+        {
+          "id": 523,
+          "text": "Roundheads"
+        },
+        {
+          "id": 521,
+          "text": "The Quakers"
+        },
+        {
+          "id": 524,
+          "text": "Cavaliers"
+        },
+        {
+          "id": 522,
+          "text": "Jacobites"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "text": "What type of painter was Joseph Turner?",
+      "explanation": "Joseph Turner (1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting.",
+      "computed_correct_option_ids": [
+        817
+      ],
+      "options": [
+        {
+          "id": 819,
+          "text": "Stained Glass"
+        },
+        {
+          "id": 817,
+          "text": "Landscape"
+        },
+        {
+          "id": 818,
+          "text": "Portrait"
+        },
+        {
+          "id": 820,
+          "text": "Abstract Sculpture"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "text": "When was the Magna Carta established?",
+      "explanation": "There were few formal limits to the king's power until 1215. In that year, King John was forced by his noblemen to agree to a number of demands. The result was a charter of rights called the Magna Carta (which means the Great Charter). The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king's power to collect taxes or to make or change laws.",
+      "computed_correct_option_ids": [
+        881
+      ],
+      "options": [
+        {
+          "id": 884,
+          "text": "1415"
+        },
+        {
+          "id": 881,
+          "text": "1215"
+        },
+        {
+          "id": 882,
+          "text": "1314"
+        },
+        {
+          "id": 883,
+          "text": "1516"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "text": "What is the Mercury Music Prize awarded for?",
+      "explanation": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland. The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+      "computed_correct_option_ids": [
+        937
+      ],
+      "options": [
+        {
+          "id": 940,
+          "text": "The best music producer in the UK and Ireland"
+        },
+        {
+          "id": 939,
+          "text": "The best classical song in the UK and Ireland"
+        },
+        {
+          "id": 938,
+          "text": "The best song in the UK and Ireland"
+        },
+        {
+          "id": 937,
+          "text": "The best album from the UK and Ireland"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "text": "What percentage of the total population lives in Scotland?",
+      "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8% and Northern Ireland less than 3%.",
+      "computed_correct_option_ids": [
+        1101
+      ],
+      "options": [
+        {
+          "id": 1104,
+          "text": "21%"
+        },
+        {
+          "id": 1101,
+          "text": "8%"
+        },
+        {
+          "id": 1102,
+          "text": "2%"
+        },
+        {
+          "id": 1103,
+          "text": "14%"
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "text": "Who should you write to if you wish to make a complaint about the Police?",
+      "explanation": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+      "computed_correct_option_ids": [
+        1257
+      ],
+      "options": [
+        {
+          "id": 1259,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 1260,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 1257,
+          "text": "The Chief Constable"
+        },
+        {
+          "id": 1258,
+          "text": "Your local MP"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "text": "How many members does the Scottish Parliament have?",
+      "explanation": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation. The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning, additional tax-raising powers.",
+      "computed_correct_option_ids": [
+        1269
+      ],
+      "options": [
+        {
+          "id": 1271,
+          "text": "76"
+        },
+        {
+          "id": 1269,
+          "text": "129"
+        },
+        {
+          "id": 1270,
+          "text": "108"
+        },
+        {
+          "id": 1272,
+          "text": "94"
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "text": "When was Charles I executed?",
+      "explanation": "The king's army was defeated at the Battles of Marston Moor and Naseby. By 1646, it was clear that Parliament had won the war. Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.",
+      "computed_correct_option_ids": [
+        1369
+      ],
+      "options": [
+        {
+          "id": 1369,
+          "text": "1649"
+        },
+        {
+          "id": 1370,
+          "text": "1646"
+        },
+        {
+          "id": 1372,
+          "text": "1658"
+        },
+        {
+          "id": 1371,
+          "text": "1653"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "text": "What kind of event is The Wimbledon Championship?",
+      "explanation": "Tennis evolved in England in the late 19th century. The first tennis club was founded in Leamington Spa in 1872. The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only 'Grand Slam' event played on grass.",
+      "computed_correct_option_ids": [
+        1484
+      ],
+      "options": [
+        {
+          "id": 1483,
+          "text": "Cricket"
+        },
+        {
+          "id": 1485,
+          "text": "Rugby"
+        },
+        {
+          "id": 1484,
+          "text": "Tennis"
+        },
+        {
+          "id": 1486,
+          "text": "Water sport"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "text": "Who wrote the popular operas HMS Pinafore, The Pirates of Penzance and the Mikado?",
+      "explanation": "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
+      "computed_correct_option_ids": [
+        2155
+      ],
+      "options": [
+        {
+          "id": 2153,
+          "text": "Tim Rice"
+        },
+        {
+          "id": 2156,
+          "text": "Laurence Olivier"
+        },
+        {
+          "id": 2155,
+          "text": "Gilbert and Sullivan"
+        },
+        {
+          "id": 2154,
+          "text": "Andrew Webber"
+        }
+      ]
+    },
+    {
+      "id": 669,
+      "text": "Local councils, in the UK, are often called local authorities",
+      "explanation": "The statement is correct",
+      "computed_correct_option_ids": [
+        2505
+      ],
+      "options": [
+        {
+          "id": 2505,
+          "text": "True"
+        },
+        {
+          "id": 2506,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "text": "James Watt was famous for his work on what?",
+      "explanation": "James Watt's work on steam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        2631
+      ],
+      "options": [
+        {
+          "id": 2632,
+          "text": "Radio"
+        },
+        {
+          "id": 2631,
+          "text": "Steam Power"
+        },
+        {
+          "id": 2630,
+          "text": "Human nature"
+        },
+        {
+          "id": 2629,
+          "text": "Economics"
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "text": "The Boer War of 1899 to 1902 established the idea that the British Empire is a force for good",
+      "explanation": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers. The Boers fought fiercely and the war went on for over three years. Many died in the fighting and many more from disease. There was some public sympathy for the Boers and people began to question whether the Empire could continue.",
+      "computed_correct_option_ids": [
+        2788
+      ],
+      "options": [
+        {
+          "id": 2787,
+          "text": "True"
+        },
+        {
+          "id": 2788,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "text": "Who is the author of 'Charlie and the Chocolate Factory'?",
+      "explanation": "Roald Dahl was born in Wales to Norwegian parents. He served in the Royal Air Force during the Second World War. His best-known works include Charlie and the Chocolate Factory and George's Marvellous Medicine.",
+      "computed_correct_option_ids": [
+        2871
+      ],
+      "options": [
+        {
+          "id": 2871,
+          "text": "Roald Dahl"
+        },
+        {
+          "id": 2873,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 2874,
+          "text": "Jane Kipling"
+        },
+        {
+          "id": 2872,
+          "text": "J.R.R. Tolkien"
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "text": "In which year did John Logie Baird make the first TV broadcast between Glasgow and London?",
+      "explanation": "The television was developed by Scotsman John Logie Baird (1888-1946) in the 1920s. In 1932 he made the first television broadcast between London and Glasgow.",
+      "computed_correct_option_ids": [
+        2945
+      ],
+      "options": [
+        {
+          "id": 2946,
+          "text": "1945"
+        },
+        {
+          "id": 2945,
+          "text": "1932"
+        },
+        {
+          "id": 2948,
+          "text": "1955"
+        },
+        {
+          "id": 2947,
+          "text": "1920"
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "text": "Who founded a monastery on the Island of Iona?",
+      "explanation": "Missionaries from Ireland spread the religion in the north. The most famous of these were St Patrick, who would become the patron saint of Ireland, and St Columba, who founded a monastery on the island of Iona, off the coast of what is now Scotland. St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        3004
+      ],
+      "options": [
+        {
+          "id": 3005,
+          "text": "St Patrick"
+        },
+        {
+          "id": 3006,
+          "text": "St Andrew"
+        },
+        {
+          "id": 3004,
+          "text": "St Columba"
+        },
+        {
+          "id": 3003,
+          "text": "St Augustine"
+        }
+      ]
+    },
+    {
+      "id": 878,
+      "text": "Which stories are associated with Geoffrey Chaucer?",
+      "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
+      "computed_correct_option_ids": [
+        3221
+      ],
+      "options": [
+        {
+          "id": 3224,
+          "text": "The Eastend Tales"
+        },
+        {
+          "id": 3223,
+          "text": "The Westend Tales"
+        },
+        {
+          "id": 3222,
+          "text": "The London Tales"
+        },
+        {
+          "id": 3221,
+          "text": "The Canterbury Tales"
+        }
+      ]
+    },
+    {
+      "id": 998,
+      "text": "The BBC is controlled by the UK government",
+      "explanation": "The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government. Other UK channels are primarily funded through advertisements and subscriptions.",
+      "computed_correct_option_ids": [
+        3614
+      ],
+      "options": [
+        {
+          "id": 3614,
+          "text": "False"
+        },
+        {
+          "id": 3613,
+          "text": "True"
+        }
+      ]
+    }
+  ]
+}

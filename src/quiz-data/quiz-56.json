@@ -1,0 +1,621 @@
+{
+  "id": 416,
+  "name": "Life in the UK Test 56",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8101,
+      "text": "Who succeeded Theresa May as Prime Minister on the 24th July 2019?",
+      "explanation": "Theresa May was succeeded byBoris Johnsonon 24 July 2019.",
+      "computed_correct_option_ids": [
+        9104
+      ],
+      "options": [
+        {
+          "id": 9101,
+          "text": "Rishi Sunak"
+        },
+        {
+          "id": 9102,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 9103,
+          "text": "David Cameron"
+        },
+        {
+          "id": 9104,
+          "text": "Boris Johnson"
+        }
+      ]
+    },
+    {
+      "id": 8102,
+      "text": "What name is given to the period of rapid development of industry in Britain in the 18th and 19th centuries?",
+      "explanation": "The Industrial Revolutionwas the rapid development of industry in Britain in the 18th and 19th centuries.",
+      "computed_correct_option_ids": [
+        9112
+      ],
+      "options": [
+        {
+          "id": 9111,
+          "text": "The Enlightenment"
+        },
+        {
+          "id": 9112,
+          "text": "The Industrial Revolution"
+        },
+        {
+          "id": 9113,
+          "text": "The Victorian period"
+        },
+        {
+          "id": 9114,
+          "text": "The inter-war period"
+        }
+      ]
+    },
+    {
+      "id": 8103,
+      "text": "During the slave trade, slaves were taken from West Africa to America and the Caribbean to work on tobacco and sugar plantations.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        9121
+      ],
+      "options": [
+        {
+          "id": 9121,
+          "text": "True"
+        },
+        {
+          "id": 9122,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8104,
+      "text": "Who was responsible for the construction of the Great Western Railway?",
+      "explanation": "Isambard Kingdom Brunelwas responsible for constructing the Great Western Railway, which was the first major railway built in Britain.",
+      "computed_correct_option_ids": [
+        9131
+      ],
+      "options": [
+        {
+          "id": 9131,
+          "text": "Isambard Kingdom Brunel"
+        },
+        {
+          "id": 9132,
+          "text": "Sir Norman Foster"
+        },
+        {
+          "id": 9133,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 9134,
+          "text": "Robert Adam"
+        }
+      ]
+    },
+    {
+      "id": 8105,
+      "text": "In which of the following areas has the Senedd the power to make laws (choose four answers)?",
+      "explanation": "The Senedd has the power to make laws in 21 areas, including: education and training, health and social services, economic development and housing.",
+      "computed_correct_option_ids": [
+        9141,
+        9143,
+        9144,
+        9146
+      ],
+      "options": [
+        {
+          "id": 9141,
+          "text": "Education and training"
+        },
+        {
+          "id": 9142,
+          "text": "Military defence"
+        },
+        {
+          "id": 9143,
+          "text": "Economic development"
+        },
+        {
+          "id": 9144,
+          "text": "Housing"
+        },
+        {
+          "id": 9145,
+          "text": "Immigration"
+        },
+        {
+          "id": 9146,
+          "text": "Health and social services"
+        }
+      ]
+    },
+    {
+      "id": 8106,
+      "text": "How many members comprise the UN Security Council?",
+      "explanation": "There are15 memberson the UN Security Council, which recommends action when there are international crises and threats to peace.",
+      "computed_correct_option_ids": [
+        9153
+      ],
+      "options": [
+        {
+          "id": 9151,
+          "text": "5"
+        },
+        {
+          "id": 9152,
+          "text": "10"
+        },
+        {
+          "id": 9153,
+          "text": "15"
+        },
+        {
+          "id": 9154,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 8107,
+      "text": "Which TWO of the following forts form part of Hadrian’s Wall?",
+      "explanation": "Parts of Hadrian’s Wall include the forts ofHousesteads and Vindolanda.",
+      "computed_correct_option_ids": [
+        9161,
+        9163
+      ],
+      "options": [
+        {
+          "id": 9161,
+          "text": "Vindolanda"
+        },
+        {
+          "id": 9162,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 9163,
+          "text": "Housesteads"
+        },
+        {
+          "id": 9164,
+          "text": "Maiden"
+        }
+      ]
+    },
+    {
+      "id": 8108,
+      "text": "Members of the Welsh government can speak in either English or Welsh, but all of the Senedd’s publications have to be in English:",
+      "explanation": "Members of the Welsh government can speak in either English or Welsh, and all publications of the Senedd’s publications are in both languages.",
+      "computed_correct_option_ids": [
+        9171
+      ],
+      "options": [
+        {
+          "id": 9171,
+          "text": "True"
+        },
+        {
+          "id": 9172,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8109,
+      "text": "Why did Elizabeth I keep her cousin Mary prisoner for 20 years?",
+      "explanation": "Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for 20 years.",
+      "computed_correct_option_ids": [
+        9182
+      ],
+      "options": [
+        {
+          "id": 9181,
+          "text": "She did not agree with her political views"
+        },
+        {
+          "id": 9182,
+          "text": "She suspected Mary of wanting to take over the English throne"
+        },
+        {
+          "id": 9183,
+          "text": "She had killed her son"
+        },
+        {
+          "id": 9184,
+          "text": "She was a spy of the Spanish Armada"
+        }
+      ]
+    },
+    {
+      "id": 8110,
+      "text": "What was the name of the first cloned mammal?",
+      "explanation": "In 1996, two British scientists, Sir Ian Wilmot and Keith Campbell, led a team which was the first to succeed in cloning a mammal,Dollythe sheep.",
+      "computed_correct_option_ids": [
+        9192
+      ],
+      "options": [
+        {
+          "id": 9191,
+          "text": "Molly"
+        },
+        {
+          "id": 9192,
+          "text": "Dolly"
+        },
+        {
+          "id": 9193,
+          "text": "Colin"
+        },
+        {
+          "id": 9194,
+          "text": "Alice"
+        }
+      ]
+    },
+    {
+      "id": 8111,
+      "text": "Who is responsible for the creation of the European Convention on Human Rights and Fundamental Freedoms?",
+      "explanation": "The Council of Europehas no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms.",
+      "computed_correct_option_ids": [
+        9202
+      ],
+      "options": [
+        {
+          "id": 9201,
+          "text": "The UN Security Council"
+        },
+        {
+          "id": 9202,
+          "text": "The Council of Europe"
+        },
+        {
+          "id": 9203,
+          "text": "The United Nations"
+        },
+        {
+          "id": 9204,
+          "text": "The Commonwealth"
+        }
+      ]
+    },
+    {
+      "id": 8112,
+      "text": "Who became Prime Minister of the UK in May 1940?",
+      "explanation": "Churchillwas the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister.",
+      "computed_correct_option_ids": [
+        9212
+      ],
+      "options": [
+        {
+          "id": 9211,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 9212,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 9213,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 9214,
+          "text": "Harold Macmillan"
+        }
+      ]
+    },
+    {
+      "id": 8113,
+      "text": "Members of the House of Lords may stand for election to the House of Commons and are eligible for all public offices:",
+      "explanation": "Members of the House of Lords may not stand for election to the House of Commons but are eligible for all other public offices.",
+      "computed_correct_option_ids": [
+        9221
+      ],
+      "options": [
+        {
+          "id": 9221,
+          "text": "True"
+        },
+        {
+          "id": 9222,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8114,
+      "text": "What can you find at the ‘Eden Project’?",
+      "explanation": "The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are likegiant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.",
+      "computed_correct_option_ids": [
+        9231
+      ],
+      "options": [
+        {
+          "id": 9231,
+          "text": "Giant greenhouses, house plants from all over the world"
+        },
+        {
+          "id": 9232,
+          "text": "Animals from all over the world"
+        },
+        {
+          "id": 9233,
+          "text": "Prehistoric monuments"
+        },
+        {
+          "id": 9234,
+          "text": "An open market with local food"
+        }
+      ]
+    },
+    {
+      "id": 8115,
+      "text": "What TWO names are given to the people who give tours at the Tower of London?",
+      "explanation": "Tours to the Tower of London are given by theYeoman Warders, also known asBeefeaters, who tell visitors about the building’s history.",
+      "computed_correct_option_ids": [
+        9241,
+        9244
+      ],
+      "options": [
+        {
+          "id": 9241,
+          "text": "Beefeaters"
+        },
+        {
+          "id": 9242,
+          "text": "Suffragettes"
+        },
+        {
+          "id": 9243,
+          "text": "Chartists"
+        },
+        {
+          "id": 9244,
+          "text": "Yeoman Wardens"
+        }
+      ]
+    },
+    {
+      "id": 8116,
+      "text": "Which of the following is a traditional Scottish food?",
+      "explanation": "Haggis– a sheep’s stomach stuffed with offal, suet, onions and oatmeal – is a traditional Scottish food.",
+      "computed_correct_option_ids": [
+        9252
+      ],
+      "options": [
+        {
+          "id": 9251,
+          "text": "Roast beef"
+        },
+        {
+          "id": 9252,
+          "text": "Haggis"
+        },
+        {
+          "id": 9253,
+          "text": "Ulster fry"
+        },
+        {
+          "id": 9254,
+          "text": "Custard pies"
+        }
+      ]
+    },
+    {
+      "id": 8117,
+      "text": "How often do the Laurence Olivier Awards take place?",
+      "explanation": "The Laurence Olivier Awards take placeannuallyat different venues in London.",
+      "computed_correct_option_ids": [
+        9262
+      ],
+      "options": [
+        {
+          "id": 9261,
+          "text": "Every six months"
+        },
+        {
+          "id": 9262,
+          "text": "Annually"
+        },
+        {
+          "id": 9263,
+          "text": "Every four years"
+        },
+        {
+          "id": 9264,
+          "text": "Every two years"
+        }
+      ]
+    },
+    {
+      "id": 8118,
+      "text": "When is Valentine’s Day?",
+      "explanation": "Valentine’s Day is celebrated on the14th of February.",
+      "computed_correct_option_ids": [
+        9272
+      ],
+      "options": [
+        {
+          "id": 9271,
+          "text": "30th of October"
+        },
+        {
+          "id": 9272,
+          "text": "14th of February"
+        },
+        {
+          "id": 9273,
+          "text": "30th of November"
+        },
+        {
+          "id": 9274,
+          "text": "27th of December"
+        }
+      ]
+    },
+    {
+      "id": 8119,
+      "text": "When is St Patrick’s Day, patron to of Northern Ireland?",
+      "explanation": "St Patrick’s Day, patron to of Northern Ireland is on the17th of March.",
+      "computed_correct_option_ids": [
+        9284
+      ],
+      "options": [
+        {
+          "id": 9281,
+          "text": "23rd of April"
+        },
+        {
+          "id": 9282,
+          "text": "30th of November"
+        },
+        {
+          "id": 9283,
+          "text": "1st of March"
+        },
+        {
+          "id": 9284,
+          "text": "17th of March"
+        }
+      ]
+    },
+    {
+      "id": 8120,
+      "text": "What does the term ‘PDSA’ stand for?",
+      "explanation": "‘PDSA’ stands forPeople’s Dispensary for Sick Animals.",
+      "computed_correct_option_ids": [
+        9292
+      ],
+      "options": [
+        {
+          "id": 9291,
+          "text": "People’s Defence for Sick Animals"
+        },
+        {
+          "id": 9292,
+          "text": "People’s Dispensary for Sick Animals"
+        },
+        {
+          "id": 9293,
+          "text": "Pilot Program for Sustainable Agriculture"
+        },
+        {
+          "id": 9294,
+          "text": "Program Directive for Sustainable Agriculture"
+        }
+      ]
+    },
+    {
+      "id": 8121,
+      "text": "Which of the following TWO islands are ‘Crown dependencies’?",
+      "explanation": "There are several islands which are closely linked with the UK but are not part of it:the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’.",
+      "computed_correct_option_ids": [
+        9302,
+        9303
+      ],
+      "options": [
+        {
+          "id": 9301,
+          "text": "Ceylon"
+        },
+        {
+          "id": 9302,
+          "text": "The Isle of Man"
+        },
+        {
+          "id": 9303,
+          "text": "The Channel Islands"
+        },
+        {
+          "id": 9304,
+          "text": "Ireland"
+        }
+      ]
+    },
+    {
+      "id": 8122,
+      "text": "When did English settlers begin to colonise the eastern coast of America?",
+      "explanation": "In Elizabeth I’s time, English settlers first began to colonise the eastern coast of America.",
+      "computed_correct_option_ids": [
+        9314
+      ],
+      "options": [
+        {
+          "id": 9311,
+          "text": "During James I’s time"
+        },
+        {
+          "id": 9312,
+          "text": "During Henry VII’s time"
+        },
+        {
+          "id": 9313,
+          "text": "During Henry VIII’s time"
+        },
+        {
+          "id": 9314,
+          "text": "During Elizabeth I’s time"
+        }
+      ]
+    },
+    {
+      "id": 8123,
+      "text": "When did the Black Death come to England?",
+      "explanation": "In1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death.",
+      "computed_correct_option_ids": [
+        9322
+      ],
+      "options": [
+        {
+          "id": 9321,
+          "text": "In 1248"
+        },
+        {
+          "id": 9322,
+          "text": "In 1348"
+        },
+        {
+          "id": 9323,
+          "text": "In 1358"
+        },
+        {
+          "id": 9324,
+          "text": "In 1414"
+        }
+      ]
+    },
+    {
+      "id": 8124,
+      "text": "What is the name of the annual event that gives awards in a range of musical categories, such as best British group and best British solo artist?",
+      "explanation": "The Brit Awardsis an annual event that gives awards in a range of categories, such as best British group and best British solo artist.",
+      "computed_correct_option_ids": [
+        9331
+      ],
+      "options": [
+        {
+          "id": 9331,
+          "text": "The Brit Awards"
+        },
+        {
+          "id": 9332,
+          "text": "The MTV Awards"
+        },
+        {
+          "id": 9333,
+          "text": "The BAFTA Awards"
+        },
+        {
+          "id": 9334,
+          "text": "The Mercury Music Prize"
+        }
+      ]
+    }
+  ]
+}

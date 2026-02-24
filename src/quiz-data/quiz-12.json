@@ -1,0 +1,577 @@
+{
+  "id": 370,
+  "name": "Life in the UK Test 12",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 99,
+      "text": "What is the Turner Prize given for?",
+      "explanation": "The Turner Prize is recognised as one of the most prestigious visual art awards in Europe. Previous winners include Damien Hirst and Richard Wright.",
+      "computed_correct_option_ids": [
+        389
+      ],
+      "options": [
+        {
+          "id": 390,
+          "text": "Music"
+        },
+        {
+          "id": 389,
+          "text": "Art"
+        },
+        {
+          "id": 392,
+          "text": "Dancing"
+        },
+        {
+          "id": 391,
+          "text": "Garden design"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "text": "What is the main purpose of the Opposition?",
+      "explanation": "The opposition form the shadow cabinet and their role is to challenge the government and put forward alternative policies.",
+      "computed_correct_option_ids": [
+        793
+      ],
+      "options": [
+        {
+          "id": 796,
+          "text": "To participate in public debates"
+        },
+        {
+          "id": 795,
+          "text": "To represent the people of the UK"
+        },
+        {
+          "id": 793,
+          "text": "To challenge the government"
+        },
+        {
+          "id": 794,
+          "text": "To change laws"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "text": "What is the 'Divine Right of Kings'?",
+      "explanation": "Divine Right of Kings' is the idea that the king was directly appointed by God to rule. The king should be able to act without having to seek approval from Parliament.",
+      "computed_correct_option_ids": [
+        893
+      ],
+      "options": [
+        {
+          "id": 894,
+          "text": "Reduced the power of the nobles"
+        },
+        {
+          "id": 895,
+          "text": "Reduced the power of the King"
+        },
+        {
+          "id": 896,
+          "text": "Increased power of the parliament"
+        },
+        {
+          "id": 893,
+          "text": "The King was Appointed by God"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "text": "It is a civil offence to carry a weapon",
+      "explanation": "It is a criminal offence to carry a weapon.",
+      "computed_correct_option_ids": [
+        1600
+      ],
+      "options": [
+        {
+          "id": 1599,
+          "text": "True"
+        },
+        {
+          "id": 1600,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "text": "How many members does a jury in England, Wales and Northern Ireland have?",
+      "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
+      "computed_correct_option_ids": [
+        1601
+      ],
+      "options": [
+        {
+          "id": 1602,
+          "text": "13"
+        },
+        {
+          "id": 1601,
+          "text": "12"
+        },
+        {
+          "id": 1604,
+          "text": "15"
+        },
+        {
+          "id": 1603,
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "text": "Constituencies which had hardly any voters were called 'Pocket Boroughs'",
+      "explanation": "Some constituencies were controlled by a single wealthy family. These were called 'pocket boroughs'. Other constituencies had hardly any voters and were called 'rotten boroughs'.",
+      "computed_correct_option_ids": [
+        1756
+      ],
+      "options": [
+        {
+          "id": 1756,
+          "text": "False"
+        },
+        {
+          "id": 1755,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "text": "Can the devolved administrations control sectors such as immigration, foreign affairs and taxation?",
+      "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+      "computed_correct_option_ids": [
+        1938
+      ],
+      "options": [
+        {
+          "id": 1938,
+          "text": "No"
+        },
+        {
+          "id": 1937,
+          "text": "Yes"
+        },
+        {
+          "id": 1939,
+          "text": "Only in Scotland"
+        },
+        {
+          "id": 1940,
+          "text": "Only if the local people support them"
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "text": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections",
+      "explanation": "Adult citizens of the UK, and citizens of the Commonwealth and the Irish Republic who are resident in the UK, can vote in all public elections.",
+      "computed_correct_option_ids": [
+        2081
+      ],
+      "options": [
+        {
+          "id": 2081,
+          "text": "True"
+        },
+        {
+          "id": 2082,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 670,
+      "text": "Forced marriages are an offence in the UK",
+      "explanation": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership. Forcing another person to marry is a criminal offence.",
+      "computed_correct_option_ids": [
+        2507
+      ],
+      "options": [
+        {
+          "id": 2508,
+          "text": "False"
+        },
+        {
+          "id": 2507,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "text": "Which of these statements is correct?",
+      "explanation": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers. They have usually had an important career in politics, business, law or another profession. Life peers are appointed by the monarch on the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        2512
+      ],
+      "options": [
+        {
+          "id": 2511,
+          "text": "Life peers are appointed by the Prime Minister on the advice of the monarchy"
+        },
+        {
+          "id": 2512,
+          "text": "Life peers are appointed by the monarchy on the advice of the Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "text": "How can you visit the Welsh Assembly?",
+      "explanation": "The Senedd is an open building. You can book guided tours or seats in the public galleries for the Welsh Assembly. To make a booking, contact the Assembly Booking Service",
+      "computed_correct_option_ids": [
+        2573
+      ],
+      "options": [
+        {
+          "id": 2572,
+          "text": "By contacting the education service"
+        },
+        {
+          "id": 2571,
+          "text": "Through visitors services"
+        },
+        {
+          "id": 2573,
+          "text": "Using the booking service"
+        },
+        {
+          "id": 2574,
+          "text": "By queuing at the public entrance all day"
+        }
+      ]
+    },
+    {
+      "id": 834,
+      "text": "Which political party is still known as the Tories?",
+      "explanation": "The modern Conservative Party is still sometimes referred to as the Tories",
+      "computed_correct_option_ids": [
+        3067
+      ],
+      "options": [
+        {
+          "id": 3067,
+          "text": "Conservative"
+        },
+        {
+          "id": 3068,
+          "text": "Labour"
+        },
+        {
+          "id": 3070,
+          "text": "British National Party"
+        },
+        {
+          "id": 3069,
+          "text": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "id": 850,
+      "text": "Which TWO of these were introduced before the First World War in 1914?",
+      "explanation": "Financial help for the unemployed, old-age pensions and free school meals were just a few of the important measures introduced.",
+      "computed_correct_option_ids": [
+        3127,
+        3128
+      ],
+      "options": [
+        {
+          "id": 3129,
+          "text": "National Health Service"
+        },
+        {
+          "id": 3128,
+          "text": "Free school meals"
+        },
+        {
+          "id": 3130,
+          "text": "Child Benefit payments"
+        },
+        {
+          "id": 3127,
+          "text": "State retirement pension"
+        }
+      ]
+    },
+    {
+      "id": 852,
+      "text": "There is no upper age limit for doing jury service",
+      "explanation": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+      "computed_correct_option_ids": [
+        3134
+      ],
+      "options": [
+        {
+          "id": 3134,
+          "text": "False"
+        },
+        {
+          "id": 3133,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 874,
+      "text": "Which of these is correct in the chronological order?",
+      "explanation": "Magna Carta(1215), The Black Death (1348), The Canterbury Tales(1400)",
+      "computed_correct_option_ids": [
+        3207
+      ],
+      "options": [
+        {
+          "id": 3206,
+          "text": "The Black Death, Canterbury Tales, Magna Carta"
+        },
+        {
+          "id": 3208,
+          "text": "Canterbury Tales, the Black Death, Magna Carta"
+        },
+        {
+          "id": 3207,
+          "text": "Magna Carta, the Black Death, Canterbury Tales,"
+        },
+        {
+          "id": 3205,
+          "text": "The Black Death, Magna Carta, Canterbury Tales"
+        }
+      ]
+    },
+    {
+      "id": 912,
+      "text": "Which of these TWO countries are Commonwealth Members?",
+      "explanation": "Cameroon and Namibia are members of the Commonwealth",
+      "computed_correct_option_ids": [
+        3331,
+        3333
+      ],
+      "options": [
+        {
+          "id": 3333,
+          "text": "Namibia"
+        },
+        {
+          "id": 3332,
+          "text": "USA"
+        },
+        {
+          "id": 3331,
+          "text": "Cameroon"
+        },
+        {
+          "id": 3334,
+          "text": "Germany"
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "text": "What does Eid al-Fitr celebrate?",
+      "explanation": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast. The date when it takes place changes every year. Muslims attend special services and meals.",
+      "computed_correct_option_ids": [
+        3343
+      ],
+      "options": [
+        {
+          "id": 3343,
+          "text": "The end of Ramadan"
+        },
+        {
+          "id": 3344,
+          "text": "That the prophet Ibrahim was willing to sacrifice his son when God ordered him to"
+        },
+        {
+          "id": 3345,
+          "text": "The founding of the Muslim community"
+        },
+        {
+          "id": 3346,
+          "text": "The struggle for religious freedom"
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "text": "In which year did the UK join the European Union (EU)?",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After UK's Brexit vote, there are now 27 EU member states.",
+      "computed_correct_option_ids": [
+        3385
+      ],
+      "options": [
+        {
+          "id": 3386,
+          "text": "1957"
+        },
+        {
+          "id": 3385,
+          "text": "1973"
+        },
+        {
+          "id": 3387,
+          "text": "1953"
+        },
+        {
+          "id": 3388,
+          "text": "1949"
+        }
+      ]
+    },
+    {
+      "id": 931,
+      "text": "What is the minimum age for serving on a jury?",
+      "explanation": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this.",
+      "computed_correct_option_ids": [
+        3393
+      ],
+      "options": [
+        {
+          "id": 3396,
+          "text": "17"
+        },
+        {
+          "id": 3395,
+          "text": "16"
+        },
+        {
+          "id": 3394,
+          "text": "21"
+        },
+        {
+          "id": 3393,
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 982,
+      "text": "William defeated James II at the Battle of the Boyne in Ireland in 1690. This event is celebrated in which country?",
+      "explanation": "William defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today. William re-conquered Ireland and James fled back to France.",
+      "computed_correct_option_ids": [
+        3553
+      ],
+      "options": [
+        {
+          "id": 3553,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 3556,
+          "text": "Wales"
+        },
+        {
+          "id": 3555,
+          "text": "Scotland"
+        },
+        {
+          "id": 3554,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 994,
+      "text": "Which one is not a valid UK coin?",
+      "explanation": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+      "computed_correct_option_ids": [
+        3598
+      ],
+      "options": [
+        {
+          "id": 3598,
+          "text": "25p"
+        },
+        {
+          "id": 3597,
+          "text": "2p"
+        },
+        {
+          "id": 3600,
+          "text": "5p"
+        },
+        {
+          "id": 3599,
+          "text": "50p"
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "text": "Who was the Prime minister and inspiration leader during the World War Two?",
+      "explanation": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister. He refused to surrender to the Nazis and was an inspirational leader to the British people in a time of great hardship. He lost the General Election in 1945 but returned as Prime Minister in 1951.",
+      "computed_correct_option_ids": [
+        3655
+      ],
+      "options": [
+        {
+          "id": 3657,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 3658,
+          "text": "R A Butler"
+        },
+        {
+          "id": 3655,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 3656,
+          "text": "Alexander Fleming"
+        }
+      ]
+    },
+    {
+      "id": 1028,
+      "text": "What is the Grand National?",
+      "explanation": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr.",
+      "computed_correct_option_ids": [
+        3717
+      ],
+      "options": [
+        {
+          "id": 3718,
+          "text": "Golf"
+        },
+        {
+          "id": 3717,
+          "text": "Horse racing"
+        },
+        {
+          "id": 3720,
+          "text": "Cricket"
+        },
+        {
+          "id": 3719,
+          "text": "Football"
+        }
+      ]
+    },
+    {
+      "id": 1049,
+      "text": "You can contact MPs only at their office in the House of Commons",
+      "explanation": "You can contact MPs by letter or telephone at their constituency Office, or at their Office in the House of Commons.",
+      "computed_correct_option_ids": [
+        3798
+      ],
+      "options": [
+        {
+          "id": 3798,
+          "text": "False"
+        },
+        {
+          "id": 3797,
+          "text": "True"
+        }
+      ]
+    }
+  ]
+}

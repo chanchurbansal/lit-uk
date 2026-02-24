@@ -1,0 +1,624 @@
+{
+  "id": 410,
+  "name": "Life in the UK Test 50",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7501,
+      "text": "How old do you need to be to be able to play the National Lottery?",
+      "explanation": "People under 18 are not allowed to participate in the National Lottery.",
+      "computed_correct_option_ids": [
+        8502
+      ],
+      "options": [
+        {
+          "id": 8501,
+          "text": "16 years old"
+        },
+        {
+          "id": 8502,
+          "text": "18 years old"
+        },
+        {
+          "id": 8503,
+          "text": "20 years old"
+        },
+        {
+          "id": 8504,
+          "text": "21 years old"
+        }
+      ]
+    },
+    {
+      "id": 7502,
+      "text": "Where is the five-day race meeting attended by members of the Royal Family and known as Royal Ascot celebrated?",
+      "explanation": "Royal Ascot, the five-day race meeting  attended by members of the Royal Family, takes place in Berkshire.",
+      "computed_correct_option_ids": [
+        8512
+      ],
+      "options": [
+        {
+          "id": 8511,
+          "text": "In Luton"
+        },
+        {
+          "id": 8512,
+          "text": "In Berkshire"
+        },
+        {
+          "id": 8513,
+          "text": "In Salisbury"
+        },
+        {
+          "id": 8514,
+          "text": "In Kent"
+        }
+      ]
+    },
+    {
+      "id": 7503,
+      "text": "Who was the first person to lead a Roman invasion in Britain in 55 BC?",
+      "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC.",
+      "computed_correct_option_ids": [
+        8522
+      ],
+      "options": [
+        {
+          "id": 8521,
+          "text": "Emperor Claudius"
+        },
+        {
+          "id": 8522,
+          "text": "Julius Caesar"
+        },
+        {
+          "id": 8523,
+          "text": "Napoleon"
+        },
+        {
+          "id": 8524,
+          "text": "William Caxton"
+        }
+      ]
+    },
+    {
+      "id": 7504,
+      "text": "Who wrote ‘The Lord of the Rings’?",
+      "explanation": "The Lord of the Rings was written by JRR Tolkien.",
+      "computed_correct_option_ids": [
+        8532
+      ],
+      "options": [
+        {
+          "id": 8531,
+          "text": "JK Rowling"
+        },
+        {
+          "id": 8532,
+          "text": "JRR Tolkien"
+        },
+        {
+          "id": 8533,
+          "text": "Sir William Golding"
+        },
+        {
+          "id": 8534,
+          "text": "Jane Austen"
+        }
+      ]
+    },
+    {
+      "id": 7505,
+      "text": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+      "computed_correct_option_ids": [
+        8542
+      ],
+      "options": [
+        {
+          "id": 8541,
+          "text": "The Justice of the Peace Court"
+        },
+        {
+          "id": 8542,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 8543,
+          "text": "The High Court"
+        },
+        {
+          "id": 8544,
+          "text": "The Crown Court"
+        }
+      ]
+    },
+    {
+      "id": 7506,
+      "text": "What name is given to the tombs where people buried their dead during the Bronze Age?",
+      "explanation": "During the Bronze Age people lived in roundhouses and buried their dead in tombs calledround barrows.",
+      "computed_correct_option_ids": [
+        8553
+      ],
+      "options": [
+        {
+          "id": 8551,
+          "text": "Skara Brae"
+        },
+        {
+          "id": 8552,
+          "text": "Hill forts"
+        },
+        {
+          "id": 8553,
+          "text": "Round barrows"
+        },
+        {
+          "id": 8554,
+          "text": "Canute"
+        }
+      ]
+    },
+    {
+      "id": 7507,
+      "text": "The Northern Ireland Assembly cannot make decisions on:",
+      "explanation": "The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services. It cannot make decisions on defence.",
+      "computed_correct_option_ids": [
+        8562
+      ],
+      "options": [
+        {
+          "id": 8561,
+          "text": "Education"
+        },
+        {
+          "id": 8562,
+          "text": "Defence"
+        },
+        {
+          "id": 8563,
+          "text": "Agriculture"
+        },
+        {
+          "id": 8564,
+          "text": "Health"
+        }
+      ]
+    },
+    {
+      "id": 7508,
+      "text": "According to the 2011 Census, what percentage of the population identified themselves as Buddhist?",
+      "explanation": "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+      "computed_correct_option_ids": [
+        8571
+      ],
+      "options": [
+        {
+          "id": 8571,
+          "text": "Less than 0.5%"
+        },
+        {
+          "id": 8572,
+          "text": "Less than 1%"
+        },
+        {
+          "id": 8573,
+          "text": "Less than 2%"
+        },
+        {
+          "id": 8574,
+          "text": "Less than 3%"
+        }
+      ]
+    },
+    {
+      "id": 7509,
+      "text": "In which category did Jayne Torvill and Christopher Dean win gold medals at the Olympic Games in 1984?",
+      "explanation": "Jayne Torvill and Christopher Dean won gold medals for ice dancing at the Olympic Games in 1984 and is one of Britain’s greatest Olympians.",
+      "computed_correct_option_ids": [
+        8584
+      ],
+      "options": [
+        {
+          "id": 8581,
+          "text": "Rowing"
+        },
+        {
+          "id": 8582,
+          "text": "Marathon"
+        },
+        {
+          "id": 8583,
+          "text": "Swimming"
+        },
+        {
+          "id": 8584,
+          "text": "Ice dancing"
+        }
+      ]
+    },
+    {
+      "id": 7510,
+      "text": "What is the first verse of the National Anthem of the UK ‘God save the King’?",
+      "explanation": "The first verse of the National Anthem of the UK is ‘God save our gracious King!.",
+      "computed_correct_option_ids": [
+        8594
+      ],
+      "options": [
+        {
+          "id": 8591,
+          "text": "Long to reign over us"
+        },
+        {
+          "id": 8592,
+          "text": "God save the King!"
+        },
+        {
+          "id": 8593,
+          "text": "Long live our noble King!"
+        },
+        {
+          "id": 8594,
+          "text": "God save our gracious King!"
+        }
+      ]
+    },
+    {
+      "id": 7511,
+      "text": "Which of the following is NOT a British invention of the 20th century?",
+      "explanation": "Radioactivity is not a British invention.",
+      "computed_correct_option_ids": [
+        8604
+      ],
+      "options": [
+        {
+          "id": 8601,
+          "text": "The radar"
+        },
+        {
+          "id": 8602,
+          "text": "The Turing machine"
+        },
+        {
+          "id": 8603,
+          "text": "The World Wide Web"
+        },
+        {
+          "id": 8604,
+          "text": "Radioactivity"
+        }
+      ]
+    },
+    {
+      "id": 7512,
+      "text": "Which British Prime Minister was famous for the speech ‘I have nothing to offer but blood, toil, tears and sweat’?",
+      "explanation": "During the Second World War, Winston Churchill made many famous speeches including lines which you may still hear:  ‘I have nothing to offer but blood, toil, tears and sweat’. This was Churchill’s first speech to the House of Commons after he became Prime Minister, 1940.",
+      "computed_correct_option_ids": [
+        8613
+      ],
+      "options": [
+        {
+          "id": 8611,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 8612,
+          "text": "Anthony Eden"
+        },
+        {
+          "id": 8613,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 8614,
+          "text": "Harold Wilson"
+        }
+      ]
+    },
+    {
+      "id": 7513,
+      "text": "Which of the following countries did NOT belong to the Allies during World War I?",
+      "explanation": "Bulgaria was not part of the Allies during the First World War.",
+      "computed_correct_option_ids": [
+        8622
+      ],
+      "options": [
+        {
+          "id": 8621,
+          "text": "France"
+        },
+        {
+          "id": 8622,
+          "text": "Bulgaria"
+        },
+        {
+          "id": 8623,
+          "text": "The UK"
+        },
+        {
+          "id": 8624,
+          "text": "Australia"
+        }
+      ]
+    },
+    {
+      "id": 7514,
+      "text": "Which TWO of the following charities work with homeless people?",
+      "explanation": "Charities that work with homeless people include Crisis and Shelter.",
+      "computed_correct_option_ids": [
+        8632,
+        8633
+      ],
+      "options": [
+        {
+          "id": 8631,
+          "text": "Friends of the Earth"
+        },
+        {
+          "id": 8632,
+          "text": "Shelter"
+        },
+        {
+          "id": 8633,
+          "text": "Crisis"
+        },
+        {
+          "id": 8634,
+          "text": "Oxfam"
+        }
+      ]
+    },
+    {
+      "id": 7515,
+      "text": "Which flower is associated with Scotland?",
+      "explanation": "Thethistleis the flower associated with Scotland.",
+      "computed_correct_option_ids": [
+        8642
+      ],
+      "options": [
+        {
+          "id": 8641,
+          "text": "Rose"
+        },
+        {
+          "id": 8642,
+          "text": "Thistle"
+        },
+        {
+          "id": 8643,
+          "text": "Daffodil"
+        },
+        {
+          "id": 8644,
+          "text": "Shamrock"
+        }
+      ]
+    },
+    {
+      "id": 7516,
+      "text": "What is the money from TV licences used for?",
+      "explanation": "The money from TV licences is used to pay for the British Broadcasting Corporation (BBC). This is a public service broadcaster providing television and radio programmes. The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government.",
+      "computed_correct_option_ids": [
+        8652
+      ],
+      "options": [
+        {
+          "id": 8651,
+          "text": "To pay actors and actresses"
+        },
+        {
+          "id": 8652,
+          "text": "To pay for the British Broadcasting Corporation (BBC)"
+        },
+        {
+          "id": 8653,
+          "text": "To pay for publicity"
+        },
+        {
+          "id": 8654,
+          "text": "To pay for private channels"
+        }
+      ]
+    },
+    {
+      "id": 7517,
+      "text": "Members of the Welsh government are elected every four years on the basis of:",
+      "explanation": "The Welsh government and the Senedd are based in Cardiff, the capital city of Wales. There are 60 members of the Senedd (SMs) and elections are held every four years using a form of proportional representation.",
+      "computed_correct_option_ids": [
+        8661
+      ],
+      "options": [
+        {
+          "id": 8661,
+          "text": "Proportional representation"
+        },
+        {
+          "id": 8662,
+          "text": "Personal achievements"
+        },
+        {
+          "id": 8663,
+          "text": "Instant run-off"
+        },
+        {
+          "id": 8664,
+          "text": "First past the post system (the candidate who gets the most votes)"
+        }
+      ]
+    },
+    {
+      "id": 7518,
+      "text": "What is the Commonwealth?",
+      "explanation": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+      "computed_correct_option_ids": [
+        8671
+      ],
+      "options": [
+        {
+          "id": 8671,
+          "text": "An association of countries that support each other and work together towards shared goals in democracy and development"
+        },
+        {
+          "id": 8672,
+          "text": "An organisation responsible for the protection and promotion of human rights in its member countries"
+        },
+        {
+          "id": 8673,
+          "text": "An association of countries that promotes international peace and security"
+        },
+        {
+          "id": 8674,
+          "text": "A group of European and North American countries that have agreed to help each other if they come under attack"
+        }
+      ]
+    },
+    {
+      "id": 7519,
+      "text": "Which famous architect designed St Paul’s Cathedral after it was destroyed by a fire in 1666?",
+      "explanation": "In 1666, a great fire destroyed much of the city of London, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul’s, which was designed by a famous architect, Sir Christopher Wren.",
+      "computed_correct_option_ids": [
+        8681
+      ],
+      "options": [
+        {
+          "id": 8681,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 8682,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 8683,
+          "text": "Robert Burns"
+        },
+        {
+          "id": 8684,
+          "text": "Isambard Kingdom Brunel"
+        }
+      ]
+    },
+    {
+      "id": 7520,
+      "text": "Which of the following is a fundamental principle of life in the UK?",
+      "explanation": "The fundamental principles of British life include: democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs and participation in community life.",
+      "computed_correct_option_ids": [
+        8692
+      ],
+      "options": [
+        {
+          "id": 8691,
+          "text": "Rule of men"
+        },
+        {
+          "id": 8692,
+          "text": "Individual liberty"
+        },
+        {
+          "id": 8693,
+          "text": "Intolerance of those with different beliefs"
+        },
+        {
+          "id": 8694,
+          "text": "Lack of social cohesion"
+        }
+      ]
+    },
+    {
+      "id": 7521,
+      "text": "Which of the following countries belongs to the Commonwealth?",
+      "explanation": "Mozambique.",
+      "computed_correct_option_ids": [
+        8703
+      ],
+      "options": [
+        {
+          "id": 8701,
+          "text": "Morocco"
+        },
+        {
+          "id": 8702,
+          "text": "Algeria"
+        },
+        {
+          "id": 8703,
+          "text": "Mozambique"
+        },
+        {
+          "id": 8704,
+          "text": "Mali"
+        }
+      ]
+    },
+    {
+      "id": 7522,
+      "text": "Who has to pay national insurance contributions in the UK?",
+      "explanation": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions.",
+      "computed_correct_option_ids": [
+        8712
+      ],
+      "options": [
+        {
+          "id": 8711,
+          "text": "Everybody under the age of 65"
+        },
+        {
+          "id": 8712,
+          "text": "Almost everybody who is in paid work"
+        },
+        {
+          "id": 8713,
+          "text": "Everybody under the age of 70"
+        },
+        {
+          "id": 8714,
+          "text": "People with earnings over £18,000 per year"
+        }
+      ]
+    },
+    {
+      "id": 7523,
+      "text": "A good way to support your local community is to shop for products locally.",
+      "explanation": "This statement is TRUE.",
+      "computed_correct_option_ids": [
+        8721
+      ],
+      "options": [
+        {
+          "id": 8721,
+          "text": "True"
+        },
+        {
+          "id": 8722,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7524,
+      "text": "Where is the centrepiece to the Remembrance Day service known as Cenotaph located?",
+      "explanation": "The Cenotaph, the Centrepiece to the Remembrance Day service, is located in Whitehall, London.",
+      "computed_correct_option_ids": [
+        8732
+      ],
+      "options": [
+        {
+          "id": 8731,
+          "text": "Cardiff, Wales"
+        },
+        {
+          "id": 8732,
+          "text": "Whitehall, London"
+        },
+        {
+          "id": 8733,
+          "text": "Hounslow Heath, London"
+        },
+        {
+          "id": 8734,
+          "text": "Piccadilly Circus, London"
+        }
+      ]
+    }
+  ]
+}

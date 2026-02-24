@@ -1,0 +1,601 @@
+{
+  "id": 493,
+  "name": "British Citizenship Test 8",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10801,
+      "text": "World War II started as a result of Germany invading which country?",
+      "explanation": "The Second World War started when Hitler invadedPolandin 1939. Britain and France declared war in order to stop his aggression.",
+      "computed_correct_option_ids": [
+        11803
+      ],
+      "options": [
+        {
+          "id": 11801,
+          "text": "France"
+        },
+        {
+          "id": 11802,
+          "text": "Russia"
+        },
+        {
+          "id": 11803,
+          "text": "Poland"
+        },
+        {
+          "id": 11804,
+          "text": "Austria"
+        }
+      ]
+    },
+    {
+      "id": 10802,
+      "text": "Which flower is associated with Scotland?",
+      "explanation": "The flower associated with Scotland isthe thistle.",
+      "computed_correct_option_ids": [
+        11814
+      ],
+      "options": [
+        {
+          "id": 11811,
+          "text": "The Shamrock"
+        },
+        {
+          "id": 11812,
+          "text": "The Rose"
+        },
+        {
+          "id": 11813,
+          "text": "The Daffodil"
+        },
+        {
+          "id": 11814,
+          "text": "The Thistle"
+        }
+      ]
+    },
+    {
+      "id": 10803,
+      "text": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+      "explanation": "False. Anyone can make a complaint about the policeby going to a police station and writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+      "computed_correct_option_ids": [
+        11821
+      ],
+      "options": [
+        {
+          "id": 11821,
+          "text": "True"
+        },
+        {
+          "id": 11822,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10804,
+      "text": "Which of the following is a responsibility of the Home Secretary?",
+      "explanation": "The Home Secretary is responsible forcrime, policing and immigration.",
+      "computed_correct_option_ids": [
+        11832
+      ],
+      "options": [
+        {
+          "id": 11831,
+          "text": "Economy"
+        },
+        {
+          "id": 11832,
+          "text": "Crime"
+        },
+        {
+          "id": 11833,
+          "text": "Education"
+        },
+        {
+          "id": 11834,
+          "text": "Defence"
+        }
+      ]
+    },
+    {
+      "id": 10805,
+      "text": "When is St David’s day celebrated?",
+      "explanation": "St  David’s day, patron of Wales, is celebrated on the1st of March.",
+      "computed_correct_option_ids": [
+        11841
+      ],
+      "options": [
+        {
+          "id": 11841,
+          "text": "1st March"
+        },
+        {
+          "id": 11842,
+          "text": "17th March"
+        },
+        {
+          "id": 11843,
+          "text": "23rd April"
+        },
+        {
+          "id": 11844,
+          "text": "17th April"
+        }
+      ]
+    },
+    {
+      "id": 10806,
+      "text": "What happened to ‘Mary, Queen of Scots’ after she spent 20 years in prison?",
+      "explanation": "Mary was eventually executed, accused of plotting against Elizabeth I.",
+      "computed_correct_option_ids": [
+        11854
+      ],
+      "options": [
+        {
+          "id": 11851,
+          "text": "She became Queen of England"
+        },
+        {
+          "id": 11852,
+          "text": "She was sent to France"
+        },
+        {
+          "id": 11853,
+          "text": "She escaped to Denmark"
+        },
+        {
+          "id": 11854,
+          "text": "She was executed"
+        }
+      ]
+    },
+    {
+      "id": 10807,
+      "text": "What did Francis Crick discover?",
+      "explanation": "Francis Crick discoveredthe structure of the DNA molecule.",
+      "computed_correct_option_ids": [
+        11864
+      ],
+      "options": [
+        {
+          "id": 11861,
+          "text": "The MRI (magnetic resonance imaging) scanner"
+        },
+        {
+          "id": 11862,
+          "text": "The jet engine"
+        },
+        {
+          "id": 11863,
+          "text": "The IVF (in-vitro fertilisation) therapy"
+        },
+        {
+          "id": 11864,
+          "text": "The structure of the DNA molecule"
+        }
+      ]
+    },
+    {
+      "id": 10808,
+      "text": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11871
+      ],
+      "options": [
+        {
+          "id": 11871,
+          "text": "True"
+        },
+        {
+          "id": 11872,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10809,
+      "text": "How many national parks are there in England, Wales and Scotland?",
+      "explanation": "There are15national parks in England, Wales and Scotland.",
+      "computed_correct_option_ids": [
+        11882
+      ],
+      "options": [
+        {
+          "id": 11881,
+          "text": "25"
+        },
+        {
+          "id": 11882,
+          "text": "15"
+        },
+        {
+          "id": 11883,
+          "text": "18"
+        },
+        {
+          "id": 11884,
+          "text": "42"
+        }
+      ]
+    },
+    {
+      "id": 10810,
+      "text": "Is Northern Ireland part of Great Britain?",
+      "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland.",
+      "computed_correct_option_ids": [
+        11891
+      ],
+      "options": [
+        {
+          "id": 11891,
+          "text": "Yes"
+        },
+        {
+          "id": 11892,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 10811,
+      "text": "If you are a dog owner, which two things should your dog’s collar have when you go out for a walk?",
+      "explanation": "All dogs in public places must wear a collar showingthe name and address of the owner.",
+      "computed_correct_option_ids": [
+        11901,
+        11902
+      ],
+      "options": [
+        {
+          "id": 11901,
+          "text": "The owner’s address"
+        },
+        {
+          "id": 11902,
+          "text": "The owner’s name"
+        },
+        {
+          "id": 11903,
+          "text": "The dog’s breed"
+        },
+        {
+          "id": 11904,
+          "text": "The dog’s name"
+        }
+      ]
+    },
+    {
+      "id": 10812,
+      "text": "What day relates to the death of Jesus Christ?",
+      "explanation": "Easter takes place in March or April. It marks the death of Jesus Christ onGood Fridayand his rising from the dead on Easter Sunday.",
+      "computed_correct_option_ids": [
+        11911
+      ],
+      "options": [
+        {
+          "id": 11911,
+          "text": "Good Friday"
+        },
+        {
+          "id": 11912,
+          "text": "Easter Sunday"
+        },
+        {
+          "id": 11913,
+          "text": "Easter Monday"
+        },
+        {
+          "id": 11914,
+          "text": "Ash Wednesday"
+        }
+      ]
+    },
+    {
+      "id": 10813,
+      "text": "A responsibility of the MPs is to represent everyone in their _______.",
+      "explanation": "A responsibility of the MPs is to represent everyone in theirconstituency.",
+      "computed_correct_option_ids": [
+        11924
+      ],
+      "options": [
+        {
+          "id": 11921,
+          "text": "County"
+        },
+        {
+          "id": 11922,
+          "text": "Estate"
+        },
+        {
+          "id": 11923,
+          "text": "District"
+        },
+        {
+          "id": 11924,
+          "text": "Constituency"
+        }
+      ]
+    },
+    {
+      "id": 10814,
+      "text": "What was achieved with the Magna Carta?",
+      "explanation": "The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility andrestricted the king’s powerto collect taxes or to make and change laws. In future, the king would need to involve his noblemen in decisions.",
+      "computed_correct_option_ids": [
+        11931
+      ],
+      "options": [
+        {
+          "id": 11931,
+          "text": "It restricted the King’s power"
+        },
+        {
+          "id": 11932,
+          "text": "It increased the King’s power"
+        },
+        {
+          "id": 11933,
+          "text": "It restricted the rights of the farmers"
+        },
+        {
+          "id": 11934,
+          "text": "It increased women’s power"
+        }
+      ]
+    },
+    {
+      "id": 10815,
+      "text": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11941
+      ],
+      "options": [
+        {
+          "id": 11941,
+          "text": "True"
+        },
+        {
+          "id": 11942,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10816,
+      "text": "What year were women given the right to vote?",
+      "explanation": "In1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War.",
+      "computed_correct_option_ids": [
+        11951
+      ],
+      "options": [
+        {
+          "id": 11951,
+          "text": "1918"
+        },
+        {
+          "id": 11952,
+          "text": "1925"
+        },
+        {
+          "id": 11953,
+          "text": "1949"
+        },
+        {
+          "id": 11954,
+          "text": "1914"
+        }
+      ]
+    },
+    {
+      "id": 10817,
+      "text": "Which two of the following are British overseas territories?",
+      "explanation": "There are several British overseas territories, such asSt Helena and the Falkland Islands. They are linked to the UK but are not part of it.",
+      "computed_correct_option_ids": [
+        11961,
+        11964
+      ],
+      "options": [
+        {
+          "id": 11961,
+          "text": "St Helena"
+        },
+        {
+          "id": 11962,
+          "text": "Solomon Islands"
+        },
+        {
+          "id": 11963,
+          "text": "Mauritius"
+        },
+        {
+          "id": 11964,
+          "text": "The Falkland Islands"
+        }
+      ]
+    },
+    {
+      "id": 10818,
+      "text": "Who did the English defeat in 1588?",
+      "explanation": "In 1588 the English defeatedthe Spanish Armada(a large fleet of ships).",
+      "computed_correct_option_ids": [
+        11973
+      ],
+      "options": [
+        {
+          "id": 11971,
+          "text": "The Normans"
+        },
+        {
+          "id": 11972,
+          "text": "The Romans"
+        },
+        {
+          "id": 11973,
+          "text": "The Spanish Armada"
+        },
+        {
+          "id": 11974,
+          "text": "The Saxons"
+        }
+      ]
+    },
+    {
+      "id": 10819,
+      "text": "Who designed the Cenotaph?",
+      "explanation": "Sir Edwin Lutyenswas responsible for designing many war memorials throughout the world, including the Cenotaph in Whitehall.",
+      "computed_correct_option_ids": [
+        11983
+      ],
+      "options": [
+        {
+          "id": 11981,
+          "text": "Sir Norman Foster"
+        },
+        {
+          "id": 11982,
+          "text": "Lancelot ‘Capability’ Brown"
+        },
+        {
+          "id": 11983,
+          "text": "Sir Edwin Lutyens"
+        },
+        {
+          "id": 11984,
+          "text": "Isambard Kingdom Brunel"
+        }
+      ]
+    },
+    {
+      "id": 10820,
+      "text": "How often are the members of the Welsh government elected?",
+      "explanation": "There are 60 members of the Welsh government or members of the Senedd (SMs) and elections are heldevery four yearsusing a form of proportional representation.",
+      "computed_correct_option_ids": [
+        11993
+      ],
+      "options": [
+        {
+          "id": 11991,
+          "text": "Every 5 years"
+        },
+        {
+          "id": 11992,
+          "text": "Every 2 years"
+        },
+        {
+          "id": 11993,
+          "text": "Every 4 years"
+        },
+        {
+          "id": 11994,
+          "text": "Every 3 years"
+        }
+      ]
+    },
+    {
+      "id": 10821,
+      "text": "During which period did the Beatles become popular and social laws were liberalised?",
+      "explanation": "The decade of the1960swas a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved.",
+      "computed_correct_option_ids": [
+        12001
+      ],
+      "options": [
+        {
+          "id": 12001,
+          "text": "1960s"
+        },
+        {
+          "id": 12002,
+          "text": "1970s"
+        },
+        {
+          "id": 12003,
+          "text": "1980s"
+        },
+        {
+          "id": 12004,
+          "text": "1950s"
+        }
+      ]
+    },
+    {
+      "id": 10822,
+      "text": "The Man Booker Prize is awarded in which of the following categories?",
+      "explanation": "The Man Booker Prize for Fiction is awarded annually forthe best fiction novel (literature)written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes.",
+      "computed_correct_option_ids": [
+        12013
+      ],
+      "options": [
+        {
+          "id": 12011,
+          "text": "Films"
+        },
+        {
+          "id": 12012,
+          "text": "Sport"
+        },
+        {
+          "id": 12013,
+          "text": "Literature"
+        },
+        {
+          "id": 12014,
+          "text": "Music"
+        }
+      ]
+    },
+    {
+      "id": 10823,
+      "text": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+      "explanation": "If an MP dies or resigns, there will be a fresh election, called aby-election, in his or her constituency.",
+      "computed_correct_option_ids": [
+        12024
+      ],
+      "options": [
+        {
+          "id": 12021,
+          "text": "Coalition"
+        },
+        {
+          "id": 12022,
+          "text": "Pre-selection"
+        },
+        {
+          "id": 12023,
+          "text": "Random selection"
+        },
+        {
+          "id": 12024,
+          "text": "By-election"
+        }
+      ]
+    },
+    {
+      "id": 10824,
+      "text": "What is the Turner Prize?",
+      "explanation": "The Turner Prize was established in 1984 and celebratescontemporary art. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe.",
+      "computed_correct_option_ids": [
+        12033
+      ],
+      "options": [
+        {
+          "id": 12031,
+          "text": "A literature award"
+        },
+        {
+          "id": 12032,
+          "text": "A music award"
+        },
+        {
+          "id": 12033,
+          "text": "A contemporary art award"
+        },
+        {
+          "id": 12034,
+          "text": "A theatre award"
+        }
+      ]
+    }
+  ]
+}

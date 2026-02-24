@@ -1,0 +1,600 @@
+{
+  "id": 392,
+  "name": "Life in the UK Test 34",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 85,
+      "text": "As per 2021 census, what percentage of the England and Wales population identified as Sikh?",
+      "explanation": "In the 2021 England and Wales census, around 525,000 people from the sampled population of 60 million identified as Sikh. 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (6.5%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 0.5% of people followed another religion and 37% stated not to follow any religion.",
+      "computed_correct_option_ids": [
+        333
+      ],
+      "options": [
+        {
+          "id": 335,
+          "text": "2%"
+        },
+        {
+          "id": 336,
+          "text": "4%"
+        },
+        {
+          "id": 333,
+          "text": "1%"
+        },
+        {
+          "id": 334,
+          "text": "3%"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "text": "How often do the ministers meet to discuss important issues?",
+      "explanation": "Ministers form the cabinet, a committee which usually meets weekly and makes important decisions about government policy. Many of these decisions have to be debated or approved by Parliament.",
+      "computed_correct_option_ids": [
+        465
+      ],
+      "options": [
+        {
+          "id": 465,
+          "text": "Weekly"
+        },
+        {
+          "id": 466,
+          "text": "Daily"
+        },
+        {
+          "id": 467,
+          "text": "Yearly"
+        },
+        {
+          "id": 468,
+          "text": "Monthly"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "text": "Where can you get help if you can't afford to pay a vet?",
+      "explanation": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets). There are charities which may help people who cannot afford to pay a vet.",
+      "computed_correct_option_ids": [
+        565
+      ],
+      "options": [
+        {
+          "id": 567,
+          "text": "Friends"
+        },
+        {
+          "id": 568,
+          "text": "Your vet"
+        },
+        {
+          "id": 566,
+          "text": "Family"
+        },
+        {
+          "id": 565,
+          "text": "Charities"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "text": "Which of these are British Overseas Territories?",
+      "explanation": "There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
+      "computed_correct_option_ids": [
+        581
+      ],
+      "options": [
+        {
+          "id": 581,
+          "text": "St Helena and Falkland Islands"
+        },
+        {
+          "id": 583,
+          "text": "St Helena and the Isle of Man"
+        },
+        {
+          "id": 584,
+          "text": "USA and Australia"
+        },
+        {
+          "id": 582,
+          "text": "The Channel Islands and the Isle of Man"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "text": "What percentage of the workforce are women?",
+      "explanation": "Women in Britain today make up about half of the workforce. On average, girls leave school with better qualifications than boys. More women than men study at university.",
+      "computed_correct_option_ids": [
+        621
+      ],
+      "options": [
+        {
+          "id": 621,
+          "text": "50%"
+        },
+        {
+          "id": 622,
+          "text": "40%"
+        },
+        {
+          "id": 623,
+          "text": "60%"
+        },
+        {
+          "id": 624,
+          "text": "30%"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "text": "Which country invented Cricket?",
+      "explanation": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw! The most famous Cricket competition is the Ashes, which is a series of Test matches played between England and Australia.",
+      "computed_correct_option_ids": [
+        733
+      ],
+      "options": [
+        {
+          "id": 735,
+          "text": "Wales"
+        },
+        {
+          "id": 736,
+          "text": "Australia"
+        },
+        {
+          "id": 734,
+          "text": "Scotland"
+        },
+        {
+          "id": 733,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "text": "What celebrates the end of Ramadan?",
+      "explanation": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast.",
+      "computed_correct_option_ids": [
+        829
+      ],
+      "options": [
+        {
+          "id": 829,
+          "text": "Eid al-Fitr"
+        },
+        {
+          "id": 832,
+          "text": "Hanukkah"
+        },
+        {
+          "id": 831,
+          "text": "Vaisakhi"
+        },
+        {
+          "id": 830,
+          "text": "Eid ul Adha"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "text": "How many Russian and Polish Jews came to Britain between 1870-1914?",
+      "explanation": "People continued to come to Britain from other parts of the world. For example, between 1870 and 1914, around 120,000 Russian and Polish Jews came to Britain to escape persecution.",
+      "computed_correct_option_ids": [
+        1021
+      ],
+      "options": [
+        {
+          "id": 1023,
+          "text": "60,000"
+        },
+        {
+          "id": 1021,
+          "text": "120,000"
+        },
+        {
+          "id": 1024,
+          "text": "30,000"
+        },
+        {
+          "id": 1022,
+          "text": "140,000"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "text": "Everything found in Hansard is available online",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and online.",
+      "computed_correct_option_ids": [
+        1597
+      ],
+      "options": [
+        {
+          "id": 1597,
+          "text": "True"
+        },
+        {
+          "id": 1598,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "text": "On average, girls leave school with better qualifications than boys",
+      "explanation": "The Statement is true",
+      "computed_correct_option_ids": [
+        1833
+      ],
+      "options": [
+        {
+          "id": 1833,
+          "text": "True"
+        },
+        {
+          "id": 1834,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "text": "Where can you get details about the small claims procedure?",
+      "explanation": "You can get details about the small claims procedure from your local County Court or Sheriff Court.",
+      "computed_correct_option_ids": [
+        2189
+      ],
+      "options": [
+        {
+          "id": 2190,
+          "text": "Any council office"
+        },
+        {
+          "id": 2192,
+          "text": "High Court"
+        },
+        {
+          "id": 2191,
+          "text": "Your local polling station"
+        },
+        {
+          "id": 2189,
+          "text": "Your local County Court"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "text": "Who was John Constable?",
+      "explanation": "John Constable (1776-1837) was a landscape painter most famous for his works of Dedham Vale on the Suffolk, Essex border in the east of England.",
+      "computed_correct_option_ids": [
+        2240
+      ],
+      "options": [
+        {
+          "id": 2237,
+          "text": "An important contributor to the 'pop art' movement of the 1960s"
+        },
+        {
+          "id": 2240,
+          "text": "A landscape painter, most famous for his works of Dedham Vale on the Suffolk-Essex border in the East of England"
+        },
+        {
+          "id": 2239,
+          "text": "A very successful Northern Irish portrait painter"
+        },
+        {
+          "id": 2238,
+          "text": "A Welsh artist, best known for his engravings and stained glass"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "text": "What food is traditionally associated with Wales?",
+      "explanation": "Welsh cakes - a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.",
+      "computed_correct_option_ids": [
+        2308
+      ],
+      "options": [
+        {
+          "id": 2308,
+          "text": "Welsh cakes"
+        },
+        {
+          "id": 2307,
+          "text": "Ulster fry"
+        },
+        {
+          "id": 2306,
+          "text": "Haggis"
+        },
+        {
+          "id": 2305,
+          "text": "Roast beef, which is served with potatoes, vegetables, Yorkshire puddings"
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "text": "Who of the following is associated with the Bonfire Night?",
+      "explanation": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        2635
+      ],
+      "options": [
+        {
+          "id": 2637,
+          "text": "Roger Bannister"
+        },
+        {
+          "id": 2638,
+          "text": "Napoleon"
+        },
+        {
+          "id": 2635,
+          "text": "Guy Fawkes"
+        },
+        {
+          "id": 2636,
+          "text": "Ian Fleming"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "text": "The Domesday Book gives a picture of society in England just after the Norman Conquest",
+      "explanation": "William the Conqueror (the Duke of Normandy) sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+      "computed_correct_option_ids": [
+        2797
+      ],
+      "options": [
+        {
+          "id": 2797,
+          "text": "True"
+        },
+        {
+          "id": 2798,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "text": "Who invented the Jet Engine?",
+      "explanation": "The Jet Engine was developed in Britain in the 1930s by Sir Frank Whittle (1907-96), a British Royal Air Force engineer Officer.",
+      "computed_correct_option_ids": [
+        2812
+      ],
+      "options": [
+        {
+          "id": 2813,
+          "text": "Sir Tim Berners-Lee"
+        },
+        {
+          "id": 2814,
+          "text": "John Logie Baird"
+        },
+        {
+          "id": 2811,
+          "text": "John MacLeod"
+        },
+        {
+          "id": 2812,
+          "text": "Sir Frank Whittle"
+        }
+      ]
+    },
+    {
+      "id": 795,
+      "text": "What religion did Queen Elizabeth I practise?",
+      "explanation": "Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people's real beliefs. She succeeded in finding a balance between the views of Catholics and the more extreme Protestants.",
+      "computed_correct_option_ids": [
+        2924
+      ],
+      "options": [
+        {
+          "id": 2925,
+          "text": "Catholic"
+        },
+        {
+          "id": 2926,
+          "text": "Sikh"
+        },
+        {
+          "id": 2923,
+          "text": "Atheist"
+        },
+        {
+          "id": 2924,
+          "text": "Protestant"
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "text": "Who will remain the longest reigning monarch until 9 September 2015?",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. Her reign is known as the Victorian Age. On September 9 2015, Queen Elizabeth II will pass the record set by her great-great-grandmother Queen Victoria.",
+      "computed_correct_option_ids": [
+        2987
+      ],
+      "options": [
+        {
+          "id": 2987,
+          "text": "Victoria"
+        },
+        {
+          "id": 2988,
+          "text": "Mary"
+        },
+        {
+          "id": 2985,
+          "text": "Elizabeth II"
+        },
+        {
+          "id": 2986,
+          "text": "Elizabeth I"
+        }
+      ]
+    },
+    {
+      "id": 864,
+      "text": "Which TWO developments are associated with the 'Swinging Sixties'?",
+      "explanation": "The Swinging Sixties was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved. It was quite common at the time for employers to ask women to leave their jobs when they got married, but Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender.",
+      "computed_correct_option_ids": [
+        3168,
+        3170
+      ],
+      "options": [
+        {
+          "id": 3169,
+          "text": "Establishment of the NHS"
+        },
+        {
+          "id": 3170,
+          "text": "Divorce Law Reform"
+        },
+        {
+          "id": 3167,
+          "text": "Children's Rights Law Reform"
+        },
+        {
+          "id": 3168,
+          "text": "Abortion Law Reform"
+        }
+      ]
+    },
+    {
+      "id": 877,
+      "text": "Which of these is a British invention/discovery?",
+      "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916-2004), one of those awarded the Nobel Prize for this discovery, was British.",
+      "computed_correct_option_ids": [
+        3217
+      ],
+      "options": [
+        {
+          "id": 3217,
+          "text": "The structure of the DNA molecule"
+        },
+        {
+          "id": 3218,
+          "text": "Fire extinguisher"
+        },
+        {
+          "id": 3219,
+          "text": "Hovercraft tank"
+        },
+        {
+          "id": 3220,
+          "text": "Radiator"
+        }
+      ]
+    },
+    {
+      "id": 891,
+      "text": "When are Pantomimes usually produced?",
+      "explanation": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man. There is often also a pantomime horse or cow played by two actors in the same costume.",
+      "computed_correct_option_ids": [
+        3263
+      ],
+      "options": [
+        {
+          "id": 3263,
+          "text": "Christmas"
+        },
+        {
+          "id": 3264,
+          "text": "Halloween"
+        },
+        {
+          "id": 3265,
+          "text": "School holidays"
+        },
+        {
+          "id": 3266,
+          "text": "Easter"
+        }
+      ]
+    },
+    {
+      "id": 941,
+      "text": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to",
+      "explanation": "Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims sacrifice an animal to eat during this festival. In Britain this has to be done in a slaughterhouse.",
+      "computed_correct_option_ids": [
+        3421
+      ],
+      "options": [
+        {
+          "id": 3422,
+          "text": "False"
+        },
+        {
+          "id": 3421,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 987,
+      "text": "What was the longest British War with France called?",
+      "explanation": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        3571
+      ],
+      "options": [
+        {
+          "id": 3572,
+          "text": "The Battle of Bannockburn"
+        },
+        {
+          "id": 3571,
+          "text": "The Hundred Years War"
+        },
+        {
+          "id": 3573,
+          "text": "The Battle of the Boyne"
+        },
+        {
+          "id": 3574,
+          "text": "The Battle of Trafalgar"
+        }
+      ]
+    },
+    {
+      "id": 1023,
+      "text": "William Orange was asked by Protestants to invade England. This event was later known as what?",
+      "explanation": "James II's elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands. In 1688, important Protestants in England asked William to invade England and proclaim himself king. This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament.",
+      "computed_correct_option_ids": [
+        3701
+      ],
+      "options": [
+        {
+          "id": 3701,
+          "text": "Glorious Revolution"
+        },
+        {
+          "id": 3702,
+          "text": "Magna Carta"
+        },
+        {
+          "id": 3703,
+          "text": "Industrial Revolution"
+        },
+        {
+          "id": 3704,
+          "text": "Orange Revolution"
+        }
+      ]
+    }
+  ]
+}

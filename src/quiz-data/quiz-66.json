@@ -1,0 +1,618 @@
+{
+  "id": 426,
+  "name": "Life in the UK Test 66",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9101,
+      "text": "Which British explorer mapped the coast of Australia?",
+      "explanation": "Captain James Cookmapped the coast of Australia and a few colonies were established there.",
+      "computed_correct_option_ids": [
+        10103
+      ],
+      "options": [
+        {
+          "id": 10101,
+          "text": "Sake Dean Mahomet"
+        },
+        {
+          "id": 10102,
+          "text": "Richard Arkwright"
+        },
+        {
+          "id": 10103,
+          "text": "Captain James Cook"
+        },
+        {
+          "id": 10104,
+          "text": "Admiral Nelson"
+        }
+      ]
+    },
+    {
+      "id": 9102,
+      "text": "How many members does a jury have in Scotland?",
+      "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has15 members.",
+      "computed_correct_option_ids": [
+        10111
+      ],
+      "options": [
+        {
+          "id": 10111,
+          "text": "15"
+        },
+        {
+          "id": 10112,
+          "text": "10"
+        },
+        {
+          "id": 10113,
+          "text": "14"
+        },
+        {
+          "id": 10114,
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "id": 9103,
+      "text": "Who can get a 50% discount on their TV licences?",
+      "explanation": "People over 75 can apply for a free TV licence andblind peoplecan get a 50% discount.",
+      "computed_correct_option_ids": [
+        10121
+      ],
+      "options": [
+        {
+          "id": 10121,
+          "text": "Blind people"
+        },
+        {
+          "id": 10122,
+          "text": "People over 65"
+        },
+        {
+          "id": 10123,
+          "text": "People over 75"
+        },
+        {
+          "id": 10124,
+          "text": "People on benefits"
+        }
+      ]
+    },
+    {
+      "id": 9104,
+      "text": "Which British city is famous for its celebration of Diwali?",
+      "explanation": "There is a famous celebration of Diwali inLeicester.",
+      "computed_correct_option_ids": [
+        10133
+      ],
+      "options": [
+        {
+          "id": 10131,
+          "text": "London"
+        },
+        {
+          "id": 10132,
+          "text": "Newcastle upon Tyne"
+        },
+        {
+          "id": 10133,
+          "text": "Leicester"
+        },
+        {
+          "id": 10134,
+          "text": "Manchester"
+        }
+      ]
+    },
+    {
+      "id": 9105,
+      "text": "Which of the following British actresses has NOT won an Oscar?",
+      "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.Emily Watson has not won an oscar.",
+      "computed_correct_option_ids": [
+        10143
+      ],
+      "options": [
+        {
+          "id": 10141,
+          "text": "Tilda Swinton"
+        },
+        {
+          "id": 10142,
+          "text": "Dame Judi Dench"
+        },
+        {
+          "id": 10143,
+          "text": "Emily Watson"
+        },
+        {
+          "id": 10144,
+          "text": "Kate Winslet"
+        }
+      ]
+    },
+    {
+      "id": 9106,
+      "text": "Which of the following sports has a long association with royalty?",
+      "explanation": "Horse racinghas a long association with royalty.",
+      "computed_correct_option_ids": [
+        10152
+      ],
+      "options": [
+        {
+          "id": 10151,
+          "text": "Rugby"
+        },
+        {
+          "id": 10152,
+          "text": "Horse racing"
+        },
+        {
+          "id": 10153,
+          "text": "Formula 1"
+        },
+        {
+          "id": 10154,
+          "text": "Sailing"
+        }
+      ]
+    },
+    {
+      "id": 9107,
+      "text": "Hanukkah is a Jewish festival celebrated to remember the Jews’ struggle for religious freedom.",
+      "explanation": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews’ struggle for religious freedom.",
+      "computed_correct_option_ids": [
+        10161
+      ],
+      "options": [
+        {
+          "id": 10161,
+          "text": "True"
+        },
+        {
+          "id": 10162,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9108,
+      "text": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+      "explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can eithercontact the Education Service(details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk)or contact an MLA.",
+      "computed_correct_option_ids": [
+        10171,
+        10173
+      ],
+      "options": [
+        {
+          "id": 10171,
+          "text": "Contacting the Education Service"
+        },
+        {
+          "id": 10172,
+          "text": "Contacting an MSP"
+        },
+        {
+          "id": 10173,
+          "text": "Contacting an MLA"
+        },
+        {
+          "id": 10174,
+          "text": "Arranging a tour through the visitor services"
+        }
+      ]
+    },
+    {
+      "id": 9109,
+      "text": "Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office, except for (choose THREE options):",
+      "explanation": "Members of the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including:members of the armed forces, civil servants and people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        10181,
+        10183,
+        10184
+      ],
+      "options": [
+        {
+          "id": 10181,
+          "text": "People found guilty of certain criminal offences"
+        },
+        {
+          "id": 10182,
+          "text": "People without a university degree"
+        },
+        {
+          "id": 10183,
+          "text": "Civil servants"
+        },
+        {
+          "id": 10184,
+          "text": "Members of the Armed Forces"
+        }
+      ]
+    },
+    {
+      "id": 9110,
+      "text": "What were the main occupations of the people during the Iron Age?",
+      "explanation": "During the Iron Age most people werefarmers, craft workers or warriors.",
+      "computed_correct_option_ids": [
+        10192
+      ],
+      "options": [
+        {
+          "id": 10191,
+          "text": "Fishermen and butchers"
+        },
+        {
+          "id": 10192,
+          "text": "Farmers, craft workers or warriors"
+        },
+        {
+          "id": 10193,
+          "text": "Knights, doctors or musicians"
+        },
+        {
+          "id": 10194,
+          "text": "Engineers, teachers or lawyers"
+        }
+      ]
+    },
+    {
+      "id": 9111,
+      "text": "To look after yourself and your family is one of the responsibilities that you will have as a permanent resident or citizen of the UK.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        10201
+      ],
+      "options": [
+        {
+          "id": 10201,
+          "text": "True"
+        },
+        {
+          "id": 10202,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9112,
+      "text": "When is the electoral register updated?",
+      "explanation": "",
+      "computed_correct_option_ids": [
+        10213
+      ],
+      "options": [
+        {
+          "id": 10211,
+          "text": "April or May"
+        },
+        {
+          "id": 10212,
+          "text": "May or June"
+        },
+        {
+          "id": 10213,
+          "text": "September or October"
+        },
+        {
+          "id": 10214,
+          "text": "October or November"
+        }
+      ]
+    },
+    {
+      "id": 9113,
+      "text": "Which of the following is the official church of the state?",
+      "explanation": "The official Church of the state isthe Church of England(called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States).",
+      "computed_correct_option_ids": [
+        10222
+      ],
+      "options": [
+        {
+          "id": 10221,
+          "text": "The Church of Great Britain"
+        },
+        {
+          "id": 10222,
+          "text": "The Church of England"
+        },
+        {
+          "id": 10223,
+          "text": "The Church of the United Kingdom"
+        },
+        {
+          "id": 10224,
+          "text": "The British Church"
+        }
+      ]
+    },
+    {
+      "id": 9114,
+      "text": "Where does the Scottish Parliament sit?",
+      "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood inEdinburgh.",
+      "computed_correct_option_ids": [
+        10233
+      ],
+      "options": [
+        {
+          "id": 10231,
+          "text": "In Glasgow"
+        },
+        {
+          "id": 10232,
+          "text": "In St Andrews"
+        },
+        {
+          "id": 10233,
+          "text": "In Edinburgh"
+        },
+        {
+          "id": 10234,
+          "text": "In Aberdeen"
+        }
+      ]
+    },
+    {
+      "id": 9115,
+      "text": "Who became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada?",
+      "explanation": "Elizabeth Ibecame one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        10242
+      ],
+      "options": [
+        {
+          "id": 10241,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 10242,
+          "text": "Elizabeth I"
+        },
+        {
+          "id": 10243,
+          "text": "James I"
+        },
+        {
+          "id": 10244,
+          "text": "Mary I"
+        }
+      ]
+    },
+    {
+      "id": 9116,
+      "text": "What was the population of the UK in 1700?",
+      "explanation": "The population of the UK in 1700 was5 million people.",
+      "computed_correct_option_ids": [
+        10253
+      ],
+      "options": [
+        {
+          "id": 10251,
+          "text": "2 million"
+        },
+        {
+          "id": 10252,
+          "text": "4 million"
+        },
+        {
+          "id": 10253,
+          "text": "5 million"
+        },
+        {
+          "id": 10254,
+          "text": "8 million"
+        }
+      ]
+    },
+    {
+      "id": 9117,
+      "text": "When did the ‘Concorde’ aircraft retired from service?",
+      "explanation": "",
+      "computed_correct_option_ids": [
+        10263
+      ],
+      "options": [
+        {
+          "id": 10261,
+          "text": "In 1976"
+        },
+        {
+          "id": 10262,
+          "text": "In 1999"
+        },
+        {
+          "id": 10263,
+          "text": "In 2003"
+        },
+        {
+          "id": 10264,
+          "text": "In 2000"
+        }
+      ]
+    },
+    {
+      "id": 9118,
+      "text": "When did the Allies defeat Germany marking the end of the Second World War?",
+      "explanation": "Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany. The Allies comprehensively defeated Germanyin May 1945.",
+      "computed_correct_option_ids": [
+        10272
+      ],
+      "options": [
+        {
+          "id": 10271,
+          "text": "In June 1943"
+        },
+        {
+          "id": 10272,
+          "text": "In May 1945"
+        },
+        {
+          "id": 10273,
+          "text": "In August 1945"
+        },
+        {
+          "id": 10274,
+          "text": "In August 1946"
+        }
+      ]
+    },
+    {
+      "id": 9119,
+      "text": "How many square miles does Loch Lomond and the Trossachs National Park cover?",
+      "explanation": "Loch Lomond and the Trossachs National Park covers720 square miles(1,865 square kilometres) in the west of Scotland.",
+      "computed_correct_option_ids": [
+        10281
+      ],
+      "options": [
+        {
+          "id": 10281,
+          "text": "720"
+        },
+        {
+          "id": 10282,
+          "text": "740"
+        },
+        {
+          "id": 10283,
+          "text": "820"
+        },
+        {
+          "id": 10284,
+          "text": "840"
+        }
+      ]
+    },
+    {
+      "id": 9120,
+      "text": "Which British athlete won 16 medals, including 11 gold medals, in races over five Paralympic Games?",
+      "explanation": "Baroness Tanni Grey-Thompson(1969-) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games. She won the London Marathon six times and broke a total of 30 world records.",
+      "computed_correct_option_ids": [
+        10293
+      ],
+      "options": [
+        {
+          "id": 10291,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 10292,
+          "text": "Sir Ian Botham"
+        },
+        {
+          "id": 10293,
+          "text": "Baroness Tanni Grey-Thompson"
+        },
+        {
+          "id": 10294,
+          "text": "Dame Elle MacArthur"
+        }
+      ]
+    },
+    {
+      "id": 9121,
+      "text": "When is New Year’s Eve celebrated?",
+      "explanation": "New Year’s Eve is celebrated on the31st of December.",
+      "computed_correct_option_ids": [
+        10303
+      ],
+      "options": [
+        {
+          "id": 10301,
+          "text": "25th of December"
+        },
+        {
+          "id": 10302,
+          "text": "30th of December"
+        },
+        {
+          "id": 10303,
+          "text": "31st of December"
+        },
+        {
+          "id": 10304,
+          "text": "1st of January"
+        }
+      ]
+    },
+    {
+      "id": 9122,
+      "text": "What is the capital city of Scotland?",
+      "explanation": "The capital city of Scotland isEdinburgh.",
+      "computed_correct_option_ids": [
+        10313
+      ],
+      "options": [
+        {
+          "id": 10311,
+          "text": "Dundee"
+        },
+        {
+          "id": 10312,
+          "text": "Aberdeen"
+        },
+        {
+          "id": 10313,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 10314,
+          "text": "Glasgow"
+        }
+      ]
+    },
+    {
+      "id": 9123,
+      "text": "What British sportsmen holds a number of English Test cricket records?",
+      "explanation": "Sir Ian Botham(1955-) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.",
+      "computed_correct_option_ids": [
+        10323
+      ],
+      "options": [
+        {
+          "id": 10321,
+          "text": "Bobby Moore"
+        },
+        {
+          "id": 10322,
+          "text": "Sir Jackie Steward"
+        },
+        {
+          "id": 10323,
+          "text": "Sir Ian Botham"
+        },
+        {
+          "id": 10324,
+          "text": "Sir Roger Bannister"
+        }
+      ]
+    },
+    {
+      "id": 9124,
+      "text": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the weavers come from?",
+      "explanation": "During the Middle Ages, people came to England from abroad to trade and also to work. Many had special skills, such asweavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland.",
+      "computed_correct_option_ids": [
+        10333
+      ],
+      "options": [
+        {
+          "id": 10331,
+          "text": "Germany"
+        },
+        {
+          "id": 10332,
+          "text": "Italy"
+        },
+        {
+          "id": 10333,
+          "text": "France"
+        },
+        {
+          "id": 10334,
+          "text": "Holland"
+        }
+      ]
+    }
+  ]
+}

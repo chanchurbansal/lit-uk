@@ -1,0 +1,592 @@
+{
+  "id": 391,
+  "name": "Life in the UK Test 33",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 6,
+      "text": "When did the first Christian communities appear in Britain?",
+      "explanation": "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain.",
+      "computed_correct_option_ids": [
+        20
+      ],
+      "options": [
+        {
+          "id": 22,
+          "text": "1st and 2nd centuries"
+        },
+        {
+          "id": 19,
+          "text": "2nd and 3rd centuries"
+        },
+        {
+          "id": 21,
+          "text": "4th and 5th centuries"
+        },
+        {
+          "id": 20,
+          "text": "3rd and 4th centuries"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "When do pubs usually open?",
+      "explanation": "Public Houses, also known as Pubs, usually open at 11:00 AM, 12:00 PM on Sundays.",
+      "computed_correct_option_ids": [
+        157
+      ],
+      "options": [
+        {
+          "id": 158,
+          "text": "13:00"
+        },
+        {
+          "id": 160,
+          "text": "22:00"
+        },
+        {
+          "id": 159,
+          "text": "16:00"
+        },
+        {
+          "id": 157,
+          "text": "11:00"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "text": "Who led the Scottish Army during the Battle of Bannockburn?",
+      "explanation": "In Scotland, the English kings were less successful. In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+      "computed_correct_option_ids": [
+        977
+      ],
+      "options": [
+        {
+          "id": 980,
+          "text": "Edward I"
+        },
+        {
+          "id": 977,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 978,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 979,
+          "text": "William the Conqueror"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "text": "When did the development of a free press happen?",
+      "explanation": "From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+      "computed_correct_option_ids": [
+        1009
+      ],
+      "options": [
+        {
+          "id": 1009,
+          "text": "1695"
+        },
+        {
+          "id": 1012,
+          "text": "1832"
+        },
+        {
+          "id": 1011,
+          "text": "1805"
+        },
+        {
+          "id": 1010,
+          "text": "1755"
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "text": "Which of the Houses is more important in today's Britain?",
+      "explanation": "The House of Commons is regarded as the more important of the two chambers in Parliament because its members are democratically elected.",
+      "computed_correct_option_ids": [
+        1225
+      ],
+      "options": [
+        {
+          "id": 1225,
+          "text": "The House of Commons"
+        },
+        {
+          "id": 1227,
+          "text": "The House of Lancaster"
+        },
+        {
+          "id": 1226,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 1228,
+          "text": "The House of York"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "text": "What does the UN aim to do?",
+      "explanation": "The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security.",
+      "computed_correct_option_ids": [
+        1237
+      ],
+      "options": [
+        {
+          "id": 1237,
+          "text": "Prevent War"
+        },
+        {
+          "id": 1238,
+          "text": "Prevent High Inflation"
+        },
+        {
+          "id": 1239,
+          "text": "Prevent Starvation"
+        },
+        {
+          "id": 1240,
+          "text": "Prevent Diseases"
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "text": "What was the population of the UK in 1801?",
+      "explanation": "The population of the UK was just 8 million in 1801.",
+      "computed_correct_option_ids": [
+        1578
+      ],
+      "options": [
+        {
+          "id": 1579,
+          "text": "20 million"
+        },
+        {
+          "id": 1580,
+          "text": "5 million"
+        },
+        {
+          "id": 1577,
+          "text": "4 million"
+        },
+        {
+          "id": 1578,
+          "text": "8 million"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "text": "When did the Industrial Revolution take place?",
+      "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries.",
+      "computed_correct_option_ids": [
+        1614
+      ],
+      "options": [
+        {
+          "id": 1616,
+          "text": "19th and 20th centuries"
+        },
+        {
+          "id": 1615,
+          "text": "19th century only"
+        },
+        {
+          "id": 1614,
+          "text": "18th and 19th centuries"
+        },
+        {
+          "id": 1613,
+          "text": "18th century only"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "text": "When were films first shown publicly in the UK?",
+      "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular",
+      "computed_correct_option_ids": [
+        1654
+      ],
+      "options": [
+        {
+          "id": 1655,
+          "text": "1901"
+        },
+        {
+          "id": 1656,
+          "text": "1906"
+        },
+        {
+          "id": 1653,
+          "text": "1890"
+        },
+        {
+          "id": 1654,
+          "text": "1896"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "text": "Where did the Jutes come from?",
+      "explanation": "Britain was invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons. The languages they spoke are the basis of modern-day English.",
+      "computed_correct_option_ids": [
+        1707
+      ],
+      "options": [
+        {
+          "id": 1708,
+          "text": "Southern Europe"
+        },
+        {
+          "id": 1710,
+          "text": "Central Europe"
+        },
+        {
+          "id": 1709,
+          "text": "East Europe"
+        },
+        {
+          "id": 1707,
+          "text": "Northern Europe"
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "text": "Which TWO buildings were built during the Middle Ages?",
+      "explanation": "The Middle Ages also saw a change in the type of buildings in Britain. Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use. Great cathedrals - for example, Lincoln Cathedral - were also built, and many of these are still used for worship.",
+      "computed_correct_option_ids": [
+        1799,
+        1800
+      ],
+      "options": [
+        {
+          "id": 1802,
+          "text": "The building of Parliament"
+        },
+        {
+          "id": 1800,
+          "text": "Lincoln Cathedral"
+        },
+        {
+          "id": 1801,
+          "text": "New St Paul's Cathedral"
+        },
+        {
+          "id": 1799,
+          "text": "Edinburgh Castle"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "text": "It is an offence not to have an MOT certificate if your vehicle is more than _____ years old",
+      "explanation": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.",
+      "computed_correct_option_ids": [
+        2086
+      ],
+      "options": [
+        {
+          "id": 2086,
+          "text": "3"
+        },
+        {
+          "id": 2087,
+          "text": "4"
+        },
+        {
+          "id": 2085,
+          "text": "2"
+        },
+        {
+          "id": 2088,
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "text": "The Mousetrap','Jesus Christ Superstar' and 'Evita' are examples of British what?",
+      "explanation": "They are examples of theatre plays.",
+      "computed_correct_option_ids": [
+        2643
+      ],
+      "options": [
+        {
+          "id": 2643,
+          "text": "Theatre"
+        },
+        {
+          "id": 2644,
+          "text": "Films"
+        },
+        {
+          "id": 2642,
+          "text": "Music"
+        },
+        {
+          "id": 2641,
+          "text": "Art"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "text": "How old do you have to be to stand for election as an MP?",
+      "explanation": "Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties",
+      "computed_correct_option_ids": [
+        2666
+      ],
+      "options": [
+        {
+          "id": 2667,
+          "text": "21"
+        },
+        {
+          "id": 2665,
+          "text": "16"
+        },
+        {
+          "id": 2666,
+          "text": "18"
+        },
+        {
+          "id": 2668,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "text": "During the reigns of Elizabeth I and James I, the English government encouraged Scottish and English Protestants to settle in which Irish province?",
+      "explanation": "During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in Ulster, the northern province of Ireland, taking over the land from Catholic landholders.",
+      "computed_correct_option_ids": [
+        2688
+      ],
+      "options": [
+        {
+          "id": 2689,
+          "text": "Grimsby"
+        },
+        {
+          "id": 2687,
+          "text": "Pale"
+        },
+        {
+          "id": 2688,
+          "text": "Ulster"
+        },
+        {
+          "id": 2690,
+          "text": "Dublin"
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "text": "The UK is a diverse and dynamic nation which welcomes those who want to make a positive contribution to the society",
+      "explanation": "The UK is a diverse and welcoming country. It welcomes those who want to make a positive contribution to the society",
+      "computed_correct_option_ids": [
+        2785
+      ],
+      "options": [
+        {
+          "id": 2785,
+          "text": "True"
+        },
+        {
+          "id": 2786,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "text": "It is a criminal offence to owe money to someone and you might be taken to court",
+      "explanation": "Owing money is a civil offence",
+      "computed_correct_option_ids": [
+        2816
+      ],
+      "options": [
+        {
+          "id": 2816,
+          "text": "False"
+        },
+        {
+          "id": 2815,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "text": "The Boer War took place in which country of the British Empire?",
+      "explanation": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers.",
+      "computed_correct_option_ids": [
+        2838
+      ],
+      "options": [
+        {
+          "id": 2839,
+          "text": "Bangladesh"
+        },
+        {
+          "id": 2838,
+          "text": "South Africa"
+        },
+        {
+          "id": 2840,
+          "text": "Scotland"
+        },
+        {
+          "id": 2837,
+          "text": "Pakistan"
+        }
+      ]
+    },
+    {
+      "id": 847,
+      "text": "Which Battle is commemorated in the Bayeux Tapestry?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        3117
+      ],
+      "options": [
+        {
+          "id": 3117,
+          "text": "Hastings"
+        },
+        {
+          "id": 3118,
+          "text": "Bosworth"
+        },
+        {
+          "id": 3115,
+          "text": "Boyne"
+        },
+        {
+          "id": 3116,
+          "text": "Agincourt"
+        }
+      ]
+    },
+    {
+      "id": 851,
+      "text": "A treaty gave independence to the south of Ireland in 1921",
+      "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+      "computed_correct_option_ids": [
+        3131
+      ],
+      "options": [
+        {
+          "id": 3131,
+          "text": "True"
+        },
+        {
+          "id": 3132,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 866,
+      "text": "Who was the British scientist who was awarded the Nobel prize for the discovery of the structure of the DNA molecule?",
+      "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916-2004), one of those awarded the Nobel Prize for this discovery, was British.",
+      "computed_correct_option_ids": [
+        3177
+      ],
+      "options": [
+        {
+          "id": 3175,
+          "text": "James Goodfellow"
+        },
+        {
+          "id": 3178,
+          "text": "Alan Turing"
+        },
+        {
+          "id": 3177,
+          "text": "Francis Crick"
+        },
+        {
+          "id": 3176,
+          "text": "John Macleod"
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "text": "Members of the European Union can vote in all public UK elections",
+      "explanation": "Prior to Brexit, adult citizens of other EU states who are resident in the UK could vote in all elections except General Elections. As of 2020, EU citizens' local voting rights have also changed and are now set on individual, per-country basis.",
+      "computed_correct_option_ids": [
+        3317
+      ],
+      "options": [
+        {
+          "id": 3318,
+          "text": "True"
+        },
+        {
+          "id": 3317,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "text": "The system of government in the UK is a parliamentary democracy",
+      "explanation": "The system of government in the UK is a parliamentary democracy. The UK is divided into parliamentary constituencies. Voters in each constituency elect their member of Parliament (MP) in a General Election. All of the elected MPs from the House of Commons. Most MPs belong to a political party, and the party with the majority of MPs forms the government. If one party does not get a majority, two parties can join together to form a coalition.",
+      "computed_correct_option_ids": [
+        3635
+      ],
+      "options": [
+        {
+          "id": 3635,
+          "text": "True"
+        },
+        {
+          "id": 3636,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "text": "The King Charles III's eldest son, Prince William, is also known as?",
+      "explanation": "Queen Elizabeth II reigned since her father's death in 1952, (she celebrated her Diamond Jubilee i.e. 60 years as queen) until she passed away in 2022. She was married to Prince Philip, the Duke of Edinburgh. Her eldest son, King Charles III (previously known as the Prince of Wales) became the sovereign monarch in 2022. His eldest son, heir to the throne, Prince William is the new Prince of Wales.",
+      "computed_correct_option_ids": [
+        3651
+      ],
+      "options": [
+        {
+          "id": 3652,
+          "text": "The Duke of Edinburgh"
+        },
+        {
+          "id": 3651,
+          "text": "The Prince of Wales"
+        },
+        {
+          "id": 3653,
+          "text": "The King of Ireland"
+        },
+        {
+          "id": 3654,
+          "text": "Prince Harry"
+        }
+      ]
+    }
+  ]
+}

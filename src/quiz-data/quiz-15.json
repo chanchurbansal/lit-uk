@@ -1,0 +1,617 @@
+{
+  "id": 373,
+  "name": "Life in the UK Test 15",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 13,
+      "text": "When is St David's day?",
+      "explanation": "St David's day is on the 1st of March. He is a Patron St of Wales.",
+      "computed_correct_option_ids": [
+        47
+      ],
+      "options": [
+        {
+          "id": 47,
+          "text": "1st of March"
+        },
+        {
+          "id": 50,
+          "text": "23rd of April"
+        },
+        {
+          "id": 49,
+          "text": "30th of November"
+        },
+        {
+          "id": 48,
+          "text": "17th of March"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "What did the Chartists campaign for?",
+      "explanation": "The Chartists demanded the vote for the working classes and other people without property.",
+      "computed_correct_option_ids": [
+        59
+      ],
+      "options": [
+        {
+          "id": 62,
+          "text": "The right to vote for the 21 year olds"
+        },
+        {
+          "id": 59,
+          "text": "The right to vote for the working class"
+        },
+        {
+          "id": 60,
+          "text": "The right to vote for the women"
+        },
+        {
+          "id": 61,
+          "text": "The right to vote for the 18 year olds"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "What do you need to apply for UK citizenship?",
+      "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to: speak and read English; have a good understanding of life in the UK.",
+      "computed_correct_option_ids": [
+        101
+      ],
+      "options": [
+        {
+          "id": 104,
+          "text": "Have a driving license"
+        },
+        {
+          "id": 101,
+          "text": "Speak and read English"
+        },
+        {
+          "id": 102,
+          "text": "Be able to use computers in English"
+        },
+        {
+          "id": 103,
+          "text": "Have a university degree"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Who won gold medals in rowing in five consecutive Olympic Games?",
+      "explanation": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain's greatest Olympians.",
+      "computed_correct_option_ids": [
+        141
+      ],
+      "options": [
+        {
+          "id": 141,
+          "text": "Sir Steve Redgrave"
+        },
+        {
+          "id": 142,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 143,
+          "text": "Dame Ellen MacArthur"
+        },
+        {
+          "id": 144,
+          "text": "Sir Roger Bannister"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "When did the WWI begin?",
+      "explanation": "The first World War began in 1914 and ended in 1918.",
+      "computed_correct_option_ids": [
+        249
+      ],
+      "options": [
+        {
+          "id": 250,
+          "text": "1918"
+        },
+        {
+          "id": 249,
+          "text": "1914"
+        },
+        {
+          "id": 252,
+          "text": "1941"
+        },
+        {
+          "id": 251,
+          "text": "1939"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "text": "Where did the supporters of Charles Edward Stuart come from?",
+      "explanation": "Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army.",
+      "computed_correct_option_ids": [
+        393
+      ],
+      "options": [
+        {
+          "id": 395,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 396,
+          "text": "Glasgow"
+        },
+        {
+          "id": 393,
+          "text": "Highlands"
+        },
+        {
+          "id": 394,
+          "text": "Aberdeen"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "text": "What is the official name of the country?",
+      "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
+      "computed_correct_option_ids": [
+        489
+      ],
+      "options": [
+        {
+          "id": 489,
+          "text": "The United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "id": 492,
+          "text": "The UK and Ireland"
+        },
+        {
+          "id": 491,
+          "text": "United Kingdom"
+        },
+        {
+          "id": 490,
+          "text": "Great Britain"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "text": "What is the British Constitution often described as?",
+      "explanation": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.",
+      "computed_correct_option_ids": [
+        641
+      ],
+      "options": [
+        {
+          "id": 641,
+          "text": "Unwritten"
+        },
+        {
+          "id": 642,
+          "text": "Written down"
+        },
+        {
+          "id": 643,
+          "text": "Documented"
+        },
+        {
+          "id": 644,
+          "text": "Preserved"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "text": "What was the population of the UK in 1998?",
+      "explanation": "Population growth in the UK (Year, Population): (1600, Just over 4 million), (1700, 5 million), (1801, 8 million), (1851, 20 million), (1901, 40 million), (1951, 50 million), (1998, 57 million), (2005, Just under 60 million), (2010, Just over 62 million).",
+      "computed_correct_option_ids": [
+        921
+      ],
+      "options": [
+        {
+          "id": 922,
+          "text": "60 million"
+        },
+        {
+          "id": 921,
+          "text": "57 million"
+        },
+        {
+          "id": 924,
+          "text": "40 million"
+        },
+        {
+          "id": 923,
+          "text": "50 million"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "text": "Which TWO words appear in the first two lines of the national anthem 'God save the Queen/King'?",
+      "explanation": "The first verse is: 'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'.",
+      "computed_correct_option_ids": [
+        1593,
+        1594
+      ],
+      "options": [
+        {
+          "id": 1593,
+          "text": "Gracious"
+        },
+        {
+          "id": 1594,
+          "text": "Noble"
+        },
+        {
+          "id": 1595,
+          "text": "Royal"
+        },
+        {
+          "id": 1596,
+          "text": "Majesty"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "text": "What % of the UK population does Wales account for?",
+      "explanation": "As per 2021 census, the UK population at mid-year was estimated to be 67.0 million, an increase of 3.7 million (5.9%) on the population in mid-2011. Wales accounted for 3,064,000 people - just above 4.5% of the UK population.",
+      "computed_correct_option_ids": [
+        1779
+      ],
+      "options": [
+        {
+          "id": 1779,
+          "text": "5"
+        },
+        {
+          "id": 1777,
+          "text": "1"
+        },
+        {
+          "id": 1780,
+          "text": "10"
+        },
+        {
+          "id": 1778,
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "text": "Members in the Welsh Assembly can speak English and Welsh, and all publications of the Assembly are in both languages",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        2019
+      ],
+      "options": [
+        {
+          "id": 2020,
+          "text": "False"
+        },
+        {
+          "id": 2019,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "text": "How old was the Queen of Scotland, Mary Stuart when her father died and she became Queen?",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called 'Mary, Queen of Scots') was a Catholic. She was only a week old when her father died and she became queen.",
+      "computed_correct_option_ids": [
+        2279
+      ],
+      "options": [
+        {
+          "id": 2282,
+          "text": "7 years"
+        },
+        {
+          "id": 2281,
+          "text": "1 year"
+        },
+        {
+          "id": 2280,
+          "text": "1 month"
+        },
+        {
+          "id": 2279,
+          "text": "1 week"
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "text": "When was the first public film shown in the UK?",
+      "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular. From the beginning, film makers became famous for clever special effects and this continues to be an area of British expertise.",
+      "computed_correct_option_ids": [
+        2311
+      ],
+      "options": [
+        {
+          "id": 2312,
+          "text": "1904"
+        },
+        {
+          "id": 2311,
+          "text": "1896"
+        },
+        {
+          "id": 2310,
+          "text": "1902"
+        },
+        {
+          "id": 2309,
+          "text": "1899"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "text": "What is the name given to the PM's country house?",
+      "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+      "computed_correct_option_ids": [
+        2568
+      ],
+      "options": [
+        {
+          "id": 2566,
+          "text": "Quaker"
+        },
+        {
+          "id": 2565,
+          "text": "Country Retreat"
+        },
+        {
+          "id": 2568,
+          "text": "Chequers"
+        },
+        {
+          "id": 2567,
+          "text": "Windsor Palace"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "text": "How long did the Hundred Years War last for?",
+      "explanation": "English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "computed_correct_option_ids": [
+        2680
+      ],
+      "options": [
+        {
+          "id": 2678,
+          "text": "100 years"
+        },
+        {
+          "id": 2680,
+          "text": "116 years"
+        },
+        {
+          "id": 2677,
+          "text": "97 years"
+        },
+        {
+          "id": 2679,
+          "text": "108 years"
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "text": "All Acts of Parliament are made in who's name?",
+      "explanation": "The Monarch (King Charles III) has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead. All Acts of Parliament are made in his name.",
+      "computed_correct_option_ids": [
+        2747
+      ],
+      "options": [
+        {
+          "id": 2750,
+          "text": "The Prime Minister's"
+        },
+        {
+          "id": 2747,
+          "text": "The King's"
+        },
+        {
+          "id": 2748,
+          "text": "The Prince's"
+        },
+        {
+          "id": 2749,
+          "text": "The Parliament's"
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "text": "In which year was there a major outbreak of plague in London?",
+      "explanation": "During Charles II's reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul's Cathedral.",
+      "computed_correct_option_ids": [
+        2961
+      ],
+      "options": [
+        {
+          "id": 2961,
+          "text": "1665"
+        },
+        {
+          "id": 2962,
+          "text": "1765"
+        },
+        {
+          "id": 2959,
+          "text": "1565"
+        },
+        {
+          "id": 2960,
+          "text": "1465"
+        }
+      ]
+    },
+    {
+      "id": 875,
+      "text": "Which TWO are facts about King William II of Scotland?",
+      "explanation": "James II's elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands. In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland.",
+      "computed_correct_option_ids": [
+        3211,
+        3212
+      ],
+      "options": [
+        {
+          "id": 3210,
+          "text": "He was married to the young daughter of King James II of England, Wales and Ireland"
+        },
+        {
+          "id": 3209,
+          "text": "He was defeated by King James II of England when the latter tried to take back the crown"
+        },
+        {
+          "id": 3212,
+          "text": "He was William of Orange before he became King William III of England. Wales and Ireland"
+        },
+        {
+          "id": 3211,
+          "text": "He was the Protestant rule of the Netherlands before he became King William II of Scotland"
+        }
+      ]
+    },
+    {
+      "id": 943,
+      "text": "Eid al-Fitr and Eid ul Adha are festivals celebrated by which religion?",
+      "explanation": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. They thank Allah for giving them the strength to complete the fast. The date when it takes place changes every year. Muslims attend special services and meals. Eid ul Adha remembers that the prophet Ibrahim was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims sacrifice an animal to eat during this festival. In Britain this has to be done in a slaughterhouse.",
+      "computed_correct_option_ids": [
+        3430
+      ],
+      "options": [
+        {
+          "id": 3427,
+          "text": "Christianity"
+        },
+        {
+          "id": 3428,
+          "text": "Sikhism"
+        },
+        {
+          "id": 3429,
+          "text": "Buddhism"
+        },
+        {
+          "id": 3430,
+          "text": "Islam"
+        }
+      ]
+    },
+    {
+      "id": 966,
+      "text": "It is compulsory to join National Citizen Service programme for 16 and 17 year olds",
+      "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        3501
+      ],
+      "options": [
+        {
+          "id": 3502,
+          "text": "True"
+        },
+        {
+          "id": 3501,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 978,
+      "text": "Where are all minor criminal cases heard in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates' Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+      "computed_correct_option_ids": [
+        3540
+      ],
+      "options": [
+        {
+          "id": 3541,
+          "text": "Sheriff court"
+        },
+        {
+          "id": 3542,
+          "text": "High court"
+        },
+        {
+          "id": 3539,
+          "text": "County court"
+        },
+        {
+          "id": 3540,
+          "text": "Magistrates' court"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "text": "What's the objective of the Commonwealth?",
+      "explanation": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+      "computed_correct_option_ids": [
+        3627
+      ],
+      "options": [
+        {
+          "id": 3627,
+          "text": "Achieve goals in democracy and development"
+        },
+        {
+          "id": 3628,
+          "text": "Promote free trade"
+        },
+        {
+          "id": 3629,
+          "text": "Allow visa free migration across the member states"
+        },
+        {
+          "id": 3630,
+          "text": "Promote peace across the world"
+        }
+      ]
+    },
+    {
+      "id": 1034,
+      "text": "Which one of the following is the most famous play written by Shakespeare?",
+      "explanation": "Shakespeare was born in Stratford-upon-Avon, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include A Midsummer Night's Dream, Hamlet, Macbeth and Romeo and Juliet.",
+      "computed_correct_option_ids": [
+        3741
+      ],
+      "options": [
+        {
+          "id": 3744,
+          "text": "Under Milk Wood"
+        },
+        {
+          "id": 3743,
+          "text": "The Jungle Book"
+        },
+        {
+          "id": 3741,
+          "text": "A Midsummer Night's Dream"
+        },
+        {
+          "id": 3742,
+          "text": "The Canterbury Tales"
+        }
+      ]
+    }
+  ]
+}

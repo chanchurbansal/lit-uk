@@ -1,0 +1,584 @@
+{
+  "id": 432,
+  "name": "Life in the UK Test 72",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9701,
+      "text": "When did Henry VIII die?",
+      "explanation": "Henry VIII died on the28th of January 1547.",
+      "computed_correct_option_ids": [
+        10701
+      ],
+      "options": [
+        {
+          "id": 10701,
+          "text": "In January 1547"
+        },
+        {
+          "id": 10702,
+          "text": "In January 1557"
+        },
+        {
+          "id": 10703,
+          "text": "In February 1547"
+        },
+        {
+          "id": 10704,
+          "text": "In February 1557"
+        }
+      ]
+    },
+    {
+      "id": 9702,
+      "text": "Which of the following lines from Shakespeare’s plays and poems is often still quoted?",
+      "explanation": "‘The darling buds of May’is a line from William Shakespeare’s play Sonnet 18 – Shall I Compare Thee To A Summer’s Day.",
+      "computed_correct_option_ids": [
+        10711
+      ],
+      "options": [
+        {
+          "id": 10711,
+          "text": "The Darling buds of May"
+        },
+        {
+          "id": 10712,
+          "text": "I have nothing to offer but blood, toil, tears and sweat"
+        },
+        {
+          "id": 10713,
+          "text": "Long live our noble King"
+        },
+        {
+          "id": 10714,
+          "text": "God save the King"
+        }
+      ]
+    },
+    {
+      "id": 9703,
+      "text": "Which TWO of the following are fundamental principles of British life?",
+      "explanation": "Tolerance of those with different faiths and beliefs and the rule of laware fundamental principles of British life.",
+      "computed_correct_option_ids": [
+        10721,
+        10723
+      ],
+      "options": [
+        {
+          "id": 10721,
+          "text": "Tolerance of those with different faiths and beliefs"
+        },
+        {
+          "id": 10722,
+          "text": "Buying food from local business"
+        },
+        {
+          "id": 10723,
+          "text": "The rule of law"
+        },
+        {
+          "id": 10724,
+          "text": "Doing the military service"
+        }
+      ]
+    },
+    {
+      "id": 9704,
+      "text": "What is the capital city of the UK?",
+      "explanation": "The capital city of the UK isLondon.",
+      "computed_correct_option_ids": [
+        10733
+      ],
+      "options": [
+        {
+          "id": 10731,
+          "text": "Manchester"
+        },
+        {
+          "id": 10732,
+          "text": "Liverpool"
+        },
+        {
+          "id": 10733,
+          "text": "London"
+        },
+        {
+          "id": 10734,
+          "text": "Cambridge"
+        }
+      ]
+    },
+    {
+      "id": 9705,
+      "text": "Which of the following statements about Mary, Queen of Scotland, is NOT true?",
+      "explanation": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic.",
+      "computed_correct_option_ids": [
+        10742
+      ],
+      "options": [
+        {
+          "id": 10741,
+          "text": "She spent most of her childhood in France"
+        },
+        {
+          "id": 10742,
+          "text": "She was a Protestant"
+        },
+        {
+          "id": 10743,
+          "text": "She gave her throne to her Protestant son, James VI of Scotland."
+        },
+        {
+          "id": 10744,
+          "text": "She was kept her prisoner for 20 years"
+        }
+      ]
+    },
+    {
+      "id": 9706,
+      "text": "When did Ireland become unified with England, Wales and Scotland?",
+      "explanation": "In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland.",
+      "computed_correct_option_ids": [
+        10751
+      ],
+      "options": [
+        {
+          "id": 10751,
+          "text": "In 1801"
+        },
+        {
+          "id": 10752,
+          "text": "In 1811"
+        },
+        {
+          "id": 10753,
+          "text": "In 1901"
+        },
+        {
+          "id": 10754,
+          "text": "In 1925"
+        }
+      ]
+    },
+    {
+      "id": 9707,
+      "text": "What is Hogmanay?",
+      "explanation": "In Scotland, the 31st of December is called Hogmanay.",
+      "computed_correct_option_ids": [
+        10762
+      ],
+      "options": [
+        {
+          "id": 10761,
+          "text": "The equivalent of Christmas Day in Scotland"
+        },
+        {
+          "id": 10762,
+          "text": "The equivalent of New Year’s Eve in Scotland"
+        },
+        {
+          "id": 10763,
+          "text": "The equivalent of Christmas Day in Wales"
+        },
+        {
+          "id": 10764,
+          "text": "The equivalent of New Year’s Eve in Wales"
+        }
+      ]
+    },
+    {
+      "id": 9708,
+      "text": "The devolved administrations of Wales, Scotland and Northern Ireland each have their own civil service:",
+      "explanation": "The devolved administrations each have their own civil service.",
+      "computed_correct_option_ids": [
+        10771
+      ],
+      "options": [
+        {
+          "id": 10771,
+          "text": "True"
+        },
+        {
+          "id": 10772,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9709,
+      "text": "On Remembrance Day, there is a two-minute silence at 11 AM to commemorate those who died fighting during the First World War.",
+      "explanation": "On Remembrance Day at 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+      "computed_correct_option_ids": [
+        10781
+      ],
+      "options": [
+        {
+          "id": 10781,
+          "text": "True"
+        },
+        {
+          "id": 10782,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9710,
+      "text": "What is the distance between the north coast of Scotland and the south-west corner of England?",
+      "explanation": "In the UK, the longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about870 miles(approximately 1,400 kilometres).",
+      "computed_correct_option_ids": [
+        10794
+      ],
+      "options": [
+        {
+          "id": 10791,
+          "text": "470 miles"
+        },
+        {
+          "id": 10792,
+          "text": "490 miles"
+        },
+        {
+          "id": 10793,
+          "text": "840 miles"
+        },
+        {
+          "id": 10794,
+          "text": "870 miles"
+        }
+      ]
+    },
+    {
+      "id": 9711,
+      "text": "Who was Henry Purcell?",
+      "explanation": "Henry Purcell (1659-95) wasthe organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe.",
+      "computed_correct_option_ids": [
+        10802
+      ],
+      "options": [
+        {
+          "id": 10801,
+          "text": "A German-born composer"
+        },
+        {
+          "id": 10802,
+          "text": "An organist at Westminster Abbey"
+        },
+        {
+          "id": 10803,
+          "text": "An opera composer"
+        },
+        {
+          "id": 10804,
+          "text": "A jazz musician"
+        }
+      ]
+    },
+    {
+      "id": 9712,
+      "text": "How are life peers appointed?",
+      "explanation": "Life peers are appointedby the monarch on the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        10811
+      ],
+      "options": [
+        {
+          "id": 10811,
+          "text": "By the monarch on the advice of the Prime Minister"
+        },
+        {
+          "id": 10812,
+          "text": "By the Prime Minister on the advice of the King"
+        },
+        {
+          "id": 10813,
+          "text": "By the shadow cabinet"
+        },
+        {
+          "id": 10814,
+          "text": "By the MPs"
+        }
+      ]
+    },
+    {
+      "id": 9713,
+      "text": "Where is the Giant’s Causeway located?",
+      "explanation": "The Giant’s Causeway is locatedon the north-east coast of Northern Ireland.",
+      "computed_correct_option_ids": [
+        10821
+      ],
+      "options": [
+        {
+          "id": 10821,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 10822,
+          "text": "Scotland"
+        },
+        {
+          "id": 10823,
+          "text": "South-east coast of Wales"
+        },
+        {
+          "id": 10824,
+          "text": "South-west coast of England"
+        }
+      ]
+    },
+    {
+      "id": 9714,
+      "text": "Who proposed that enemy aircrafts could be detected by radio waves and is responsible for the development of the radar?",
+      "explanation": "The radar was developed by ScotsmanSir Robert Watson-Watt(1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+      "computed_correct_option_ids": [
+        10831
+      ],
+      "options": [
+        {
+          "id": 10831,
+          "text": "Sir Robert Watson-Watt"
+        },
+        {
+          "id": 10832,
+          "text": "John McLeod"
+        },
+        {
+          "id": 10833,
+          "text": "John Logie Baird"
+        },
+        {
+          "id": 10834,
+          "text": "Alan Turing"
+        }
+      ]
+    },
+    {
+      "id": 9715,
+      "text": "During Halloween people carve lanterns out of ______ and put a candle inside of them.",
+      "explanation": "During Halloween people carve lanterns out ofpumpkinsand put a candle inside of them.",
+      "computed_correct_option_ids": [
+        10841
+      ],
+      "options": [
+        {
+          "id": 10841,
+          "text": "Pumpkins"
+        },
+        {
+          "id": 10842,
+          "text": "Aubergines"
+        },
+        {
+          "id": 10843,
+          "text": "Clay"
+        },
+        {
+          "id": 10844,
+          "text": "Potatoes"
+        }
+      ]
+    },
+    {
+      "id": 9716,
+      "text": "In England, Wales and Northern Ireland, if an accused person is aged 18, the case will be heard in a Youth Court:",
+      "explanation": "In England, Wales and Northern Ireland, if an accused person isaged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge.",
+      "computed_correct_option_ids": [
+        10851
+      ],
+      "options": [
+        {
+          "id": 10851,
+          "text": "True"
+        },
+        {
+          "id": 10852,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9717,
+      "text": "The Prime Minister appoints about 40 senior MPs to become ministers in charge of departments.",
+      "explanation": "The Prime Minister appointsabout 20 senior MPsto become ministers in charge of departments.",
+      "computed_correct_option_ids": [
+        10861
+      ],
+      "options": [
+        {
+          "id": 10861,
+          "text": "True"
+        },
+        {
+          "id": 10862,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9718,
+      "text": "Royal Ascot is a four-day horse race meeting in Berkshire attended by members of the Royal Family:",
+      "explanation": "Royal Ascot,a five-day race meetingin Berkshire attended by members of the Royal Family.",
+      "computed_correct_option_ids": [
+        10872
+      ],
+      "options": [
+        {
+          "id": 10871,
+          "text": "True"
+        },
+        {
+          "id": 10872,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9719,
+      "text": "Who sat at the House of Lords during the Middle Ages?",
+      "explanation": "During the Middle Ages,great landowners and bishopssat in the House of Lords.",
+      "computed_correct_option_ids": [
+        10881
+      ],
+      "options": [
+        {
+          "id": 10881,
+          "text": "Great landowners and bishops"
+        },
+        {
+          "id": 10882,
+          "text": "Knights, who were usually smaller landowners"
+        },
+        {
+          "id": 10883,
+          "text": "Wealthy people from towns and cities"
+        },
+        {
+          "id": 10884,
+          "text": "Farmers and blacksmiths"
+        }
+      ]
+    },
+    {
+      "id": 9720,
+      "text": "Which of the following statements regarding Scottish television is TRUE?",
+      "explanation": "In Scotland, some Scotland-specific programmes are shown andthere is also a channel with programmes in the Gaelic language.",
+      "computed_correct_option_ids": [
+        10891
+      ],
+      "options": [
+        {
+          "id": 10891,
+          "text": "There is a channel with programmes in the Gaelic language"
+        },
+        {
+          "id": 10892,
+          "text": "There are three channels in the Gaelic language"
+        },
+        {
+          "id": 10893,
+          "text": "All programmes are broadcasted in English"
+        },
+        {
+          "id": 10894,
+          "text": "There are no specific programmes to Scotland"
+        }
+      ]
+    },
+    {
+      "id": 9721,
+      "text": "Where does the biggest and most well-known Fringe Festival take place?",
+      "explanation": "The biggest and most well-known Fringe Festival is theEdinburgh Festival Fringe.",
+      "computed_correct_option_ids": [
+        10903
+      ],
+      "options": [
+        {
+          "id": 10901,
+          "text": "Cambridge"
+        },
+        {
+          "id": 10902,
+          "text": "Oxford"
+        },
+        {
+          "id": 10903,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 10904,
+          "text": "Cardiff"
+        }
+      ]
+    },
+    {
+      "id": 9722,
+      "text": "The UN was set up after the First World War and aims to prevent war and promote international peace and security:",
+      "explanation": "The UN was set upafter the Second World Warand aims to prevent war and promote international peace and security.",
+      "computed_correct_option_ids": [
+        10912
+      ],
+      "options": [
+        {
+          "id": 10911,
+          "text": "True"
+        },
+        {
+          "id": 10912,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 9723,
+      "text": "Which of the following countries was NOT part of the Central Powers during the First World War?",
+      "explanation": "During the First World WarSerbia formed part of the Allied powers.",
+      "computed_correct_option_ids": [
+        10922
+      ],
+      "options": [
+        {
+          "id": 10921,
+          "text": "Germany"
+        },
+        {
+          "id": 10922,
+          "text": "Serbia"
+        },
+        {
+          "id": 10923,
+          "text": "Austria"
+        },
+        {
+          "id": 10924,
+          "text": "Hungary"
+        }
+      ]
+    },
+    {
+      "id": 9724,
+      "text": "What is played at important national occasions and at events attended by the King or the Royal Family?",
+      "explanation": "The National Anthemof the UK is ‘God Save the King’ is played at important national occasions and at events attended by the King or the Royal Family.",
+      "computed_correct_option_ids": [
+        10933
+      ],
+      "options": [
+        {
+          "id": 10931,
+          "text": "Folk music"
+        },
+        {
+          "id": 10932,
+          "text": "The Beatles"
+        },
+        {
+          "id": 10933,
+          "text": "The National Anthem"
+        },
+        {
+          "id": 10934,
+          "text": "Opera music"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "id": 386,
+  "name": "Life in the UK Test 28",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 34,
+      "text": "What was the population of the UK in 1901?",
+      "explanation": "The population of the UK was 40 million in 1901.",
+      "computed_correct_option_ids": [
+        129
+      ],
+      "options": [
+        {
+          "id": 132,
+          "text": "27 million"
+        },
+        {
+          "id": 129,
+          "text": "40 million"
+        },
+        {
+          "id": 130,
+          "text": "50 million"
+        },
+        {
+          "id": 131,
+          "text": "60 million"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "When is Halloween celebrated?",
+      "explanation": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play 'trick or treat'. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+      "computed_correct_option_ids": [
+        337
+      ],
+      "options": [
+        {
+          "id": 337,
+          "text": "31st of October"
+        },
+        {
+          "id": 338,
+          "text": "30th of October"
+        },
+        {
+          "id": 339,
+          "text": "30th of November"
+        },
+        {
+          "id": 340,
+          "text": "31st of November"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "text": "When was the first coin in Britain made?",
+      "explanation": "The Iron Age people made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
+      "computed_correct_option_ids": [
+        401
+      ],
+      "options": [
+        {
+          "id": 401,
+          "text": "The Iron age"
+        },
+        {
+          "id": 402,
+          "text": "The Stone age"
+        },
+        {
+          "id": 403,
+          "text": "The Gold age"
+        },
+        {
+          "id": 404,
+          "text": "The Middle ages"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "text": "What programme helps teenagers develop their skills?",
+      "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+      "computed_correct_option_ids": [
+        765
+      ],
+      "options": [
+        {
+          "id": 767,
+          "text": "Youth Opportunities"
+        },
+        {
+          "id": 766,
+          "text": "The Teenage Programme"
+        },
+        {
+          "id": 765,
+          "text": "The National Citizen Service"
+        },
+        {
+          "id": 768,
+          "text": "The Youth Development Service"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "text": "Where does the Scottish Grand National take place?",
+      "explanation": "Famous horse-racing events include: Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family; the Grand National at Aintree near Liverpool; and the Scottish Grand National at Ayr. There is a National Horseracing Museum in Newmarket, Suffolk.",
+      "computed_correct_option_ids": [
+        821
+      ],
+      "options": [
+        {
+          "id": 821,
+          "text": "Ayr"
+        },
+        {
+          "id": 823,
+          "text": "Berkshire"
+        },
+        {
+          "id": 822,
+          "text": "Aintree"
+        },
+        {
+          "id": 824,
+          "text": "The borders"
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "text": "When were women given the right to vote at the age of 18?",
+      "explanation": "By 1918, the voting franchise was extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+      "computed_correct_option_ids": [
+        1133
+      ],
+      "options": [
+        {
+          "id": 1136,
+          "text": "1959"
+        },
+        {
+          "id": 1133,
+          "text": "1969"
+        },
+        {
+          "id": 1134,
+          "text": "1918"
+        },
+        {
+          "id": 1135,
+          "text": "1928"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "text": "Which of these words is based on Norman words?",
+      "explanation": "Some words in modern English - for example, 'park' and 'beauty' - are based on Norman French words. Others - for example, 'apple', 'cow' and 'summer' - are based on Anglo-Saxon words.",
+      "computed_correct_option_ids": [
+        1165
+      ],
+      "options": [
+        {
+          "id": 1168,
+          "text": "Apple"
+        },
+        {
+          "id": 1167,
+          "text": "Summer"
+        },
+        {
+          "id": 1166,
+          "text": "Cow"
+        },
+        {
+          "id": 1165,
+          "text": "Park"
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "text": "Where is the Hadrian Wall?",
+      "explanation": "Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+      "computed_correct_option_ids": [
+        1317
+      ],
+      "options": [
+        {
+          "id": 1319,
+          "text": "In the north of Wales"
+        },
+        {
+          "id": 1320,
+          "text": "In the north of Ireland"
+        },
+        {
+          "id": 1318,
+          "text": "In the north of Scotland"
+        },
+        {
+          "id": 1317,
+          "text": "In the north of England"
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "text": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries",
+      "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries.",
+      "computed_correct_option_ids": [
+        1561
+      ],
+      "options": [
+        {
+          "id": 1561,
+          "text": "True"
+        },
+        {
+          "id": 1562,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "text": "Puritans are a group of Catholics who advocate complex religious doctrine and worship",
+      "explanation": "Puritans, a group of Protestants who advocated strict and simple religious doctrine and worship.",
+      "computed_correct_option_ids": [
+        1750
+      ],
+      "options": [
+        {
+          "id": 1750,
+          "text": "False"
+        },
+        {
+          "id": 1749,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "text": "Who mapped the coast of Australia?",
+      "explanation": "Captain James Cook mapped the coast of Australia and a few colonies were established there. Britain gained control over Canada, and the East India Company, originally set up to trade, gained control of large parts of India.",
+      "computed_correct_option_ids": [
+        1810
+      ],
+      "options": [
+        {
+          "id": 1809,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 1810,
+          "text": "James Cook"
+        },
+        {
+          "id": 1811,
+          "text": "Sir Francis Drake"
+        },
+        {
+          "id": 1812,
+          "text": "Sir Francis George"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "text": "Easter eggs are often given as presents at Easter as a symbol of new life",
+      "explanation": "Easter is also celebrated by people who are not religious. 'Easter eggs' are chocolate eggs often given as presents at Easter as a symbol of new life.",
+      "computed_correct_option_ids": [
+        2041
+      ],
+      "options": [
+        {
+          "id": 2041,
+          "text": "True"
+        },
+        {
+          "id": 2042,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "text": "How many counties in Ireland remained in the UK under Northern Ireland?",
+      "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+      "computed_correct_option_ids": [
+        2114
+      ],
+      "options": [
+        {
+          "id": 2115,
+          "text": "9"
+        },
+        {
+          "id": 2116,
+          "text": "12"
+        },
+        {
+          "id": 2113,
+          "text": "3"
+        },
+        {
+          "id": 2114,
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "text": "Why is 1969 a very important year in British history?",
+      "explanation": "The voting franchise was also extended to women over 30, and then in 1928 to men and women over 21. In 1969, the voting age was reduced to 18 for men and women.",
+      "computed_correct_option_ids": [
+        2128
+      ],
+      "options": [
+        {
+          "id": 2126,
+          "text": "Women were given the right to vote at the age of 30"
+        },
+        {
+          "id": 2128,
+          "text": "Women were given the right to vote at the age of 18"
+        },
+        {
+          "id": 2127,
+          "text": "Women were given the right to vote at the age of 21, same as men"
+        },
+        {
+          "id": 2125,
+          "text": "Women were given the right to vote"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "text": "Blood and organ donations are compulsory in the UK",
+      "explanation": "it's a donation, thus its not compulsory. Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do.",
+      "computed_correct_option_ids": [
+        2176
+      ],
+      "options": [
+        {
+          "id": 2176,
+          "text": "False"
+        },
+        {
+          "id": 2175,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "text": "How can you help looking after the environment?",
+      "explanation": "It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.",
+      "computed_correct_option_ids": [
+        2184
+      ],
+      "options": [
+        {
+          "id": 2183,
+          "text": "Studying your area"
+        },
+        {
+          "id": 2184,
+          "text": "Recycling your waste"
+        },
+        {
+          "id": 2181,
+          "text": "Going shopping carefully"
+        },
+        {
+          "id": 2182,
+          "text": "Not smoking in public"
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "text": "Which TWO industries developed during the Great Depression?",
+      "explanation": "During the Great Depression (1929),he traditional heavy industries such as shipbuilding were badly affected but new industries - including the automobile and aviation industries - developed.",
+      "computed_correct_option_ids": [
+        2973,
+        2974
+      ],
+      "options": [
+        {
+          "id": 2975,
+          "text": "Agriculture"
+        },
+        {
+          "id": 2976,
+          "text": "Shipbuilding"
+        },
+        {
+          "id": 2973,
+          "text": "Automobile"
+        },
+        {
+          "id": 2974,
+          "text": "Aviation"
+        }
+      ]
+    },
+    {
+      "id": 831,
+      "text": "What is the currency used in the UK?",
+      "explanation": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound.",
+      "computed_correct_option_ids": [
+        3055
+      ],
+      "options": [
+        {
+          "id": 3056,
+          "text": "Euro"
+        },
+        {
+          "id": 3057,
+          "text": "Dollars"
+        },
+        {
+          "id": 3055,
+          "text": "Pound sterling"
+        },
+        {
+          "id": 3058,
+          "text": "Gold"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "text": "Which TWO are associated with the 'Dunkirk Spirit'?",
+      "explanation": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+      "computed_correct_option_ids": [
+        3123,
+        3125
+      ],
+      "options": [
+        {
+          "id": 3125,
+          "text": "Small boats coming to the rescue"
+        },
+        {
+          "id": 3126,
+          "text": "Invasion of Berlin on May 9"
+        },
+        {
+          "id": 3123,
+          "text": "The rescue of 300,000 men"
+        },
+        {
+          "id": 3124,
+          "text": "Landings on D-Day"
+        }
+      ]
+    },
+    {
+      "id": 865,
+      "text": "George Frederick wrote which oratorio, which is sung regularly by choirs, often at Easter time?",
+      "explanation": "The German-born composer George Frideric Handel (1695-1759) spent many years in the UK and became a British citizen in 1727. He wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II. Both these pieces continue to be very popular. Handel also wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time.",
+      "computed_correct_option_ids": [
+        3171
+      ],
+      "options": [
+        {
+          "id": 3172,
+          "text": "Elijah"
+        },
+        {
+          "id": 3171,
+          "text": "Messiah"
+        },
+        {
+          "id": 3173,
+          "text": "The Light of the Moon"
+        },
+        {
+          "id": 3174,
+          "text": "The Origin"
+        }
+      ]
+    },
+    {
+      "id": 921,
+      "text": "How many ski centres are there in Scotland?",
+      "explanation": "There are five ski centres in Scotland, as well as Europe's longest dry ski slope near Edinburgh.",
+      "computed_correct_option_ids": [
+        3365
+      ],
+      "options": [
+        {
+          "id": 3366,
+          "text": "13"
+        },
+        {
+          "id": 3363,
+          "text": "1"
+        },
+        {
+          "id": 3364,
+          "text": "2"
+        },
+        {
+          "id": 3365,
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "id": 944,
+      "text": "What type of literature are 'The Canterbury Tales' written by Geoffrey Chaucer?",
+      "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales. It was one of the first books to be printed by William Caxton, the first person in England to print books using a printing press. Many of the stories are still popular. Some have been made into plays and television programmes.",
+      "computed_correct_option_ids": [
+        3434
+      ],
+      "options": [
+        {
+          "id": 3433,
+          "text": "Sonnets"
+        },
+        {
+          "id": 3434,
+          "text": "Poems"
+        },
+        {
+          "id": 3432,
+          "text": "Plays"
+        },
+        {
+          "id": 3431,
+          "text": "Novels"
+        }
+      ]
+    },
+    {
+      "id": 954,
+      "text": "The Scottish Parliament has 33 members",
+      "explanation": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation. The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament.",
+      "computed_correct_option_ids": [
+        3464
+      ],
+      "options": [
+        {
+          "id": 3464,
+          "text": "False"
+        },
+        {
+          "id": 3463,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1056,
+      "text": "What did the Queen Elizabeth II celebrate in 2012?",
+      "explanation": "Queen Elizabeth II celebrated her Diamond Jubilee in 2012. The clock tower 'Big Ben' was named 'Elizabeth Tower' in honour of this event.",
+      "computed_correct_option_ids": [
+        3821
+      ],
+      "options": [
+        {
+          "id": 3824,
+          "text": "Silver Jubilee"
+        },
+        {
+          "id": 3822,
+          "text": "Platinum Jubilee"
+        },
+        {
+          "id": 3821,
+          "text": "Diamond Jubilee"
+        },
+        {
+          "id": 3823,
+          "text": "Gold Jubilee"
+        }
+      ]
+    }
+  ]
+}

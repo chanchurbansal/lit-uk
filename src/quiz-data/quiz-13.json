@@ -1,0 +1,610 @@
+{
+  "id": 371,
+  "name": "Life in the UK Test 13",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 66,
+      "text": "Who is the head of the Church of England?",
+      "explanation": "The monarch is the head of the Church of England. The spiritual leader of the Church of England is the Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        257
+      ],
+      "options": [
+        {
+          "id": 260,
+          "text": "The Duke of Edinburgh"
+        },
+        {
+          "id": 257,
+          "text": "The Monarch"
+        },
+        {
+          "id": 258,
+          "text": "The Pope"
+        },
+        {
+          "id": 259,
+          "text": "The Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "text": "Who ordered to write the Book of Common Prayer?",
+      "explanation": "Henry VIII was succeeded by his son Edward VI, who was strongly Protestant. During his reign, the Book of Common Prayer was written to be used in the Church of England.",
+      "computed_correct_option_ids": [
+        513
+      ],
+      "options": [
+        {
+          "id": 513,
+          "text": "Edward VI"
+        },
+        {
+          "id": 516,
+          "text": "Queen Mary"
+        },
+        {
+          "id": 515,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 514,
+          "text": "Henry VII"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "text": "What was the main crop in Ireland in the 19th century?",
+      "explanation": "In the 19th century, many people in Ireland depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+      "computed_correct_option_ids": [
+        913
+      ],
+      "options": [
+        {
+          "id": 914,
+          "text": "Tomato"
+        },
+        {
+          "id": 913,
+          "text": "Potato"
+        },
+        {
+          "id": 916,
+          "text": "Wheat"
+        },
+        {
+          "id": 915,
+          "text": "Cucumber"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "text": "What was the most important principle of the Enlightenment?",
+      "explanation": "One of the most important principles of the Enlightenment was that everyone should have the right to their own political and religious beliefs and that the state should not try to dictate to them.",
+      "computed_correct_option_ids": [
+        1013
+      ],
+      "options": [
+        {
+          "id": 1014,
+          "text": "New technological advances"
+        },
+        {
+          "id": 1013,
+          "text": "Freedom of religion and political views"
+        },
+        {
+          "id": 1016,
+          "text": "Constitutional democracy"
+        },
+        {
+          "id": 1015,
+          "text": "Complete democracy"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "text": "Which of the events is the landing of allied forces in Normandy?",
+      "explanation": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as 'D-Day').",
+      "computed_correct_option_ids": [
+        1025
+      ],
+      "options": [
+        {
+          "id": 1028,
+          "text": "The Dunkirk spirit"
+        },
+        {
+          "id": 1025,
+          "text": "D-Day"
+        },
+        {
+          "id": 1026,
+          "text": "The Blitz"
+        },
+        {
+          "id": 1027,
+          "text": "The Battle of Britain"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "text": "What did R. A. Butler introduce?",
+      "explanation": "R.A. Butler oversaw the introduction of the Education Act 1944 (often called 'The Butler Act'), which introduced free secondary education in England and Wales.",
+      "computed_correct_option_ids": [
+        1442
+      ],
+      "options": [
+        {
+          "id": 1443,
+          "text": "Free college education in Scotland"
+        },
+        {
+          "id": 1441,
+          "text": "Free primary education in Wales"
+        },
+        {
+          "id": 1442,
+          "text": "Free secondary education in England"
+        },
+        {
+          "id": 1444,
+          "text": "Free university education in the UK"
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "text": "Who is considered ineligible to do jury service?",
+      "explanation": "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+      "computed_correct_option_ids": [
+        1499
+      ],
+      "options": [
+        {
+          "id": 1500,
+          "text": "Judges"
+        },
+        {
+          "id": 1502,
+          "text": "Members of Parliament"
+        },
+        {
+          "id": 1501,
+          "text": "Police"
+        },
+        {
+          "id": 1499,
+          "text": "Anyone with a criminal conviction"
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "text": "In which year was the first Union Flag created?",
+      "explanation": "The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England.",
+      "computed_correct_option_ids": [
+        1761
+      ],
+      "options": [
+        {
+          "id": 1764,
+          "text": "1801"
+        },
+        {
+          "id": 1761,
+          "text": "1606"
+        },
+        {
+          "id": 1762,
+          "text": "1707"
+        },
+        {
+          "id": 1763,
+          "text": "1800"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "text": "What is the correct order of the Patron Saints' Days? (Starting from January)",
+      "explanation": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday. Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.",
+      "computed_correct_option_ids": [
+        1958
+      ],
+      "options": [
+        {
+          "id": 1960,
+          "text": "St David's Day, St Patrick's Day, St Andrew's Day, St George's Day"
+        },
+        {
+          "id": 1957,
+          "text": "St George's Day, St David's Day, St Patrick's Day, St Andrew's Day"
+        },
+        {
+          "id": 1958,
+          "text": "St David's Day, St Patrick's Day, St George's Day, St Andrew's Day"
+        },
+        {
+          "id": 1959,
+          "text": "St Patrick's Day, St David's Day, St Andrew's Day, St George's Day"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "text": "In the 20th century, what did Sir Edwin Lutyens design to be the seat of government in India?",
+      "explanation": "In the 20th century, Sir Edwin Lutyens had an influence throughout the British Empire. He designed New Delhi to be the seat of government in India. After the First World War, he was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall.",
+      "computed_correct_option_ids": [
+        1976
+      ],
+      "options": [
+        {
+          "id": 1977,
+          "text": "Bangalore"
+        },
+        {
+          "id": 1975,
+          "text": "Mumbai"
+        },
+        {
+          "id": 1976,
+          "text": "New Delhi"
+        },
+        {
+          "id": 1978,
+          "text": "Kolkata"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "text": "Select TWO early members of the Royal Society",
+      "explanation": "Charles II was interested in science. During his reign, the Royal Society was formed to promote 'natural knowledge'. This is the oldest surviving scientific society in the world. Among its early members were Sir Edmund Halley, who successfully predicted the return of the comet now called Halley's Comet, and Sir Isaac Newton.",
+      "computed_correct_option_ids": [
+        1981,
+        1983
+      ],
+      "options": [
+        {
+          "id": 1981,
+          "text": "Sir Edmund Halley"
+        },
+        {
+          "id": 1984,
+          "text": "Sir Geoffrey Chaucer"
+        },
+        {
+          "id": 1983,
+          "text": "Sir Isaac Newton"
+        },
+        {
+          "id": 1982,
+          "text": "Sir William Shakespeare"
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "text": "Who resides in 10 Downing Street?",
+      "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers.",
+      "computed_correct_option_ids": [
+        2061
+      ],
+      "options": [
+        {
+          "id": 2061,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 2064,
+          "text": "King Charles III"
+        },
+        {
+          "id": 2063,
+          "text": "The President"
+        },
+        {
+          "id": 2062,
+          "text": "The Speaker"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "text": "What is Boxing Day?(Choose TWO)",
+      "explanation": "Boxing Day is the day after Christmas Day and is a public holiday.",
+      "computed_correct_option_ids": [
+        2298,
+        2299
+      ],
+      "options": [
+        {
+          "id": 2299,
+          "text": "The day after Christmas Day"
+        },
+        {
+          "id": 2297,
+          "text": "When people watch boxing championship"
+        },
+        {
+          "id": 2298,
+          "text": "A public holiday"
+        },
+        {
+          "id": 2300,
+          "text": "The day before New Year"
+        }
+      ]
+    },
+    {
+      "id": 614,
+      "text": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development",
+      "explanation": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.",
+      "computed_correct_option_ids": [
+        2319
+      ],
+      "options": [
+        {
+          "id": 2320,
+          "text": "False"
+        },
+        {
+          "id": 2319,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "text": "Where were the MacDonalds of Glencoe originally from?",
+      "explanation": "All Scottish clans were required formally to accept William as king by taking an oath. The MacDonalds of Glencoe were late in taking the oath and were all killed. The memory of this massacre meant some Scots distrusted the new government.",
+      "computed_correct_option_ids": [
+        2616
+      ],
+      "options": [
+        {
+          "id": 2616,
+          "text": "Scotland"
+        },
+        {
+          "id": 2617,
+          "text": "England"
+        },
+        {
+          "id": 2618,
+          "text": "Wales"
+        },
+        {
+          "id": 2615,
+          "text": "Ireland"
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "text": "You should respect someone's right in court. In return, you are offered the right to a fair trial.",
+      "explanation": "You should always respect everyone rights in court. Vise versa everyone should respect your rights.",
+      "computed_correct_option_ids": [
+        2783
+      ],
+      "options": [
+        {
+          "id": 2784,
+          "text": "False"
+        },
+        {
+          "id": 2783,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "text": "Which of these countries did NOT fight on the side of the Allied Powers during the First World War?",
+      "explanation": "The Allies fought against the Central Powers - mainly Germany, the Austro-Hungarian Empire, the Ottoman Empire and later Bulgaria.",
+      "computed_correct_option_ids": [
+        2800
+      ],
+      "options": [
+        {
+          "id": 2802,
+          "text": "USA"
+        },
+        {
+          "id": 2799,
+          "text": "Italy"
+        },
+        {
+          "id": 2800,
+          "text": "Bulgaria"
+        },
+        {
+          "id": 2801,
+          "text": "Serbia"
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "text": "In the Church of Scotland, who is the Moderator?",
+      "explanation": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+      "computed_correct_option_ids": [
+        2806
+      ],
+      "options": [
+        {
+          "id": 2806,
+          "text": "The chairperson of the General Assembly, who is appointed for one year only and often speaks on behalf of the Church"
+        },
+        {
+          "id": 2805,
+          "text": "A key figure who is responsible for all relations with the Church of England"
+        },
+        {
+          "id": 2803,
+          "text": "A financial overseer who has overall responsibility for the accounts of the Church"
+        },
+        {
+          "id": 2804,
+          "text": "The spiritual leader of the Church, who is appointed for life"
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "text": "What is the name of the first major railway built in Britain?",
+      "explanation": "The Great Western Railway is the name of the first major railway built in Britain.",
+      "computed_correct_option_ids": [
+        2999
+      ],
+      "options": [
+        {
+          "id": 2999,
+          "text": "The Great Western Railway"
+        },
+        {
+          "id": 3001,
+          "text": "Southern Railway"
+        },
+        {
+          "id": 3002,
+          "text": "Victorian Rail"
+        },
+        {
+          "id": 3000,
+          "text": "Blue Rail"
+        }
+      ]
+    },
+    {
+      "id": 949,
+      "text": "The UK has a declining elderly population",
+      "explanation": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+      "computed_correct_option_ids": [
+        3450
+      ],
+      "options": [
+        {
+          "id": 3449,
+          "text": "True"
+        },
+        {
+          "id": 3450,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "text": "The Man Booker Prize is awarded in which area?",
+      "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes.",
+      "computed_correct_option_ids": [
+        3679
+      ],
+      "options": [
+        {
+          "id": 3680,
+          "text": "Movies"
+        },
+        {
+          "id": 3679,
+          "text": "Literature"
+        },
+        {
+          "id": 3682,
+          "text": "Music"
+        },
+        {
+          "id": 3681,
+          "text": "Theatre"
+        }
+      ]
+    },
+    {
+      "id": 1035,
+      "text": "Which two things should you do if you wish to be a permanent resident or citizen of the UK?",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law; respect the rights of others, including their right to their own opinions; treat others with fairness; look after yourself and your family; look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        3745,
+        3746
+      ],
+      "options": [
+        {
+          "id": 3747,
+          "text": "Look after the roads"
+        },
+        {
+          "id": 3748,
+          "text": "Look after your stairs"
+        },
+        {
+          "id": 3745,
+          "text": "Look after the area in which you live and the environment"
+        },
+        {
+          "id": 3746,
+          "text": "Look after yourself and your family"
+        }
+      ]
+    },
+    {
+      "id": 1051,
+      "text": "Christmas Day, which celebrates the birth of Jesus Christ, is on which day?",
+      "explanation": "Christmas Day, 25 December, celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.",
+      "computed_correct_option_ids": [
+        3803
+      ],
+      "options": [
+        {
+          "id": 3804,
+          "text": "26-Dec"
+        },
+        {
+          "id": 3806,
+          "text": "01-Jan"
+        },
+        {
+          "id": 3805,
+          "text": "31-Dec"
+        },
+        {
+          "id": 3803,
+          "text": "25-Dec"
+        }
+      ]
+    },
+    {
+      "id": 1068,
+      "text": "What term arose after the evacuation of 300,000 people from the beaches?",
+      "explanation": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
+      "computed_correct_option_ids": [
+        3869
+      ],
+      "options": [
+        {
+          "id": 3870,
+          "text": "The British spirit"
+        },
+        {
+          "id": 3872,
+          "text": "The Blitz spirit"
+        },
+        {
+          "id": 3871,
+          "text": "D-Day"
+        },
+        {
+          "id": 3869,
+          "text": "The Dunkirk spirit"
+        }
+      ]
+    }
+  ]
+}

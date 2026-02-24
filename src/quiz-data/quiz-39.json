@@ -1,0 +1,619 @@
+{
+  "id": 397,
+  "name": "Life in the UK Test 39",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 43,
+      "text": "What is the monarch's ceremonial role?",
+      "explanation": "The Monarch has important ceremonial roles, such as the opening of the new parliamentary session each year.",
+      "computed_correct_option_ids": [
+        165
+      ],
+      "options": [
+        {
+          "id": 168,
+          "text": "Making parliamentary policies"
+        },
+        {
+          "id": 165,
+          "text": "Opening a parliamentary session"
+        },
+        {
+          "id": 166,
+          "text": "Travelling abroad for banquets and to negotiate with foreign dignitaries"
+        },
+        {
+          "id": 167,
+          "text": "Travelling in the UK"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Under which king did the people unite to defeat the Vikings?",
+      "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings.",
+      "computed_correct_option_ids": [
+        209
+      ],
+      "options": [
+        {
+          "id": 212,
+          "text": "Harold"
+        },
+        {
+          "id": 209,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 210,
+          "text": "Henry I"
+        },
+        {
+          "id": 211,
+          "text": "King William"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "What did the first farmers build in Britain?",
+      "explanation": "The first farmers built houses, tombs and monuments on the land.",
+      "computed_correct_option_ids": [
+        293
+      ],
+      "options": [
+        {
+          "id": 293,
+          "text": "Houses and Monuments"
+        },
+        {
+          "id": 296,
+          "text": "Hospitals and Roads"
+        },
+        {
+          "id": 295,
+          "text": "Theatres and Houses"
+        },
+        {
+          "id": 294,
+          "text": "Tombs and Stadiums"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "Which operas were written by Gilbert and Sullivan?",
+      "explanation": "Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
+      "computed_correct_option_ids": [
+        341
+      ],
+      "options": [
+        {
+          "id": 343,
+          "text": "Jesus Christ Superstar"
+        },
+        {
+          "id": 341,
+          "text": "HMS Pinafore and The Mikado"
+        },
+        {
+          "id": 342,
+          "text": "Tim Rice and Evita"
+        },
+        {
+          "id": 344,
+          "text": "The Phantom of the Opera"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "text": "What were the working conditions like during the Industrial Revolution?",
+      "explanation": "Working conditions during the Industrial Revolution were very poor. There were no laws to protect employees, who were often forced to work long hours in dangerous situations. Children also worked and were treated in the same way as adults.",
+      "computed_correct_option_ids": [
+        705
+      ],
+      "options": [
+        {
+          "id": 708,
+          "text": "Average"
+        },
+        {
+          "id": 705,
+          "text": "Very Poor"
+        },
+        {
+          "id": 706,
+          "text": "Best in the World"
+        },
+        {
+          "id": 707,
+          "text": "Acceptable"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "text": "Which of these is not a valid bank note?",
+      "explanation": "The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2; notes: £5, £10, £20, £50.",
+      "computed_correct_option_ids": [
+        837
+      ],
+      "options": [
+        {
+          "id": 837,
+          "text": "£100"
+        },
+        {
+          "id": 840,
+          "text": "£5"
+        },
+        {
+          "id": 839,
+          "text": "£20"
+        },
+        {
+          "id": 838,
+          "text": "£50"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "text": "Who is known as William the Conqueror?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
+      "computed_correct_option_ids": [
+        877
+      ],
+      "options": [
+        {
+          "id": 877,
+          "text": "William, the Duke of Normandy"
+        },
+        {
+          "id": 880,
+          "text": "William, the Duke of Lion"
+        },
+        {
+          "id": 879,
+          "text": "William, the Duke of France"
+        },
+        {
+          "id": 878,
+          "text": "William, the Duke of Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "text": "When were the last Welsh rebellions defeated?",
+      "explanation": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced.",
+      "computed_correct_option_ids": [
+        1161
+      ],
+      "options": [
+        {
+          "id": 1164,
+          "text": "14th century"
+        },
+        {
+          "id": 1163,
+          "text": "17th century"
+        },
+        {
+          "id": 1162,
+          "text": "16th century"
+        },
+        {
+          "id": 1161,
+          "text": "15th century"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "text": "The Glorious Revolution was called the 'Glorious revolution' because there was no fighting in England and it guaranteed the power of Parliament",
+      "explanation": "The Glorious Revolution was called the 'Glorious revolution' because there was no fighting in England and it guaranteed the power of Parliament",
+      "computed_correct_option_ids": [
+        1469
+      ],
+      "options": [
+        {
+          "id": 1469,
+          "text": "True"
+        },
+        {
+          "id": 1470,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "text": "Which TWO are compulsory in the UK if you own an old car?",
+      "explanation": "It is an offence not to have an MOT certificate if your vehicle is more than three years old or without car insurance.",
+      "computed_correct_option_ids": [
+        1513,
+        1514
+      ],
+      "options": [
+        {
+          "id": 1516,
+          "text": "Mortgage"
+        },
+        {
+          "id": 1513,
+          "text": "A valid MOT test certificate"
+        },
+        {
+          "id": 1514,
+          "text": "Car insurance"
+        },
+        {
+          "id": 1515,
+          "text": "Life insurance"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "text": "Which of these is a charity working with animals?",
+      "explanation": "People's Dispensary for Sick Animals (PDSA)is the charity that works with animals",
+      "computed_correct_option_ids": [
+        1527
+      ],
+      "options": [
+        {
+          "id": 1526,
+          "text": "Crisis and Shelter"
+        },
+        {
+          "id": 1525,
+          "text": "NSPCC"
+        },
+        {
+          "id": 1527,
+          "text": "PDSA"
+        },
+        {
+          "id": 1528,
+          "text": "Age UK"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "text": "Which of these names was Henry VIII and Anne Boleyn's child's name?",
+      "explanation": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London.",
+      "computed_correct_option_ids": [
+        1622
+      ],
+      "options": [
+        {
+          "id": 1623,
+          "text": "Edward"
+        },
+        {
+          "id": 1621,
+          "text": "Mary"
+        },
+        {
+          "id": 1622,
+          "text": "Elizabeth"
+        },
+        {
+          "id": 1624,
+          "text": "Catherine"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "text": "Who makes a speech which summarises the government's policies for the year ahead?",
+      "explanation": "The Monarch (King Charles III at the time of writing) has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Monarch makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in his name.",
+      "computed_correct_option_ids": [
+        2016
+      ],
+      "options": [
+        {
+          "id": 2015,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 2018,
+          "text": "Local Authorities"
+        },
+        {
+          "id": 2017,
+          "text": "The Cabinet"
+        },
+        {
+          "id": 2016,
+          "text": "The Monarch"
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "text": "Until what time do people play jokes on one another on April Fool's Day?",
+      "explanation": "April Fool's Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes.",
+      "computed_correct_option_ids": [
+        2225
+      ],
+      "options": [
+        {
+          "id": 2223,
+          "text": "Until 9 PM"
+        },
+        {
+          "id": 2224,
+          "text": "Until 11 AM"
+        },
+        {
+          "id": 2226,
+          "text": "All day"
+        },
+        {
+          "id": 2225,
+          "text": "Until Midday"
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "text": "In which UK country can you find the best preserved prehistoric village in northern Europe?",
+      "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+      "computed_correct_option_ids": [
+        2379
+      ],
+      "options": [
+        {
+          "id": 2382,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 2381,
+          "text": "Wales"
+        },
+        {
+          "id": 2380,
+          "text": "England"
+        },
+        {
+          "id": 2379,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "text": "In the middle of the 19th century the potato crop failed, and Ireland suffered a famine",
+      "explanation": "In the middle of the 19th century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation. Another million and a half left Ireland.",
+      "computed_correct_option_ids": [
+        2763
+      ],
+      "options": [
+        {
+          "id": 2763,
+          "text": "True"
+        },
+        {
+          "id": 2764,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "text": "What are the parliaments in Scotland, Wales and Northern Ireland also known as?",
+      "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. These powers are also known as devolved administrations.",
+      "computed_correct_option_ids": [
+        2884
+      ],
+      "options": [
+        {
+          "id": 2883,
+          "text": "Formal institutions"
+        },
+        {
+          "id": 2884,
+          "text": "Devolved administrations"
+        },
+        {
+          "id": 2886,
+          "text": "Political parties"
+        },
+        {
+          "id": 2885,
+          "text": "Local authorities"
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "text": "Select TWO famous Paralympians",
+      "explanation": "Baroness Tanni-Grey Thompson (1969-) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games. She won the London Marathon six times and broke a total of 30 world records. Ellie Simmonds (1994-) is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.",
+      "computed_correct_option_ids": [
+        3064,
+        3066
+      ],
+      "options": [
+        {
+          "id": 3065,
+          "text": "Jessica Ennis"
+        },
+        {
+          "id": 3066,
+          "text": "Ellie Simmonds"
+        },
+        {
+          "id": 3064,
+          "text": "Baroness Tanni Grey-Thompson"
+        },
+        {
+          "id": 3063,
+          "text": "Dame Ellen MacArthur"
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "text": "What does the abbreviation PTA stand for?",
+      "explanation": "Sometimes school events are organised by parent-teacher associations (PTAs)",
+      "computed_correct_option_ids": [
+        3080
+      ],
+      "options": [
+        {
+          "id": 3081,
+          "text": "Premier Tennis Association"
+        },
+        {
+          "id": 3080,
+          "text": "Parent Teacher Association"
+        },
+        {
+          "id": 3082,
+          "text": "Primary Teaching Agency"
+        },
+        {
+          "id": 3079,
+          "text": "Personal Trainer Awards"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "text": "Which TWO of these are associated with Sir Francis Drake?",
+      "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship, the Golden Hind, was one of the first to sail right around ('circumnavigate') the world.",
+      "computed_correct_option_ids": [
+        3093,
+        3095
+      ],
+      "options": [
+        {
+          "id": 3094,
+          "text": "Building the Titanic"
+        },
+        {
+          "id": 3093,
+          "text": "Sailing around the world"
+        },
+        {
+          "id": 3095,
+          "text": "The Spanish Armada invasion"
+        },
+        {
+          "id": 3096,
+          "text": "Invasion of Ireland"
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "text": "Which TWO major welfare changes were introduced between 1945 and 1950?",
+      "explanation": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS). A national system of benefits was also introduced to provide 'social security', so that the population would be protected from the 'cradle to the grave'.",
+      "computed_correct_option_ids": [
+        3119,
+        3120
+      ],
+      "options": [
+        {
+          "id": 3120,
+          "text": "A social security system for everyone"
+        },
+        {
+          "id": 3122,
+          "text": "State pension"
+        },
+        {
+          "id": 3119,
+          "text": "The NHS"
+        },
+        {
+          "id": 3121,
+          "text": "Employment benefits"
+        }
+      ]
+    },
+    {
+      "id": 867,
+      "text": "Which of the following is a fundamental principle of British life?",
+      "explanation": "The fundamental principles of British life include: Democracy; The rule of law; Individual liberty; Tolerance of those with different faiths and beliefs; Participation in community life.",
+      "computed_correct_option_ids": [
+        3179
+      ],
+      "options": [
+        {
+          "id": 3181,
+          "text": "Intolerance"
+        },
+        {
+          "id": 3180,
+          "text": "Inequality"
+        },
+        {
+          "id": 3182,
+          "text": "Extremism"
+        },
+        {
+          "id": 3179,
+          "text": "Individual liberty"
+        }
+      ]
+    },
+    {
+      "id": 965,
+      "text": "Which comedy double act by Nick Park won many Oscars?",
+      "explanation": "Nick Park, who has won four Oscars for his animated films, including three for films featuring Wallace and Gromit.",
+      "computed_correct_option_ids": [
+        3497
+      ],
+      "options": [
+        {
+          "id": 3499,
+          "text": "Gavin and Stacey"
+        },
+        {
+          "id": 3498,
+          "text": "Laurel and Hardy"
+        },
+        {
+          "id": 3497,
+          "text": "Wallace and Gromit"
+        },
+        {
+          "id": 3500,
+          "text": "Thelma and Louise"
+        }
+      ]
+    },
+    {
+      "id": 1066,
+      "text": "How many member states does the Commonwealth have?",
+      "explanation": "The Monarch (King Charles III) is the ceremonial head of the Commonwealth, which currently has 56 (can change) member states.",
+      "computed_correct_option_ids": [
+        3861
+      ],
+      "options": [
+        {
+          "id": 3862,
+          "text": "27"
+        },
+        {
+          "id": 3864,
+          "text": "190"
+        },
+        {
+          "id": 3861,
+          "text": "56"
+        },
+        {
+          "id": 3863,
+          "text": "5"
+        }
+      ]
+    }
+  ]
+}

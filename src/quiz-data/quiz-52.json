@@ -1,0 +1,611 @@
+{
+  "id": 412,
+  "name": "Life in the UK Test 52",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7701,
+      "text": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did glass manufacturers come from?",
+      "explanation": "During the Middle Ages people came to England from abroad to trade and also to work, such as weavers from France, engineers from Germany,glass manufacturers from Italyand canal builders from Holland.",
+      "computed_correct_option_ids": [
+        8702
+      ],
+      "options": [
+        {
+          "id": 8701,
+          "text": "Germany"
+        },
+        {
+          "id": 8702,
+          "text": "Italy"
+        },
+        {
+          "id": 8703,
+          "text": "Holland"
+        },
+        {
+          "id": 8704,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 7702,
+      "text": "Where can people facing domestic violence get help from?",
+      "explanation": "People facing domestic violence can get help from a solicitor orthe Citizens Advice Bureau.",
+      "computed_correct_option_ids": [
+        8712
+      ],
+      "options": [
+        {
+          "id": 8711,
+          "text": "The NHS"
+        },
+        {
+          "id": 8712,
+          "text": "The Citizens Advise Bureau"
+        },
+        {
+          "id": 8713,
+          "text": "The Human Rights Commission"
+        },
+        {
+          "id": 8714,
+          "text": "The RSPB"
+        }
+      ]
+    },
+    {
+      "id": 7703,
+      "text": "Which American President worked closely with Margaret Thatcher?",
+      "explanation": "Margaret Thatcher worked closely with the United States President,Ronald Reagan, and was one of the first Western leaders to recognise and welcome the changes in the leadership of the Soviet Union which eventually led to the end of the Cold War.",
+      "computed_correct_option_ids": [
+        8722
+      ],
+      "options": [
+        {
+          "id": 8721,
+          "text": "Hillary Clinton"
+        },
+        {
+          "id": 8722,
+          "text": "Ronald Reagan"
+        },
+        {
+          "id": 8723,
+          "text": "Jimmy Carter"
+        },
+        {
+          "id": 8724,
+          "text": "George Bush"
+        }
+      ]
+    },
+    {
+      "id": 7704,
+      "text": "People might be taken to court if they owe money to someone.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        8731
+      ],
+      "options": [
+        {
+          "id": 8731,
+          "text": "True"
+        },
+        {
+          "id": 8732,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7705,
+      "text": "Who was the first Archbishop of Canterbury?",
+      "explanation": "St Augustine led missionaries from Rome, who spread Christianity in the south.St Augustinebecame the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        8743
+      ],
+      "options": [
+        {
+          "id": 8741,
+          "text": "St Patrick"
+        },
+        {
+          "id": 8742,
+          "text": "St Columba"
+        },
+        {
+          "id": 8743,
+          "text": "St Augustine"
+        },
+        {
+          "id": 8744,
+          "text": "St Peter"
+        }
+      ]
+    },
+    {
+      "id": 7706,
+      "text": "How many members does a jury have in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland a jury has12 members, and in Scotland a jury has 15 members.",
+      "computed_correct_option_ids": [
+        8751
+      ],
+      "options": [
+        {
+          "id": 8751,
+          "text": "12"
+        },
+        {
+          "id": 8752,
+          "text": "14"
+        },
+        {
+          "id": 8753,
+          "text": "15"
+        },
+        {
+          "id": 8754,
+          "text": "18"
+        }
+      ]
+    },
+    {
+      "id": 7707,
+      "text": "What is tested with a driving test (choose TWO options)?",
+      "explanation": "To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills.",
+      "computed_correct_option_ids": [
+        8762,
+        8763
+      ],
+      "options": [
+        {
+          "id": 8761,
+          "text": "Your medical condition"
+        },
+        {
+          "id": 8762,
+          "text": "Your knowledge"
+        },
+        {
+          "id": 8763,
+          "text": "Your practical skills"
+        },
+        {
+          "id": 8764,
+          "text": "Your physical condition"
+        }
+      ]
+    },
+    {
+      "id": 7708,
+      "text": "What is the role of the Speaker?",
+      "explanation": "The Speaker keeps order during political debates to make sure the rules are followed.",
+      "computed_correct_option_ids": [
+        8771
+      ],
+      "options": [
+        {
+          "id": 8771,
+          "text": "To keep order during political debates to make sure the rules are followed"
+        },
+        {
+          "id": 8772,
+          "text": "To point out what they see as the government’s failures and weaknesses"
+        },
+        {
+          "id": 8773,
+          "text": "To control important public appointments"
+        },
+        {
+          "id": 8774,
+          "text": "To challenge the government and put forward alternative policies"
+        }
+      ]
+    },
+    {
+      "id": 7709,
+      "text": "Which of the following statements is FALSE regarding Youth Courts?",
+      "explanation": "They are used for trials of young people aged 10 to 17.",
+      "computed_correct_option_ids": [
+        8783
+      ],
+      "options": [
+        {
+          "id": 8781,
+          "text": "The parents or carers of the young person being judged are expected to attend the hearing"
+        },
+        {
+          "id": 8782,
+          "text": "Members of the public are not allowed in them"
+        },
+        {
+          "id": 8783,
+          "text": "They are used for trials of young people aged 10 to 18"
+        },
+        {
+          "id": 8784,
+          "text": "The name or photographs of the accused young person cannot be published in newspapers or used by the media"
+        }
+      ]
+    },
+    {
+      "id": 7710,
+      "text": "Which TWO films were directed by David Lean?",
+      "explanation": "David Lean directed Brief Encounter (1945) and Lawrence of Arabia (1962).",
+      "computed_correct_option_ids": [
+        8791,
+        8793
+      ],
+      "options": [
+        {
+          "id": 8791,
+          "text": "Brief Encounter"
+        },
+        {
+          "id": 8792,
+          "text": "The 39 Steps"
+        },
+        {
+          "id": 8793,
+          "text": "Lawrence of Arabia"
+        },
+        {
+          "id": 8794,
+          "text": "Chariots of Fire"
+        }
+      ]
+    },
+    {
+      "id": 7711,
+      "text": "Which of the following venues is located in Glasgow?",
+      "explanation": "The Scottish Exhibition and Conference Centre (SEC Centre) is located in Glasgow.",
+      "computed_correct_option_ids": [
+        8803
+      ],
+      "options": [
+        {
+          "id": 8801,
+          "text": "The O2"
+        },
+        {
+          "id": 8802,
+          "text": "Wembley Stadium"
+        },
+        {
+          "id": 8803,
+          "text": "The SEC Centre"
+        },
+        {
+          "id": 8804,
+          "text": "Buckingham Palace"
+        }
+      ]
+    },
+    {
+      "id": 7712,
+      "text": "How many British casualties were recorded during the first day of the British attack of the Somme in July 1916 during the First World War?",
+      "explanation": "The British attack of the Somme in July 1916, resulted in about60,000 British casualtieson the first day alone.",
+      "computed_correct_option_ids": [
+        8811
+      ],
+      "options": [
+        {
+          "id": 8811,
+          "text": "60,000"
+        },
+        {
+          "id": 8812,
+          "text": "70,000"
+        },
+        {
+          "id": 8813,
+          "text": "30,000"
+        },
+        {
+          "id": 8814,
+          "text": "50,000"
+        }
+      ]
+    },
+    {
+      "id": 7713,
+      "text": "The Welsh dragon on the Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        8822
+      ],
+      "options": [
+        {
+          "id": 8821,
+          "text": "True"
+        },
+        {
+          "id": 8822,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7714,
+      "text": "Which two countries developed the ‘Concorde’ aircraft?",
+      "explanation": "Britain and France developed the world’s only supersonic commercial airliner, Concorde.",
+      "computed_correct_option_ids": [
+        8834
+      ],
+      "options": [
+        {
+          "id": 8831,
+          "text": "Germany and Italy"
+        },
+        {
+          "id": 8832,
+          "text": "USA and Canada"
+        },
+        {
+          "id": 8833,
+          "text": "Germany and Switzerland"
+        },
+        {
+          "id": 8834,
+          "text": "France and Britain"
+        }
+      ]
+    },
+    {
+      "id": 7715,
+      "text": "What was the population of the UK in 1801?",
+      "explanation": "The population of the UK in 1801 was8 millionpeople.",
+      "computed_correct_option_ids": [
+        8842
+      ],
+      "options": [
+        {
+          "id": 8841,
+          "text": "5 million"
+        },
+        {
+          "id": 8842,
+          "text": "8 million"
+        },
+        {
+          "id": 8843,
+          "text": "10 million"
+        },
+        {
+          "id": 8844,
+          "text": "12 million"
+        }
+      ]
+    },
+    {
+      "id": 7716,
+      "text": "Where is there UK geographically located?",
+      "explanation": "The UK is located in thenorth west of Europe.",
+      "computed_correct_option_ids": [
+        8853
+      ],
+      "options": [
+        {
+          "id": 8851,
+          "text": "In the north east of Europe"
+        },
+        {
+          "id": 8852,
+          "text": "In the south east of Europe"
+        },
+        {
+          "id": 8853,
+          "text": "In the north west of Europe"
+        },
+        {
+          "id": 8854,
+          "text": "In the south west of Europe"
+        }
+      ]
+    },
+    {
+      "id": 7717,
+      "text": "What is the main function of the Council of Europe?",
+      "explanation": "The Council of Europe is responsible for the protection and promotion of human rights in its member countries.",
+      "computed_correct_option_ids": [
+        8861
+      ],
+      "options": [
+        {
+          "id": 8861,
+          "text": "To protect and promote human rights"
+        },
+        {
+          "id": 8862,
+          "text": "To promote international trade relationships"
+        },
+        {
+          "id": 8863,
+          "text": "To maintain international peace"
+        },
+        {
+          "id": 8864,
+          "text": "To recommend action when there are international crises and threats to peace"
+        }
+      ]
+    },
+    {
+      "id": 7718,
+      "text": "Sir Alfred Hitchcock was an important British film director",
+      "explanation": "Eminent directors included Sir Alexander Korda and Sir Alfred Hitchcock, who later left for Hollywood and remained an important film director until his death in 1980.",
+      "computed_correct_option_ids": [
+        8872
+      ],
+      "options": [
+        {
+          "id": 8871,
+          "text": "True"
+        },
+        {
+          "id": 8872,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7719,
+      "text": "Which Scottish physician and researcher co-discovered the insulin used to treat diabetes?",
+      "explanation": "The Scottish physician and researcherJohn Macleodwas the co-discoverer of insulin, used to treat diabetes.",
+      "computed_correct_option_ids": [
+        8883
+      ],
+      "options": [
+        {
+          "id": 8881,
+          "text": "Francis Crick"
+        },
+        {
+          "id": 8882,
+          "text": "Sir Robert Watson-Watt"
+        },
+        {
+          "id": 8883,
+          "text": "John McLeod"
+        },
+        {
+          "id": 8884,
+          "text": "John Logie Baird"
+        }
+      ]
+    },
+    {
+      "id": 7720,
+      "text": "Who was voted the greatest Briton of all time in 2002?",
+      "explanation": "Winston Churchillin 2002 was voted the greatest Briton of all time by the public.",
+      "computed_correct_option_ids": [
+        8892
+      ],
+      "options": [
+        {
+          "id": 8891,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 8892,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 8893,
+          "text": "Anthony Eden"
+        },
+        {
+          "id": 8894,
+          "text": "Harold Wilson"
+        }
+      ]
+    },
+    {
+      "id": 7721,
+      "text": "When is St George’s Day, patron of England?",
+      "explanation": "St George’s Day, patron of England is celebrated on the23rd of April.",
+      "computed_correct_option_ids": [
+        8901
+      ],
+      "options": [
+        {
+          "id": 8901,
+          "text": "23rd of April"
+        },
+        {
+          "id": 8902,
+          "text": "1st of March"
+        },
+        {
+          "id": 8903,
+          "text": "17th of March"
+        },
+        {
+          "id": 8904,
+          "text": "30th of November"
+        }
+      ]
+    },
+    {
+      "id": 7722,
+      "text": "Which TWO of the following responsibilities will you have as a permanent resident or citizen of the UK?",
+      "explanation": "Respect and obey the law and look after the area in which you live and the environment are the correct answers.",
+      "computed_correct_option_ids": [
+        8911,
+        8913
+      ],
+      "options": [
+        {
+          "id": 8911,
+          "text": "To respect and obey the law"
+        },
+        {
+          "id": 8912,
+          "text": "To go to church on Sundays"
+        },
+        {
+          "id": 8913,
+          "text": "To look after the area in which you live and the environment"
+        },
+        {
+          "id": 8914,
+          "text": "To do the military service"
+        }
+      ]
+    },
+    {
+      "id": 7723,
+      "text": "Which TWO of the following social laws were liberalised during the ‘Swinging Sixties’?",
+      "explanation": "The law of abortion and the law of divorce were liberalised during the ‘Swinging Sixties’.",
+      "computed_correct_option_ids": [
+        8921,
+        8922
+      ],
+      "options": [
+        {
+          "id": 8921,
+          "text": "The law of abortion"
+        },
+        {
+          "id": 8922,
+          "text": "The law of divorce"
+        },
+        {
+          "id": 8923,
+          "text": "The law of immigration"
+        },
+        {
+          "id": 8924,
+          "text": "The law of adoption"
+        }
+      ]
+    },
+    {
+      "id": 7724,
+      "text": "Who was the mother of Elizabeth I?",
+      "explanation": "Anne Boleynand Henry VIII had one daughter, Elizabeth I.",
+      "computed_correct_option_ids": [
+        8934
+      ],
+      "options": [
+        {
+          "id": 8931,
+          "text": "Jane Seymour"
+        },
+        {
+          "id": 8932,
+          "text": "Anne of Cleves"
+        },
+        {
+          "id": 8933,
+          "text": "Catherine of Aragon"
+        },
+        {
+          "id": 8934,
+          "text": "Anne Boleyn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "id": 374,
+  "name": "Life in the UK Test 16",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 60,
+      "text": "What marked the beginning of 'constitutional monarchy'?",
+      "explanation": "The laws passed after the Glorious Revolution are the beginning of what is called 'constitutional monarchy'.",
+      "computed_correct_option_ids": [
+        233
+      ],
+      "options": [
+        {
+          "id": 233,
+          "text": "The Glorious Revolution"
+        },
+        {
+          "id": 236,
+          "text": "The English Civil War"
+        },
+        {
+          "id": 235,
+          "text": "The Restoration"
+        },
+        {
+          "id": 234,
+          "text": "The Magna Carta"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "Who sat in the House of Lords in the middle ages?",
+      "explanation": "The nobility, great landowners and bishops sat in the House of Lords.",
+      "computed_correct_option_ids": [
+        301
+      ],
+      "options": [
+        {
+          "id": 303,
+          "text": "Wealthy People"
+        },
+        {
+          "id": 301,
+          "text": "The nobility and great landowners"
+        },
+        {
+          "id": 304,
+          "text": "Every Landowner"
+        },
+        {
+          "id": 302,
+          "text": "Knights"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "Which of these charities works with children?",
+      "explanation": "The National Society for the Prevention of Cruelty to Children (NSPCC) works with children.",
+      "computed_correct_option_ids": [
+        373
+      ],
+      "options": [
+        {
+          "id": 373,
+          "text": "NSPCC"
+        },
+        {
+          "id": 376,
+          "text": "The National Trust"
+        },
+        {
+          "id": 375,
+          "text": "PDSA"
+        },
+        {
+          "id": 374,
+          "text": "Crisis and Shelter"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "text": "Who won the Wars of the Roses?",
+      "explanation": "This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose. The war ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII.",
+      "computed_correct_option_ids": [
+        509
+      ],
+      "options": [
+        {
+          "id": 509,
+          "text": "House of Lancaster"
+        },
+        {
+          "id": 512,
+          "text": "House of Lords"
+        },
+        {
+          "id": 511,
+          "text": "House of Commons"
+        },
+        {
+          "id": 510,
+          "text": "House of York"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "text": "Which country(s) did Britain fight against during the Battle of Trafalgar?",
+      "explanation": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805.",
+      "computed_correct_option_ids": [
+        709
+      ],
+      "options": [
+        {
+          "id": 711,
+          "text": "Only the Netherlands"
+        },
+        {
+          "id": 709,
+          "text": "Spain and France"
+        },
+        {
+          "id": 712,
+          "text": "France and the Netherlands"
+        },
+        {
+          "id": 710,
+          "text": "Only France"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "text": "What is an important part of the UK character?",
+      "explanation": "The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.",
+      "computed_correct_option_ids": [
+        805
+      ],
+      "options": [
+        {
+          "id": 808,
+          "text": "Go to University"
+        },
+        {
+          "id": 805,
+          "text": "The ability to laugh at ourselves"
+        },
+        {
+          "id": 806,
+          "text": "To have fish and chips every lunch"
+        },
+        {
+          "id": 807,
+          "text": "Go to the pub every Friday"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "text": "When is the Bonfire Night celebrated?",
+      "explanation": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        929
+      ],
+      "options": [
+        {
+          "id": 929,
+          "text": "05-Nov"
+        },
+        {
+          "id": 932,
+          "text": "31-Oct"
+        },
+        {
+          "id": 931,
+          "text": "28-Oct"
+        },
+        {
+          "id": 930,
+          "text": "28-Nov"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "text": "Where did many of the Viking settle after they got defeated?",
+      "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings. Many of the Viking invaders stayed in Britain - especially in the east and north of England, in an area known as the Danelaw (many places names there, such as Grimsby and Scunthorpe, come from the Viking languages).",
+      "computed_correct_option_ids": [
+        1061
+      ],
+      "options": [
+        {
+          "id": 1064,
+          "text": "Pale"
+        },
+        {
+          "id": 1061,
+          "text": "Danelaw"
+        },
+        {
+          "id": 1062,
+          "text": "Dorset"
+        },
+        {
+          "id": 1063,
+          "text": "Lancashire"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "text": "Which flower is associated with Northern Ireland?",
+      "explanation": "Shamrock is associated with Northern Ireland",
+      "computed_correct_option_ids": [
+        1498
+      ],
+      "options": [
+        {
+          "id": 1495,
+          "text": "Rose"
+        },
+        {
+          "id": 1496,
+          "text": "Thistle"
+        },
+        {
+          "id": 1497,
+          "text": "Daffodil"
+        },
+        {
+          "id": 1498,
+          "text": "Shamrock"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "text": "Civil servants are expected to be politically neutral, what core values should they have?",
+      "explanation": "Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are: integrity, honesty, objectivity and impartiality (including being politically neutral).",
+      "computed_correct_option_ids": [
+        1669
+      ],
+      "options": [
+        {
+          "id": 1669,
+          "text": "Impartiality"
+        },
+        {
+          "id": 1672,
+          "text": "Corruption"
+        },
+        {
+          "id": 1671,
+          "text": "Misleading"
+        },
+        {
+          "id": 1670,
+          "text": "Sense of humour"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "text": "Who chairs the debates in the House of Commons?",
+      "explanation": "Debates in the House of Commons are chaired by the Speaker. This person is the chief Officer of the House of Commons. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP. The Speaker is chosen by other MPs in a secret ballot.",
+      "computed_correct_option_ids": [
+        1683
+      ],
+      "options": [
+        {
+          "id": 1683,
+          "text": "The Speaker"
+        },
+        {
+          "id": 1686,
+          "text": "The Judge"
+        },
+        {
+          "id": 1685,
+          "text": "The Shadow Minister"
+        },
+        {
+          "id": 1684,
+          "text": "The Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "text": "How many members does the Welsh Assembly have?",
+      "explanation": "The Welsh Assembly has 60 members, with forty members chosen to represent individual Senedd constituencies, and twenty to represent the five electoral regions of the Senedd in Wales.",
+      "computed_correct_option_ids": [
+        1945
+      ],
+      "options": [
+        {
+          "id": 1946,
+          "text": "108"
+        },
+        {
+          "id": 1948,
+          "text": "140"
+        },
+        {
+          "id": 1947,
+          "text": "129"
+        },
+        {
+          "id": 1945,
+          "text": "60"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "text": "On what day does 'Lent' begin?",
+      "explanation": "The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. Traditionally, people would fast during this period and today many people will give something up, like a favourite food. The day before Lent starts is called Shrove Tuesday, or Pancake Day. Lent begins on Ash Wednesday.",
+      "computed_correct_option_ids": [
+        1972
+      ],
+      "options": [
+        {
+          "id": 1971,
+          "text": "Good Friday"
+        },
+        {
+          "id": 1972,
+          "text": "Ash Wednesday"
+        },
+        {
+          "id": 1973,
+          "text": "Shrove Tuesday"
+        },
+        {
+          "id": 1974,
+          "text": "Pancake day"
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "text": "Select TWO famous Athletes",
+      "explanation": "Sir Roger Bannister (1929-) was the first man in the world to run a mile in under four minutes, in 1954. Mo Farah (1983-) is a British distance runner, born in Somalia. He won gold medals in the 2012 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.",
+      "computed_correct_option_ids": [
+        2165,
+        2166
+      ],
+      "options": [
+        {
+          "id": 2165,
+          "text": "Sir Roger Bannister"
+        },
+        {
+          "id": 2166,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 2164,
+          "text": "John Barbour"
+        },
+        {
+          "id": 2163,
+          "text": "Henry Moore"
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "text": "Sir Kingsley Amis was a famous English novelist and poet who wrote more than 20 novels, including 'Lucky Jim'",
+      "explanation": "Sir Kingsley Amis (1922-95) was an English novelist and poet. He wrote more than 20 novels. The most well-known is Lucky Jim.",
+      "computed_correct_option_ids": [
+        2545
+      ],
+      "options": [
+        {
+          "id": 2546,
+          "text": "False"
+        },
+        {
+          "id": 2545,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "text": "What is the Church of England also known as in Scotland and the US?",
+      "explanation": "In England, there is a constitutional link between Church and state. The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States). It is a Protestant Church and has existed since the Reformation in the 1530s",
+      "computed_correct_option_ids": [
+        2604
+      ],
+      "options": [
+        {
+          "id": 2605,
+          "text": "Protestant Church"
+        },
+        {
+          "id": 2606,
+          "text": "Catholic Church"
+        },
+        {
+          "id": 2603,
+          "text": "Anglican Church"
+        },
+        {
+          "id": 2604,
+          "text": "Episcopal Church"
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "text": "The Patron Saints' days are NOT public holidays in which TWO countries?",
+      "explanation": "Only Scotland and Northern Ireland have their Patron Saint's day as an official holiday. While the Patron Saints' days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries.",
+      "computed_correct_option_ids": [
+        2719,
+        2722
+      ],
+      "options": [
+        {
+          "id": 2720,
+          "text": "Scotland"
+        },
+        {
+          "id": 2721,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 2722,
+          "text": "Wales"
+        },
+        {
+          "id": 2719,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "text": "What percentage of the workforce are women?",
+      "explanation": "Women in Britain today make up about half of the workforce. On average, girls leave school with better qualifications than boys. More women than men study at university.",
+      "computed_correct_option_ids": [
+        2903
+      ],
+      "options": [
+        {
+          "id": 2904,
+          "text": "60%"
+        },
+        {
+          "id": 2903,
+          "text": "50%"
+        },
+        {
+          "id": 2902,
+          "text": "40%"
+        },
+        {
+          "id": 2901,
+          "text": "30%"
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "text": "What is a traditional pub game?",
+      "explanation": "Pub quizzes are popular. Pool and darts are traditional pub games.",
+      "computed_correct_option_ids": [
+        3045
+      ],
+      "options": [
+        {
+          "id": 3048,
+          "text": "Roulette"
+        },
+        {
+          "id": 3045,
+          "text": "Pool"
+        },
+        {
+          "id": 3046,
+          "text": "Chess"
+        },
+        {
+          "id": 3047,
+          "text": "Poker"
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "text": "When did a group of Catholics led by Guy Fawkes fail in their plan to kill the Protestant king with a bomb in the Houses of Parliament?",
+      "explanation": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        3357
+      ],
+      "options": [
+        {
+          "id": 3360,
+          "text": "5th November 1705"
+        },
+        {
+          "id": 3357,
+          "text": "5th November 1605"
+        },
+        {
+          "id": 3358,
+          "text": "5th November 1405"
+        },
+        {
+          "id": 3359,
+          "text": "5th November 1505"
+        }
+      ]
+    },
+    {
+      "id": 1029,
+      "text": "What tells us about how people lived just after the Norman Conquest?",
+      "explanation": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+      "computed_correct_option_ids": [
+        3721
+      ],
+      "options": [
+        {
+          "id": 3724,
+          "text": "The best preserved prehistoric village"
+        },
+        {
+          "id": 3721,
+          "text": "The Domesday Book"
+        },
+        {
+          "id": 3722,
+          "text": "The Bayeux Tapestry"
+        },
+        {
+          "id": 3723,
+          "text": "The Great Charter"
+        }
+      ]
+    },
+    {
+      "id": 1030,
+      "text": "In 1913, the British government promised 'Home Rule' for Ireland, why was this postponed?",
+      "explanation": "In 1913, the British government promised 'Home Rule' for Ireland. It was opposed by the Protestants in the north of Ireland, who threatened to resist Home Rule by force. The outbreak of the First World War led the British government to postpone any changes in Ireland. Irish Nationalists were not willing to wait and in 1916 there was an uprising (the Easter Rising) against the British in Dublin. A guerilla war against the British army and the police in Ireland followed. In 1921 a peace treaty was signed and in 1922 Ireland became two countries.",
+      "computed_correct_option_ids": [
+        3725
+      ],
+      "options": [
+        {
+          "id": 3727,
+          "text": "The Scottish people also wanted to self-govern"
+        },
+        {
+          "id": 3725,
+          "text": "The outbreak of World War I"
+        },
+        {
+          "id": 3726,
+          "text": "The English people complained"
+        },
+        {
+          "id": 3728,
+          "text": "It was opposed by Catholics"
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "text": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'.",
+      "explanation": "A constitution is a set of principles by which a country is governed. It includes all of the institutions that are responsible for running the country and how their power is kept in check. The constitution also includes laws and conventions. The British constitution is not written down in any single document, and therefore it is described as 'unwritten'.",
+      "computed_correct_option_ids": [
+        3777
+      ],
+      "options": [
+        {
+          "id": 3777,
+          "text": "True"
+        },
+        {
+          "id": 3778,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1069,
+      "text": "What did the Chartists campaign for?",
+      "explanation": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes: for every man to have the vote; elections every year; for all regions to be equal in the electoral system; secret ballots; for any man to be able to stand as an MP; for MPs to be paid.",
+      "computed_correct_option_ids": [
+        3873
+      ],
+      "options": [
+        {
+          "id": 3876,
+          "text": "Open ballots"
+        },
+        {
+          "id": 3875,
+          "text": "Elections every 5 years"
+        },
+        {
+          "id": 3874,
+          "text": "Anyone to be able to stand as an MP"
+        },
+        {
+          "id": 3873,
+          "text": "Every man to have a vote"
+        }
+      ]
+    }
+  ]
+}

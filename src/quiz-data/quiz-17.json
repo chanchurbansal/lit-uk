@@ -1,0 +1,616 @@
+{
+  "id": 375,
+  "name": "Life in the UK Test 17",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 9,
+      "text": "Which of the following is part of the UK?",
+      "explanation": "The United Kingdom consists of Wales,England,Scotland and Northern Ireland.",
+      "computed_correct_option_ids": [
+        31
+      ],
+      "options": [
+        {
+          "id": 31,
+          "text": "Wales"
+        },
+        {
+          "id": 34,
+          "text": "Channel Islands"
+        },
+        {
+          "id": 33,
+          "text": "Canada"
+        },
+        {
+          "id": 32,
+          "text": "St Helena"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Who became one of the most popular monarchs in the 16th century?",
+      "explanation": "Queen Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada.",
+      "computed_correct_option_ids": [
+        221
+      ],
+      "options": [
+        {
+          "id": 224,
+          "text": "Henry VII"
+        },
+        {
+          "id": 223,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 222,
+          "text": "Mary I"
+        },
+        {
+          "id": 221,
+          "text": "Elizabeth I"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "text": "When did the BBC start the first radio broadcast?",
+      "explanation": "The BBC started radio broadcasts in 1922 and began the world's first regular television service in 1936.",
+      "computed_correct_option_ids": [
+        533
+      ],
+      "options": [
+        {
+          "id": 536,
+          "text": "1928"
+        },
+        {
+          "id": 533,
+          "text": "1922"
+        },
+        {
+          "id": 534,
+          "text": "1903"
+        },
+        {
+          "id": 535,
+          "text": "1936"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "text": "Where do the Laurence Olivier Awards take place?",
+      "explanation": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various Shakespeare plays.",
+      "computed_correct_option_ids": [
+        633
+      ],
+      "options": [
+        {
+          "id": 633,
+          "text": "London"
+        },
+        {
+          "id": 634,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 635,
+          "text": "Manchester"
+        },
+        {
+          "id": 636,
+          "text": "Kent"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "text": "Who were the first people to start living in Britain?",
+      "explanation": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age.",
+      "computed_correct_option_ids": [
+        673
+      ],
+      "options": [
+        {
+          "id": 675,
+          "text": "Pirates"
+        },
+        {
+          "id": 676,
+          "text": "The Romans"
+        },
+        {
+          "id": 674,
+          "text": "Inventors"
+        },
+        {
+          "id": 673,
+          "text": "Hunter-gatherers"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "text": "Where can you find Boudicca, the Queen of the Iceni statue?",
+      "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        869
+      ],
+      "options": [
+        {
+          "id": 869,
+          "text": "London"
+        },
+        {
+          "id": 872,
+          "text": "Suffolk"
+        },
+        {
+          "id": 871,
+          "text": "Kent"
+        },
+        {
+          "id": 870,
+          "text": "Portsmouth"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "text": "When did the 'Battle of the Boyne' happen?",
+      "explanation": "James II wanted to regain the throne and invaded Ireland with the help of a French army. William defeated James II at the Battle of the Boyne in Ireland in 1690, an event which is still celebrated by some in Northern Ireland today. William re-conquered Ireland and James fled back to France.",
+      "computed_correct_option_ids": [
+        897
+      ],
+      "options": [
+        {
+          "id": 900,
+          "text": "1697"
+        },
+        {
+          "id": 897,
+          "text": "1690"
+        },
+        {
+          "id": 898,
+          "text": "1695"
+        },
+        {
+          "id": 899,
+          "text": "1693"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "text": "When did Queen Victoria become queen?",
+      "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years.",
+      "computed_correct_option_ids": [
+        909
+      ],
+      "options": [
+        {
+          "id": 912,
+          "text": "1877"
+        },
+        {
+          "id": 911,
+          "text": "1861"
+        },
+        {
+          "id": 910,
+          "text": "1845"
+        },
+        {
+          "id": 909,
+          "text": "1837"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "text": "Which British TV shows are popular in the UK now?",
+      "explanation": "Popular programmes include regular soap operas such as Coronation Street and EastEnders.",
+      "computed_correct_option_ids": [
+        941
+      ],
+      "options": [
+        {
+          "id": 941,
+          "text": "Coronation Street"
+        },
+        {
+          "id": 943,
+          "text": "How I met your mother"
+        },
+        {
+          "id": 942,
+          "text": "Friends"
+        },
+        {
+          "id": 944,
+          "text": "The Big Bang theory"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "text": "What was build as part of the UK's celebration of the new millennium?",
+      "explanation": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. It was originally built as part of the UK's celebration of the new millennium and continues to be an important part of New Year celebrations.",
+      "computed_correct_option_ids": [
+        949
+      ],
+      "options": [
+        {
+          "id": 952,
+          "text": "The Tower of London"
+        },
+        {
+          "id": 949,
+          "text": "The London Eye"
+        },
+        {
+          "id": 950,
+          "text": "Big Ben"
+        },
+        {
+          "id": 951,
+          "text": "The Eden Project"
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "text": "What became the symbol of the House of Tudor?",
+      "explanation": "This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose. The war ended with the Battle of Bosworth Field in 1485 the House of Lancaster won. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+      "computed_correct_option_ids": [
+        1365
+      ],
+      "options": [
+        {
+          "id": 1368,
+          "text": "A pink rose"
+        },
+        {
+          "id": 1365,
+          "text": "A red and white rose"
+        },
+        {
+          "id": 1366,
+          "text": "A red rose"
+        },
+        {
+          "id": 1367,
+          "text": "A white rose"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "text": "Which Patron Saint day is on the 17th of March?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        1776
+      ],
+      "options": [
+        {
+          "id": 1776,
+          "text": "St Patrick"
+        },
+        {
+          "id": 1773,
+          "text": "St David"
+        },
+        {
+          "id": 1774,
+          "text": "St Andrew"
+        },
+        {
+          "id": 1775,
+          "text": "St George"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "text": "After the Emancipation Act, how many Indian and Chinese workers were employed to replace the slaves?",
+      "explanation": "The Emancipation Act of 1833 abolished slavery throughout British Empire. William Wilberforce was leading abolitionist and Quakers set up first anti-slavery groups. More than 2 million migrants came from India and China to replace labour force.",
+      "computed_correct_option_ids": [
+        1901
+      ],
+      "options": [
+        {
+          "id": 1901,
+          "text": "2 million"
+        },
+        {
+          "id": 1902,
+          "text": "2.6 million"
+        },
+        {
+          "id": 1899,
+          "text": "1 million"
+        },
+        {
+          "id": 1900,
+          "text": "1.4 million"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "text": "Which TWO are NOT part of the UK?",
+      "explanation": "The UK is made up of England, Scotland, Wales and Northern Ireland.",
+      "computed_correct_option_ids": [
+        1943,
+        1944
+      ],
+      "options": [
+        {
+          "id": 1944,
+          "text": "The Isle of Man"
+        },
+        {
+          "id": 1943,
+          "text": "The Channel Islands"
+        },
+        {
+          "id": 1942,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 1941,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "text": "What do many theatres produce at Christmas time?",
+      "explanation": "One British tradition is the pantomime. Many theatres produce a pantomime at Christmas time. They are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. One of the traditional characters is the Dame, a woman played by a man. There is often also a pantomime horse or cow played by two actors in the same costume.",
+      "computed_correct_option_ids": [
+        2043
+      ],
+      "options": [
+        {
+          "id": 2046,
+          "text": "New Years Celebration"
+        },
+        {
+          "id": 2045,
+          "text": "Tragedy Play"
+        },
+        {
+          "id": 2044,
+          "text": "Huge Display"
+        },
+        {
+          "id": 2043,
+          "text": "Pantomime"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "text": "Winston Churchill lost the General Election in 1945",
+      "explanation": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister. He refused to surrender to the Nazis and was an inspirational leader to the British people in a time of great hardship. He lost the General Election in 1945 but returned as Prime Minister in 1951.",
+      "computed_correct_option_ids": [
+        2117
+      ],
+      "options": [
+        {
+          "id": 2117,
+          "text": "True"
+        },
+        {
+          "id": 2118,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "text": "Who was the monarch when the Book of Common Prayer was written to be used in the Church of England?",
+      "explanation": "Henry VIII was succeeded by his son Edward VI, who was strongly Protestant. During his reign, the Book of Common Prayer was written to be used in the Church of England. A version of this book is still used in some churches today.",
+      "computed_correct_option_ids": [
+        2218
+      ],
+      "options": [
+        {
+          "id": 2215,
+          "text": "Henry VII"
+        },
+        {
+          "id": 2217,
+          "text": "King Richard III"
+        },
+        {
+          "id": 2218,
+          "text": "Edward VI"
+        },
+        {
+          "id": 2216,
+          "text": "Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 731,
+      "text": "Britain became fully democratic in the 19th century",
+      "explanation": "The UK has had a fully democratic voting system since 1928 (20th century). The present voting age of 18 was set in 1969 and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote.",
+      "computed_correct_option_ids": [
+        2708
+      ],
+      "options": [
+        {
+          "id": 2707,
+          "text": "True"
+        },
+        {
+          "id": 2708,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 739,
+      "text": "When did motor-car racing start in the UK?",
+      "explanation": "Motor-car racing in the UK started in 1902. The UK continues to be a world leader in the development and manufacture of motor-sport technology. A Formula 1 Grand Prix event is held in the UK each year and a number of British Grand Prix drivers have won the Formula 1 World Championship. Recent British winners include Damon Hill, Lewis Hamilton and Jenson Button.",
+      "computed_correct_option_ids": [
+        2735
+      ],
+      "options": [
+        {
+          "id": 2736,
+          "text": "1930s"
+        },
+        {
+          "id": 2733,
+          "text": "1896"
+        },
+        {
+          "id": 2735,
+          "text": "1902"
+        },
+        {
+          "id": 2734,
+          "text": "1899"
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "text": "Which of these drugs can you buy or sell legally in UK?",
+      "explanation": "Selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.",
+      "computed_correct_option_ids": [
+        3090
+      ],
+      "options": [
+        {
+          "id": 3087,
+          "text": "Heroin"
+        },
+        {
+          "id": 3090,
+          "text": "Paracetamol"
+        },
+        {
+          "id": 3089,
+          "text": "Ecstasy"
+        },
+        {
+          "id": 3088,
+          "text": "Cannabis"
+        }
+      ]
+    },
+    {
+      "id": 844,
+      "text": "Which sport often refers to the phrase 'rain stopped play'?",
+      "explanation": "You may come across expressions such as 'rain stopped play', 'batting on a sticky wicket', 'playing a straight bat', 'bowled a googly' or 'it's just not cricket', which have passed into everyday usage. The most famous cricket competition is the Ashes, which is a series of Test matches played between England and Australia.",
+      "computed_correct_option_ids": [
+        3103
+      ],
+      "options": [
+        {
+          "id": 3103,
+          "text": "Cricket"
+        },
+        {
+          "id": 3106,
+          "text": "Tennis"
+        },
+        {
+          "id": 3105,
+          "text": "Football"
+        },
+        {
+          "id": 3104,
+          "text": "Rugby"
+        }
+      ]
+    },
+    {
+      "id": 881,
+      "text": "Who was Thomas Gainsborough?",
+      "explanation": "Thomas Gainsborough (1727-88) was a portrait painter who often painted people in country or garden scenery.",
+      "computed_correct_option_ids": [
+        3234
+      ],
+      "options": [
+        {
+          "id": 3235,
+          "text": "Was a landscape painter in modern style"
+        },
+        {
+          "id": 3233,
+          "text": "Painted pictures on religious or literary themes in bright colours"
+        },
+        {
+          "id": 3234,
+          "text": "Was a portrait painter who often painted people in country or garden scenery"
+        },
+        {
+          "id": 3236,
+          "text": "Is best known for his large bronze abstract sculptures"
+        }
+      ]
+    },
+    {
+      "id": 1033,
+      "text": "What is the most famous competition which is a series of Test matches played between England and Australia?",
+      "explanation": "Cricket originated in England and is now played in many countries. Games can last up to five days but still result in a draw! The idiosyncratic nature of the game and its complex laws are said to reflect the best of the British character and sense of fair play. You may come across expressions such as 'rain stopped play', 'batting on a sticky wicket', 'playing a straight bat', 'bowled a googly' or 'it's just not cricket', which have passed into everyday usage. The most famous competition is the Ashes, which is a series of Test matches played between England and Australia.",
+      "computed_correct_option_ids": [
+        3737
+      ],
+      "options": [
+        {
+          "id": 3740,
+          "text": "Formula One"
+        },
+        {
+          "id": 3739,
+          "text": "The Open Championship"
+        },
+        {
+          "id": 3738,
+          "text": "The Wimbledon Championship"
+        },
+        {
+          "id": 3737,
+          "text": "The Ashes"
+        }
+      ]
+    },
+    {
+      "id": 1067,
+      "text": "Who wrote 'The Lord of the Rings'?",
+      "explanation": "The Lord of the Rings by JRR Tolkien was voted the country's best-loved novel in 2003.",
+      "computed_correct_option_ids": [
+        3865
+      ],
+      "options": [
+        {
+          "id": 3868,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 3865,
+          "text": "JRR Tolkien"
+        },
+        {
+          "id": 3866,
+          "text": "Ian Fleming"
+        },
+        {
+          "id": 3867,
+          "text": "J K Rowling"
+        }
+      ]
+    }
+  ]
+}

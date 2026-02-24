@@ -1,0 +1,591 @@
+{
+  "id": 377,
+  "name": "Life in the UK Test 19",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 28,
+      "text": "When did people learn how to make bronze?",
+      "explanation": "Around 4,000 years ago, people learned to make bronze",
+      "computed_correct_option_ids": [
+        105
+      ],
+      "options": [
+        {
+          "id": 108,
+          "text": "10,000 years ago"
+        },
+        {
+          "id": 107,
+          "text": "8,000 years ago"
+        },
+        {
+          "id": 105,
+          "text": "4,000 years ago"
+        },
+        {
+          "id": 106,
+          "text": "6,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "text": "When is Valentine's Day?",
+      "explanation": "Valentine's Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.",
+      "computed_correct_option_ids": [
+        445
+      ],
+      "options": [
+        {
+          "id": 448,
+          "text": "23rd of April"
+        },
+        {
+          "id": 445,
+          "text": "14th of February"
+        },
+        {
+          "id": 446,
+          "text": "16th of December"
+        },
+        {
+          "id": 447,
+          "text": "31st of December"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "text": "Which Scottish poet wrote 'The Bruce'?",
+      "explanation": "In Scotland, many people continued to speak Gaelic and the Scots language also developed. A number of poets began to write in the Scots language. One example is John Barbour, who wrote The Bruce about the Battle of Bannockburn.",
+      "computed_correct_option_ids": [
+        681
+      ],
+      "options": [
+        {
+          "id": 682,
+          "text": "Geoffrey Chaucer"
+        },
+        {
+          "id": 684,
+          "text": "Kevin MacAlpin"
+        },
+        {
+          "id": 683,
+          "text": "Kevin MacDonald"
+        },
+        {
+          "id": 681,
+          "text": "John Barbour"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "text": "How often do you have to take the MOT test for an old vehicle?",
+      "explanation": "If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.",
+      "computed_correct_option_ids": [
+        769
+      ],
+      "options": [
+        {
+          "id": 771,
+          "text": "Every 3 years"
+        },
+        {
+          "id": 772,
+          "text": "Every 5 years"
+        },
+        {
+          "id": 769,
+          "text": "Every year"
+        },
+        {
+          "id": 770,
+          "text": "Every 2 years"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "text": "When did Britain become separated from the continent?",
+      "explanation": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago.",
+      "computed_correct_option_ids": [
+        865
+      ],
+      "options": [
+        {
+          "id": 868,
+          "text": "4,000 years ago"
+        },
+        {
+          "id": 865,
+          "text": "10,000 years ago"
+        },
+        {
+          "id": 866,
+          "text": "8,000 years ago"
+        },
+        {
+          "id": 867,
+          "text": "6,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "text": "When did many Scottish people leave for North America?",
+      "explanation": "A process began which became known as the 'Highland Clearances'. Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+      "computed_correct_option_ids": [
+        1077
+      ],
+      "options": [
+        {
+          "id": 1078,
+          "text": "18th century"
+        },
+        {
+          "id": 1077,
+          "text": "19th century"
+        },
+        {
+          "id": 1079,
+          "text": "17th century"
+        },
+        {
+          "id": 1080,
+          "text": "20th century"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "text": "What is the most famous rugby tournament?",
+      "explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy. The Super League is the most well-known rugby league (club) competition.",
+      "computed_correct_option_ids": [
+        1117
+      ],
+      "options": [
+        {
+          "id": 1117,
+          "text": "The Six Nations Championship"
+        },
+        {
+          "id": 1119,
+          "text": "The Super Bowl"
+        },
+        {
+          "id": 1120,
+          "text": "Royal Ascot"
+        },
+        {
+          "id": 1118,
+          "text": "The Wimbledon Championship"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "text": "Where can you see the 'Bayeux Tapestry' today?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        1353
+      ],
+      "options": [
+        {
+          "id": 1353,
+          "text": "France"
+        },
+        {
+          "id": 1356,
+          "text": "Wales"
+        },
+        {
+          "id": 1355,
+          "text": "Scotland"
+        },
+        {
+          "id": 1354,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "text": "What is an example of a Criminal Offence?",
+      "explanation": "Examples of criminal laws are: Carrying a weapon, selling or buying drugs, racial crime, selling tobacco to under 18s, smoking/drinking in public in inappropriate places, buying alcohol for under 18s.",
+      "computed_correct_option_ids": [
+        1425
+      ],
+      "options": [
+        {
+          "id": 1427,
+          "text": "Owing Money"
+        },
+        {
+          "id": 1425,
+          "text": "Selling Tobacco to under 18's"
+        },
+        {
+          "id": 1426,
+          "text": "Discrimination in the workplace"
+        },
+        {
+          "id": 1428,
+          "text": "Housing disputes"
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "text": "Who was Isambard Kingdom Brunel?",
+      "explanation": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships.",
+      "computed_correct_option_ids": [
+        1471
+      ],
+      "options": [
+        {
+          "id": 1474,
+          "text": "A novelist"
+        },
+        {
+          "id": 1471,
+          "text": "An engineer"
+        },
+        {
+          "id": 1472,
+          "text": "A gardener"
+        },
+        {
+          "id": 1473,
+          "text": "An artist"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "text": "The Union Flag is made up of Welsh, Scottish, Irish and English crosses",
+      "explanation": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+      "computed_correct_option_ids": [
+        1648
+      ],
+      "options": [
+        {
+          "id": 1647,
+          "text": "True"
+        },
+        {
+          "id": 1648,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "text": "Scotland and Wales remained free of Anglo-Saxon rule",
+      "explanation": "Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.",
+      "computed_correct_option_ids": [
+        1795
+      ],
+      "options": [
+        {
+          "id": 1796,
+          "text": "False"
+        },
+        {
+          "id": 1795,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "text": "Oliver Cromwell took the title 'King of Ireland'",
+      "explanation": "Cromwell was given the title of Lord Protector and ruled until his death in 1658. Henry VIII took the title 'King of Ireland'",
+      "computed_correct_option_ids": [
+        1892
+      ],
+      "options": [
+        {
+          "id": 1892,
+          "text": "False"
+        },
+        {
+          "id": 1891,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "text": "On Valentine's Day people exchange gifts and cards and send anonymous cards to people they secretly admire",
+      "explanation": "Valentine's Day, 14 February, is when lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.",
+      "computed_correct_option_ids": [
+        1969
+      ],
+      "options": [
+        {
+          "id": 1969,
+          "text": "True"
+        },
+        {
+          "id": 1970,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "text": "Who wrote music for George VI and Queen Elizabeth II?",
+      "explanation": "Sir William Walton (1902-83) wrote a wide range of music, from film scores to opera. He wrote marches for the coronations of King George VI and Queen Elizabeth II but his best-known works are probably Facade, which became a ballet, and Balthazar's Feast, which is intended to be sung by a large choir.",
+      "computed_correct_option_ids": [
+        2140
+      ],
+      "options": [
+        {
+          "id": 2138,
+          "text": "George Frederick Handel"
+        },
+        {
+          "id": 2137,
+          "text": "Henry Purcell"
+        },
+        {
+          "id": 2140,
+          "text": "Sir William Walton"
+        },
+        {
+          "id": 2139,
+          "text": "Sir Edward Elgar"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "text": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country's best loved novel",
+      "explanation": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country's best loved novel",
+      "computed_correct_option_ids": [
+        2157
+      ],
+      "options": [
+        {
+          "id": 2157,
+          "text": "True"
+        },
+        {
+          "id": 2158,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "text": "When did hereditary peers lose the automatic right to attend the House of Lords?",
+      "explanation": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.",
+      "computed_correct_option_ids": [
+        2268
+      ],
+      "options": [
+        {
+          "id": 2268,
+          "text": "1999"
+        },
+        {
+          "id": 2265,
+          "text": "1969"
+        },
+        {
+          "id": 2266,
+          "text": "1979"
+        },
+        {
+          "id": 2267,
+          "text": "1989"
+        }
+      ]
+    },
+    {
+      "id": 636,
+      "text": "Which official holiday is celebrated on the 30th November in Scotland?",
+      "explanation": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday. Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.",
+      "computed_correct_option_ids": [
+        2397
+      ],
+      "options": [
+        {
+          "id": 2395,
+          "text": "Hogmanay"
+        },
+        {
+          "id": 2398,
+          "text": "Father's Day"
+        },
+        {
+          "id": 2397,
+          "text": "St Andrew's Day"
+        },
+        {
+          "id": 2396,
+          "text": "Bonfire Night"
+        }
+      ]
+    },
+    {
+      "id": 657,
+      "text": "When is St George's Day?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        2463
+      ],
+      "options": [
+        {
+          "id": 2464,
+          "text": "1st March"
+        },
+        {
+          "id": 2461,
+          "text": "30th November"
+        },
+        {
+          "id": 2462,
+          "text": "17th March"
+        },
+        {
+          "id": 2463,
+          "text": "23rd April"
+        }
+      ]
+    },
+    {
+      "id": 674,
+      "text": "Who led the invasion of England in 1066?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        2516
+      ],
+      "options": [
+        {
+          "id": 2518,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 2515,
+          "text": "Julius Caesar"
+        },
+        {
+          "id": 2516,
+          "text": "William the Duke of Normandy"
+        },
+        {
+          "id": 2517,
+          "text": "Harold the Saxon King"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "text": "Who was Catherine of Aragon (the first of Henry VIII's six wives)?",
+      "explanation": "Catherine was a Spanish princess. She and Henry had a number of children but only one, Mary, survived. When Catherine was too old to give him another child, Henry decided to divorce her, hoping that another wife would give him a son to be his heir.",
+      "computed_correct_option_ids": [
+        2864
+      ],
+      "options": [
+        {
+          "id": 2861,
+          "text": "Swedish princess"
+        },
+        {
+          "id": 2864,
+          "text": "Spanish princess"
+        },
+        {
+          "id": 2863,
+          "text": "Dutch princess"
+        },
+        {
+          "id": 2862,
+          "text": "French princess"
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "text": "What is Sir Isaac Newton's famous published work?",
+      "explanation": "His most famous published work was Philosophiae Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'), which showed how gravity applied to the whole universe. Newton also discovered that white light is made up of the colours of the rainbow",
+      "computed_correct_option_ids": [
+        2957
+      ],
+      "options": [
+        {
+          "id": 2957,
+          "text": "Mathematical Principles of Natural Philosophy"
+        },
+        {
+          "id": 2955,
+          "text": "Relativistic theory of light"
+        },
+        {
+          "id": 2956,
+          "text": "Quantum Photon Properties"
+        },
+        {
+          "id": 2958,
+          "text": "Discovery of the God particle"
+        }
+      ]
+    },
+    {
+      "id": 980,
+      "text": "Who is Sir Edward Elgar(1857-1934)?",
+      "explanation": "Sir Edward Elgar (1857-1934) was born in Worcester, England. His best-known work is probably the Pomp and Circumstance Marches. March No 1 (Land of Hope and Glory) is usually played at the Last Night of the Proms at the Royal Albert Hall.",
+      "computed_correct_option_ids": [
+        3547
+      ],
+      "options": [
+        {
+          "id": 3547,
+          "text": "A musician"
+        },
+        {
+          "id": 3550,
+          "text": "A politician"
+        },
+        {
+          "id": 3549,
+          "text": "A doctor"
+        },
+        {
+          "id": 3548,
+          "text": "An actor"
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "text": "Nick Park created the 'Wallace and Gromit' film. What kind of film was it?",
+      "explanation": "Britain continues to be particularly strong in special effects and animation. One example is the work of Nick Park, who has won four Oscars for his animated films, including three for films featuring Wallace and Gromit.",
+      "computed_correct_option_ids": [
+        3603
+      ],
+      "options": [
+        {
+          "id": 3603,
+          "text": "Animated film"
+        },
+        {
+          "id": 3601,
+          "text": "Romance film"
+        },
+        {
+          "id": 3602,
+          "text": "Adventure film"
+        },
+        {
+          "id": 3604,
+          "text": "Detective film"
+        }
+      ]
+    }
+  ]
+}

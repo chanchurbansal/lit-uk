@@ -1,0 +1,592 @@
+{
+  "id": 597,
+  "name": "British Citizenship Test 12",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 14301,
+      "text": "Which of the following is a Crown Dependency but not part of the UK?",
+      "explanation": "The Channel Islands andthe Isle of Manare closely linked with the UK but are not part of it. They have their own governments and are called ‘Crown dependencies‘.",
+      "computed_correct_option_ids": [
+        15303
+      ],
+      "options": [
+        {
+          "id": 15301,
+          "text": "Shetland"
+        },
+        {
+          "id": 15302,
+          "text": "Isle of Wight"
+        },
+        {
+          "id": 15303,
+          "text": "Isle of Man"
+        },
+        {
+          "id": 15304,
+          "text": "Anglesey"
+        }
+      ]
+    },
+    {
+      "id": 14302,
+      "text": "Is the BBC controlled by the government?",
+      "explanation": "The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that isindependent of government.",
+      "computed_correct_option_ids": [
+        15311
+      ],
+      "options": [
+        {
+          "id": 15311,
+          "text": "Yes"
+        },
+        {
+          "id": 15312,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 14303,
+      "text": "How many members does the Northern Ireland Assembly have?",
+      "explanation": "The Northern Ireland Assembly has90elected members, known as MLAs (members of the Legislative Assembly).",
+      "computed_correct_option_ids": [
+        15323
+      ],
+      "options": [
+        {
+          "id": 15321,
+          "text": "12"
+        },
+        {
+          "id": 15322,
+          "text": "60"
+        },
+        {
+          "id": 15323,
+          "text": "90"
+        },
+        {
+          "id": 15324,
+          "text": "108"
+        }
+      ]
+    },
+    {
+      "id": 14304,
+      "text": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+      "explanation": "Admiral Nelsonwas in charge of the British fleet at Trafalgar and was killed in the battle.",
+      "computed_correct_option_ids": [
+        15334
+      ],
+      "options": [
+        {
+          "id": 15331,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 15332,
+          "text": "The Duke of Wellington"
+        },
+        {
+          "id": 15333,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 15334,
+          "text": "Admiral Nelson"
+        }
+      ]
+    },
+    {
+      "id": 14305,
+      "text": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+      "explanation": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed withthe names of Iron Age kings.",
+      "computed_correct_option_ids": [
+        15341
+      ],
+      "options": [
+        {
+          "id": 15341,
+          "text": "The names of Iron Age kings"
+        },
+        {
+          "id": 15342,
+          "text": "The names of Iron Age Gods"
+        },
+        {
+          "id": 15343,
+          "text": "The names of trees"
+        },
+        {
+          "id": 15344,
+          "text": "The names of animals"
+        }
+      ]
+    },
+    {
+      "id": 14306,
+      "text": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+      "explanation": "False.Towns, cities and rural areas in the UK are governed bydemocratically elected councils, often called ‘local authorities‘.",
+      "computed_correct_option_ids": [
+        15351
+      ],
+      "options": [
+        {
+          "id": 15351,
+          "text": "True"
+        },
+        {
+          "id": 15352,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14307,
+      "text": "Where is the Tate Art Gallery located?",
+      "explanation": "The Tate Britain and Tate Modern are inLondon.",
+      "computed_correct_option_ids": [
+        15363
+      ],
+      "options": [
+        {
+          "id": 15361,
+          "text": "Glasgow"
+        },
+        {
+          "id": 15362,
+          "text": "Cardiff"
+        },
+        {
+          "id": 15363,
+          "text": "London"
+        },
+        {
+          "id": 15364,
+          "text": "Belfast"
+        }
+      ]
+    },
+    {
+      "id": 14308,
+      "text": "The version of the Bible created by King James I is known as:",
+      "explanation": "One achievement of King James‘ reign was a new translation of the Bible into English. This translation is known as the ‘King James Version‘ or the ‘Authorised Version‘.",
+      "computed_correct_option_ids": [
+        15371
+      ],
+      "options": [
+        {
+          "id": 15371,
+          "text": "Authorised version"
+        },
+        {
+          "id": 15372,
+          "text": "Reformed version"
+        },
+        {
+          "id": 15373,
+          "text": "Approved version"
+        },
+        {
+          "id": 15374,
+          "text": "Unique version"
+        }
+      ]
+    },
+    {
+      "id": 14309,
+      "text": "What is the period of the 1960s known for?",
+      "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘Swinging Sixties’. There wasgrowth in British fashion, cinema and popular music.",
+      "computed_correct_option_ids": [
+        15382
+      ],
+      "options": [
+        {
+          "id": 15381,
+          "text": "A downgrade in manufacturing"
+        },
+        {
+          "id": 15382,
+          "text": "A growth in British fashion and pop music"
+        },
+        {
+          "id": 15383,
+          "text": "A shortage of water"
+        },
+        {
+          "id": 15384,
+          "text": "A blockage of social laws"
+        }
+      ]
+    },
+    {
+      "id": 14310,
+      "text": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+      "explanation": "Between 1680 and 1720 many refugees called Huguenots came fromFrance.",
+      "computed_correct_option_ids": [
+        15394
+      ],
+      "options": [
+        {
+          "id": 15391,
+          "text": "Pakistan"
+        },
+        {
+          "id": 15392,
+          "text": "Germany"
+        },
+        {
+          "id": 15393,
+          "text": "India"
+        },
+        {
+          "id": 15394,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 14311,
+      "text": "What is the most famous tennis tournament played in the UK?",
+      "explanation": "The most famous tournament hosted in Britain isThe Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club.",
+      "computed_correct_option_ids": [
+        15402
+      ],
+      "options": [
+        {
+          "id": 15401,
+          "text": "The Queen’s Club Championships"
+        },
+        {
+          "id": 15402,
+          "text": "Wimbledon"
+        },
+        {
+          "id": 15403,
+          "text": "Roland Garros"
+        },
+        {
+          "id": 15404,
+          "text": "The Aegon Championships"
+        }
+      ]
+    },
+    {
+      "id": 14312,
+      "text": "MPs can only be contacted at their office in the House of Commons.",
+      "explanation": "False. You can contact MPsby letter or telephone at their constituency office, or at their office in the House of Commons. In addition, many MPs, SMs and MSPs hold regular local ‘surgeries‘, where constituents can go in person to talk about issues that are of concern to them.",
+      "computed_correct_option_ids": [
+        15411
+      ],
+      "options": [
+        {
+          "id": 15411,
+          "text": "True"
+        },
+        {
+          "id": 15412,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14313,
+      "text": "What is the day when jokes are published in newspapers and telecast on TV?",
+      "explanation": "April Fool‘s Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes.",
+      "computed_correct_option_ids": [
+        15421
+      ],
+      "options": [
+        {
+          "id": 15421,
+          "text": "April Fool‘s Day"
+        },
+        {
+          "id": 15422,
+          "text": "Boxing Day"
+        },
+        {
+          "id": 15423,
+          "text": "Halloween"
+        },
+        {
+          "id": 15424,
+          "text": "Valentine‘s Day"
+        }
+      ]
+    },
+    {
+      "id": 14314,
+      "text": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+      "explanation": "In 1314 the Scottish, led byRobert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+      "computed_correct_option_ids": [
+        15434
+      ],
+      "options": [
+        {
+          "id": 15431,
+          "text": "King Charles I"
+        },
+        {
+          "id": 15432,
+          "text": "King James I"
+        },
+        {
+          "id": 15433,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 15434,
+          "text": "Robert the Bruce"
+        }
+      ]
+    },
+    {
+      "id": 14315,
+      "text": "Who invented the World Wide Web?",
+      "explanation": "The inventor of the World Wide Web wasSir Tim Berners-Lee.",
+      "computed_correct_option_ids": [
+        15441
+      ],
+      "options": [
+        {
+          "id": 15441,
+          "text": "Sir Tim Berners-Lee"
+        },
+        {
+          "id": 15442,
+          "text": "Sir Peter Mansfield"
+        },
+        {
+          "id": 15443,
+          "text": "Sir Ian Wilmot"
+        },
+        {
+          "id": 15444,
+          "text": "Sir Robert Edwards"
+        }
+      ]
+    },
+    {
+      "id": 14316,
+      "text": "How are civil servants appointed and what political party do they belong to?",
+      "explanation": "Civil servants arechosen on merit and are politically neutral– they are not political appointees.",
+      "computed_correct_option_ids": [
+        15454
+      ],
+      "options": [
+        {
+          "id": 15451,
+          "text": "They are chosen on merit and form part of the Liberal Democrats party"
+        },
+        {
+          "id": 15452,
+          "text": "They are chosen randomly and form part of the Conservative party"
+        },
+        {
+          "id": 15453,
+          "text": "They are chosen randomly and are politically neutral"
+        },
+        {
+          "id": 15454,
+          "text": "They are chosen on merit and are politically neutral"
+        }
+      ]
+    },
+    {
+      "id": 14317,
+      "text": "What is known as the “Dunkirk spirit”?",
+      "explanation": "During WWII as France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk.",
+      "computed_correct_option_ids": [
+        15462
+      ],
+      "options": [
+        {
+          "id": 15461,
+          "text": "When the German air force bombed London and other British cities at night-time"
+        },
+        {
+          "id": 15462,
+          "text": "The evacuation of Allied soldiers from France during World War II"
+        },
+        {
+          "id": 15463,
+          "text": "When new social classes appeared after the Black Death"
+        },
+        {
+          "id": 15464,
+          "text": "The period when many refugees called Huguenots came from France"
+        }
+      ]
+    },
+    {
+      "id": 14318,
+      "text": "You have to be at least 21 years old to serve on a jury.",
+      "explanation": "False. Anyone who is on the electoral register and is aged18to 70 can serve on a jury.",
+      "computed_correct_option_ids": [
+        15472
+      ],
+      "options": [
+        {
+          "id": 15471,
+          "text": "True"
+        },
+        {
+          "id": 15472,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14319,
+      "text": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should:respect the rights of others, including their right to their own opinions, look after yourself and your family, respect and obey the law, treat others with fairness and look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        15481,
+        15483
+      ],
+      "options": [
+        {
+          "id": 15481,
+          "text": "Respect the rights of others, including their right to their own opinions"
+        },
+        {
+          "id": 15482,
+          "text": "Buy a house in the UK"
+        },
+        {
+          "id": 15483,
+          "text": "Look after yourself and your family"
+        },
+        {
+          "id": 15484,
+          "text": "Marry a British citizen"
+        }
+      ]
+    },
+    {
+      "id": 14320,
+      "text": "Which of the following major sports event took place in the UK in 2012?",
+      "explanation": "The UK has hostedthe Olympic gameson three occasions: 1908, 1948 and 2012.",
+      "computed_correct_option_ids": [
+        15493
+      ],
+      "options": [
+        {
+          "id": 15491,
+          "text": "The Football World Cup"
+        },
+        {
+          "id": 15492,
+          "text": "The Rugby World Cup"
+        },
+        {
+          "id": 15493,
+          "text": "The Olympic games"
+        },
+        {
+          "id": 15494,
+          "text": "The Eurocup Basketball"
+        }
+      ]
+    },
+    {
+      "id": 14321,
+      "text": "Charles I believed in the ’Divine Right of Kings’ so he tried:",
+      "explanation": "Charles I believed in the ’Divine Right of Kings’: the idea that the king was directly appointed by God to rule. He thought that the king should be able to act without having to seek approval from Parliament andhe tried to rule without the Parliament.",
+      "computed_correct_option_ids": [
+        15501
+      ],
+      "options": [
+        {
+          "id": 15501,
+          "text": "To rule without the Parliament"
+        },
+        {
+          "id": 15502,
+          "text": "To rule with the approval of the Parliament"
+        },
+        {
+          "id": 15503,
+          "text": "To raise money for the Parliament"
+        },
+        {
+          "id": 15504,
+          "text": "To restore Catholicism in Britain"
+        }
+      ]
+    },
+    {
+      "id": 14322,
+      "text": "What is the Union Jack?",
+      "explanation": "The Union Flag,the Flag of the United Kingdomis also known as the Union Jack.",
+      "computed_correct_option_ids": [
+        15512
+      ],
+      "options": [
+        {
+          "id": 15511,
+          "text": "The Flag of the Commonwealth"
+        },
+        {
+          "id": 15512,
+          "text": "The Flag of the United Kingdom"
+        },
+        {
+          "id": 15513,
+          "text": "The shield used by British Knights"
+        },
+        {
+          "id": 15514,
+          "text": "A trade union to protect workers rights"
+        }
+      ]
+    },
+    {
+      "id": 14323,
+      "text": "Who was voted the greatest Briton of all time in 2002?",
+      "explanation": "In 2002Winston Churchillwas voted the greatest Briton of all time by the public.",
+      "computed_correct_option_ids": [
+        15523
+      ],
+      "options": [
+        {
+          "id": 15521,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 15522,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 15523,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 15524,
+          "text": "Clement Attlee"
+        }
+      ]
+    },
+    {
+      "id": 14324,
+      "text": "Which of the following statements is true:",
+      "explanation": "Women in Britain today make upabout half of the workforce.",
+      "computed_correct_option_ids": [
+        15531
+      ],
+      "options": [
+        {
+          "id": 15531,
+          "text": "Women in Britain today make up about half of the workforce."
+        },
+        {
+          "id": 15532,
+          "text": "Women in Britain today make up about one quarter of the workforce."
+        }
+      ]
+    }
+  ]
+}

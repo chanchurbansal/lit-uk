@@ -1,0 +1,616 @@
+{
+  "id": 419,
+  "name": "Life in the UK Test 59",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8401,
+      "text": "Who was known as the Iron Duke?",
+      "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon bythe Duke of Wellingtonat the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
+      "computed_correct_option_ids": [
+        9403
+      ],
+      "options": [
+        {
+          "id": 9401,
+          "text": "The Duke of Edinburgh"
+        },
+        {
+          "id": 9402,
+          "text": "The Duke of Normandy"
+        },
+        {
+          "id": 9403,
+          "text": "The Duke of Wellington"
+        },
+        {
+          "id": 9404,
+          "text": "The Duke of Lancaster"
+        }
+      ]
+    },
+    {
+      "id": 8402,
+      "text": "Who appoints the members of the Cabinet?",
+      "explanation": "The Prime Minister (PM)is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments.",
+      "computed_correct_option_ids": [
+        9412
+      ],
+      "options": [
+        {
+          "id": 9411,
+          "text": "The King"
+        },
+        {
+          "id": 9412,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 9413,
+          "text": "The Prince of Wales"
+        },
+        {
+          "id": 9414,
+          "text": "The Magistrates"
+        }
+      ]
+    },
+    {
+      "id": 8403,
+      "text": "Which of the following is NOT a British invention?",
+      "explanation": "The World Wide Web, the Turing machine and the hovercraft are British inventions. The mobile phone is not.",
+      "computed_correct_option_ids": [
+        9424
+      ],
+      "options": [
+        {
+          "id": 9421,
+          "text": "The World Wide Web"
+        },
+        {
+          "id": 9422,
+          "text": "The Turing machine"
+        },
+        {
+          "id": 9423,
+          "text": "The hovercraft"
+        },
+        {
+          "id": 9424,
+          "text": "The mobile phone"
+        }
+      ]
+    },
+    {
+      "id": 8404,
+      "text": "When did Argentina invade the Falklands Islands?",
+      "explanation": "In1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+      "computed_correct_option_ids": [
+        9432
+      ],
+      "options": [
+        {
+          "id": 9431,
+          "text": "In 1980"
+        },
+        {
+          "id": 9432,
+          "text": "In 1982"
+        },
+        {
+          "id": 9433,
+          "text": "In 1984"
+        },
+        {
+          "id": 9434,
+          "text": "In 1992"
+        }
+      ]
+    },
+    {
+      "id": 8405,
+      "text": "Which of the following statements is true?",
+      "explanation": "County Courts deal with a wide range ofcivil disputesincluding family matters, breaches of contract and divorce.",
+      "computed_correct_option_ids": [
+        9441
+      ],
+      "options": [
+        {
+          "id": 9441,
+          "text": "County Courts deal with a wide range of civil disputes including family matters, breaches of contract and divorce."
+        },
+        {
+          "id": 9442,
+          "text": "County Courts deal with a wide range of criminal disputes including family matters, breaches of contract and divorce."
+        }
+      ]
+    },
+    {
+      "id": 8406,
+      "text": "When is Boxing Day?",
+      "explanation": "Boxing Day is on the26th of December, the day after Christmas Day and is a public holiday.",
+      "computed_correct_option_ids": [
+        9453
+      ],
+      "options": [
+        {
+          "id": 9451,
+          "text": "24th of December"
+        },
+        {
+          "id": 9452,
+          "text": "25th of December"
+        },
+        {
+          "id": 9453,
+          "text": "26th of December"
+        },
+        {
+          "id": 9454,
+          "text": "31st of December"
+        }
+      ]
+    },
+    {
+      "id": 8407,
+      "text": "According to 2011 Census, what percentage of the population identified themselves as Sikh?",
+      "explanation": "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%),Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+      "computed_correct_option_ids": [
+        9463
+      ],
+      "options": [
+        {
+          "id": 9461,
+          "text": "0.1%"
+        },
+        {
+          "id": 9462,
+          "text": "0.5%"
+        },
+        {
+          "id": 9463,
+          "text": "0.8%"
+        },
+        {
+          "id": 9464,
+          "text": "2%"
+        }
+      ]
+    },
+    {
+      "id": 8408,
+      "text": "Which court usually deals with serious criminal cases in Scotland?",
+      "explanation": "In Scotland, serious criminal cases are heard in aSheriff Courtwith either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+      "computed_correct_option_ids": [
+        9471
+      ],
+      "options": [
+        {
+          "id": 9471,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 9472,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 9473,
+          "text": "The High Court"
+        },
+        {
+          "id": 9474,
+          "text": "The Magistrates’ Court"
+        }
+      ]
+    },
+    {
+      "id": 8409,
+      "text": "Which of the following are British overseas territories?",
+      "explanation": "There are several British overseas territories in other parts of the world, such asSt Helena and the Falkland Islands. They are also linked to the UK but are not part of it.",
+      "computed_correct_option_ids": [
+        9483,
+        9484
+      ],
+      "options": [
+        {
+          "id": 9481,
+          "text": "Ireland"
+        },
+        {
+          "id": 9482,
+          "text": "The Canary Islands"
+        },
+        {
+          "id": 9483,
+          "text": "St Helena"
+        },
+        {
+          "id": 9484,
+          "text": "The Falkland Islands"
+        }
+      ]
+    },
+    {
+      "id": 8410,
+      "text": "When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?",
+      "explanation": "Fleming won the Nobel Prize in Medicine in1945for the discovery of the penicillin.",
+      "computed_correct_option_ids": [
+        9492
+      ],
+      "options": [
+        {
+          "id": 9491,
+          "text": "In 1935"
+        },
+        {
+          "id": 9492,
+          "text": "In 1945"
+        },
+        {
+          "id": 9493,
+          "text": "In 1950"
+        },
+        {
+          "id": 9494,
+          "text": "In 1952"
+        }
+      ]
+    },
+    {
+      "id": 8411,
+      "text": "What is Sir Jackie Stewart famous for?",
+      "explanation": "Sir Jackie Stewart is a Scottish former racing driver who won the Formula 1 world championship three times.",
+      "computed_correct_option_ids": [
+        9503
+      ],
+      "options": [
+        {
+          "id": 9501,
+          "text": "He captained the English football team that won the World Cup in 1966"
+        },
+        {
+          "id": 9502,
+          "text": "He captained the English cricket team"
+        },
+        {
+          "id": 9503,
+          "text": "He won the Formula 1 world championship three times"
+        },
+        {
+          "id": 9504,
+          "text": "He won gold medals in rowing in five consecutive Olympic Games"
+        }
+      ]
+    },
+    {
+      "id": 8412,
+      "text": "The decade of the 1960s was a period of significant social change, when there was growth in British fashion, cinema and popular music:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        9511
+      ],
+      "options": [
+        {
+          "id": 9511,
+          "text": "True"
+        },
+        {
+          "id": 9512,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8413,
+      "text": "When did Britain and France develop the world’s only supersonic commercial airliner known as ‘The Concorde’?",
+      "explanation": "The1960swas a time of technological progress, when Britain and France developed the world’s only supersonic commercial airliner, Concorde.",
+      "computed_correct_option_ids": [
+        9524
+      ],
+      "options": [
+        {
+          "id": 9521,
+          "text": "1970s"
+        },
+        {
+          "id": 9522,
+          "text": "1950s"
+        },
+        {
+          "id": 9523,
+          "text": "1980s"
+        },
+        {
+          "id": 9524,
+          "text": "1960s"
+        }
+      ]
+    },
+    {
+      "id": 8414,
+      "text": "When was the United Nations set up?",
+      "explanation": "The UN was set upafter the Second World Warand aims to prevent war and promote international peace and security.",
+      "computed_correct_option_ids": [
+        9532
+      ],
+      "options": [
+        {
+          "id": 9531,
+          "text": "Before the Second World War"
+        },
+        {
+          "id": 9532,
+          "text": "After the Second World War"
+        },
+        {
+          "id": 9533,
+          "text": "Before the First World War"
+        },
+        {
+          "id": 9534,
+          "text": "Before the War of the Roses"
+        }
+      ]
+    },
+    {
+      "id": 8415,
+      "text": "Where can you find copies of the ‘Hansard’?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be foundin large libraries and at www.parliament.uk.",
+      "computed_correct_option_ids": [
+        9542
+      ],
+      "options": [
+        {
+          "id": 9541,
+          "text": "In the Guardian newspaper"
+        },
+        {
+          "id": 9542,
+          "text": "In large libraries and at www.parliament.uk"
+        },
+        {
+          "id": 9543,
+          "text": "In bookshops"
+        },
+        {
+          "id": 9544,
+          "text": "In any library"
+        }
+      ]
+    },
+    {
+      "id": 8416,
+      "text": "Which court normally deals with cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+      "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in aYouth Courtin front of up to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court.",
+      "computed_correct_option_ids": [
+        9552
+      ],
+      "options": [
+        {
+          "id": 9551,
+          "text": "The High Court"
+        },
+        {
+          "id": 9552,
+          "text": "The Youth Court"
+        },
+        {
+          "id": 9553,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 9554,
+          "text": "The Sheriff Court"
+        }
+      ]
+    },
+    {
+      "id": 8417,
+      "text": "How old do you need to be to be able to go into betting shops or gambling clubs?",
+      "explanation": "You have to be18to go into betting shops or gambling clubs.",
+      "computed_correct_option_ids": [
+        9562
+      ],
+      "options": [
+        {
+          "id": 9561,
+          "text": "16 years old"
+        },
+        {
+          "id": 9562,
+          "text": "18 years old"
+        },
+        {
+          "id": 9563,
+          "text": "20 years old"
+        },
+        {
+          "id": 9564,
+          "text": "21 years old"
+        }
+      ]
+    },
+    {
+      "id": 8418,
+      "text": "Which flag has a diagonal white cross on a blue ground?",
+      "explanation": "The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.",
+      "computed_correct_option_ids": [
+        9571
+      ],
+      "options": [
+        {
+          "id": 9571,
+          "text": "The cross of St Andrew, patron saint of Scotland"
+        },
+        {
+          "id": 9572,
+          "text": "The cross of St Patrick, patron saint of Ireland"
+        },
+        {
+          "id": 9573,
+          "text": "The cross of St George, patron saint of England"
+        },
+        {
+          "id": 9574,
+          "text": "The cross of St David, patron saint of Wales"
+        }
+      ]
+    },
+    {
+      "id": 8419,
+      "text": "How long do Muslims fast for during Ramadan?",
+      "explanation": "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted fora month.",
+      "computed_correct_option_ids": [
+        9582
+      ],
+      "options": [
+        {
+          "id": 9581,
+          "text": "A week"
+        },
+        {
+          "id": 9582,
+          "text": "A month"
+        },
+        {
+          "id": 9583,
+          "text": "Two weeks"
+        },
+        {
+          "id": 9584,
+          "text": "Three weeks"
+        }
+      ]
+    },
+    {
+      "id": 8420,
+      "text": "Which British actor has recently won an Oscar?",
+      "explanation": "Recent British actors to have won Oscars includeColin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+      "computed_correct_option_ids": [
+        9592
+      ],
+      "options": [
+        {
+          "id": 9591,
+          "text": "Hugh Laurie"
+        },
+        {
+          "id": 9592,
+          "text": "Colin Firth"
+        },
+        {
+          "id": 9593,
+          "text": "Jude Law"
+        },
+        {
+          "id": 9594,
+          "text": "Charles Chaplin"
+        }
+      ]
+    },
+    {
+      "id": 8421,
+      "text": "Which was the first major railway built in Britain?",
+      "explanation": "The Great Western Railwaywas the first major railway built in Britain.",
+      "computed_correct_option_ids": [
+        9603
+      ],
+      "options": [
+        {
+          "id": 9601,
+          "text": "High Speed 1"
+        },
+        {
+          "id": 9602,
+          "text": "West Coast Main Line"
+        },
+        {
+          "id": 9603,
+          "text": "Great Western Railway"
+        },
+        {
+          "id": 9604,
+          "text": "East London Line"
+        }
+      ]
+    },
+    {
+      "id": 8422,
+      "text": "In the 15th century, Henry Tudor, the leader of the House of Lancaster, became:",
+      "explanation": "In 1485, Henry Tudor, the leader of the House of Lancaster, becameKing Henry VIIafter defeating King Richard III of the House of York at the Battle of Bosworth Field.",
+      "computed_correct_option_ids": [
+        9614
+      ],
+      "options": [
+        {
+          "id": 9611,
+          "text": "King Henry VIII"
+        },
+        {
+          "id": 9612,
+          "text": "King Richard I"
+        },
+        {
+          "id": 9613,
+          "text": "King Richard III"
+        },
+        {
+          "id": 9614,
+          "text": "King Henry VII"
+        }
+      ]
+    },
+    {
+      "id": 8423,
+      "text": "How many senior MPs are appointed by the Prime Minister?",
+      "explanation": "The Prime Minister appointsabout 20 senior MPsto become ministers in charge of departments.",
+      "computed_correct_option_ids": [
+        9623
+      ],
+      "options": [
+        {
+          "id": 9621,
+          "text": "Less than 10"
+        },
+        {
+          "id": 9622,
+          "text": "About 15"
+        },
+        {
+          "id": 9623,
+          "text": "About 20"
+        },
+        {
+          "id": 9624,
+          "text": "More than 25"
+        }
+      ]
+    },
+    {
+      "id": 8424,
+      "text": "Who won an Olympic gold medal in the pentathlon in 1972?",
+      "explanation": "Mary Peterswas a talented athlete who won an Olympic gold medal in the pentathlon in 1972.",
+      "computed_correct_option_ids": [
+        9632
+      ],
+      "options": [
+        {
+          "id": 9631,
+          "text": "Sir Ian Botham"
+        },
+        {
+          "id": 9632,
+          "text": "Mary Peters"
+        },
+        {
+          "id": 9633,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 9634,
+          "text": "Jessica Ennis"
+        }
+      ]
+    }
+  ]
+}

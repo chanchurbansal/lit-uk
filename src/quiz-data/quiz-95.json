@@ -1,0 +1,600 @@
+{
+  "id": 595,
+  "name": "British Citizenship Test 10",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 14101,
+      "text": "Who is the patron Saint of England?",
+      "explanation": "The patron Saint of England isSt George.",
+      "computed_correct_option_ids": [
+        15101
+      ],
+      "options": [
+        {
+          "id": 15101,
+          "text": "St George"
+        },
+        {
+          "id": 15102,
+          "text": "St Patrick"
+        },
+        {
+          "id": 15103,
+          "text": "St David"
+        },
+        {
+          "id": 15104,
+          "text": "St Andrew"
+        }
+      ]
+    },
+    {
+      "id": 14102,
+      "text": "Where is Loch Lomond and the Trossachs National Park located?",
+      "explanation": "Loch Lomond and the Trossachs National Park is located inthe west of Scotland.",
+      "computed_correct_option_ids": [
+        15113
+      ],
+      "options": [
+        {
+          "id": 15111,
+          "text": "England"
+        },
+        {
+          "id": 15112,
+          "text": "Wales"
+        },
+        {
+          "id": 15113,
+          "text": "Scotland"
+        },
+        {
+          "id": 15114,
+          "text": "Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 14103,
+      "text": "Wales has its own established church.",
+      "explanation": "False. There is no established Church in Wales or Northern Ireland.",
+      "computed_correct_option_ids": [
+        15121
+      ],
+      "options": [
+        {
+          "id": 15121,
+          "text": "True"
+        },
+        {
+          "id": 15122,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14104,
+      "text": "What stories are associated with Geoffrey Chaucer?",
+      "explanation": "Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage.  This collection of poems is calledThe Canterbury Tales.",
+      "computed_correct_option_ids": [
+        15133
+      ],
+      "options": [
+        {
+          "id": 15131,
+          "text": "The Cambridge Tales"
+        },
+        {
+          "id": 15132,
+          "text": "The Eastbourne Tales"
+        },
+        {
+          "id": 15133,
+          "text": "The Canterbury Tales"
+        },
+        {
+          "id": 15134,
+          "text": "The London Tales"
+        }
+      ]
+    },
+    {
+      "id": 14105,
+      "text": "When is Boxing Day celebrated?",
+      "explanation": "Boxing Day isthe day after Christmas Day(26th December)and is a public holiday.",
+      "computed_correct_option_ids": [
+        15142
+      ],
+      "options": [
+        {
+          "id": 15141,
+          "text": "31st October"
+        },
+        {
+          "id": 15142,
+          "text": "26th December"
+        },
+        {
+          "id": 15143,
+          "text": "24th December"
+        },
+        {
+          "id": 15144,
+          "text": "01st January"
+        }
+      ]
+    },
+    {
+      "id": 14106,
+      "text": "What is the name of the holiday when banks and many other businesses are closed for the day?",
+      "explanation": "There are public holidays each year calledbank holidays, when banks and many other businesses are closed for the day.",
+      "computed_correct_option_ids": [
+        15153
+      ],
+      "options": [
+        {
+          "id": 15151,
+          "text": "Credit Holidays"
+        },
+        {
+          "id": 15152,
+          "text": "Branch Holidays"
+        },
+        {
+          "id": 15153,
+          "text": "Bank Holidays"
+        },
+        {
+          "id": 15154,
+          "text": "Business Holidays"
+        }
+      ]
+    },
+    {
+      "id": 14107,
+      "text": "Why were women given the right to vote?",
+      "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partlyin recognition of the contribution women made to the war effort during the First World War.",
+      "computed_correct_option_ids": [
+        15161
+      ],
+      "options": [
+        {
+          "id": 15161,
+          "text": "In recognition of the contribution women made to the war effort during the First World War"
+        },
+        {
+          "id": 15162,
+          "text": "In recognition of the contribution women made to the war effort during the Second World War"
+        },
+        {
+          "id": 15163,
+          "text": "In recognition of the contribution women made to the war effort during the Crimean War"
+        },
+        {
+          "id": 15164,
+          "text": "In recognition of the contribution women made to the war effort during the Civil War"
+        }
+      ]
+    },
+    {
+      "id": 14108,
+      "text": "What do you need to drive in the UK?",
+      "explanation": "In the UK, you must havea driving licenceto drive on public roads.",
+      "computed_correct_option_ids": [
+        15173
+      ],
+      "options": [
+        {
+          "id": 15171,
+          "text": "An ‘L’ plate"
+        },
+        {
+          "id": 15172,
+          "text": "A National Insurance Number"
+        },
+        {
+          "id": 15173,
+          "text": "A valid driving licence"
+        },
+        {
+          "id": 15174,
+          "text": "An ‘R’ plate"
+        }
+      ]
+    },
+    {
+      "id": 14109,
+      "text": "Where does “the Fringe” festival take place?",
+      "explanation": "The Edinburgh Festival takes place inEdinburgh, Scotland, every summer. It is a series of different arts and cultural festivals, with the biggest and most well-known being the Edinburgh Festival Fringe (‘the Fringe’).",
+      "computed_correct_option_ids": [
+        15182
+      ],
+      "options": [
+        {
+          "id": 15181,
+          "text": "Fraserburgh"
+        },
+        {
+          "id": 15182,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 15183,
+          "text": "Inverness"
+        },
+        {
+          "id": 15184,
+          "text": "St Andrews"
+        }
+      ]
+    },
+    {
+      "id": 14110,
+      "text": "How many members does the Welsh government have?",
+      "explanation": "There are60 membersof the Welsh government or members of the Senedd (SMs) and elections are held every four years using a form of proportional representation.",
+      "computed_correct_option_ids": [
+        15194
+      ],
+      "options": [
+        {
+          "id": 15191,
+          "text": "150"
+        },
+        {
+          "id": 15192,
+          "text": "120"
+        },
+        {
+          "id": 15193,
+          "text": "90"
+        },
+        {
+          "id": 15194,
+          "text": "60"
+        }
+      ]
+    },
+    {
+      "id": 14111,
+      "text": "The names or photographs of  young people found guilty of a crime can be published in newspapers or used by the media.",
+      "explanation": "False. Members of the public are not allowed in Youth Courts, andthe name or photographs of the accused young person cannot be published in newspapers or used by the media.",
+      "computed_correct_option_ids": [
+        15201
+      ],
+      "options": [
+        {
+          "id": 15201,
+          "text": "True"
+        },
+        {
+          "id": 15202,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 14112,
+      "text": "What was Edward Elgar famous for?",
+      "explanation": "Sir Edward Elgar (1857-1934) was amusician. His best known work is probably the Pomp and Circumstance Marches. March No1 (Land of Hope and Glory) is usually played at the Last Night of the Proms at the Royal Albert Hall.",
+      "computed_correct_option_ids": [
+        15211
+      ],
+      "options": [
+        {
+          "id": 15211,
+          "text": "He was a musician"
+        },
+        {
+          "id": 15212,
+          "text": "He was a tennis player"
+        },
+        {
+          "id": 15213,
+          "text": "He was a comedian"
+        },
+        {
+          "id": 15214,
+          "text": "He was an actor"
+        }
+      ]
+    },
+    {
+      "id": 14113,
+      "text": "Which of the following is not a British banknote?",
+      "explanation": "There are no£25notes in the UK.",
+      "computed_correct_option_ids": [
+        15222
+      ],
+      "options": [
+        {
+          "id": 15221,
+          "text": "£50"
+        },
+        {
+          "id": 15222,
+          "text": "£25"
+        },
+        {
+          "id": 15223,
+          "text": "£20"
+        },
+        {
+          "id": 15224,
+          "text": "£5"
+        }
+      ]
+    },
+    {
+      "id": 14114,
+      "text": "Where does the Scottish Grand National take place?",
+      "explanation": "The Scottish Grand National takes place atAyr.",
+      "computed_correct_option_ids": [
+        15233
+      ],
+      "options": [
+        {
+          "id": 15231,
+          "text": "Fife"
+        },
+        {
+          "id": 15232,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 15233,
+          "text": "Ayr"
+        },
+        {
+          "id": 15234,
+          "text": "St Andrews"
+        }
+      ]
+    },
+    {
+      "id": 14115,
+      "text": "The laws passed after the Glorious Revolution marked the beginning of the ______.",
+      "explanation": "The laws passed after the Glorious Revolution marked the beginning of theconstitutional monarchy.",
+      "computed_correct_option_ids": [
+        15241
+      ],
+      "options": [
+        {
+          "id": 15241,
+          "text": "Constitutional monarchy"
+        },
+        {
+          "id": 15242,
+          "text": "Constitutional republic"
+        }
+      ]
+    },
+    {
+      "id": 14116,
+      "text": "During the reign of Elizabeth I, a large fleet of ships was sent to England to conquer the country and to restore Catholicism, where did this fleet come from?",
+      "explanation": "Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent bySpainto conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        15253
+      ],
+      "options": [
+        {
+          "id": 15251,
+          "text": "France"
+        },
+        {
+          "id": 15252,
+          "text": "Portugal"
+        },
+        {
+          "id": 15253,
+          "text": "Spain"
+        },
+        {
+          "id": 15254,
+          "text": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 14117,
+      "text": "What did the Habeas Corpus Act introduce?",
+      "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for ‘you must present the person in court’. The Act guaranteed that no one could be held prisoner unlawfully.Every prisoner has a right to a court hearing.",
+      "computed_correct_option_ids": [
+        15261
+      ],
+      "options": [
+        {
+          "id": 15261,
+          "text": "That every prisoner has a right to a court hearing"
+        },
+        {
+          "id": 15262,
+          "text": "A salary for members of Parliament (MPs)"
+        },
+        {
+          "id": 15263,
+          "text": "Financial help for the unemployed, old-age pensions and free school meals"
+        },
+        {
+          "id": 15264,
+          "text": "Measures to improve the conditions of workers"
+        }
+      ]
+    },
+    {
+      "id": 14118,
+      "text": "What did Emmeline Pankhurst fight for?",
+      "explanation": "Emmeline Pankhurst she set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called ‘suffragettes’. The group used civil disobedience as part of their protestto gain the vote for women. In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War.",
+      "computed_correct_option_ids": [
+        15272
+      ],
+      "options": [
+        {
+          "id": 15271,
+          "text": "The right to liberty and security"
+        },
+        {
+          "id": 15272,
+          "text": "The right for women to vote"
+        },
+        {
+          "id": 15273,
+          "text": "Freedom of expression"
+        },
+        {
+          "id": 15274,
+          "text": "The right to a fair trial"
+        }
+      ]
+    },
+    {
+      "id": 14119,
+      "text": "What is “the Proms”?",
+      "explanation": "The Proms isan eight-week summer season of orchestral classical musicthat takes place in various venues, including the Royal Albert Hall in London.",
+      "computed_correct_option_ids": [
+        15283
+      ],
+      "options": [
+        {
+          "id": 15281,
+          "text": "An annual event that gives awards in a range of categories, such as best British group and best British solo artist"
+        },
+        {
+          "id": 15282,
+          "text": "An annual cultural festival which includes music, dance, art and original performances largely in Welsh"
+        },
+        {
+          "id": 15283,
+          "text": "An eight-week summer season of daily orchestral classical music concerts"
+        },
+        {
+          "id": 15284,
+          "text": "Light-hearted plays with music and comedy"
+        }
+      ]
+    },
+    {
+      "id": 14120,
+      "text": "What was Isaac Newton known for?",
+      "explanation": "Newton‘s most famous published work was Philosophiae Naturalis Principia Mathematica (‘Mathematical Principle of Natural Philosophy’), which showed howgravityapplied to the whole universe.",
+      "computed_correct_option_ids": [
+        15292
+      ],
+      "options": [
+        {
+          "id": 15291,
+          "text": "The discovery of insulin"
+        },
+        {
+          "id": 15292,
+          "text": "The discovery of gravity"
+        },
+        {
+          "id": 15293,
+          "text": "The discovery of penicillin"
+        },
+        {
+          "id": 15294,
+          "text": "The discovery of steam power"
+        }
+      ]
+    },
+    {
+      "id": 14121,
+      "text": "When did the WWI come to an end?",
+      "explanation": "The World War I ended in1918.",
+      "computed_correct_option_ids": [
+        15302
+      ],
+      "options": [
+        {
+          "id": 15301,
+          "text": "In 1922"
+        },
+        {
+          "id": 15302,
+          "text": "In 1918"
+        },
+        {
+          "id": 15303,
+          "text": "In 1945"
+        },
+        {
+          "id": 15304,
+          "text": "In 1943"
+        }
+      ]
+    },
+    {
+      "id": 14122,
+      "text": "Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?",
+      "explanation": "TheEmperor Hadrianbuilt a wall in the north of England to keep out the Picts (ancestors of the Scottish people).",
+      "computed_correct_option_ids": [
+        15312
+      ],
+      "options": [
+        {
+          "id": 15311,
+          "text": "Boudicca"
+        },
+        {
+          "id": 15312,
+          "text": "Emperor Hadrian"
+        },
+        {
+          "id": 15313,
+          "text": "Emperor Claudius"
+        },
+        {
+          "id": 15314,
+          "text": "Julius Caesar"
+        }
+      ]
+    },
+    {
+      "id": 14123,
+      "text": "Which two universities participate in an annual rowing race that takes place on the River Thames?",
+      "explanation": "Rowing is also popular, both as a leisure activity and as a competitive sport. There is a popular yearly race on the Thames betweenOxford and Cambridge Universities.",
+      "computed_correct_option_ids": [
+        15321,
+        15322
+      ],
+      "options": [
+        {
+          "id": 15321,
+          "text": "The University of Oxford"
+        },
+        {
+          "id": 15322,
+          "text": "The University of Cambridge"
+        },
+        {
+          "id": 15323,
+          "text": "The University of Manchester"
+        },
+        {
+          "id": 15324,
+          "text": "The University of Warwick"
+        }
+      ]
+    },
+    {
+      "id": 14124,
+      "text": "Does Britain have a written constitution?",
+      "explanation": "The British constitution is not written down in any single document, and therefore it is described as‘unwritten’.",
+      "computed_correct_option_ids": [
+        15331
+      ],
+      "options": [
+        {
+          "id": 15331,
+          "text": "Yes"
+        },
+        {
+          "id": 15332,
+          "text": "No"
+        }
+      ]
+    }
+  ]
+}

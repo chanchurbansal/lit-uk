@@ -1,0 +1,600 @@
+{
+  "id": 490,
+  "name": "British Citizenship Test 5",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10501,
+      "text": "When does Easter take place?",
+      "explanation": "Easter takes place inMarch or April.",
+      "computed_correct_option_ids": [
+        11503
+      ],
+      "options": [
+        {
+          "id": 11501,
+          "text": "November or December"
+        },
+        {
+          "id": 11502,
+          "text": "January or February"
+        },
+        {
+          "id": 11503,
+          "text": "March or April"
+        },
+        {
+          "id": 11504,
+          "text": "May or June"
+        }
+      ]
+    },
+    {
+      "id": 10502,
+      "text": "Which of the following is not a valid UK coin?",
+      "explanation": "There are no25pcoins in the UK currency.",
+      "computed_correct_option_ids": [
+        11513
+      ],
+      "options": [
+        {
+          "id": 11511,
+          "text": "1p"
+        },
+        {
+          "id": 11512,
+          "text": "5p"
+        },
+        {
+          "id": 11513,
+          "text": "25p"
+        },
+        {
+          "id": 11514,
+          "text": "£1"
+        }
+      ]
+    },
+    {
+      "id": 10503,
+      "text": "Where is the Eden Project located?",
+      "explanation": "The Eden Project is located inCornwall, in the south west of England.",
+      "computed_correct_option_ids": [
+        11522
+      ],
+      "options": [
+        {
+          "id": 11521,
+          "text": "Dorset"
+        },
+        {
+          "id": 11522,
+          "text": "Cornwall"
+        },
+        {
+          "id": 11523,
+          "text": "Devon"
+        },
+        {
+          "id": 11524,
+          "text": "Somerset"
+        }
+      ]
+    },
+    {
+      "id": 10504,
+      "text": "St Helena and the Falkland Islands are part of Great Britain.",
+      "explanation": "False. There are several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but arenotpart of it.",
+      "computed_correct_option_ids": [
+        11532
+      ],
+      "options": [
+        {
+          "id": 11531,
+          "text": "True"
+        },
+        {
+          "id": 11532,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10505,
+      "text": "Which two of the following are fundamental principles of British life?",
+      "explanation": "The fundamental principles of British life include:democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs and participation in community life.",
+      "computed_correct_option_ids": [
+        11542,
+        11543
+      ],
+      "options": [
+        {
+          "id": 11541,
+          "text": "Monarchy"
+        },
+        {
+          "id": 11542,
+          "text": "The rule of law"
+        },
+        {
+          "id": 11543,
+          "text": "Democracy"
+        },
+        {
+          "id": 11544,
+          "text": "Join a political party"
+        }
+      ]
+    },
+    {
+      "id": 10506,
+      "text": "Where should you register if you want to become part of a jury?",
+      "explanation": "People on the electoral register are randomly selected to serve on a jury. Therefore, if you want to be selected to form part of a jury you have to be onthe electoral registerand be between 18 to 70 years old.",
+      "computed_correct_option_ids": [
+        11551
+      ],
+      "options": [
+        {
+          "id": 11551,
+          "text": "The electoral register"
+        },
+        {
+          "id": 11552,
+          "text": "Your local church"
+        },
+        {
+          "id": 11553,
+          "text": "The NHS"
+        },
+        {
+          "id": 11554,
+          "text": "The British Embassy"
+        }
+      ]
+    },
+    {
+      "id": 10507,
+      "text": "What sort of church is the Church of Scotland?",
+      "explanation": "In Scotland, the national Church is the Church of Scotland, which isa Presbyterian Church.",
+      "computed_correct_option_ids": [
+        11563
+      ],
+      "options": [
+        {
+          "id": 11561,
+          "text": "Catholic"
+        },
+        {
+          "id": 11562,
+          "text": "Baptist"
+        },
+        {
+          "id": 11563,
+          "text": "Presbyterian"
+        },
+        {
+          "id": 11564,
+          "text": "Methodist"
+        }
+      ]
+    },
+    {
+      "id": 10508,
+      "text": "Where does golf come from?",
+      "explanation": "The modern game of golf can be traced back to 15th centuryScotland.",
+      "computed_correct_option_ids": [
+        11574
+      ],
+      "options": [
+        {
+          "id": 11571,
+          "text": "Wales"
+        },
+        {
+          "id": 11572,
+          "text": "Australia"
+        },
+        {
+          "id": 11573,
+          "text": "Ireland"
+        },
+        {
+          "id": 11574,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10509,
+      "text": "When do the television and newspapers have stories that are jokes until midday?",
+      "explanation": "On April Fool’s Day, the 1st of April the television and newspapers often have stories that are April Fool jokes.",
+      "computed_correct_option_ids": [
+        11584
+      ],
+      "options": [
+        {
+          "id": 11581,
+          "text": "Valentine’s Day"
+        },
+        {
+          "id": 11582,
+          "text": "Boxing Day"
+        },
+        {
+          "id": 11583,
+          "text": "Halloween"
+        },
+        {
+          "id": 11584,
+          "text": "April Fool’s Day"
+        }
+      ]
+    },
+    {
+      "id": 10510,
+      "text": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+      "explanation": "The correct answer isCharles II.",
+      "computed_correct_option_ids": [
+        11592
+      ],
+      "options": [
+        {
+          "id": 11591,
+          "text": "Richard III"
+        },
+        {
+          "id": 11592,
+          "text": "Charles II"
+        },
+        {
+          "id": 11593,
+          "text": "James I"
+        },
+        {
+          "id": 11594,
+          "text": "Henry IV"
+        }
+      ]
+    },
+    {
+      "id": 10511,
+      "text": "Who was the father of Queen Elizabeth I?",
+      "explanation": "The father of Queen Elizabeth I wasHenry VIII.",
+      "computed_correct_option_ids": [
+        11604
+      ],
+      "options": [
+        {
+          "id": 11601,
+          "text": "Edward I"
+        },
+        {
+          "id": 11602,
+          "text": "Henry V"
+        },
+        {
+          "id": 11603,
+          "text": "Henry VII"
+        },
+        {
+          "id": 11604,
+          "text": "Henry VIII"
+        }
+      ]
+    },
+    {
+      "id": 10512,
+      "text": "Complaints against the police can ONLY be made by writing to the Police Complaints Commissioner.",
+      "explanation": "False. Anyone can make a complaint about the policeby going to a police station and writing to the Chief Constable of the police force involved.Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+      "computed_correct_option_ids": [
+        11612
+      ],
+      "options": [
+        {
+          "id": 11611,
+          "text": "True"
+        },
+        {
+          "id": 11612,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10513,
+      "text": "Who is the patron Saint of Northern Ireland?",
+      "explanation": "The patron Saint of Northern Ireland isSt Patrick.",
+      "computed_correct_option_ids": [
+        11622
+      ],
+      "options": [
+        {
+          "id": 11621,
+          "text": "St George"
+        },
+        {
+          "id": 11622,
+          "text": "St Patrick"
+        },
+        {
+          "id": 11623,
+          "text": "St Andrew"
+        },
+        {
+          "id": 11624,
+          "text": "St David"
+        }
+      ]
+    },
+    {
+      "id": 10514,
+      "text": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+      "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called‘the Enlightenment’.",
+      "computed_correct_option_ids": [
+        11631
+      ],
+      "options": [
+        {
+          "id": 11631,
+          "text": "The Enlightenment"
+        },
+        {
+          "id": 11632,
+          "text": "The Glorious Revolution"
+        },
+        {
+          "id": 11633,
+          "text": "The Swinging Sixties"
+        },
+        {
+          "id": 11634,
+          "text": "The Reformation"
+        }
+      ]
+    },
+    {
+      "id": 10515,
+      "text": "Which of the following statements is TRUE:",
+      "explanation": "Mary Stuart (‘Mary, Queen of Scots’) was aCatholic.",
+      "computed_correct_option_ids": [
+        11642
+      ],
+      "options": [
+        {
+          "id": 11641,
+          "text": "Mary Stuart (‘Mary, Queen of Scots’) was a Protestant"
+        },
+        {
+          "id": 11642,
+          "text": "Mary Stuart (‘Mary, Queen of Scots’) was a Catholic"
+        }
+      ]
+    },
+    {
+      "id": 10516,
+      "text": "Which of the following is an example of civil law?",
+      "explanation": "Discrimination in the workplaceis an example of civil law.",
+      "computed_correct_option_ids": [
+        11653
+      ],
+      "options": [
+        {
+          "id": 11651,
+          "text": "To sell tobacco products to anyone under the age of 18"
+        },
+        {
+          "id": 11652,
+          "text": "To buy alcohol for people who are under the age of 18"
+        },
+        {
+          "id": 11653,
+          "text": "Discrimination in the workplace"
+        },
+        {
+          "id": 11654,
+          "text": "To carry a weapon of any kind, even if it is for self-defence"
+        }
+      ]
+    },
+    {
+      "id": 10517,
+      "text": "In which battle did Admiral Nelson die?",
+      "explanation": "Admiral Nelson was in charge of the British fleet at theBattle of Trafalgarand was killed in the battle.",
+      "computed_correct_option_ids": [
+        11663
+      ],
+      "options": [
+        {
+          "id": 11661,
+          "text": "The Battle of Hastings"
+        },
+        {
+          "id": 11662,
+          "text": "The Battle of Waterloo"
+        },
+        {
+          "id": 11663,
+          "text": "The Battle of Trafalgar"
+        },
+        {
+          "id": 11664,
+          "text": "The Battle of Bannockburn"
+        }
+      ]
+    },
+    {
+      "id": 10518,
+      "text": "William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later known as:",
+      "explanation": "William of Orange was asked by Protestants to invade England and proclaim himself king. When William reached England, there was no resistance and he took over the throne. This event was later calledthe ‘Glorious Revolution’.",
+      "computed_correct_option_ids": [
+        11671
+      ],
+      "options": [
+        {
+          "id": 11671,
+          "text": "The ‘Glorious Revolution’"
+        },
+        {
+          "id": 11672,
+          "text": "The Restoration"
+        },
+        {
+          "id": 11673,
+          "text": "The ‘Great Depression’"
+        },
+        {
+          "id": 11674,
+          "text": "The ‘Blitz’"
+        }
+      ]
+    },
+    {
+      "id": 10519,
+      "text": "What sort of charity is ‘Friends of the Earth’?",
+      "explanation": "Friends of the Earth isan environmental charity.",
+      "computed_correct_option_ids": [
+        11681
+      ],
+      "options": [
+        {
+          "id": 11681,
+          "text": "An environmental charity"
+        },
+        {
+          "id": 11682,
+          "text": "A medical research charity"
+        },
+        {
+          "id": 11683,
+          "text": "A charity working with pets"
+        },
+        {
+          "id": 11684,
+          "text": "A charity working with older people"
+        }
+      ]
+    },
+    {
+      "id": 10520,
+      "text": "If a husband forces his wife to have sex he can be charged with rape.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11691
+      ],
+      "options": [
+        {
+          "id": 11691,
+          "text": "True"
+        },
+        {
+          "id": 11692,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10521,
+      "text": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+      "explanation": "The Boer War of 1899 to 1902 took place inSouth Africawith settlers from the Netherlands called the Boers.",
+      "computed_correct_option_ids": [
+        11704
+      ],
+      "options": [
+        {
+          "id": 11701,
+          "text": "Netherlands"
+        },
+        {
+          "id": 11702,
+          "text": "Falkland Islands"
+        },
+        {
+          "id": 11703,
+          "text": "Gibraltar"
+        },
+        {
+          "id": 11704,
+          "text": "South Africa"
+        }
+      ]
+    },
+    {
+      "id": 10522,
+      "text": "Which of the following actions is known as “canvassing”?",
+      "explanation": "Members ofpolitical parties persuade people to vote for their candidates– for instance, by handing out leaflets in the street or by knocking on people’s doors and asking for their support. This is called ‘canvassing’.",
+      "computed_correct_option_ids": [
+        11714
+      ],
+      "options": [
+        {
+          "id": 11711,
+          "text": "Donating blood to help people"
+        },
+        {
+          "id": 11712,
+          "text": "Volunteering for an environmental charity"
+        },
+        {
+          "id": 11713,
+          "text": "Caring for animals at a local rescue shelter"
+        },
+        {
+          "id": 11714,
+          "text": "Persuading people to vote for a political party"
+        }
+      ]
+    },
+    {
+      "id": 10523,
+      "text": "Which novel written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+      "explanation": "In 2003,the Lord of the Ringsby JRR Tolkien was voted the country’s best-loved novel.",
+      "computed_correct_option_ids": [
+        11724
+      ],
+      "options": [
+        {
+          "id": 11721,
+          "text": "Oliver Twist"
+        },
+        {
+          "id": 11722,
+          "text": "James Bond"
+        },
+        {
+          "id": 11723,
+          "text": "Pride and Prejudice"
+        },
+        {
+          "id": 11724,
+          "text": "The Lord of the Rings"
+        }
+      ]
+    },
+    {
+      "id": 10524,
+      "text": "When did Germany invade Poland?",
+      "explanation": "Germany invaded Poland in1939.",
+      "computed_correct_option_ids": [
+        11734
+      ],
+      "options": [
+        {
+          "id": 11731,
+          "text": "1942"
+        },
+        {
+          "id": 11732,
+          "text": "1941"
+        },
+        {
+          "id": 11733,
+          "text": "1940"
+        },
+        {
+          "id": 11734,
+          "text": "1939"
+        }
+      ]
+    }
+  ]
+}

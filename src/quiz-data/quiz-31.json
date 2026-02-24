@@ -1,0 +1,575 @@
+{
+  "id": 389,
+  "name": "Life in the UK Test 31",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 5,
+      "text": "What is not a fundamental principle of British life?",
+      "explanation": "Driving a car is NOT one of the fundamental principles of British life",
+      "computed_correct_option_ids": [
+        15
+      ],
+      "options": [
+        {
+          "id": 16,
+          "text": "Looking after the environment"
+        },
+        {
+          "id": 15,
+          "text": "Driving a car"
+        },
+        {
+          "id": 18,
+          "text": "Looking after yourself and family"
+        },
+        {
+          "id": 17,
+          "text": "Treating others with fairness"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "Which style of architecture became popular in the 19th century?",
+      "explanation": "In the 19th century, the medieval 'gothic' style became popular once again.",
+      "computed_correct_option_ids": [
+        273
+      ],
+      "options": [
+        {
+          "id": 276,
+          "text": "Neoclassical"
+        },
+        {
+          "id": 275,
+          "text": "Simple"
+        },
+        {
+          "id": 274,
+          "text": "Classical"
+        },
+        {
+          "id": 273,
+          "text": "Gothic"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "text": "Who was the first man to be called the 'Prime Minister'?",
+      "explanation": "The first man to be called 'Prime Minister' was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+      "computed_correct_option_ids": [
+        517
+      ],
+      "options": [
+        {
+          "id": 518,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 517,
+          "text": "Sir Robert Walpole"
+        },
+        {
+          "id": 520,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 519,
+          "text": "Margaret Thatcher"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "text": "What were the Canterbury Tales about?",
+      "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
+      "computed_correct_option_ids": [
+        885
+      ],
+      "options": [
+        {
+          "id": 888,
+          "text": "Canterbury tales about the King"
+        },
+        {
+          "id": 887,
+          "text": "Canterbury life"
+        },
+        {
+          "id": 886,
+          "text": "People fighting near Canterbury"
+        },
+        {
+          "id": 885,
+          "text": "The stories people told each other"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "text": "Who is Andy Murray?",
+      "explanation": "Andy Murray (1987-) is a Scottish tennis player who in 2012 won the men's singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals.",
+      "computed_correct_option_ids": [
+        933
+      ],
+      "options": [
+        {
+          "id": 933,
+          "text": "A Scottish tennis player"
+        },
+        {
+          "id": 934,
+          "text": "A Scottish rower"
+        },
+        {
+          "id": 935,
+          "text": "A Scottish cyclist"
+        },
+        {
+          "id": 936,
+          "text": "A Scottish runner"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "text": "How long does Diwali normally last for?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+      "computed_correct_option_ids": [
+        957
+      ],
+      "options": [
+        {
+          "id": 958,
+          "text": "8 days"
+        },
+        {
+          "id": 960,
+          "text": "7 days"
+        },
+        {
+          "id": 957,
+          "text": "5 days"
+        },
+        {
+          "id": 959,
+          "text": "3 days"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "text": "Which tribes invaded Britain after the Romans had left?",
+      "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+      "computed_correct_option_ids": [
+        969
+      ],
+      "options": [
+        {
+          "id": 970,
+          "text": "The Vikings"
+        },
+        {
+          "id": 972,
+          "text": "The Celtics"
+        },
+        {
+          "id": 971,
+          "text": "The Normans"
+        },
+        {
+          "id": 969,
+          "text": "The Jutes and the Anglo-Saxons"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "text": "What was the Spanish Armada?",
+      "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        1065
+      ],
+      "options": [
+        {
+          "id": 1068,
+          "text": "An illness"
+        },
+        {
+          "id": 1065,
+          "text": "A large fleet of ships"
+        },
+        {
+          "id": 1066,
+          "text": "A large army of people"
+        },
+        {
+          "id": 1067,
+          "text": "A French and Spanish army"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "text": "Which of the devolved administrations has been suspended a few times?",
+      "explanation": "There has been a Welsh Assembly and a Scottish Parliament since 1999. There is a Northern Ireland Assembly, although this has been suspended on a few occasions.",
+      "computed_correct_option_ids": [
+        1145
+      ],
+      "options": [
+        {
+          "id": 1145,
+          "text": "Northern Ireland Assembly"
+        },
+        {
+          "id": 1146,
+          "text": "Scottish Parliament"
+        },
+        {
+          "id": 1147,
+          "text": "Welsh Assembly"
+        },
+        {
+          "id": 1148,
+          "text": "Westminster"
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "text": "Who designed New Delhi to be the seat of government in India?",
+      "explanation": "In the 20th century, Sir Edwin Lutyens had an influence throughout the British Empire. He designed New Delhi to be the seat of government in India. He was responsible for many war memorials throughout the world, including the Cenotaph in Whitehall.",
+      "computed_correct_option_ids": [
+        1337
+      ],
+      "options": [
+        {
+          "id": 1338,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 1337,
+          "text": "Sir Edwin Lutyens"
+        },
+        {
+          "id": 1340,
+          "text": "Inigo Jones"
+        },
+        {
+          "id": 1339,
+          "text": "Sir Christopher Wren"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "text": "The UK has a constitutional monarchy",
+      "explanation": "The UK has a constitutional monarchy. This means that the king or queen does not rule the country but appoints the government, which the people have chosen in a democratic election.",
+      "computed_correct_option_ids": [
+        1681
+      ],
+      "options": [
+        {
+          "id": 1681,
+          "text": "True"
+        },
+        {
+          "id": 1682,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "text": "Rudyard Kipling reflected the idea that the British Empire was a force for good",
+      "explanation": "Kipling wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was a force for good. Kipling was awarded the Nobel Prize in Literature in 1907.",
+      "computed_correct_option_ids": [
+        1907
+      ],
+      "options": [
+        {
+          "id": 1907,
+          "text": "True"
+        },
+        {
+          "id": 1908,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "text": "When did the British troops leave Iraq?",
+      "explanation": "Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq. British combat troops left Iraq in 2009.",
+      "computed_correct_option_ids": [
+        1927
+      ],
+      "options": [
+        {
+          "id": 1928,
+          "text": "2013"
+        },
+        {
+          "id": 1927,
+          "text": "2009"
+        },
+        {
+          "id": 1926,
+          "text": "2004"
+        },
+        {
+          "id": 1925,
+          "text": "2000"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "text": "There is no place in British society for extremism or intolerance",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        2027
+      ],
+      "options": [
+        {
+          "id": 2027,
+          "text": "True"
+        },
+        {
+          "id": 2028,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "text": "What is the national flower of Northern Ireland?",
+      "explanation": "A Shamrock is the national flower of Northern Ireland.",
+      "computed_correct_option_ids": [
+        2130
+      ],
+      "options": [
+        {
+          "id": 2131,
+          "text": "A Thistle"
+        },
+        {
+          "id": 2132,
+          "text": "A Rose"
+        },
+        {
+          "id": 2129,
+          "text": "A Lily"
+        },
+        {
+          "id": 2130,
+          "text": "A Shamrock"
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "text": "In England and Wales, the small claims procedure is used for claims of less than what amount?",
+      "explanation": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales; £5,000 in Scotland and £5,000 in Northern Ireland (Changed from £3000).",
+      "computed_correct_option_ids": [
+        2326
+      ],
+      "options": [
+        {
+          "id": 2326,
+          "text": "£10,000"
+        },
+        {
+          "id": 2327,
+          "text": "£7,000"
+        },
+        {
+          "id": 2328,
+          "text": "£11,000"
+        },
+        {
+          "id": 2325,
+          "text": "£3,000"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "text": "Many people volunteer simply because they want to help other people",
+      "explanation": "Volunteering and helping your community are an important part of being a good citizen. They enable you to integrate and get to know other people. It helps to make your community a better place if residents support each other.",
+      "computed_correct_option_ids": [
+        2477
+      ],
+      "options": [
+        {
+          "id": 2478,
+          "text": "False"
+        },
+        {
+          "id": 2477,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "text": "In Northern Ireland, what letter does a newly qualified driver has to display for one year after passing the test?",
+      "explanation": "In Northern Ireland, a newly qualified driver must display an 'R' place (for restricted driver) for one year after passing the test.",
+      "computed_correct_option_ids": [
+        2559
+      ],
+      "options": [
+        {
+          "id": 2560,
+          "text": "D"
+        },
+        {
+          "id": 2557,
+          "text": "L"
+        },
+        {
+          "id": 2558,
+          "text": "T"
+        },
+        {
+          "id": 2559,
+          "text": "R"
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "text": "EEC was set up in 1957 by six countries",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After the Brexit vote to leave in 2020, there are now 27 EU member states",
+      "computed_correct_option_ids": [
+        2669
+      ],
+      "options": [
+        {
+          "id": 2670,
+          "text": "False"
+        },
+        {
+          "id": 2669,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 740,
+      "text": "People over 70 can apply for a free TV licence and blind people can get a 75% discount",
+      "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount. You will receive a fine of up to £1,000 if you watch TV but do not have a TV licence.",
+      "computed_correct_option_ids": [
+        2738
+      ],
+      "options": [
+        {
+          "id": 2737,
+          "text": "True"
+        },
+        {
+          "id": 2738,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "text": "There are some MPs (Members of Parliament) who do not represent any of the main political parties",
+      "explanation": "There are a few MPs who do not represent any of the main political parties. They are called 'independents' and usually represent an issue important to their constituency.",
+      "computed_correct_option_ids": [
+        3163
+      ],
+      "options": [
+        {
+          "id": 3164,
+          "text": "False"
+        },
+        {
+          "id": 3163,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 914,
+      "text": "How many national parks are there in England, Wales and Scotland?",
+      "explanation": "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+      "computed_correct_option_ids": [
+        3341
+      ],
+      "options": [
+        {
+          "id": 3341,
+          "text": "15"
+        },
+        {
+          "id": 3340,
+          "text": "8"
+        },
+        {
+          "id": 3339,
+          "text": "5"
+        },
+        {
+          "id": 3342,
+          "text": "25"
+        }
+      ]
+    },
+    {
+      "id": 989,
+      "text": "What should you do to make a complaint about the Police?",
+      "explanation": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland.",
+      "computed_correct_option_ids": [
+        3577
+      ],
+      "options": [
+        {
+          "id": 3577,
+          "text": "Write to the Chief Constable of the Police force"
+        },
+        {
+          "id": 3579,
+          "text": "Write a complaint letter to the House of Commons"
+        },
+        {
+          "id": 3580,
+          "text": "Complain to the Police force directly"
+        },
+        {
+          "id": 3578,
+          "text": "Write to your MP"
+        }
+      ]
+    },
+    {
+      "id": 1042,
+      "text": "Who invented the World Wide Web?",
+      "explanation": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955-), is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
+      "computed_correct_option_ids": [
+        3773
+      ],
+      "options": [
+        {
+          "id": 3774,
+          "text": "Sir Robert Watson-Watt"
+        },
+        {
+          "id": 3775,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 3776,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 3773,
+          "text": "Sir Tim Berners-Lee"
+        }
+      ]
+    }
+  ]
+}

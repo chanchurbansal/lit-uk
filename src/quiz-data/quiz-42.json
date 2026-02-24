@@ -1,0 +1,596 @@
+{
+  "id": 400,
+  "name": "Life in the UK Test 42",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 22,
+      "text": "Who built the Tower of London?",
+      "explanation": "The Tower of London was built by William the Conqueror after he became king in 1066.",
+      "computed_correct_option_ids": [
+        83
+      ],
+      "options": [
+        {
+          "id": 85,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 84,
+          "text": "Henry VII"
+        },
+        {
+          "id": 83,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 86,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "text": "Where is the best preserved prehistoric village 'Skara Brae on Orkney' located?",
+      "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
+      "computed_correct_option_ids": [
+        573
+      ],
+      "options": [
+        {
+          "id": 574,
+          "text": "England"
+        },
+        {
+          "id": 576,
+          "text": "Wales"
+        },
+        {
+          "id": 575,
+          "text": "Ireland"
+        },
+        {
+          "id": 573,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "text": "What do you require by law to watch TV using any medium?",
+      "explanation": "If you watch or record live TV programmes on any channel, or download or watch BBC programmes on BBC iPlayer on any digital devices, you need to be covered by a TV Licence.",
+      "computed_correct_option_ids": [
+        801
+      ],
+      "options": [
+        {
+          "id": 803,
+          "text": "The Internet"
+        },
+        {
+          "id": 802,
+          "text": "A TV"
+        },
+        {
+          "id": 801,
+          "text": "A valid TV licence"
+        },
+        {
+          "id": 804,
+          "text": "An Antenna"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "text": "Who became the first Briton to win the Tour de France?",
+      "explanation": "Bradley Wiggins (1980-) is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.",
+      "computed_correct_option_ids": [
+        825
+      ],
+      "options": [
+        {
+          "id": 825,
+          "text": "Bradley Wiggins"
+        },
+        {
+          "id": 827,
+          "text": "Andy Murray"
+        },
+        {
+          "id": 828,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 826,
+          "text": "Sir Chris Hoy"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "text": "How many years did Mary, the Queen of Scots spend in prison?",
+      "explanation": "Mary was Elizabeth I's cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for 20 years. Mary was eventually executed, accused of plotting against Elizabeth I.",
+      "computed_correct_option_ids": [
+        997
+      ],
+      "options": [
+        {
+          "id": 999,
+          "text": "30"
+        },
+        {
+          "id": 998,
+          "text": "11"
+        },
+        {
+          "id": 1000,
+          "text": "4"
+        },
+        {
+          "id": 997,
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "text": "The Scottish Parliament was formed in 1998 and sits in Edinburgh",
+      "explanation": "The Scottish Parliament was formed in 1999.",
+      "computed_correct_option_ids": [
+        1692
+      ],
+      "options": [
+        {
+          "id": 1692,
+          "text": "False"
+        },
+        {
+          "id": 1691,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "text": "Who requested to write The Domesday book?",
+      "explanation": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest.",
+      "computed_correct_option_ids": [
+        1718
+      ],
+      "options": [
+        {
+          "id": 1715,
+          "text": "Edward I"
+        },
+        {
+          "id": 1718,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 1717,
+          "text": "Kenneth Macalpin"
+        },
+        {
+          "id": 1716,
+          "text": "King Alfred the Great"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "text": "Since the Middle Ages, when did the first Jews come to Britain to settle in London?",
+      "explanation": "The first Jews to come to Britain since the Middle Ages settled in London in 1656.",
+      "computed_correct_option_ids": [
+        1725
+      ],
+      "options": [
+        {
+          "id": 1724,
+          "text": "1652"
+        },
+        {
+          "id": 1726,
+          "text": "1680"
+        },
+        {
+          "id": 1725,
+          "text": "1656"
+        },
+        {
+          "id": 1723,
+          "text": "1646"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "text": "The British constitution is described as 'unwritten'",
+      "explanation": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government. Our most important institutions have developed over hundreds of years.",
+      "computed_correct_option_ids": [
+        1929
+      ],
+      "options": [
+        {
+          "id": 1930,
+          "text": "False"
+        },
+        {
+          "id": 1929,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "text": "Which TWO roles are school governors and school boards responsible for?",
+      "explanation": "Governors and school boards have an important part to play in raising school standards. They have three key roles: setting the strategic direction of the school, ensuring accountability, monitoring and evaluating school performance.",
+      "computed_correct_option_ids": [
+        1931,
+        1934
+      ],
+      "options": [
+        {
+          "id": 1934,
+          "text": "Monitoring and evaluating school performance"
+        },
+        {
+          "id": 1931,
+          "text": "Setting the strategic direction of the school"
+        },
+        {
+          "id": 1932,
+          "text": "Doing outdoor activities"
+        },
+        {
+          "id": 1933,
+          "text": "Raising money"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "text": "What is the origin of Parliament?",
+      "explanation": "In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king's council of advisers, which included important noblemen and the leaders of the Church.",
+      "computed_correct_option_ids": [
+        2024
+      ],
+      "options": [
+        {
+          "id": 2026,
+          "text": "The Noblemen's council of governance"
+        },
+        {
+          "id": 2023,
+          "text": "The Church's system of governance"
+        },
+        {
+          "id": 2024,
+          "text": "The King's council of advisers"
+        },
+        {
+          "id": 2025,
+          "text": "The Knights' round table"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "text": "There are charities which may help people who cannot afford to pay for a vet",
+      "explanation": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets). There are charities which may help people who cannot afford to pay a vet.",
+      "computed_correct_option_ids": [
+        2227
+      ],
+      "options": [
+        {
+          "id": 2227,
+          "text": "True"
+        },
+        {
+          "id": 2228,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "text": "What are TWO of the roles of the House of Lords?",
+      "explanation": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. It checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people.",
+      "computed_correct_option_ids": [
+        2483,
+        2486
+      ],
+      "options": [
+        {
+          "id": 2485,
+          "text": "Scrutinise and comment on what the government is doing"
+        },
+        {
+          "id": 2486,
+          "text": "Check laws that have been passed to ensure that they are fit for purpose"
+        },
+        {
+          "id": 2483,
+          "text": "Suggest amendments or propose new laws, which are then discussed by the MPs"
+        },
+        {
+          "id": 2484,
+          "text": "Represent everyone in their constituency"
+        }
+      ]
+    },
+    {
+      "id": 732,
+      "text": "Who was made a Dame of the British Empire in 2000?",
+      "explanation": "Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who won an Olympic gold medal in the pentathlon in 1972. After this, she raised money for local athletics and became the team manager for the women's British Olympic team. She continues to promote sport and tourism in Northern Ireland and was made a Dame of the British Empire in 2000 in recognition of her work.",
+      "computed_correct_option_ids": [
+        2709
+      ],
+      "options": [
+        {
+          "id": 2711,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 2709,
+          "text": "Mary Peters"
+        },
+        {
+          "id": 2710,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 2712,
+          "text": "Dame Ellen MacArthur"
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "text": "Which TWO will you be agreeing with when applying to become a permanent resident?",
+      "explanation": "You should accept all responsibilities that come with permanent residency and fundamental principles of British life",
+      "computed_correct_option_ids": [
+        2777,
+        2778
+      ],
+      "options": [
+        {
+          "id": 2777,
+          "text": "To accept the responsibilities which come with 'Settlement'"
+        },
+        {
+          "id": 2775,
+          "text": "To support the Coalition Government"
+        },
+        {
+          "id": 2776,
+          "text": "To remain in the UK forever"
+        },
+        {
+          "id": 2778,
+          "text": "To respect the law, values and traditions of the UK"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "text": "Which of the following is associated with the Elizabethan period in England?",
+      "explanation": "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English. The Elizabethan period is also remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare.",
+      "computed_correct_option_ids": [
+        2833
+      ],
+      "options": [
+        {
+          "id": 2831,
+          "text": "Scientific movement"
+        },
+        {
+          "id": 2834,
+          "text": "Civil wars"
+        },
+        {
+          "id": 2833,
+          "text": "Growing patriotism"
+        },
+        {
+          "id": 2832,
+          "text": "Women rights"
+        }
+      ]
+    },
+    {
+      "id": 908,
+      "text": "Which TWO of the following are examples of criminal law?",
+      "explanation": "Examples of criminal laws are: Carrying a weapon; Selling or buying illegal drugs; Racial crime; Selling tobacco; Smoking in public places; Buying alcohol; Drinking in public.",
+      "computed_correct_option_ids": [
+        3319,
+        3320
+      ],
+      "options": [
+        {
+          "id": 3322,
+          "text": "Disputes about faulty goods"
+        },
+        {
+          "id": 3319,
+          "text": "Racial crime"
+        },
+        {
+          "id": 3320,
+          "text": "Selling tobacco to anyone under the age of 18"
+        },
+        {
+          "id": 3321,
+          "text": "Discrimination in the workplace"
+        }
+      ]
+    },
+    {
+      "id": 913,
+      "text": "Which king defeated the Vikings?",
+      "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings. Many of the Viking invaders stayed in Britain - especially in the east and north of England, in an area known as the Danelaw",
+      "computed_correct_option_ids": [
+        3337
+      ],
+      "options": [
+        {
+          "id": 3335,
+          "text": "King William the Conqueror"
+        },
+        {
+          "id": 3338,
+          "text": "King Robert the Bruce"
+        },
+        {
+          "id": 3337,
+          "text": "King Alfred the Great"
+        },
+        {
+          "id": 3336,
+          "text": "King Harold"
+        }
+      ]
+    },
+    {
+      "id": 925,
+      "text": "Who receives ambassadors and high commissioners, entertains visiting heads of state and makes state visits overseas in support of diplomatic and economic relationships with other countries?",
+      "explanation": "The Monarch (King Charles III) represents the UK to the rest of the world. He receives foreign ambassadors and high commissioners, entertains visiting heads of state, and makes state visits overseas in support of diplomatic and economic relationships with other countries.",
+      "computed_correct_option_ids": [
+        3378
+      ],
+      "options": [
+        {
+          "id": 3378,
+          "text": "The Monarch"
+        },
+        {
+          "id": 3377,
+          "text": "The Speaker"
+        },
+        {
+          "id": 3376,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 3375,
+          "text": "The Foreign Secretary"
+        }
+      ]
+    },
+    {
+      "id": 957,
+      "text": "The devolved administrations each have their own civil service",
+      "explanation": "The devolved administrations each have their own civil service.",
+      "computed_correct_option_ids": [
+        3471
+      ],
+      "options": [
+        {
+          "id": 3471,
+          "text": "True"
+        },
+        {
+          "id": 3472,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "text": "What is known as 'canvassing'?",
+      "explanation": "Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates - for instance, by handing out leaflets in the street or by knocking on people's doors and asking for their support.",
+      "computed_correct_option_ids": [
+        3531
+      ],
+      "options": [
+        {
+          "id": 3531,
+          "text": "Persuade people to vote for the party you represent"
+        },
+        {
+          "id": 3532,
+          "text": "Filling in the ballot paper for those who cannot do it themselves"
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "text": "What is your responsibility as UK citizen? Select TWO answers.",
+      "explanation": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
+      "computed_correct_option_ids": [
+        3637,
+        3638
+      ],
+      "options": [
+        {
+          "id": 3637,
+          "text": "To vote in local and national government elections"
+        },
+        {
+          "id": 3639,
+          "text": "To earn money"
+        },
+        {
+          "id": 3640,
+          "text": "To go to your local pub"
+        },
+        {
+          "id": 3638,
+          "text": "To help and protect your family"
+        }
+      ]
+    },
+    {
+      "id": 1057,
+      "text": "Which of the following is part of the UK?",
+      "explanation": "The United Kingdom consists of Wales,England,Scotland and Northern Ireland.",
+      "computed_correct_option_ids": [
+        3825
+      ],
+      "options": [
+        {
+          "id": 3825,
+          "text": "Wales"
+        },
+        {
+          "id": 3827,
+          "text": "Canada"
+        },
+        {
+          "id": 3828,
+          "text": "Channel Islands"
+        },
+        {
+          "id": 3826,
+          "text": "St Helena"
+        }
+      ]
+    },
+    {
+      "id": 1060,
+      "text": "When is Boxing Day?",
+      "explanation": "Boxing Day (26th of December) is the day after Christmas Day (25th of December) and is a public holiday.",
+      "computed_correct_option_ids": [
+        3837
+      ],
+      "options": [
+        {
+          "id": 3837,
+          "text": "The day after Christmas Day"
+        },
+        {
+          "id": 3839,
+          "text": "The day before Easter"
+        },
+        {
+          "id": 3840,
+          "text": "The day after Easter"
+        },
+        {
+          "id": 3838,
+          "text": "The day before Christmas Day"
+        }
+      ]
+    }
+  ]
+}

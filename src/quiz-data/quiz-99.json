@@ -1,0 +1,615 @@
+{
+  "id": 499,
+  "name": "British Citizenship Test 14",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 11401,
+      "text": "When is St Patrick’s day celebrated?",
+      "explanation": "St Patrick’s day, patron of Northern Ireland is celebrated on the17th of March.",
+      "computed_correct_option_ids": [
+        12404
+      ],
+      "options": [
+        {
+          "id": 12401,
+          "text": "23rd April"
+        },
+        {
+          "id": 12402,
+          "text": "30th November"
+        },
+        {
+          "id": 12403,
+          "text": "1st April"
+        },
+        {
+          "id": 12404,
+          "text": "17th March"
+        }
+      ]
+    },
+    {
+      "id": 11402,
+      "text": "How are the members of the Northern Ireland Parliament elected?",
+      "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are electedwith a form of proportional representation.",
+      "computed_correct_option_ids": [
+        12411
+      ],
+      "options": [
+        {
+          "id": 12411,
+          "text": "By a system of proportional representation"
+        },
+        {
+          "id": 12412,
+          "text": "Using a system of ranked voting"
+        },
+        {
+          "id": 12413,
+          "text": "Using the first past the post system"
+        },
+        {
+          "id": 12414,
+          "text": "Using a runoff system"
+        }
+      ]
+    },
+    {
+      "id": 11403,
+      "text": "Who was the first British Prime Minister?",
+      "explanation": "The most important minister in Parliament became known as the Prime Minister. The first man to be called this wasSir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+      "computed_correct_option_ids": [
+        12424
+      ],
+      "options": [
+        {
+          "id": 12421,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 12422,
+          "text": "Earl of Wilmington"
+        },
+        {
+          "id": 12423,
+          "text": "Henry Pelham"
+        },
+        {
+          "id": 12424,
+          "text": "Sir Robert Walpole"
+        }
+      ]
+    },
+    {
+      "id": 11404,
+      "text": "Which of the following actresses has not won an Oscar?",
+      "explanation": "British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.Emily Watson has not won an Oscar yet.",
+      "computed_correct_option_ids": [
+        12432
+      ],
+      "options": [
+        {
+          "id": 12431,
+          "text": "Tilda Swinton"
+        },
+        {
+          "id": 12432,
+          "text": "Emily Watson"
+        },
+        {
+          "id": 12433,
+          "text": "Dame Judi Dench"
+        },
+        {
+          "id": 12434,
+          "text": "Kate Winslet"
+        }
+      ]
+    },
+    {
+      "id": 11405,
+      "text": "During the Enlightenment, Adam Smith developed ideas about:",
+      "explanation": "During ’the Enlightenment’ Adam Smith developed ideas abouteconomicswhich are still referred to today.",
+      "computed_correct_option_ids": [
+        12442
+      ],
+      "options": [
+        {
+          "id": 12441,
+          "text": "Physics"
+        },
+        {
+          "id": 12442,
+          "text": "Economics"
+        },
+        {
+          "id": 12443,
+          "text": "Science"
+        },
+        {
+          "id": 12444,
+          "text": "Engineering"
+        }
+      ]
+    },
+    {
+      "id": 11406,
+      "text": "Who died at the Battle of Trafalgar?",
+      "explanation": "Admiral Nelsonwas in charge of the British fleet at Trafalgar and was killed in the battle.",
+      "computed_correct_option_ids": [
+        12451
+      ],
+      "options": [
+        {
+          "id": 12451,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 12452,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 12453,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 12454,
+          "text": "Napoleon"
+        }
+      ]
+    },
+    {
+      "id": 11407,
+      "text": "When is Hogmanay celebrated?",
+      "explanation": "In Scotland,the 31st of Decemberis called Hogmanay.",
+      "computed_correct_option_ids": [
+        12464
+      ],
+      "options": [
+        {
+          "id": 12461,
+          "text": "25th of December"
+        },
+        {
+          "id": 12462,
+          "text": "2nd of January"
+        },
+        {
+          "id": 12463,
+          "text": "1st of January"
+        },
+        {
+          "id": 12464,
+          "text": "31st of December"
+        }
+      ]
+    },
+    {
+      "id": 11408,
+      "text": "Proceedings in Parliament are broadcast on television and published in official reports known as:",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports calledHansard.",
+      "computed_correct_option_ids": [
+        12472
+      ],
+      "options": [
+        {
+          "id": 12471,
+          "text": "Canvassing"
+        },
+        {
+          "id": 12472,
+          "text": "Hansard"
+        },
+        {
+          "id": 12473,
+          "text": "Cabinets"
+        },
+        {
+          "id": 12474,
+          "text": "Domesday Book"
+        }
+      ]
+    },
+    {
+      "id": 11409,
+      "text": "Which of the following is a rugby competition?",
+      "explanation": "The most famous rugby union competition isthe Six Nations Championshipbetween England, Ireland, Scotland, Wales, France and Italy.",
+      "computed_correct_option_ids": [
+        12484
+      ],
+      "options": [
+        {
+          "id": 12481,
+          "text": "The Scottish Grand National"
+        },
+        {
+          "id": 12482,
+          "text": "The Wimbledon Championships"
+        },
+        {
+          "id": 12483,
+          "text": "The Ashes"
+        },
+        {
+          "id": 12484,
+          "text": "The Six Nations Championship"
+        }
+      ]
+    },
+    {
+      "id": 11410,
+      "text": "Who appoints life peers in the House of Lords?",
+      "explanation": "Life peers are appointed bythe monarchon the advice of the Prime Minister.",
+      "computed_correct_option_ids": [
+        12494
+      ],
+      "options": [
+        {
+          "id": 12491,
+          "text": "The Speaker"
+        },
+        {
+          "id": 12492,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 12493,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 12494,
+          "text": "The monarch"
+        }
+      ]
+    },
+    {
+      "id": 11411,
+      "text": "Who mapped the coast of Australia?",
+      "explanation": "Captain James Cookmapped the coast of Australia and a few colonies were established there.",
+      "computed_correct_option_ids": [
+        12501
+      ],
+      "options": [
+        {
+          "id": 12501,
+          "text": "James Cook"
+        },
+        {
+          "id": 12502,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 12503,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 12504,
+          "text": "Sake Dean Mahomet"
+        }
+      ]
+    },
+    {
+      "id": 11412,
+      "text": "What was the first war to be extensively covered by the media?",
+      "explanation": "The Crimean Warwas the first war to be extensively covered by the media through news stories and photographs.",
+      "computed_correct_option_ids": [
+        12514
+      ],
+      "options": [
+        {
+          "id": 12511,
+          "text": "The Boer War"
+        },
+        {
+          "id": 12512,
+          "text": "The First World War"
+        },
+        {
+          "id": 12513,
+          "text": "The Second World War"
+        },
+        {
+          "id": 12514,
+          "text": "The Crimean War"
+        }
+      ]
+    },
+    {
+      "id": 11413,
+      "text": "Which of the following monuments is located in Wiltshire?",
+      "explanation": "Stonehengestands in what is now the English county of Wiltshire.",
+      "computed_correct_option_ids": [
+        12524
+      ],
+      "options": [
+        {
+          "id": 12521,
+          "text": "Hadrian’s Wall"
+        },
+        {
+          "id": 12522,
+          "text": "St Paul’s Cathedral"
+        },
+        {
+          "id": 12523,
+          "text": "Nelson’s Column"
+        },
+        {
+          "id": 12524,
+          "text": "Stonehenge"
+        }
+      ]
+    },
+    {
+      "id": 11414,
+      "text": "Who was the first Archbishop of Canterbury?",
+      "explanation": "St Augustineled missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        12532
+      ],
+      "options": [
+        {
+          "id": 12531,
+          "text": "St Patrick"
+        },
+        {
+          "id": 12532,
+          "text": "St Augustine"
+        },
+        {
+          "id": 12533,
+          "text": "St Andrew"
+        },
+        {
+          "id": 12534,
+          "text": "St Columba"
+        }
+      ]
+    },
+    {
+      "id": 11415,
+      "text": "How old do you have to be to go into betting shops or gambling clubs?",
+      "explanation": "You have to be18to go into betting shops or gambling clubs.",
+      "computed_correct_option_ids": [
+        12541
+      ],
+      "options": [
+        {
+          "id": 12541,
+          "text": "18"
+        },
+        {
+          "id": 12542,
+          "text": "20"
+        },
+        {
+          "id": 12543,
+          "text": "16"
+        },
+        {
+          "id": 12544,
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "id": 11416,
+      "text": "The system of government in the UK is a parliamentary democracy.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        12551
+      ],
+      "options": [
+        {
+          "id": 12551,
+          "text": "True"
+        },
+        {
+          "id": 12552,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11417,
+      "text": "What is the traditional food of Northern Ireland?",
+      "explanation": "Ulster fryis the correct answer.",
+      "computed_correct_option_ids": [
+        12564
+      ],
+      "options": [
+        {
+          "id": 12561,
+          "text": "Haggis"
+        },
+        {
+          "id": 12562,
+          "text": "Pancakes"
+        },
+        {
+          "id": 12563,
+          "text": "Paella"
+        },
+        {
+          "id": 12564,
+          "text": "Ulster Fry"
+        }
+      ]
+    },
+    {
+      "id": 11418,
+      "text": "Who was elected as British Prime Minister in 1945?",
+      "explanation": "In 1945 the British people elected a Labour government. The new Prime Minister wasClement Attlee.",
+      "computed_correct_option_ids": [
+        12571
+      ],
+      "options": [
+        {
+          "id": 12571,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 12572,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 12573,
+          "text": "Harold Wilson"
+        },
+        {
+          "id": 12574,
+          "text": "Harold Macmillan"
+        }
+      ]
+    },
+    {
+      "id": 11419,
+      "text": "How many times has the UK hosted the Olympic games?",
+      "explanation": "The UK has hosted the Olympic games onthreeoccasions: 1908, 1948 and 2012.",
+      "computed_correct_option_ids": [
+        12582
+      ],
+      "options": [
+        {
+          "id": 12581,
+          "text": "5"
+        },
+        {
+          "id": 12582,
+          "text": "3"
+        },
+        {
+          "id": 12583,
+          "text": "4"
+        },
+        {
+          "id": 12584,
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "id": 11420,
+      "text": "Why were canals built during the Industrial Revolution?",
+      "explanation": "Canals were builtto link the factories to towns and cities and to the ports, particularly in the new industrial areas in the middle and north of England.",
+      "computed_correct_option_ids": [
+        12591
+      ],
+      "options": [
+        {
+          "id": 12591,
+          "text": "To link the factories to towns and cities and to the ports"
+        },
+        {
+          "id": 12592,
+          "text": "To make space for the large fleet of British ships"
+        },
+        {
+          "id": 12593,
+          "text": "To increase the number of water mills in the UK"
+        },
+        {
+          "id": 12594,
+          "text": "To increase the amount of water in towns and cities"
+        }
+      ]
+    },
+    {
+      "id": 11421,
+      "text": "Are civil servants appointed by the government?",
+      "explanation": "Civil servantsare accountable to ministers. They are chosen on merit and are politically neutral – theyare not political appointees.",
+      "computed_correct_option_ids": [
+        12601
+      ],
+      "options": [
+        {
+          "id": 12601,
+          "text": "Yes"
+        },
+        {
+          "id": 12602,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 11422,
+      "text": "Which of the following countries helped Britain to develop the Concorde?",
+      "explanation": "Britain andFrancedeveloped the world’s only supersonic commercial airliner, Concorde.",
+      "computed_correct_option_ids": [
+        12614
+      ],
+      "options": [
+        {
+          "id": 12611,
+          "text": "Germany"
+        },
+        {
+          "id": 12612,
+          "text": "Norway"
+        },
+        {
+          "id": 12613,
+          "text": "Italy"
+        },
+        {
+          "id": 12614,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 11423,
+      "text": "Which invention led to the development of Britain during the Industrial Revolution?",
+      "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries. Britain was the first country to industrialise on a large scale. It happened because of the development of machinery and the use ofsteam power.",
+      "computed_correct_option_ids": [
+        12622
+      ],
+      "options": [
+        {
+          "id": 12621,
+          "text": "Magnetic Resonance Imaging"
+        },
+        {
+          "id": 12622,
+          "text": "Steam power"
+        },
+        {
+          "id": 12623,
+          "text": "Radar"
+        },
+        {
+          "id": 12624,
+          "text": "Hovercraft"
+        }
+      ]
+    },
+    {
+      "id": 11424,
+      "text": "Who was the tribal leader who fought against the Romans?",
+      "explanation": "One of the tribal leaders who fought against the Romans wasBoudicca.",
+      "computed_correct_option_ids": [
+        12634
+      ],
+      "options": [
+        {
+          "id": 12631,
+          "text": "Columba"
+        },
+        {
+          "id": 12632,
+          "text": "Claudius"
+        },
+        {
+          "id": 12633,
+          "text": "Hadrian"
+        },
+        {
+          "id": 12634,
+          "text": "Boudicca"
+        }
+      ]
+    }
+  ]
+}

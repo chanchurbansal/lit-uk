@@ -1,0 +1,576 @@
+{
+  "id": 369,
+  "name": "Life in the UK Test 11",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 38,
+      "text": "Where in Scotland is known as the home of golf?",
+      "explanation": "St Andrews in Scotland is known as the home of golf.",
+      "computed_correct_option_ids": [
+        145
+      ],
+      "options": [
+        {
+          "id": 148,
+          "text": "Aberdeen"
+        },
+        {
+          "id": 145,
+          "text": "St Andrews"
+        },
+        {
+          "id": 146,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 147,
+          "text": "Glasgow"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "text": "Where does the UK government sit?",
+      "explanation": "The UK is governed by the parliament sitting in Westminster.",
+      "computed_correct_option_ids": [
+        397
+      ],
+      "options": [
+        {
+          "id": 400,
+          "text": "Stormont"
+        },
+        {
+          "id": 399,
+          "text": "Senedd"
+        },
+        {
+          "id": 398,
+          "text": "Holyrood"
+        },
+        {
+          "id": 397,
+          "text": "Westminster"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "text": "Who was the Prime Minister during 1945-1951?",
+      "explanation": "Clement Attlee was born in London in 1883. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
+      "computed_correct_option_ids": [
+        437
+      ],
+      "options": [
+        {
+          "id": 440,
+          "text": "R A Butler"
+        },
+        {
+          "id": 439,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 438,
+          "text": "Dylan Thomas"
+        },
+        {
+          "id": 437,
+          "text": "Clement Attlee"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "text": "Who wrote 'The Lord of the Rings'?",
+      "explanation": "The Lord of the Rings by JRR Tolkien was voted the country's best-loved novel in 2003.",
+      "computed_correct_option_ids": [
+        561
+      ],
+      "options": [
+        {
+          "id": 564,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 561,
+          "text": "JRR Tolkien"
+        },
+        {
+          "id": 562,
+          "text": "Ian Fleming"
+        },
+        {
+          "id": 563,
+          "text": "J K Rowling"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "text": "Which organization looks after the Edinburgh Castle?",
+      "explanation": "The Edinburgh Castle has a long history, dating back to the early Middle Ages. It is looked after by Historic Scotland, a Scottish government agency.",
+      "computed_correct_option_ids": [
+        637
+      ],
+      "options": [
+        {
+          "id": 640,
+          "text": "NSPCC"
+        },
+        {
+          "id": 637,
+          "text": "Historic Scotland"
+        },
+        {
+          "id": 638,
+          "text": "The National Trust"
+        },
+        {
+          "id": 639,
+          "text": "The Red Cross"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "text": "What does an aged population have an impact on?",
+      "explanation": "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+      "computed_correct_option_ids": [
+        833
+      ],
+      "options": [
+        {
+          "id": 835,
+          "text": "The cost of Insurance"
+        },
+        {
+          "id": 833,
+          "text": "The cost of Health Care"
+        },
+        {
+          "id": 834,
+          "text": "The cost of Bus Fares"
+        },
+        {
+          "id": 836,
+          "text": "The price of food"
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "text": "What party won the election in 1945 (After WWII)?",
+      "explanation": "In 1945 the British people elected a Labour government. The new Prime Minister was Clement Attlee, who promised to introduce the welfare state outlined in the Beveridge Report. In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+      "computed_correct_option_ids": [
+        1285
+      ],
+      "options": [
+        {
+          "id": 1288,
+          "text": "A coalition"
+        },
+        {
+          "id": 1287,
+          "text": "Liberal Democrats"
+        },
+        {
+          "id": 1286,
+          "text": "Conservative"
+        },
+        {
+          "id": 1285,
+          "text": "Labour"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "text": "When did Queen Elizabeth II celebrate her Diamond Jubilee?",
+      "explanation": "Big Ben tower is named 'Elizabeth Tower' in honour of Queen Elizabeth II's Diamond Jubilee in 2012.",
+      "computed_correct_option_ids": [
+        1413
+      ],
+      "options": [
+        {
+          "id": 1415,
+          "text": "2010"
+        },
+        {
+          "id": 1416,
+          "text": "2013"
+        },
+        {
+          "id": 1414,
+          "text": "2011"
+        },
+        {
+          "id": 1413,
+          "text": "2012"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "text": "What do you have to pay tax on in the UK?",
+      "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment; profits from self-employment, taxable benefits; pensions; income from property, savings and dividends.",
+      "computed_correct_option_ids": [
+        1429
+      ],
+      "options": [
+        {
+          "id": 1430,
+          "text": "The Personal Allowance"
+        },
+        {
+          "id": 1432,
+          "text": "All kind of benefits"
+        },
+        {
+          "id": 1429,
+          "text": "Pensions"
+        },
+        {
+          "id": 1431,
+          "text": "Buying goods from supermarkets"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "text": "Which of these is NOT part of the Commonwealth?",
+      "explanation": "The US is not part of the Commonwealth.",
+      "computed_correct_option_ids": [
+        1693
+      ],
+      "options": [
+        {
+          "id": 1695,
+          "text": "Barbados"
+        },
+        {
+          "id": 1696,
+          "text": "UK"
+        },
+        {
+          "id": 1694,
+          "text": "Canada"
+        },
+        {
+          "id": 1693,
+          "text": "USA"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "text": "You can find copies of Hansard report in large libraries and on the Internet",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and online.",
+      "computed_correct_option_ids": [
+        2271
+      ],
+      "options": [
+        {
+          "id": 2272,
+          "text": "False"
+        },
+        {
+          "id": 2271,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "text": "Queen Mary was a Protestant and persecuted Catholics (for this reason, she became known as 'Bloody Mary')",
+      "explanation": "Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as 'Bloody Mary'). Mary also died after a short reign and the next monarch was her half-sister, Elizabeth, the daughter of Henry VIII and Anne Boleyn.",
+      "computed_correct_option_ids": [
+        2686
+      ],
+      "options": [
+        {
+          "id": 2686,
+          "text": "False"
+        },
+        {
+          "id": 2685,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "text": "Where is Sutton Hoo?",
+      "explanation": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth.",
+      "computed_correct_option_ids": [
+        2779
+      ],
+      "options": [
+        {
+          "id": 2779,
+          "text": "Suffolk"
+        },
+        {
+          "id": 2780,
+          "text": "Essex"
+        },
+        {
+          "id": 2781,
+          "text": "Sussex"
+        },
+        {
+          "id": 2782,
+          "text": "Norfolk"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "text": "Wales wasn't under Anglo-Saxon rule",
+      "explanation": "Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.",
+      "computed_correct_option_ids": [
+        2835
+      ],
+      "options": [
+        {
+          "id": 2836,
+          "text": "False"
+        },
+        {
+          "id": 2835,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "text": "Scotland, Wales and Northern Ireland each have devolved administrations which give them full control over all policies and laws",
+      "explanation": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+      "computed_correct_option_ids": [
+        3162
+      ],
+      "options": [
+        {
+          "id": 3162,
+          "text": "False"
+        },
+        {
+          "id": 3161,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "text": "Who captained the English cricket team and holds a number of records, both for batting and bowling?",
+      "explanation": "Sir Ian Botham (1955-) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.",
+      "computed_correct_option_ids": [
+        3237
+      ],
+      "options": [
+        {
+          "id": 3240,
+          "text": "Wasim Akram"
+        },
+        {
+          "id": 3239,
+          "text": "Brian Lara"
+        },
+        {
+          "id": 3238,
+          "text": "Shane Warne"
+        },
+        {
+          "id": 3237,
+          "text": "Ian Botham"
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "text": "The Prime Minister cannot be changed until the next General election",
+      "explanation": "The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign.",
+      "computed_correct_option_ids": [
+        3258
+      ],
+      "options": [
+        {
+          "id": 3257,
+          "text": "True"
+        },
+        {
+          "id": 3258,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "text": "Which TWO of the following are protected by law from discrimination?",
+      "explanation": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.",
+      "computed_correct_option_ids": [
+        3301,
+        3302
+      ],
+      "options": [
+        {
+          "id": 3303,
+          "text": "Eye colour"
+        },
+        {
+          "id": 3304,
+          "text": "Choice of car"
+        },
+        {
+          "id": 3302,
+          "text": "Disability"
+        },
+        {
+          "id": 3301,
+          "text": "Marital status"
+        }
+      ]
+    },
+    {
+      "id": 936,
+      "text": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland",
+      "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.",
+      "computed_correct_option_ids": [
+        3407
+      ],
+      "options": [
+        {
+          "id": 3408,
+          "text": "False"
+        },
+        {
+          "id": 3407,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 940,
+      "text": "What is the name given to rented additional land which people use to grow fruit and vegetable?",
+      "explanation": "A lot of people have gardens at home and will spend their free time looking after them. Some people rent additional land called 'an allotment', where they grow fruit and vegetables. Gardening and flower shows range from major national exhibitions to small local events.",
+      "computed_correct_option_ids": [
+        3417
+      ],
+      "options": [
+        {
+          "id": 3418,
+          "text": "Garden"
+        },
+        {
+          "id": 3417,
+          "text": "Allotment"
+        },
+        {
+          "id": 3420,
+          "text": "Roomage"
+        },
+        {
+          "id": 3419,
+          "text": "Spacage"
+        }
+      ]
+    },
+    {
+      "id": 967,
+      "text": "Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. What was this known as?",
+      "explanation": "A process began which became known as the 'Highland Clearances'. Many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle. Evictions became very common in the early 19th century. Many Scottish people left for North America at this time.",
+      "computed_correct_option_ids": [
+        3503
+      ],
+      "options": [
+        {
+          "id": 3503,
+          "text": "Highland Clearances"
+        },
+        {
+          "id": 3504,
+          "text": "Feudalism"
+        },
+        {
+          "id": 3506,
+          "text": "Pocket Boroughs"
+        },
+        {
+          "id": 3505,
+          "text": "The rebellion of the landlords"
+        }
+      ]
+    },
+    {
+      "id": 968,
+      "text": "Which of the statements is true?",
+      "explanation": "Solicitors' charges are usually based on how much time they spend on a case. It is very important to find out at the start how much a case is likely to cost.",
+      "computed_correct_option_ids": [
+        3507
+      ],
+      "options": [
+        {
+          "id": 3508,
+          "text": "Solicitors' charges are based on how serious the case is"
+        },
+        {
+          "id": 3507,
+          "text": "Solicitors' charges are based on how much time they spend on a case"
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "text": "What area is the Home Secretary responsible for?",
+      "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments. These include: Chancellor of the Exchequer: responsible for the economy; Home Secretary:responsible for crime, policing and immigration; Foreign Secretary: responsible for managing relationships with foreign countries; other ministers (called 'Secretaries of State') are responsible for subjects such as education, health and defence.",
+      "computed_correct_option_ids": [
+        3521
+      ],
+      "options": [
+        {
+          "id": 3522,
+          "text": "Education"
+        },
+        {
+          "id": 3524,
+          "text": "Health"
+        },
+        {
+          "id": 3521,
+          "text": "Police"
+        },
+        {
+          "id": 3523,
+          "text": "Defence"
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "text": "Which battle did William the Conqueror fight in?",
+      "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror. The battle is commemorated in a great piece of embroidery, known as the Bayeux Tapestry, which can still be seen in France today.",
+      "computed_correct_option_ids": [
+        3663
+      ],
+      "options": [
+        {
+          "id": 3663,
+          "text": "The Battle of Hastings"
+        },
+        {
+          "id": 3664,
+          "text": "The Battle of Agincourt"
+        },
+        {
+          "id": 3666,
+          "text": "The Battle of Bosworth Field"
+        },
+        {
+          "id": 3665,
+          "text": "The Battle of Bannockburn"
+        }
+      ]
+    }
+  ]
+}

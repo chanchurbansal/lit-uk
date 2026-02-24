@@ -1,0 +1,612 @@
+{
+  "id": 406,
+  "name": "Life in the UK Test 46",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7101,
+      "text": "Who were the first people to arrive in Britain in what we call the Stone Age?",
+      "explanation": "The first people to live in Britain werehunter-gatherers, in what we call the Stone Age.",
+      "computed_correct_option_ids": [
+        8102
+      ],
+      "options": [
+        {
+          "id": 8101,
+          "text": "Farmers"
+        },
+        {
+          "id": 8102,
+          "text": "Hunter-gatherers"
+        },
+        {
+          "id": 8103,
+          "text": "Warriors"
+        },
+        {
+          "id": 8104,
+          "text": "Pirates"
+        }
+      ]
+    },
+    {
+      "id": 7102,
+      "text": "When did Britain become permanently separated from the continent by the Channel?",
+      "explanation": "Britain only became permanently separated from the continent by the Channel about10,000 years ago.",
+      "computed_correct_option_ids": [
+        8111
+      ],
+      "options": [
+        {
+          "id": 8111,
+          "text": "10,000 years ago"
+        },
+        {
+          "id": 8112,
+          "text": "50,000 years ago"
+        },
+        {
+          "id": 8113,
+          "text": "15,000 years ago"
+        },
+        {
+          "id": 8114,
+          "text": "18,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 7103,
+      "text": "The Commonwealth has no power over its members and it cannot suspend their membership:",
+      "explanation": "The Commonwealth has no power over its members, although it can suspend membership.",
+      "computed_correct_option_ids": [
+        8122
+      ],
+      "options": [
+        {
+          "id": 8121,
+          "text": "True"
+        },
+        {
+          "id": 8122,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7104,
+      "text": "Which of the following statements regarding the Black Death is NOT true?",
+      "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales. This was one of the worst disasters ever to strike Britain. Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages.",
+      "computed_correct_option_ids": [
+        8133
+      ],
+      "options": [
+        {
+          "id": 8131,
+          "text": "One third of the population of England died and a similar proportion in Scotland and Wales"
+        },
+        {
+          "id": 8132,
+          "text": "It was one of the worst disasters ever to strike Britain"
+        },
+        {
+          "id": 8133,
+          "text": "It affected children and old people only"
+        },
+        {
+          "id": 8134,
+          "text": "Following the Black Death, there were labour shortages"
+        }
+      ]
+    },
+    {
+      "id": 7105,
+      "text": "Who was reigning in England when Wales became formally united with England by the Act for the Government of Wales?",
+      "explanation": "During the reign ofHenry VIII, Wales became formally united with England by the Act for the Government of Wales.",
+      "computed_correct_option_ids": [
+        8141
+      ],
+      "options": [
+        {
+          "id": 8141,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 8142,
+          "text": "Henry VII"
+        },
+        {
+          "id": 8143,
+          "text": "Elizabeth I"
+        },
+        {
+          "id": 8144,
+          "text": "James I"
+        }
+      ]
+    },
+    {
+      "id": 7106,
+      "text": "The Elizabethan period is known for the richness of its poetry and drama, especially for the plays and poems of which playwright?",
+      "explanation": "The Elizabethan period is remembered for the richness of its poetry and drama, especially the plays and poems ofWilliam Shakespeare.",
+      "computed_correct_option_ids": [
+        8152
+      ],
+      "options": [
+        {
+          "id": 8151,
+          "text": "Alexander Dumas"
+        },
+        {
+          "id": 8152,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 8153,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 8154,
+          "text": "Thomas Hardy"
+        }
+      ]
+    },
+    {
+      "id": 7107,
+      "text": "Which of the following is NOT a fundamental principle of British life?",
+      "explanation": "The fundamental principles of British life include: tolerance of those with different faiths and beliefs, the rule of law, democracy, individual liberty and participation in community life.",
+      "computed_correct_option_ids": [
+        8163
+      ],
+      "options": [
+        {
+          "id": 8161,
+          "text": "Tolerance of those with different faiths and beliefs"
+        },
+        {
+          "id": 8162,
+          "text": "The rule of law"
+        },
+        {
+          "id": 8163,
+          "text": "Autocracy"
+        },
+        {
+          "id": 8164,
+          "text": "Democracy"
+        }
+      ]
+    },
+    {
+      "id": 7108,
+      "text": "Which TWO of the following are environmental charities?",
+      "explanation": "The National Trust and Friends of the Earth are environmental charities.",
+      "computed_correct_option_ids": [
+        8172,
+        8173
+      ],
+      "options": [
+        {
+          "id": 8171,
+          "text": "Crisis"
+        },
+        {
+          "id": 8172,
+          "text": "The National Trust"
+        },
+        {
+          "id": 8173,
+          "text": "Friends of the Earth"
+        },
+        {
+          "id": 8174,
+          "text": "PDSA"
+        }
+      ]
+    },
+    {
+      "id": 7109,
+      "text": "Which flag has a diagonal red cross on a white ground?",
+      "explanation": "The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+      "computed_correct_option_ids": [
+        8182
+      ],
+      "options": [
+        {
+          "id": 8181,
+          "text": "The cross of St George, patron saint of England"
+        },
+        {
+          "id": 8182,
+          "text": "The cross of St Patrick, patron saint of Ireland"
+        },
+        {
+          "id": 8183,
+          "text": "The cross of St David, patron saint of Wales"
+        },
+        {
+          "id": 8184,
+          "text": "The cross of St Andrew, patron saint of Scotland"
+        }
+      ]
+    },
+    {
+      "id": 7110,
+      "text": "Where is the city of Swansea located?",
+      "explanation": "Swansea is located inWales.",
+      "computed_correct_option_ids": [
+        8193
+      ],
+      "options": [
+        {
+          "id": 8191,
+          "text": "In England"
+        },
+        {
+          "id": 8192,
+          "text": "In Scotland"
+        },
+        {
+          "id": 8193,
+          "text": "In Wales"
+        },
+        {
+          "id": 8194,
+          "text": "In the Isle of Man"
+        }
+      ]
+    },
+    {
+      "id": 7111,
+      "text": "When is Christmas Eve celebrated?",
+      "explanation": "Christmas Eve is celebrated on the 24th of December.",
+      "computed_correct_option_ids": [
+        8201
+      ],
+      "options": [
+        {
+          "id": 8201,
+          "text": "24th of December"
+        },
+        {
+          "id": 8202,
+          "text": "26th of December"
+        },
+        {
+          "id": 8203,
+          "text": "25th of December"
+        },
+        {
+          "id": 8204,
+          "text": "27th of December"
+        }
+      ]
+    },
+    {
+      "id": 7112,
+      "text": "Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?",
+      "explanation": "Sir Steve Redgravewon gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians.",
+      "computed_correct_option_ids": [
+        8214
+      ],
+      "options": [
+        {
+          "id": 8211,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 8212,
+          "text": "Christopher Dean"
+        },
+        {
+          "id": 8213,
+          "text": "Bradley Wiggins"
+        },
+        {
+          "id": 8214,
+          "text": "Sir Steve Redgrave"
+        }
+      ]
+    },
+    {
+      "id": 7113,
+      "text": "What is the name of the centrepiece to the Remembrance Day service located in Whitehall, London?",
+      "explanation": "The Cenotaph in Whitehall is the site of the annual Remembrance Day service attended by the King, politicians and foreign ambassadors.",
+      "computed_correct_option_ids": [
+        8221
+      ],
+      "options": [
+        {
+          "id": 8221,
+          "text": "Cenotaph"
+        },
+        {
+          "id": 8222,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 8223,
+          "text": "Grimsby"
+        },
+        {
+          "id": 8224,
+          "text": "Scunthorpe"
+        }
+      ]
+    },
+    {
+      "id": 7114,
+      "text": "Who was the inventor of the World Wide Web?",
+      "explanation": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955-), is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
+      "computed_correct_option_ids": [
+        8231
+      ],
+      "options": [
+        {
+          "id": 8231,
+          "text": "Sir Tim Berners-Lee"
+        },
+        {
+          "id": 8232,
+          "text": "Sir Peter Mansfield"
+        },
+        {
+          "id": 8233,
+          "text": "Sir Ian Wilmut"
+        },
+        {
+          "id": 8234,
+          "text": "Sir Bernard Lovell"
+        }
+      ]
+    },
+    {
+      "id": 7115,
+      "text": "What does the UK offer to its residents or citizens (choose FIVE answers)?",
+      "explanation": "The UK offers to its residents or citizens: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government.",
+      "computed_correct_option_ids": [
+        8241,
+        8242,
+        8244,
+        8245,
+        8246
+      ],
+      "options": [
+        {
+          "id": 8241,
+          "text": "Freedom of belief and religion"
+        },
+        {
+          "id": 8242,
+          "text": "Freedom of speech"
+        },
+        {
+          "id": 8243,
+          "text": "Free university tuition fees"
+        },
+        {
+          "id": 8244,
+          "text": "Freedom from unfair discrimination"
+        },
+        {
+          "id": 8245,
+          "text": "A right to a fair trial"
+        },
+        {
+          "id": 8246,
+          "text": "A right to join in the election of a government"
+        }
+      ]
+    },
+    {
+      "id": 7116,
+      "text": "When did the Wars of the Roses start?",
+      "explanation": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose.",
+      "computed_correct_option_ids": [
+        8252
+      ],
+      "options": [
+        {
+          "id": 8251,
+          "text": "1388"
+        },
+        {
+          "id": 8252,
+          "text": "1455"
+        },
+        {
+          "id": 8253,
+          "text": "1462"
+        },
+        {
+          "id": 8254,
+          "text": "1478"
+        }
+      ]
+    },
+    {
+      "id": 7117,
+      "text": "How many members does the Scottish Parliament have?",
+      "explanation": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation.",
+      "computed_correct_option_ids": [
+        8264
+      ],
+      "options": [
+        {
+          "id": 8261,
+          "text": "60"
+        },
+        {
+          "id": 8262,
+          "text": "90"
+        },
+        {
+          "id": 8263,
+          "text": "120"
+        },
+        {
+          "id": 8264,
+          "text": "129"
+        }
+      ]
+    },
+    {
+      "id": 7118,
+      "text": "What does the term ‘coalition’ refer to?",
+      "explanation": "The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+      "computed_correct_option_ids": [
+        8273
+      ],
+      "options": [
+        {
+          "id": 8271,
+          "text": "If no political party wins a majority, a new election is held to vote for one of the top two parties only"
+        },
+        {
+          "id": 8272,
+          "text": "The candidate who gets the most votes is elected"
+        },
+        {
+          "id": 8273,
+          "text": "If no political party wins a majority, two parties may join and govern together"
+        },
+        {
+          "id": 8274,
+          "text": "If an MP dies or resigns, there will be a fresh election"
+        }
+      ]
+    },
+    {
+      "id": 7119,
+      "text": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        8281
+      ],
+      "options": [
+        {
+          "id": 8281,
+          "text": "True"
+        },
+        {
+          "id": 8282,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7120,
+      "text": "Pool and darts are traditional pub games.",
+      "explanation": "True.",
+      "computed_correct_option_ids": [
+        8291
+      ],
+      "options": [
+        {
+          "id": 8291,
+          "text": "True"
+        },
+        {
+          "id": 8292,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 7121,
+      "text": "When did the UK formally leave the European Union?",
+      "explanation": "The UK formally left the European Union on31 January 2020.",
+      "computed_correct_option_ids": [
+        8303
+      ],
+      "options": [
+        {
+          "id": 8301,
+          "text": "31 January 2019"
+        },
+        {
+          "id": 8302,
+          "text": "30 January 2020"
+        },
+        {
+          "id": 8303,
+          "text": "31 January 2020"
+        },
+        {
+          "id": 8304,
+          "text": "30 January 2019"
+        }
+      ]
+    },
+    {
+      "id": 7122,
+      "text": "What is the minimum age requirement in the UK to drink wine or beer with a meal provided you are with someone over 18?",
+      "explanation": "When they are 16, people can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18.",
+      "computed_correct_option_ids": [
+        8313
+      ],
+      "options": [
+        {
+          "id": 8311,
+          "text": "14 years old"
+        },
+        {
+          "id": 8312,
+          "text": "15 years old"
+        },
+        {
+          "id": 8313,
+          "text": "16 years old"
+        },
+        {
+          "id": 8314,
+          "text": "17 years old"
+        }
+      ]
+    },
+    {
+      "id": 7123,
+      "text": "Who is the spiritual leader of the Church of England?",
+      "explanation": "The spiritual leader of  the Church of England isthe Archbishop of Canterbury.",
+      "computed_correct_option_ids": [
+        8322
+      ],
+      "options": [
+        {
+          "id": 8321,
+          "text": "The Pope"
+        },
+        {
+          "id": 8322,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 8323,
+          "text": "St Augustine"
+        },
+        {
+          "id": 8324,
+          "text": "St Columba"
+        }
+      ]
+    },
+    {
+      "id": 7124,
+      "text": "Civil servants cannot stand for public office:",
+      "explanation": "Most citizens of the UK, Ireland or the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: members of the armed forces, civil servants, people found guilty of certain criminal offences.",
+      "computed_correct_option_ids": [
+        8331
+      ],
+      "options": [
+        {
+          "id": 8331,
+          "text": "True"
+        },
+        {
+          "id": 8332,
+          "text": "False"
+        }
+      ]
+    }
+  ]
+}

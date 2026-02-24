@@ -1,0 +1,608 @@
+{
+  "id": 442,
+  "name": "Life in the UK Test 82",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10701,
+      "text": "Which of the following sports began in the UK?",
+      "explanation": "Many famous sports, includingcricket, football, lawn tennis, golf and rugby, began in Britain.",
+      "computed_correct_option_ids": [
+        11704
+      ],
+      "options": [
+        {
+          "id": 11701,
+          "text": "Cricket"
+        },
+        {
+          "id": 11702,
+          "text": "Football"
+        },
+        {
+          "id": 11703,
+          "text": "Rugby"
+        },
+        {
+          "id": 11704,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "id": 10702,
+      "text": "Which famous architect designed Dumfries House?",
+      "explanation": "The Scottish architectRobert Adamdesigned the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland.",
+      "computed_correct_option_ids": [
+        11712
+      ],
+      "options": [
+        {
+          "id": 11711,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 11712,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 11713,
+          "text": "Sir Norman Foster"
+        },
+        {
+          "id": 11714,
+          "text": "Dame Zaha Hadid"
+        }
+      ]
+    },
+    {
+      "id": 10703,
+      "text": "What did the Education Act of 1944 introduce?",
+      "explanation": "The Education Act 1944 (often called ‘The Butler Act’), introducedfree secondary education in England and Wales.",
+      "computed_correct_option_ids": [
+        11722
+      ],
+      "options": [
+        {
+          "id": 11721,
+          "text": "Free primary education in England and Wales"
+        },
+        {
+          "id": 11722,
+          "text": "Free secondary education in England and Wales"
+        },
+        {
+          "id": 11723,
+          "text": "Free high school education in England and Wales"
+        },
+        {
+          "id": 11724,
+          "text": "Free university education in England and Wales"
+        }
+      ]
+    },
+    {
+      "id": 10704,
+      "text": "Which of the following tribes invaded Britain?",
+      "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe:the Jutes, the Angles and the Saxons.",
+      "computed_correct_option_ids": [
+        11734
+      ],
+      "options": [
+        {
+          "id": 11731,
+          "text": "The Jutes"
+        },
+        {
+          "id": 11732,
+          "text": "The Angles"
+        },
+        {
+          "id": 11733,
+          "text": "The Saxons"
+        },
+        {
+          "id": 11734,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "id": 10705,
+      "text": "Many schools organise events such as book sales, toy sales or bringing food to sell to raise money for extra equipment or out-of-school activities.",
+      "explanation": "This statement isTRUE.",
+      "computed_correct_option_ids": [
+        11741
+      ],
+      "options": [
+        {
+          "id": 11741,
+          "text": "True"
+        },
+        {
+          "id": 11742,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10706,
+      "text": "Do you need a TV licence for watching TV on a mobile phone?",
+      "explanation": "Everyone in the UK with a TV, computer or other medium which can be used for watching TV must have a television licence.",
+      "computed_correct_option_ids": [
+        11751
+      ],
+      "options": [
+        {
+          "id": 11751,
+          "text": "Yes"
+        },
+        {
+          "id": 11752,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 10707,
+      "text": "What do you need to apply to become a British citizen?",
+      "explanation": "To apply to become a permanent resident or citizen of the UK, you will need tohave a good understanding of life in the UK.",
+      "computed_correct_option_ids": [
+        11764
+      ],
+      "options": [
+        {
+          "id": 11761,
+          "text": "Be single and without children"
+        },
+        {
+          "id": 11762,
+          "text": "Be over 25 years old"
+        },
+        {
+          "id": 11763,
+          "text": "Have lived in the UK for 3 years"
+        },
+        {
+          "id": 11764,
+          "text": "Have a good understanding of life in the UK"
+        }
+      ]
+    },
+    {
+      "id": 10708,
+      "text": "Which of the following is a British overseas territory located in the South Atlantic?",
+      "explanation": "The Falkland Islands, a British overseas territory is located in the South Atlantic.",
+      "computed_correct_option_ids": [
+        11773
+      ],
+      "options": [
+        {
+          "id": 11771,
+          "text": "Guernsey"
+        },
+        {
+          "id": 11772,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11773,
+          "text": "The Falkland Islands"
+        },
+        {
+          "id": 11774,
+          "text": "Jersey"
+        }
+      ]
+    },
+    {
+      "id": 10709,
+      "text": "Who wrote the novel Charlie and the Chocolate Factory?",
+      "explanation": "Roald Dahlis the author of Charlie and the Chocolate Factory.",
+      "computed_correct_option_ids": [
+        11784
+      ],
+      "options": [
+        {
+          "id": 11781,
+          "text": "Rudyard Kipling"
+        },
+        {
+          "id": 11782,
+          "text": "Sir William Golding"
+        },
+        {
+          "id": 11783,
+          "text": "Charles Dickens"
+        },
+        {
+          "id": 11784,
+          "text": "Roald Dahl"
+        }
+      ]
+    },
+    {
+      "id": 10710,
+      "text": "The Normans used a system of land ownership known as __________.",
+      "explanation": "The Normans used a system of land ownership known asfeudalism.",
+      "computed_correct_option_ids": [
+        11793
+      ],
+      "options": [
+        {
+          "id": 11791,
+          "text": "Clergy"
+        },
+        {
+          "id": 11792,
+          "text": "Chartism"
+        },
+        {
+          "id": 11793,
+          "text": "Feudalism"
+        },
+        {
+          "id": 11794,
+          "text": "Imperialism"
+        }
+      ]
+    },
+    {
+      "id": 10711,
+      "text": "Who were the Huguenots?",
+      "explanation": "Between 1680 and 1720 manyrefugees called Huguenots came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts.",
+      "computed_correct_option_ids": [
+        11801
+      ],
+      "options": [
+        {
+          "id": 11801,
+          "text": "Protestant refugees from France"
+        },
+        {
+          "id": 11802,
+          "text": "Catholic refugees from Spain"
+        },
+        {
+          "id": 11803,
+          "text": "Catholic refugees from Italy"
+        },
+        {
+          "id": 11804,
+          "text": "Protestant refugees from Germany"
+        }
+      ]
+    },
+    {
+      "id": 10712,
+      "text": "Which of the following statements is TRUE?",
+      "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+      "computed_correct_option_ids": [
+        11813
+      ],
+      "options": [
+        {
+          "id": 11811,
+          "text": "The official name of the country is the United Kingdom of Great Britain and Southern Ireland."
+        },
+        {
+          "id": 11812,
+          "text": "The official name of the country is Great Britain and Southern Ireland."
+        },
+        {
+          "id": 11813,
+          "text": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland."
+        },
+        {
+          "id": 11814,
+          "text": "The official name of the country is the United Kingdom and Great Ireland."
+        }
+      ]
+    },
+    {
+      "id": 10713,
+      "text": "When was slavery abolished throughout the British Empire?",
+      "explanation": "In 1833the Emancipation Act abolished slavery throughout the British Empire.",
+      "computed_correct_option_ids": [
+        11821
+      ],
+      "options": [
+        {
+          "id": 11821,
+          "text": "1833"
+        },
+        {
+          "id": 11822,
+          "text": "1843"
+        },
+        {
+          "id": 11823,
+          "text": "1844"
+        },
+        {
+          "id": 11824,
+          "text": "1861"
+        }
+      ]
+    },
+    {
+      "id": 10714,
+      "text": "Magistrates and Justices of the Peace (JPs) are members of the _________.",
+      "explanation": "Magistrates and Justices of the Peace (JPs) are members ofthe local community.",
+      "computed_correct_option_ids": [
+        11832
+      ],
+      "options": [
+        {
+          "id": 11831,
+          "text": "Government"
+        },
+        {
+          "id": 11832,
+          "text": "Local community"
+        },
+        {
+          "id": 11833,
+          "text": "British Society"
+        },
+        {
+          "id": 11834,
+          "text": "NHS"
+        }
+      ]
+    },
+    {
+      "id": 10715,
+      "text": "Where can you find details about the small claims procedure?",
+      "explanation": "You can get details about the small claims procedurefrom your local County Court or Sheriff Court.",
+      "computed_correct_option_ids": [
+        11843
+      ],
+      "options": [
+        {
+          "id": 11841,
+          "text": "From the local community"
+        },
+        {
+          "id": 11842,
+          "text": "At the police station"
+        },
+        {
+          "id": 11843,
+          "text": "At your local County Court or Sheriff Court"
+        },
+        {
+          "id": 11844,
+          "text": "At any local shop"
+        }
+      ]
+    },
+    {
+      "id": 10716,
+      "text": "When is Mothering Sunday?",
+      "explanation": "Mothering Sunday (or Mother’s day) isthe Sunday three weeks before Easter. Children send cards or buy gifts for their mothers.",
+      "computed_correct_option_ids": [
+        11851
+      ],
+      "options": [
+        {
+          "id": 11851,
+          "text": "The Sunday three weeks before Easter."
+        },
+        {
+          "id": 11852,
+          "text": "The Sunday three weeks after Easter."
+        },
+        {
+          "id": 11853,
+          "text": "The Sunday three weeks before Christmas."
+        },
+        {
+          "id": 11854,
+          "text": "The Sunday three weeks after Christmas."
+        }
+      ]
+    },
+    {
+      "id": 10717,
+      "text": "What should you do if your vehicle is over three years old?",
+      "explanation": "If you vehicle is over three years old, you musttake it to the Ministry of Transport (MOT) test every year.",
+      "computed_correct_option_ids": [
+        11861
+      ],
+      "options": [
+        {
+          "id": 11861,
+          "text": "Take it to the MOT every year."
+        },
+        {
+          "id": 11862,
+          "text": "Take it to the MOT 2 years."
+        },
+        {
+          "id": 11863,
+          "text": "Take it to the MOT 3 years."
+        },
+        {
+          "id": 11864,
+          "text": "Take it to the MOT six months."
+        }
+      ]
+    },
+    {
+      "id": 10718,
+      "text": "Which countries fought alongside Britain against Russia during the Crimean War?",
+      "explanation": "From 1853 to 1856,Britain fought with Turkey and France against Russiain the Crimean War.",
+      "computed_correct_option_ids": [
+        11874
+      ],
+      "options": [
+        {
+          "id": 11871,
+          "text": "France and Cyprus"
+        },
+        {
+          "id": 11872,
+          "text": "Germany and Cyprus"
+        },
+        {
+          "id": 11873,
+          "text": "Germany and Turkey"
+        },
+        {
+          "id": 11874,
+          "text": "France and Turkey"
+        }
+      ]
+    },
+    {
+      "id": 10719,
+      "text": "On average, boys leave school with better qualifications than girls.",
+      "explanation": "False. On average,girlsleave school with better qualifications than boys.",
+      "computed_correct_option_ids": [
+        11882
+      ],
+      "options": [
+        {
+          "id": 11881,
+          "text": "True"
+        },
+        {
+          "id": 11882,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10720,
+      "text": "When did William of Orange invade England to proclaim himself king?",
+      "explanation": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland.",
+      "computed_correct_option_ids": [
+        11893
+      ],
+      "options": [
+        {
+          "id": 11891,
+          "text": "1689"
+        },
+        {
+          "id": 11892,
+          "text": "1690"
+        },
+        {
+          "id": 11893,
+          "text": "1688"
+        },
+        {
+          "id": 11894,
+          "text": "1687"
+        }
+      ]
+    },
+    {
+      "id": 10721,
+      "text": "Which British painter is considered to be the artist who raised the profile of landscape painting?",
+      "explanation": "Joseph Turner(1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting.",
+      "computed_correct_option_ids": [
+        11901
+      ],
+      "options": [
+        {
+          "id": 11901,
+          "text": "Joseph Turner"
+        },
+        {
+          "id": 11902,
+          "text": "David Allan"
+        },
+        {
+          "id": 11903,
+          "text": "John Constable"
+        },
+        {
+          "id": 11904,
+          "text": "Sir John Lavery"
+        }
+      ]
+    },
+    {
+      "id": 10722,
+      "text": "The development of the Bessemer process during the Industrial Revolution led to the development of which two industries:",
+      "explanation": "The development of the Bessemer process for the mass production of steel led to the development ofthe shipbuilding industry and the railways.",
+      "computed_correct_option_ids": [
+        11911,
+        11913
+      ],
+      "options": [
+        {
+          "id": 11911,
+          "text": "Shipbuilding industry"
+        },
+        {
+          "id": 11912,
+          "text": "Chemical industry"
+        },
+        {
+          "id": 11913,
+          "text": "Railways industry"
+        },
+        {
+          "id": 11914,
+          "text": "Car industry"
+        }
+      ]
+    },
+    {
+      "id": 10723,
+      "text": "What is the length of the Bayeux tapestry?",
+      "explanation": "The Bayeux Tapestry isnearly 70 metres (230 feet)long and is embroidered with coloured wool.",
+      "computed_correct_option_ids": [
+        11922
+      ],
+      "options": [
+        {
+          "id": 11921,
+          "text": "130 feet"
+        },
+        {
+          "id": 11922,
+          "text": "230 feet"
+        },
+        {
+          "id": 11923,
+          "text": "330 feet"
+        },
+        {
+          "id": 11924,
+          "text": "320 feet"
+        }
+      ]
+    },
+    {
+      "id": 10724,
+      "text": "Which of the following countries is not a member of the Commonwealth?",
+      "explanation": "Costa Ricais not a member of the Commonwealth.",
+      "computed_correct_option_ids": [
+        11934
+      ],
+      "options": [
+        {
+          "id": 11931,
+          "text": "Swaziland"
+        },
+        {
+          "id": 11932,
+          "text": "Trinidad and Tobago"
+        },
+        {
+          "id": 11933,
+          "text": "Dominica"
+        },
+        {
+          "id": 11934,
+          "text": "Costa Rica"
+        }
+      ]
+    }
+  ]
+}

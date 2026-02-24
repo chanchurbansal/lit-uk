@@ -1,0 +1,608 @@
+{
+  "id": 367,
+  "name": "Life in the UK Test 9",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 44,
+      "text": "Where does the Prime Minister reside?",
+      "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        169
+      ],
+      "options": [
+        {
+          "id": 172,
+          "text": "76 Charlotte Street"
+        },
+        {
+          "id": 169,
+          "text": "10 Downing Street"
+        },
+        {
+          "id": 170,
+          "text": "The Buckingham palace"
+        },
+        {
+          "id": 171,
+          "text": "1 Devonshire Terrace"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "text": "What is the 'King James' Bible?",
+      "explanation": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
+      "computed_correct_option_ids": [
+        689
+      ],
+      "options": [
+        {
+          "id": 692,
+          "text": "The Protestant Version"
+        },
+        {
+          "id": 689,
+          "text": "A new translation into English"
+        },
+        {
+          "id": 690,
+          "text": "The First English Bible"
+        },
+        {
+          "id": 691,
+          "text": "The Correct Version"
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "text": "How many member states does the Commonwealth have?",
+      "explanation": "The Queen/King is the ceremonial head of the Commonwealth, which currently has 56 member states. Membership is voluntary.",
+      "computed_correct_option_ids": [
+        1341
+      ],
+      "options": [
+        {
+          "id": 1344,
+          "text": "48"
+        },
+        {
+          "id": 1341,
+          "text": "56"
+        },
+        {
+          "id": 1342,
+          "text": "77"
+        },
+        {
+          "id": 1343,
+          "text": "28"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "text": "What are the MPs who don't represent a political party called?",
+      "explanation": "There are a few MPs who do not represent any of the main political parties. They are called 'independents' and usually represent an issue important to their constituency.",
+      "computed_correct_option_ids": [
+        1421
+      ],
+      "options": [
+        {
+          "id": 1424,
+          "text": "Civil MP"
+        },
+        {
+          "id": 1421,
+          "text": "Independents"
+        },
+        {
+          "id": 1422,
+          "text": "Sole MP"
+        },
+        {
+          "id": 1423,
+          "text": "Neutrals"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "text": "Beefeaters, who tell visitors about the building's history are associated with which of these?",
+      "explanation": "The Tower of London was first built by William the Conqueror after he became king in 1066. Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history. People can also see the Crown Jewels there.",
+      "computed_correct_option_ids": [
+        1487
+      ],
+      "options": [
+        {
+          "id": 1488,
+          "text": "Big Ben"
+        },
+        {
+          "id": 1490,
+          "text": "Unesco"
+        },
+        {
+          "id": 1489,
+          "text": "Edinburgh Castle"
+        },
+        {
+          "id": 1487,
+          "text": "The Tower of London"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "text": "Who in 2002 was voted the greatest Briton of all time?",
+      "explanation": "In 2002, Winston Churchill was voted the greatest Briton of all time by the public.",
+      "computed_correct_option_ids": [
+        1563
+      ],
+      "options": [
+        {
+          "id": 1563,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 1564,
+          "text": "Clement Attlee"
+        },
+        {
+          "id": 1566,
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": 1565,
+          "text": "Sir Robert Walpole"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "text": "What were the people who supported the King known as in 1642?",
+      "explanation": "During the English Civil War (1642) the country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        1719
+      ],
+      "options": [
+        {
+          "id": 1720,
+          "text": "Roundheads"
+        },
+        {
+          "id": 1722,
+          "text": "Quakers"
+        },
+        {
+          "id": 1721,
+          "text": "Chartists"
+        },
+        {
+          "id": 1719,
+          "text": "Cavaliers"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "text": "Protestant ideas gradually gained strength in England, Wales and Scotland during what century?",
+      "explanation": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+      "computed_correct_option_ids": [
+        1805
+      ],
+      "options": [
+        {
+          "id": 1804,
+          "text": "15th"
+        },
+        {
+          "id": 1803,
+          "text": "14th"
+        },
+        {
+          "id": 1805,
+          "text": "16th"
+        },
+        {
+          "id": 1806,
+          "text": "17th"
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "text": "How long is the longest straight distance on the mainland?",
+      "explanation": "The longest distance on the mainland is from John O'Groats on the north coast of Scotland to Land's End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
+      "computed_correct_option_ids": [
+        1831
+      ],
+      "options": [
+        {
+          "id": 1829,
+          "text": "1006 miles"
+        },
+        {
+          "id": 1832,
+          "text": "845 miles"
+        },
+        {
+          "id": 1831,
+          "text": "870 miles"
+        },
+        {
+          "id": 1830,
+          "text": "896 miles"
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "text": "What were James II's supporters known as?",
+      "explanation": "Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James' supporters became known as Jacobites.",
+      "computed_correct_option_ids": [
+        1859
+      ],
+      "options": [
+        {
+          "id": 1859,
+          "text": "Jacobites"
+        },
+        {
+          "id": 1862,
+          "text": "Quakers"
+        },
+        {
+          "id": 1861,
+          "text": "Roundheads"
+        },
+        {
+          "id": 1860,
+          "text": "Cavaliers"
+        }
+      ]
+    },
+    {
+      "id": 612,
+      "text": "In Northern Ireland some people speak Irish Gaelic",
+      "explanation": "In Wales, many people speak Welsh - a completely different language from English - and it is taught in schools and universities. In Scotland, Gaelic (again, a different language) is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic.",
+      "computed_correct_option_ids": [
+        2313
+      ],
+      "options": [
+        {
+          "id": 2313,
+          "text": "True"
+        },
+        {
+          "id": 2314,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 618,
+      "text": "What should you do when you move into a new house or apartment?",
+      "explanation": "When you move into a new house or apartment, introduce yourself to the people who live near you. Getting to know your neighbours can help you to become part of the community and make friends.",
+      "computed_correct_option_ids": [
+        2332
+      ],
+      "options": [
+        {
+          "id": 2331,
+          "text": "Tell the people who live near you not to make noise"
+        },
+        {
+          "id": 2332,
+          "text": "Introduce yourself to the people who live near you so they can help you"
+        },
+        {
+          "id": 2333,
+          "text": "Warn the people who live near you not to talk to you"
+        },
+        {
+          "id": 2334,
+          "text": "Do nothing"
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "text": "What percentage of the population has a parent or a grandparent born outside of the UK due to post-war immigration?",
+      "explanation": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.",
+      "computed_correct_option_ids": [
+        2465
+      ],
+      "options": [
+        {
+          "id": 2466,
+          "text": "12%"
+        },
+        {
+          "id": 2465,
+          "text": "10%"
+        },
+        {
+          "id": 2467,
+          "text": "14%"
+        },
+        {
+          "id": 2468,
+          "text": "16%"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "text": "Which of these TWO is correct about Halloween?",
+      "explanation": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play 'trick or treat'. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+      "computed_correct_option_ids": [
+        2473,
+        2475
+      ],
+      "options": [
+        {
+          "id": 2473,
+          "text": "It is an ancient festival and has roots in the pagan festival to mark the beginning of winter"
+        },
+        {
+          "id": 2474,
+          "text": "It is when lovers exchange cards and gifts"
+        },
+        {
+          "id": 2475,
+          "text": "It is celebrated on the 31 October"
+        },
+        {
+          "id": 2476,
+          "text": "It is not celebrated in Scotland"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "text": "The devolved administrations each have their own civil service.",
+      "explanation": "The devolved administrations each have their own civil service.",
+      "computed_correct_option_ids": [
+        2592
+      ],
+      "options": [
+        {
+          "id": 2591,
+          "text": "False"
+        },
+        {
+          "id": 2592,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "text": "Which patron Saint has a white cross on a blue ground?",
+      "explanation": "The Union Flag consists of three crosses: The cross of St George, patron saint of England, is a red cross on a white ground; The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground; The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground.",
+      "computed_correct_option_ids": [
+        2620
+      ],
+      "options": [
+        {
+          "id": 2622,
+          "text": "St David"
+        },
+        {
+          "id": 2620,
+          "text": "St Andrew"
+        },
+        {
+          "id": 2619,
+          "text": "St George"
+        },
+        {
+          "id": 2621,
+          "text": "St Patrick"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "text": "Who was the first Danish king in England?",
+      "explanation": "Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was Cnut, also called Canute.",
+      "computed_correct_option_ids": [
+        2674
+      ],
+      "options": [
+        {
+          "id": 2676,
+          "text": "Edward"
+        },
+        {
+          "id": 2675,
+          "text": "William"
+        },
+        {
+          "id": 2674,
+          "text": "Cnut"
+        },
+        {
+          "id": 2673,
+          "text": "Harold"
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "text": "What is the name of the song sung by people in the UK and other countries when celebrating the New Year?",
+      "explanation": "One of the songs sung by people in the UK at New Year is Auld Lang Syne.",
+      "computed_correct_option_ids": [
+        2933
+      ],
+      "options": [
+        {
+          "id": 2936,
+          "text": "The Heart of the Matter"
+        },
+        {
+          "id": 2933,
+          "text": "Auld Lang Syne"
+        },
+        {
+          "id": 2934,
+          "text": "Sense and Sensibility"
+        },
+        {
+          "id": 2935,
+          "text": "Scoop"
+        }
+      ]
+    },
+    {
+      "id": 838,
+      "text": "Who can stand for office as a Local Councillor?",
+      "explanation": "British citizens can stand for Office as a local councillor, a member of Parliament (or the devolved equivalents). This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for Office if you are an Irish citizen, or an eligible Commonwealth citizen.",
+      "computed_correct_option_ids": [
+        3085
+      ],
+      "options": [
+        {
+          "id": 3086,
+          "text": "Foreign citizens only"
+        },
+        {
+          "id": 3085,
+          "text": "British, Irish and Eligible Commonwealth citizens"
+        },
+        {
+          "id": 3084,
+          "text": "British citizens of the UK only"
+        },
+        {
+          "id": 3083,
+          "text": "All residents of the UK"
+        }
+      ]
+    },
+    {
+      "id": 946,
+      "text": "Which famous poet's work was inspired by Nature?",
+      "explanation": "Other poets, including William Wordsworth, were inspired by nature. Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England. He also wrote novels, many of which were set in Scotland.",
+      "computed_correct_option_ids": [
+        3441
+      ],
+      "options": [
+        {
+          "id": 3441,
+          "text": "William Wordsworth"
+        },
+        {
+          "id": 3439,
+          "text": "Charles Dicken"
+        },
+        {
+          "id": 3440,
+          "text": "Sir Roger Bannister"
+        },
+        {
+          "id": 3442,
+          "text": "Damon Hill"
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "text": "How often do PM's Questions take place in the parliament?",
+      "explanation": "The leader of the opposition leads his or her party in pointing out what they see as the government's failures and weaknesses. One important opportunity to do this is at Prime Minister's Questions, which takes place every week while Parliament is sitting.",
+      "computed_correct_option_ids": [
+        3669
+      ],
+      "options": [
+        {
+          "id": 3672,
+          "text": "Every Month"
+        },
+        {
+          "id": 3671,
+          "text": "Every Working Day"
+        },
+        {
+          "id": 3669,
+          "text": "Every Week"
+        },
+        {
+          "id": 3670,
+          "text": "Every Two Weeks"
+        }
+      ]
+    },
+    {
+      "id": 1038,
+      "text": "Which one of these countries in the UK requires you to complete your own registration form to get entitled to vote?",
+      "explanation": "In Northern Ireland a different system operates. This is called 'individual registration' and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change.",
+      "computed_correct_option_ids": [
+        3757
+      ],
+      "options": [
+        {
+          "id": 3760,
+          "text": "Wales"
+        },
+        {
+          "id": 3757,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 3758,
+          "text": "Scotland"
+        },
+        {
+          "id": 3759,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 1039,
+      "text": "Where is the UK geographically located with respect to Europe?",
+      "explanation": "The UK is located in the North-West of Europe.",
+      "computed_correct_option_ids": [
+        3761
+      ],
+      "options": [
+        {
+          "id": 3762,
+          "text": "South-East"
+        },
+        {
+          "id": 3763,
+          "text": "South-West"
+        },
+        {
+          "id": 3761,
+          "text": "North-West"
+        },
+        {
+          "id": 3764,
+          "text": "North-East"
+        }
+      ]
+    },
+    {
+      "id": 1045,
+      "text": "Towns, cities and rural areas in the UK are governed by civil servants who are appointed by the Government?",
+      "explanation": "Towns, cities and rural areas in the UK are governed by democratically elected councils, often called 'local authorities'. Some areas have both district and county councils, which have different functions. Most large towns and cities have a single local authority.",
+      "computed_correct_option_ids": [
+        3783
+      ],
+      "options": [
+        {
+          "id": 3784,
+          "text": "True"
+        },
+        {
+          "id": 3783,
+          "text": "False"
+        }
+      ]
+    }
+  ]
+}

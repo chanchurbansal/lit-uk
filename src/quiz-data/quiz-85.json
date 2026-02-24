@@ -1,0 +1,614 @@
+{
+  "id": 445,
+  "name": "Life in the UK Test 85",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 11001,
+      "text": "Which country invented rugby?",
+      "explanation": "Rugby originated inEnglandin the early 19th century and is very popular in the UK today.",
+      "computed_correct_option_ids": [
+        12003
+      ],
+      "options": [
+        {
+          "id": 12001,
+          "text": "India"
+        },
+        {
+          "id": 12002,
+          "text": "Argentina"
+        },
+        {
+          "id": 12003,
+          "text": "England"
+        },
+        {
+          "id": 12004,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 11002,
+      "text": "Who were the Huguenots?",
+      "explanation": "Between 1680 and 1720 manyrefugeescalled Huguenots came from France. They were Protestants and had been persecuted for their religion.",
+      "computed_correct_option_ids": [
+        12011
+      ],
+      "options": [
+        {
+          "id": 12011,
+          "text": "Refugees from France"
+        },
+        {
+          "id": 12012,
+          "text": "Refugees from Italy"
+        },
+        {
+          "id": 12013,
+          "text": "Refugees from Pakistan"
+        },
+        {
+          "id": 12014,
+          "text": "Refugees from Cyprus"
+        }
+      ]
+    },
+    {
+      "id": 11003,
+      "text": "Which British scientist showed that gravity applied to the whole universe?",
+      "explanation": "Isaac Newtonmost famous published work was Philosophiae Naturalis Principia Mathematica (‘Mathematical Principle of Natural Philosophy’), which showed how gravity applied to the whole universe.",
+      "computed_correct_option_ids": [
+        12023
+      ],
+      "options": [
+        {
+          "id": 12021,
+          "text": "Alan Turing"
+        },
+        {
+          "id": 12022,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 12023,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 12024,
+          "text": "Ernest Rutherford"
+        }
+      ]
+    },
+    {
+      "id": 11004,
+      "text": "Which composer wrote music for King George I and for his son, George II?",
+      "explanation": "George Frederick Handelwrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II.",
+      "computed_correct_option_ids": [
+        12031
+      ],
+      "options": [
+        {
+          "id": 12031,
+          "text": "George Frederick Handel"
+        },
+        {
+          "id": 12032,
+          "text": "Gustav Holst"
+        },
+        {
+          "id": 12033,
+          "text": "Ralph Vaughan Williams"
+        },
+        {
+          "id": 12034,
+          "text": "Henry Purcell"
+        }
+      ]
+    },
+    {
+      "id": 11005,
+      "text": "When did the English civil war start?",
+      "explanation": "Civil war between the king and Parliament could not now be avoided and began in1642.",
+      "computed_correct_option_ids": [
+        12043
+      ],
+      "options": [
+        {
+          "id": 12041,
+          "text": "1632"
+        },
+        {
+          "id": 12042,
+          "text": "1635"
+        },
+        {
+          "id": 12043,
+          "text": "1642"
+        },
+        {
+          "id": 12044,
+          "text": "1652"
+        }
+      ]
+    },
+    {
+      "id": 11006,
+      "text": "During the 19th century, the UK was the world’s major producer of which THREE materials?",
+      "explanation": "British industry led the world in the 19th century. The UK produced more that half of the world’siron, coal and cotton cloth.",
+      "computed_correct_option_ids": [
+        12051,
+        12052,
+        12054
+      ],
+      "options": [
+        {
+          "id": 12051,
+          "text": "Coal"
+        },
+        {
+          "id": 12052,
+          "text": "Iron"
+        },
+        {
+          "id": 12053,
+          "text": "Silk"
+        },
+        {
+          "id": 12054,
+          "text": "Cotton cloth"
+        }
+      ]
+    },
+    {
+      "id": 11007,
+      "text": "Which TWO of the following British athletes have won gold medals in the Olympic Games?",
+      "explanation": "Dame Kelly Holmes and Jessica Eniswon gold medals in the Olympic Games.",
+      "computed_correct_option_ids": [
+        12061,
+        12064
+      ],
+      "options": [
+        {
+          "id": 12061,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 12062,
+          "text": "Jenson Button"
+        },
+        {
+          "id": 12063,
+          "text": "Tim henman"
+        },
+        {
+          "id": 12064,
+          "text": "Jessica Enis"
+        }
+      ]
+    },
+    {
+      "id": 11008,
+      "text": "The Romans remained in Britain for 500 years.",
+      "explanation": "The Romans remained in Britain for400 years.",
+      "computed_correct_option_ids": [
+        12072
+      ],
+      "options": [
+        {
+          "id": 12071,
+          "text": "True"
+        },
+        {
+          "id": 12072,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11009,
+      "text": "Which country invaded the Falkland Islands in 1982?",
+      "explanation": "In 1982,Argentinainvaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+      "computed_correct_option_ids": [
+        12083
+      ],
+      "options": [
+        {
+          "id": 12081,
+          "text": "Germany"
+        },
+        {
+          "id": 12082,
+          "text": "The Netherlands"
+        },
+        {
+          "id": 12083,
+          "text": "Argentina"
+        },
+        {
+          "id": 12084,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 11010,
+      "text": "Which TWO of the following are examples of criminal offences:",
+      "explanation": "Selling tobacco to anyone under the age of 18 and drinking in publicare examples of criminal offences.",
+      "computed_correct_option_ids": [
+        12092,
+        12094
+      ],
+      "options": [
+        {
+          "id": 12091,
+          "text": "Cases of unfair dismissal or discrimination in the workplace"
+        },
+        {
+          "id": 12092,
+          "text": "Selling tobacco to anyone under the age of 18"
+        },
+        {
+          "id": 12093,
+          "text": "A dispute about faulty goods or services"
+        },
+        {
+          "id": 12094,
+          "text": "Smoking in public places"
+        }
+      ]
+    },
+    {
+      "id": 11011,
+      "text": "Which British landmark was built as part of the UK’s celebration of the new millenium?",
+      "explanation": "The London Eyewas originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.",
+      "computed_correct_option_ids": [
+        12104
+      ],
+      "options": [
+        {
+          "id": 12101,
+          "text": "The O2"
+        },
+        {
+          "id": 12102,
+          "text": "Tower Bridge"
+        },
+        {
+          "id": 12103,
+          "text": "Westminster Abbey"
+        },
+        {
+          "id": 12104,
+          "text": "The London Eye"
+        }
+      ]
+    },
+    {
+      "id": 11012,
+      "text": "Where did slaves mainly come from during the slave trade?",
+      "explanation": "Slaves came primarily fromWest Africa.",
+      "computed_correct_option_ids": [
+        12112
+      ],
+      "options": [
+        {
+          "id": 12111,
+          "text": "South America"
+        },
+        {
+          "id": 12112,
+          "text": "West Africa"
+        },
+        {
+          "id": 12113,
+          "text": "Southeast Asia"
+        },
+        {
+          "id": 12114,
+          "text": "North Africa"
+        }
+      ]
+    },
+    {
+      "id": 11013,
+      "text": "Who introduced ‘shampooing’ in Britain?",
+      "explanation": "Sake Dean Mahometand his wife also introduced ‘shampooing’, the Indian art of head massage, to Britain.",
+      "computed_correct_option_ids": [
+        12123
+      ],
+      "options": [
+        {
+          "id": 12121,
+          "text": "Emmeline Pankhurst"
+        },
+        {
+          "id": 12122,
+          "text": "James Cook"
+        },
+        {
+          "id": 12123,
+          "text": "Sake Dean Mahomet"
+        },
+        {
+          "id": 12124,
+          "text": "Florence Nightingale"
+        }
+      ]
+    },
+    {
+      "id": 11014,
+      "text": "To be able to vote in England, you have to register at your local council electoral registration office.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        12131
+      ],
+      "options": [
+        {
+          "id": 12131,
+          "text": "True"
+        },
+        {
+          "id": 12132,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11015,
+      "text": "Where can the Bayeux tapestry be seen?",
+      "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seenin Francetoday.",
+      "computed_correct_option_ids": [
+        12141
+      ],
+      "options": [
+        {
+          "id": 12141,
+          "text": "France"
+        },
+        {
+          "id": 12142,
+          "text": "Wales"
+        },
+        {
+          "id": 12143,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 12144,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 11016,
+      "text": "It is an offence not to have an MOT certificate if your vehicle is more than two years old or without car insurance.",
+      "explanation": "It is an offence not to have an MOT certificate if your vehicle ismore than THREE years oldor without car insurance.",
+      "computed_correct_option_ids": [
+        12152
+      ],
+      "options": [
+        {
+          "id": 12151,
+          "text": "True"
+        },
+        {
+          "id": 12152,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 11017,
+      "text": "What was the Spanish Armada?",
+      "explanation": "The Spanish Armada wasa large fleet of ships, which had been sent by Spain to conquer England and restore Catholicism.",
+      "computed_correct_option_ids": [
+        12164
+      ],
+      "options": [
+        {
+          "id": 12161,
+          "text": "A large fleet of planes"
+        },
+        {
+          "id": 12162,
+          "text": "A group of radicals"
+        },
+        {
+          "id": 12163,
+          "text": "A group of politicians"
+        },
+        {
+          "id": 12164,
+          "text": "A large fleet of ships"
+        }
+      ]
+    },
+    {
+      "id": 11018,
+      "text": "England was split into two groups during the English Civil War of 1642, which were known as:",
+      "explanation": "The English Civil war began in 1642. The country split into those who supported the king(the Cavaliers)and those who supported Parliament(the Roundheads).",
+      "computed_correct_option_ids": [
+        12173
+      ],
+      "options": [
+        {
+          "id": 12171,
+          "text": "The House of Lords and the House of Commons"
+        },
+        {
+          "id": 12172,
+          "text": "The Puritans and the Chartists"
+        },
+        {
+          "id": 12173,
+          "text": "The Cavaliers and the Roundheads"
+        },
+        {
+          "id": 12174,
+          "text": "The Beefeaters and the Yeoman Warders"
+        }
+      ]
+    },
+    {
+      "id": 11019,
+      "text": "What are the key roles of the governors and school boards? select THREE answers",
+      "explanation": "Governors and school boards have an important part to play in raising school standards. They have three key roles:setting the strategic direction of the school, ensuring accountability and monitoring and evaluating school performance.",
+      "computed_correct_option_ids": [
+        12182,
+        12183,
+        12184
+      ],
+      "options": [
+        {
+          "id": 12181,
+          "text": "Providing funding for all students"
+        },
+        {
+          "id": 12182,
+          "text": "Setting the strategic direction of the school"
+        },
+        {
+          "id": 12183,
+          "text": "Ensuring accountability"
+        },
+        {
+          "id": 12184,
+          "text": "Monitoring and evaluating school performance"
+        }
+      ]
+    },
+    {
+      "id": 11020,
+      "text": "A popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions is through social networking websites such as:",
+      "explanation": "Social networking websites such asFacebook and Twitterare a popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions.",
+      "computed_correct_option_ids": [
+        12194
+      ],
+      "options": [
+        {
+          "id": 12191,
+          "text": "Dropbox and itunes"
+        },
+        {
+          "id": 12192,
+          "text": "Email and Fax"
+        },
+        {
+          "id": 12193,
+          "text": "Ebay and Amazon"
+        },
+        {
+          "id": 12194,
+          "text": "Facebook and Twitter"
+        }
+      ]
+    },
+    {
+      "id": 11021,
+      "text": "Why is it important to recycle (select two answers)?",
+      "explanation": "It is important to recycle as much of your waste as you can. Using recycled materials to make new productsuses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.",
+      "computed_correct_option_ids": [
+        12201,
+        12204
+      ],
+      "options": [
+        {
+          "id": 12201,
+          "text": "Using recycled materials to make new products uses less energy than using raw materials"
+        },
+        {
+          "id": 12202,
+          "text": "It is a criminal offence and you could be arrested if you do not do it"
+        },
+        {
+          "id": 12203,
+          "text": "To reduce the expenses of the local council"
+        },
+        {
+          "id": 12204,
+          "text": "Less rubbish is created, so the amount being put into landfill is reduced"
+        }
+      ]
+    },
+    {
+      "id": 11022,
+      "text": "In Northern Ireland, a newly qualified driver must display an ____ plate for one year after passing the test.",
+      "explanation": "In Northern Ireland, a newly qualified driver must display an‘R’ plate(for restricted driver) for one year after passing the test.",
+      "computed_correct_option_ids": [
+        12213
+      ],
+      "options": [
+        {
+          "id": 12211,
+          "text": "S"
+        },
+        {
+          "id": 12212,
+          "text": "N"
+        },
+        {
+          "id": 12213,
+          "text": "R"
+        },
+        {
+          "id": 12214,
+          "text": "L"
+        }
+      ]
+    },
+    {
+      "id": 11023,
+      "text": "When is the birth of Jesus Christ celebrated?",
+      "explanation": "Christmas Day, 25 December, celebrates the birth of Jesus Christ.",
+      "computed_correct_option_ids": [
+        12222
+      ],
+      "options": [
+        {
+          "id": 12221,
+          "text": "24th December"
+        },
+        {
+          "id": 12222,
+          "text": "25th December"
+        },
+        {
+          "id": 12223,
+          "text": "26th December"
+        },
+        {
+          "id": 12224,
+          "text": "31st December"
+        }
+      ]
+    },
+    {
+      "id": 11024,
+      "text": "Prince William is also known as:",
+      "explanation": "Prince William is also known asthe Prince of Wales.",
+      "computed_correct_option_ids": [
+        12232
+      ],
+      "options": [
+        {
+          "id": 12231,
+          "text": "The Duke of Wellington"
+        },
+        {
+          "id": 12232,
+          "text": "The Prince of Wales"
+        },
+        {
+          "id": 12233,
+          "text": "The Duke of Edinburgh"
+        },
+        {
+          "id": 12234,
+          "text": "The Prince of Northern Ireland"
+        }
+      ]
+    }
+  ]
+}

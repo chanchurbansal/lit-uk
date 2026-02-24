@@ -1,0 +1,561 @@
+{
+  "id": 381,
+  "name": "Life in the UK Test 23",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 58,
+      "text": "Who was one of the founders of England's naval tradition?",
+      "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship (The Golden Hind) was one of the first to sail around the world.",
+      "computed_correct_option_ids": [
+        225
+      ],
+      "options": [
+        {
+          "id": 225,
+          "text": "Sir Francis Drake"
+        },
+        {
+          "id": 228,
+          "text": "King James"
+        },
+        {
+          "id": 227,
+          "text": "William Shakespeare"
+        },
+        {
+          "id": 226,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "text": "How many Houses did the Scottish Parliament have in the middle ages?",
+      "explanation": "In the middle ages the Scottish Parliament had three Houses, called Estates: the lords, the commons and the clergy.",
+      "computed_correct_option_ids": [
+        589
+      ],
+      "options": [
+        {
+          "id": 589,
+          "text": "3"
+        },
+        {
+          "id": 592,
+          "text": "6"
+        },
+        {
+          "id": 591,
+          "text": "2"
+        },
+        {
+          "id": 590,
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "text": "Which clan was killed because of not taking an oath?",
+      "explanation": "All Scottish clans were required formally to accept William as king by taking an oath. The MacDonalds of Glencoe were late in taking the oath and were all killed.",
+      "computed_correct_option_ids": [
+        601
+      ],
+      "options": [
+        {
+          "id": 604,
+          "text": "The MacDonalds of Sleat"
+        },
+        {
+          "id": 601,
+          "text": "The MacDonalds of Glencoe"
+        },
+        {
+          "id": 602,
+          "text": "The MacDonalds of Clanranald"
+        },
+        {
+          "id": 603,
+          "text": "The MacDonalds of Keppoch"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "text": "What information about you is asked at the polling station?",
+      "explanation": "When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification.",
+      "computed_correct_option_ids": [
+        789
+      ],
+      "options": [
+        {
+          "id": 790,
+          "text": "Your name and telephone number"
+        },
+        {
+          "id": 789,
+          "text": "Your name and address"
+        },
+        {
+          "id": 792,
+          "text": "Your name and age"
+        },
+        {
+          "id": 791,
+          "text": "Your name, contact details and age"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "text": "What treaty was signed in 1707?",
+      "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
+      "computed_correct_option_ids": [
+        849
+      ],
+      "options": [
+        {
+          "id": 850,
+          "text": "The Act for Government of Wales"
+        },
+        {
+          "id": 849,
+          "text": "The Act of Union"
+        },
+        {
+          "id": 852,
+          "text": "The Great Union"
+        },
+        {
+          "id": 851,
+          "text": "The Act of Great Britain"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "text": "Which was the last successful invasion of Britain?",
+      "explanation": "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.",
+      "computed_correct_option_ids": [
+        1157
+      ],
+      "options": [
+        {
+          "id": 1158,
+          "text": "The Roman invasion"
+        },
+        {
+          "id": 1157,
+          "text": "The Norman Conquest"
+        },
+        {
+          "id": 1160,
+          "text": "The Anglo Saxon invasion"
+        },
+        {
+          "id": 1159,
+          "text": "The Viking invasion"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "text": "When was the time of growing patriotism?",
+      "explanation": "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English. English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas.",
+      "computed_correct_option_ids": [
+        1173
+      ],
+      "options": [
+        {
+          "id": 1175,
+          "text": "The Iron Age"
+        },
+        {
+          "id": 1173,
+          "text": "The Elizabethan period"
+        },
+        {
+          "id": 1176,
+          "text": "The Victorian Age"
+        },
+        {
+          "id": 1174,
+          "text": "The Golden Age"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "text": "Which TWO changes did the Chartists campaign for?",
+      "explanation": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes: for every man to have the vote; elections every year; for all regions to be equal in the electoral system; secret ballots; for any man to be able to stand as an MP; for MPs to be paid.",
+      "computed_correct_option_ids": [
+        1678,
+        1679
+      ],
+      "options": [
+        {
+          "id": 1679,
+          "text": "Secret ballots"
+        },
+        {
+          "id": 1677,
+          "text": "For every woman to have the vote"
+        },
+        {
+          "id": 1678,
+          "text": "Elections every year"
+        },
+        {
+          "id": 1680,
+          "text": "Elections every 3 years"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "text": "The Corn Laws were repealed in 1846. These had prevented the import of cheap grain",
+      "explanation": "The statement is true.",
+      "computed_correct_option_ids": [
+        1699
+      ],
+      "options": [
+        {
+          "id": 1699,
+          "text": "True"
+        },
+        {
+          "id": 1700,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "text": "What are Halloween lanterns traditionally made out of?",
+      "explanation": "Halloween, 31 October, is an ancient festival and has roots in the pagan festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play 'trick or treat'. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.",
+      "computed_correct_option_ids": [
+        1964
+      ],
+      "options": [
+        {
+          "id": 1963,
+          "text": "Potatoes"
+        },
+        {
+          "id": 1962,
+          "text": "Cucumbers"
+        },
+        {
+          "id": 1961,
+          "text": "Apples"
+        },
+        {
+          "id": 1964,
+          "text": "Pumpkins"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "text": "The Speaker also represents Parliament on ceremonial occasions",
+      "explanation": "The Speaker keeps order during political debates to make sure the rules are followed. This includes making sure the opposition (see The government) has a guaranteed amount of time to debate issues which it chooses. The Speaker also represents Parliament on ceremonial occasions.",
+      "computed_correct_option_ids": [
+        2059
+      ],
+      "options": [
+        {
+          "id": 2060,
+          "text": "False"
+        },
+        {
+          "id": 2059,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "text": "You must treat everyone equally, regardless of sex, race, age, religion, disability, class or sexual orientation",
+      "explanation": "The statement is true.",
+      "computed_correct_option_ids": [
+        2111
+      ],
+      "options": [
+        {
+          "id": 2111,
+          "text": "True"
+        },
+        {
+          "id": 2112,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "text": "In the 2021 England and Wales census, what percentage of people identified themselves as Christian?",
+      "explanation": "The 2021 Census results released so far show that 46% of people in England and Wales (from a total sampled 60 million) identified themselves as Christian. Much smaller proportions identified themselves as Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 37% stated not to follow any religion and 0.5% of people followed another religion",
+      "computed_correct_option_ids": [
+        2289
+      ],
+      "options": [
+        {
+          "id": 2290,
+          "text": "91%"
+        },
+        {
+          "id": 2289,
+          "text": "46%"
+        },
+        {
+          "id": 2292,
+          "text": "34%"
+        },
+        {
+          "id": 2291,
+          "text": "63%"
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "text": "At the beginning of the Middle Ages, Ireland was an independent country",
+      "explanation": "At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to help the Irish king and remained to build their own settlements. By 1200, the English ruled an area of Ireland known as the Pale, around Dublin. Some of the important lords in other parts of Ireland accepted the authority of the English king.",
+      "computed_correct_option_ids": [
+        2369
+      ],
+      "options": [
+        {
+          "id": 2370,
+          "text": "False"
+        },
+        {
+          "id": 2369,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 650,
+      "text": "Who led the Scottish, in 1314, to defeat the English at the Battle of Bannockburn?",
+      "explanation": "In Scotland, the English kings were less successful. In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English.",
+      "computed_correct_option_ids": [
+        2440
+      ],
+      "options": [
+        {
+          "id": 2441,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 2442,
+          "text": "William of Orange"
+        },
+        {
+          "id": 2440,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 2439,
+          "text": "Robert Burns"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "text": "The Reform Act of 1832 took away the automatic right of hereditary peers to attend the House of Lords",
+      "explanation": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The Act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.",
+      "computed_correct_option_ids": [
+        2570
+      ],
+      "options": [
+        {
+          "id": 2570,
+          "text": "False"
+        },
+        {
+          "id": 2569,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "text": "The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for the whole lifetime to speak on behalf of that Church.",
+      "explanation": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church. It is governed by ministers and elders. The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for one year only and often speaks on behalf of that Church.",
+      "computed_correct_option_ids": [
+        2718
+      ],
+      "options": [
+        {
+          "id": 2717,
+          "text": "True"
+        },
+        {
+          "id": 2718,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 757,
+      "text": "The Protestants formed their own churches during the Reformation",
+      "explanation": "At the same time the Reformation was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church. The Protestants formed their own churches. They read the Bible in their own languages instead of in Latin; they did not pray to saints or at shrines; and they believed that a person's own relationship with God was more important than submitting to the authority of the Church. Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+      "computed_correct_option_ids": [
+        2793
+      ],
+      "options": [
+        {
+          "id": 2794,
+          "text": "False"
+        },
+        {
+          "id": 2793,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 768,
+      "text": "If you wish to be a permanent resident of the UK, you should look after yourself. In return you are guaranteed a job",
+      "explanation": "You are not guaranteed a job if you settle in the UK.",
+      "computed_correct_option_ids": [
+        2825
+      ],
+      "options": [
+        {
+          "id": 2826,
+          "text": "True"
+        },
+        {
+          "id": 2825,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 814,
+      "text": "What did the Beveridge Report of 1942, by William Beveridge, provide the basis for?",
+      "explanation": "William Beveridge (later Lord Beveridge) was a British economist and social reformer. He served briefly as a Liberal MP and was subsequently the leader of the Liberals in the House of Lords but is best known for the 1942 report Social Insurance and Allied Services (known as the Beveridge Report). The report was commissioned by the wartime government in 1941. It recommended that the government should find ways of fighting the five 'Giant Evils' of Want, Disease, Ignorance, Squalor and Idleness and provided the basis of the modern welfare state.",
+      "computed_correct_option_ids": [
+        2993
+      ],
+      "options": [
+        {
+          "id": 2994,
+          "text": "Education for All"
+        },
+        {
+          "id": 2993,
+          "text": "The Modern Welfare State"
+        },
+        {
+          "id": 2996,
+          "text": "NHS"
+        },
+        {
+          "id": 2995,
+          "text": "Equal Rights for Women"
+        }
+      ]
+    },
+    {
+      "id": 932,
+      "text": "Which TWO are safe places to go and stay in for anyone facing domestic violence?",
+      "explanation": "It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or the Citizens Advice Bureau can explain the available options. In some areas there are safe places to go and stay in, called refuges or shelters.",
+      "computed_correct_option_ids": [
+        3397,
+        3398
+      ],
+      "options": [
+        {
+          "id": 3399,
+          "text": "Carehome"
+        },
+        {
+          "id": 3397,
+          "text": "Refuge"
+        },
+        {
+          "id": 3400,
+          "text": "Community Centre"
+        },
+        {
+          "id": 3398,
+          "text": "Shelter"
+        }
+      ]
+    },
+    {
+      "id": 950,
+      "text": "How are members of Parliament (MPs) elected?",
+      "explanation": "MPs are elected through a system called 'first past the post'. In each constituency, the candidate who gets the most votes is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition.",
+      "computed_correct_option_ids": [
+        3452
+      ],
+      "options": [
+        {
+          "id": 3452,
+          "text": "First past the post"
+        },
+        {
+          "id": 3451,
+          "text": "Proportional representation"
+        },
+        {
+          "id": 3454,
+          "text": "Open Ballot"
+        },
+        {
+          "id": 3453,
+          "text": "Online Voting"
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "text": "The European Union was originally called the EEC",
+      "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957. The UK originally decided not to join this group but it became a member in 1973. After UK's Brexit vote, there are now 27 EU member states.",
+      "computed_correct_option_ids": [
+        3469
+      ],
+      "options": [
+        {
+          "id": 3470,
+          "text": "False"
+        },
+        {
+          "id": 3469,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1053,
+      "text": "Which Admiral's Column is in Trafalgar Square, London?",
+      "explanation": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805. Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson's Column in Trafalgar Square, London, is a monument to him. His ship, HMS Victory, can be visited in Portsmouth.",
+      "computed_correct_option_ids": [
+        3811
+      ],
+      "options": [
+        {
+          "id": 3812,
+          "text": "Francis Drake"
+        },
+        {
+          "id": 3813,
+          "text": "Christopher Wren"
+        },
+        {
+          "id": 3814,
+          "text": "Charles I"
+        },
+        {
+          "id": 3811,
+          "text": "Nelson"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "id": 379,
+  "name": "Life in the UK Test 21",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 92,
+      "text": "What is the official report that contains everything said in Parliament called?",
+      "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
+      "computed_correct_option_ids": [
+        361
+      ],
+      "options": [
+        {
+          "id": 364,
+          "text": "The Government press"
+        },
+        {
+          "id": 361,
+          "text": "Hansard"
+        },
+        {
+          "id": 362,
+          "text": "The Domesday Book"
+        },
+        {
+          "id": 363,
+          "text": "The Government report"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "What did the Statute of Rhuddlan do?",
+      "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+      "computed_correct_option_ids": [
+        385
+      ],
+      "options": [
+        {
+          "id": 386,
+          "text": "Annexed Scotland to England"
+        },
+        {
+          "id": 388,
+          "text": "Annexed Britain to England"
+        },
+        {
+          "id": 387,
+          "text": "Annexed Ireland to England"
+        },
+        {
+          "id": 385,
+          "text": "Annexed Wales to England"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "text": "Which of these was a British plane in WWII?",
+      "explanation": "The most important planes used by the Royal Air Force in the Battle of Britain were the Spitfire and the Hurricane - which were designed and built in Britain.",
+      "computed_correct_option_ids": [
+        1053
+      ],
+      "options": [
+        {
+          "id": 1056,
+          "text": "F-22"
+        },
+        {
+          "id": 1053,
+          "text": "Hurricane"
+        },
+        {
+          "id": 1054,
+          "text": "Mig-21"
+        },
+        {
+          "id": 1055,
+          "text": "PAK-22"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "text": "Which is not a Protestant Christian group?",
+      "explanation": "There is no established Church in Wales or Northern Ireland. Other Protestant Christian groups in the UK are Baptists, Methodists, Presbyterians and Quakers. There are also other denominations of Christianity, the biggest of which is Roman Catholic.",
+      "computed_correct_option_ids": [
+        1105
+      ],
+      "options": [
+        {
+          "id": 1105,
+          "text": "Catholics"
+        },
+        {
+          "id": 1108,
+          "text": "Baptists"
+        },
+        {
+          "id": 1107,
+          "text": "Presbyterians"
+        },
+        {
+          "id": 1106,
+          "text": "Methodists"
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "text": "What is the capital of Scotland?",
+      "explanation": "Edinburgh is the capital city of Scotland.",
+      "computed_correct_option_ids": [
+        1189
+      ],
+      "options": [
+        {
+          "id": 1191,
+          "text": "Cardiff"
+        },
+        {
+          "id": 1189,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 1190,
+          "text": "London"
+        },
+        {
+          "id": 1192,
+          "text": "Belfast"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "text": "When did the Anglo-Saxon kingdoms establish in Britain?",
+      "explanation": "Britain was invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons. The languages they spoke are the basis of modern-day English. Battles were fought against these invaders but, by about AD 600, Anglo-Saxon kingdoms were established in Britain.",
+      "computed_correct_option_ids": [
+        1349
+      ],
+      "options": [
+        {
+          "id": 1351,
+          "text": "AD 789"
+        },
+        {
+          "id": 1349,
+          "text": "AD 600"
+        },
+        {
+          "id": 1352,
+          "text": "AD 698"
+        },
+        {
+          "id": 1350,
+          "text": "AD 410"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "text": "Where can you visit Admiral Nelson's ship , HMS Victory?",
+      "explanation": "Admiral Nelson's ship, HMS Victory, can be visited in Portsmouth",
+      "computed_correct_option_ids": [
+        1635
+      ],
+      "options": [
+        {
+          "id": 1634,
+          "text": "Cheshire"
+        },
+        {
+          "id": 1633,
+          "text": "Lincolnshire"
+        },
+        {
+          "id": 1636,
+          "text": "London"
+        },
+        {
+          "id": 1635,
+          "text": "Portsmouth"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "text": "What time do Public Houses open at?",
+      "explanation": "Public houses (pubs) are an important part of the UK social culture. Pubs are usually open during the day from 11.00 am (12 noon on Sundays).",
+      "computed_correct_option_ids": [
+        1659
+      ],
+      "options": [
+        {
+          "id": 1660,
+          "text": "Noon"
+        },
+        {
+          "id": 1659,
+          "text": "11:00"
+        },
+        {
+          "id": 1658,
+          "text": "10:00"
+        },
+        {
+          "id": 1657,
+          "text": "09:00"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "text": "A very impressive hill fort can still be seen today at Maiden Castle, what English county does it stand in?",
+      "explanation": "A very impressive hill fort can still be seen today at Maiden Castle, in the English county of Dorset.",
+      "computed_correct_option_ids": [
+        1951
+      ],
+      "options": [
+        {
+          "id": 1952,
+          "text": "East Lothian"
+        },
+        {
+          "id": 1949,
+          "text": "Danebury"
+        },
+        {
+          "id": 1951,
+          "text": "Dorset"
+        },
+        {
+          "id": 1950,
+          "text": "Cornwall"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "text": "What do you have to pay tax on in the UK?",
+      "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment; profits from self-employment, taxable benefits; pensions; income from property, savings and dividends.",
+      "computed_correct_option_ids": [
+        2007
+      ],
+      "options": [
+        {
+          "id": 2007,
+          "text": "Pensions"
+        },
+        {
+          "id": 2008,
+          "text": "All ISAs and Savings Certificates"
+        },
+        {
+          "id": 2009,
+          "text": "Attendance Allowance"
+        },
+        {
+          "id": 2010,
+          "text": "Disability Living Allowance"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "text": "On election day, you will get your ballot paper, which you take to a polling booth to fill in front of the polling officer",
+      "explanation": "When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately",
+      "computed_correct_option_ids": [
+        2254
+      ],
+      "options": [
+        {
+          "id": 2253,
+          "text": "True"
+        },
+        {
+          "id": 2254,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "text": "Which popular yearly sporting event takes place between Oxford and Cambridge universities?",
+      "explanation": "Rowing is also popular, both as a leisure activity and as a competitive sport. There is a popular yearly race on the Thames between Oxford and Cambridge Universities.",
+      "computed_correct_option_ids": [
+        2471
+      ],
+      "options": [
+        {
+          "id": 2469,
+          "text": "Rugby"
+        },
+        {
+          "id": 2470,
+          "text": "Horse Racing"
+        },
+        {
+          "id": 2472,
+          "text": "Sailing"
+        },
+        {
+          "id": 2471,
+          "text": "Rowing"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "text": "Dame Ellen MacArthur is famous for her achievements in which sport?",
+      "explanation": "Dame Ellen MacArthur (1976-) is a yachtswoman and in 2004 became the fastest person to sail around the world single handed.",
+      "computed_correct_option_ids": [
+        2543
+      ],
+      "options": [
+        {
+          "id": 2543,
+          "text": "Sailing"
+        },
+        {
+          "id": 2541,
+          "text": "Athletics"
+        },
+        {
+          "id": 2544,
+          "text": "Swimming"
+        },
+        {
+          "id": 2542,
+          "text": "Cycling"
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "text": "The UK has hosted the Olympic Games three times. When did the UK host the games in the 20th century? (Choose TWO)",
+      "explanation": "The UK has hosted the Olympic Games on three occasions: 1908, 1948 and 2012. The main Olympic site for the 2012 Games was in Stratford, East London. The British team was very successful, across a wide range of Olympic sports, finishing third in the medal table.",
+      "computed_correct_option_ids": [
+        2725,
+        2728
+      ],
+      "options": [
+        {
+          "id": 2726,
+          "text": "1916"
+        },
+        {
+          "id": 2728,
+          "text": "1948"
+        },
+        {
+          "id": 2727,
+          "text": "1928"
+        },
+        {
+          "id": 2725,
+          "text": "1908"
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "text": "When did the first farmers start settling in Britain?",
+      "explanation": "The first farmers arrived in Britain about 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land.",
+      "computed_correct_option_ids": [
+        2846
+      ],
+      "options": [
+        {
+          "id": 2847,
+          "text": "8500 years ago"
+        },
+        {
+          "id": 2848,
+          "text": "10000 years ago"
+        },
+        {
+          "id": 2845,
+          "text": "4000 years ago"
+        },
+        {
+          "id": 2846,
+          "text": "6000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "text": "What followed the Bronze Age?",
+      "explanation": "The Bronze Age was followed by the Iron Age, when people learned how to make weapons and tools out of iron.",
+      "computed_correct_option_ids": [
+        2857
+      ],
+      "options": [
+        {
+          "id": 2859,
+          "text": "The Silver Age"
+        },
+        {
+          "id": 2857,
+          "text": "The Iron Age"
+        },
+        {
+          "id": 2858,
+          "text": "The Stone Age"
+        },
+        {
+          "id": 2860,
+          "text": "The medieval period"
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "text": "James VI of Scotland was not related to Queen Elizabeth I of England",
+      "explanation": "Mary was suspected of murdering her husband and fled to England. She gave her throne to her Protestant son, James VI of Scotland. Mary was Elizabeth I's cousin.",
+      "computed_correct_option_ids": [
+        3036
+      ],
+      "options": [
+        {
+          "id": 3035,
+          "text": "True"
+        },
+        {
+          "id": 3036,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "text": "Which of these flowers is closely associated with Remembrance Day?",
+      "explanation": "The poppy has become the symbol of Remembrance worn during the weeks leading to Remembrance Sunday and Armistice Day.",
+      "computed_correct_option_ids": [
+        3044
+      ],
+      "options": [
+        {
+          "id": 3041,
+          "text": "Lily"
+        },
+        {
+          "id": 3042,
+          "text": "Daffodil"
+        },
+        {
+          "id": 3043,
+          "text": "Rose"
+        },
+        {
+          "id": 3044,
+          "text": "Poppy"
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "text": "Who, in 1810 opened the first curry house in Britain called 'The Hindoostane Coffee House' in George Street, London?",
+      "explanation": "In 1810 Sake Dean Mahomet opened the Hindoostane Coffee House in George Street, London. It was the first curry house to open in Britain. Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
+      "computed_correct_option_ids": [
+        3107
+      ],
+      "options": [
+        {
+          "id": 3110,
+          "text": "Richard Arkwright"
+        },
+        {
+          "id": 3108,
+          "text": "Ali Kerimov"
+        },
+        {
+          "id": 3107,
+          "text": "Sake Dean Mahomet"
+        },
+        {
+          "id": 3109,
+          "text": "Alexander Burns"
+        }
+      ]
+    },
+    {
+      "id": 869,
+      "text": "Which TWO are correct about King Henry's wives?",
+      "explanation": "3 of the wives were called Catherine and 2 were called Anne.",
+      "computed_correct_option_ids": [
+        3188,
+        3189
+      ],
+      "options": [
+        {
+          "id": 3189,
+          "text": "Two wives were called Anne"
+        },
+        {
+          "id": 3187,
+          "text": "Two of the wives were sisters"
+        },
+        {
+          "id": 3190,
+          "text": "All were British"
+        },
+        {
+          "id": 3188,
+          "text": "Three wives were called Catherine"
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "text": "Ralph Vaughan Williams was strongly influenced by traditional English folk music",
+      "explanation": "Ralph Vaughan Williams (1872-1958) wrote music for orchestras and choirs. He was strongly influenced by traditional English folk music.",
+      "computed_correct_option_ids": [
+        3241
+      ],
+      "options": [
+        {
+          "id": 3242,
+          "text": "False"
+        },
+        {
+          "id": 3241,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 997,
+      "text": "What's the Monarch's yearly parliamentary speech for?",
+      "explanation": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the Monarch makes a speech which summarises the government's policies for the year ahead. All Acts of Parliament are made in his name.",
+      "computed_correct_option_ids": [
+        3609
+      ],
+      "options": [
+        {
+          "id": 3609,
+          "text": "Set out the government's legislative plans for the next year"
+        },
+        {
+          "id": 3612,
+          "text": "Credit distinguished politicians and policy-makers"
+        },
+        {
+          "id": 3611,
+          "text": "Give advice to the general public on upcoming legislations"
+        },
+        {
+          "id": 3610,
+          "text": "Summarise all of the last year's policies"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "text": "How can you arrange to get a National Insurance number?",
+      "explanation": "If you have permission to work in the UK, you will need to telephone the Department for Work and Pensions (DWP) to arrange to get a National Insurance number.",
+      "computed_correct_option_ids": [
+        3631
+      ],
+      "options": [
+        {
+          "id": 3634,
+          "text": "Contact your employer"
+        },
+        {
+          "id": 3631,
+          "text": "Contact the Department for Work and Pensions"
+        },
+        {
+          "id": 3632,
+          "text": "Write to your MP"
+        },
+        {
+          "id": 3633,
+          "text": "Contact your local council"
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "text": "How can you contact your MP?",
+      "explanation": "You can contact MPs by letter or telephone at their constituency Office, or at their Office in the House of Commons",
+      "computed_correct_option_ids": [
+        3709
+      ],
+      "options": [
+        {
+          "id": 3711,
+          "text": "By sending a text message"
+        },
+        {
+          "id": 3709,
+          "text": "By writing a letter"
+        },
+        {
+          "id": 3710,
+          "text": "By sending an Email"
+        },
+        {
+          "id": 3712,
+          "text": "By using social networks"
+        }
+      ]
+    }
+  ]
+}

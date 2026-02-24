@@ -1,0 +1,600 @@
+{
+  "id": 420,
+  "name": "Life in the UK Test 60",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8501,
+      "text": "What is the capital city of Wales?",
+      "explanation": "The capital city of Wales isCardiff.",
+      "computed_correct_option_ids": [
+        9502
+      ],
+      "options": [
+        {
+          "id": 9501,
+          "text": "Swansea"
+        },
+        {
+          "id": 9502,
+          "text": "Cardiff"
+        },
+        {
+          "id": 9503,
+          "text": "Cornwall"
+        },
+        {
+          "id": 9504,
+          "text": "Bangor"
+        }
+      ]
+    },
+    {
+      "id": 8502,
+      "text": "When did the Roman army leave Britain?",
+      "explanation": "The Roman army left Britain inAD 410to defend other parts of the Roman Empire and never returned.",
+      "computed_correct_option_ids": [
+        9511
+      ],
+      "options": [
+        {
+          "id": 9511,
+          "text": "AD 410"
+        },
+        {
+          "id": 9512,
+          "text": "AD 510"
+        },
+        {
+          "id": 9513,
+          "text": "AD 600"
+        },
+        {
+          "id": 9514,
+          "text": "AD 530"
+        }
+      ]
+    },
+    {
+      "id": 8503,
+      "text": "Which of the following statements is true?",
+      "explanation": "You will receive a fine up to £1,000 if you watch TV but do not have a TV licence.",
+      "computed_correct_option_ids": [
+        9522
+      ],
+      "options": [
+        {
+          "id": 9521,
+          "text": "You will receive a fine up to £2000 if you watch TV but do not have a TV licence."
+        },
+        {
+          "id": 9522,
+          "text": "You will receive a fine up to £1,000 if you watch TV but do not have a TV licence."
+        },
+        {
+          "id": 9523,
+          "text": "You will receive a fine up to £10,000 if you watch TV but do not have a TV licence."
+        },
+        {
+          "id": 9524,
+          "text": "You will receive a fine up to £5,000 if you watch TV but do not have a TV licence."
+        }
+      ]
+    },
+    {
+      "id": 8504,
+      "text": "Emmeline Pankhurst set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women.",
+      "explanation": "This statement istrue. Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women.",
+      "computed_correct_option_ids": [
+        9531
+      ],
+      "options": [
+        {
+          "id": 9531,
+          "text": "True"
+        },
+        {
+          "id": 9532,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8505,
+      "text": "The king is the head of state in the UK:",
+      "explanation": "King Charles III is the head of state of the UK.",
+      "computed_correct_option_ids": [
+        9541
+      ],
+      "options": [
+        {
+          "id": 9541,
+          "text": "True"
+        },
+        {
+          "id": 9542,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8506,
+      "text": "How long did the First World War last for?",
+      "explanation": "The First World War lastedfour years(1914 – 1918).",
+      "computed_correct_option_ids": [
+        9553
+      ],
+      "options": [
+        {
+          "id": 9551,
+          "text": "Two years"
+        },
+        {
+          "id": 9552,
+          "text": "Three years"
+        },
+        {
+          "id": 9553,
+          "text": "Four years"
+        },
+        {
+          "id": 9554,
+          "text": "Six years"
+        }
+      ]
+    },
+    {
+      "id": 8507,
+      "text": "Who was Henry VII?",
+      "explanation": "Henry VII wasthe leader of the House of Lancaster.",
+      "computed_correct_option_ids": [
+        9562
+      ],
+      "options": [
+        {
+          "id": 9561,
+          "text": "The leader of the House of York"
+        },
+        {
+          "id": 9562,
+          "text": "The leader of the House of Lancaster"
+        },
+        {
+          "id": 9563,
+          "text": "The leader of the House of Buckingham"
+        },
+        {
+          "id": 9564,
+          "text": "The leader of the House of Leeds"
+        }
+      ]
+    },
+    {
+      "id": 8508,
+      "text": "When were the Houses of Parliament built?",
+      "explanation": "The Houses of Parliament and St Pancras Station were builtin the 19th century, as were the town halls in cities such as Manchester and Sheffield.",
+      "computed_correct_option_ids": [
+        9573
+      ],
+      "options": [
+        {
+          "id": 9571,
+          "text": "In the 17th century"
+        },
+        {
+          "id": 9572,
+          "text": "In the 18th century"
+        },
+        {
+          "id": 9573,
+          "text": "In the 19th century"
+        },
+        {
+          "id": 9574,
+          "text": "In the 20th century"
+        }
+      ]
+    },
+    {
+      "id": 8509,
+      "text": "How many volunteers work for the National Trust?",
+      "explanation": "There are nowmore than 61,000 volunteershelping to keep the National Trust running.",
+      "computed_correct_option_ids": [
+        9583
+      ],
+      "options": [
+        {
+          "id": 9581,
+          "text": "More than 71,000"
+        },
+        {
+          "id": 9582,
+          "text": "More than 81,000"
+        },
+        {
+          "id": 9583,
+          "text": "More than 61,000"
+        },
+        {
+          "id": 9584,
+          "text": "More than 91,000"
+        }
+      ]
+    },
+    {
+      "id": 8510,
+      "text": "What was the population of the UK in 1851?",
+      "explanation": "The population of the UK in 1851 was20 million people.",
+      "computed_correct_option_ids": [
+        9591
+      ],
+      "options": [
+        {
+          "id": 9591,
+          "text": "20 million"
+        },
+        {
+          "id": 9592,
+          "text": "40 million"
+        },
+        {
+          "id": 9593,
+          "text": "30 million"
+        },
+        {
+          "id": 9594,
+          "text": "50 million"
+        }
+      ]
+    },
+    {
+      "id": 8511,
+      "text": "The line ‘a rose by any other name’ belongs to which of the following plays or poems written by William Shakespeare?",
+      "explanation": "‘A rose by any other name’ is a line from William Shakespeare’s playRomeo and Juliet.",
+      "computed_correct_option_ids": [
+        9601
+      ],
+      "options": [
+        {
+          "id": 9601,
+          "text": "Romeo and Juliet"
+        },
+        {
+          "id": 9602,
+          "text": "Hamlet"
+        },
+        {
+          "id": 9603,
+          "text": "As You Like It"
+        },
+        {
+          "id": 9604,
+          "text": "Henry V"
+        }
+      ]
+    },
+    {
+      "id": 8512,
+      "text": "Which religious community celebrates Vaisakhi?",
+      "explanation": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding ofthe Sikh communityknown as the Khalsa.",
+      "computed_correct_option_ids": [
+        9613
+      ],
+      "options": [
+        {
+          "id": 9611,
+          "text": "Muslim"
+        },
+        {
+          "id": 9612,
+          "text": "Hindu"
+        },
+        {
+          "id": 9613,
+          "text": "Sikh"
+        },
+        {
+          "id": 9614,
+          "text": "Jewish"
+        }
+      ]
+    },
+    {
+      "id": 8513,
+      "text": "Which book written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+      "explanation": "In 2003,The Lord of the Ringsby JRR Tolkien was voted the country’s best-loved novel.",
+      "computed_correct_option_ids": [
+        9622
+      ],
+      "options": [
+        {
+          "id": 9621,
+          "text": "Harry Potter"
+        },
+        {
+          "id": 9622,
+          "text": "The Lord of the Rings"
+        },
+        {
+          "id": 9623,
+          "text": "Sense and Sensibility"
+        },
+        {
+          "id": 9624,
+          "text": "Pride and Prejudice"
+        }
+      ]
+    },
+    {
+      "id": 8514,
+      "text": "The Senedd has 129 Senedd members.",
+      "explanation": "The Senned has60 Senedd membersand the Scottish Parliament has 129 members.",
+      "computed_correct_option_ids": [
+        9632
+      ],
+      "options": [
+        {
+          "id": 9631,
+          "text": "True"
+        },
+        {
+          "id": 9632,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8515,
+      "text": "Which British scientist made important discoveries working with steam power?",
+      "explanation": "James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+      "computed_correct_option_ids": [
+        9644
+      ],
+      "options": [
+        {
+          "id": 9641,
+          "text": "David Hume"
+        },
+        {
+          "id": 9642,
+          "text": "Adan Smith"
+        },
+        {
+          "id": 9643,
+          "text": "Alan Turing"
+        },
+        {
+          "id": 9644,
+          "text": "James Watt"
+        }
+      ]
+    },
+    {
+      "id": 8516,
+      "text": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+      "explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can eithercontact the Education Service(details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk)or contact an MLA.",
+      "computed_correct_option_ids": [
+        9651,
+        9653
+      ],
+      "options": [
+        {
+          "id": 9651,
+          "text": "Contacting the Education Service"
+        },
+        {
+          "id": 9652,
+          "text": "Contacting an MSP"
+        },
+        {
+          "id": 9653,
+          "text": "Contacting an MLA"
+        },
+        {
+          "id": 9654,
+          "text": "Arranging a tour through the visitor services"
+        }
+      ]
+    },
+    {
+      "id": 8517,
+      "text": "When was the first television broadcast made?",
+      "explanation": "In1932Scotsman John Logie Baird made the first television broadcast between London and Glasgow.",
+      "computed_correct_option_ids": [
+        9662
+      ],
+      "options": [
+        {
+          "id": 9661,
+          "text": "In 1922"
+        },
+        {
+          "id": 9662,
+          "text": "In 1932"
+        },
+        {
+          "id": 9663,
+          "text": "In 1942"
+        },
+        {
+          "id": 9664,
+          "text": "In 1952"
+        }
+      ]
+    },
+    {
+      "id": 8518,
+      "text": "For what sort of claims is the small claims procedure in Northern Ireland used for?",
+      "explanation": "The small claims procedure is used forclaims of less than £3,000in Northern Ireland.",
+      "computed_correct_option_ids": [
+        9671
+      ],
+      "options": [
+        {
+          "id": 9671,
+          "text": "Claims of less than £3,000"
+        },
+        {
+          "id": 9672,
+          "text": "Claims of less than £4,000"
+        },
+        {
+          "id": 9673,
+          "text": "Claims of less than £5,000"
+        },
+        {
+          "id": 9674,
+          "text": "Claims of less than £6,000"
+        }
+      ]
+    },
+    {
+      "id": 8519,
+      "text": "How many Russian and Polish Jews came to Britain to escape prosecution between 1870 and 1914?",
+      "explanation": "Between 1870 and 1914,around 120,000Russian and Polish Jews came to Britain to escape persecution.",
+      "computed_correct_option_ids": [
+        9681
+      ],
+      "options": [
+        {
+          "id": 9681,
+          "text": "Around 120,000"
+        },
+        {
+          "id": 9682,
+          "text": "Around 150,000"
+        },
+        {
+          "id": 9683,
+          "text": "Around 200"
+        },
+        {
+          "id": 9684,
+          "text": "Around 400"
+        }
+      ]
+    },
+    {
+      "id": 8520,
+      "text": "Which Anglo-Saxon poem is about a hero’s battle against monsters and has been translated into modern English?",
+      "explanation": "The Anglo-Saxon poemBeowulftells of its hero’s battles against monsters and is still translated into modern English.",
+      "computed_correct_option_ids": [
+        9691
+      ],
+      "options": [
+        {
+          "id": 9691,
+          "text": "Beowulf"
+        },
+        {
+          "id": 9692,
+          "text": "Paradise Lost"
+        },
+        {
+          "id": 9693,
+          "text": "Canterbury Tales"
+        },
+        {
+          "id": 9694,
+          "text": "Braveheart"
+        }
+      ]
+    },
+    {
+      "id": 8521,
+      "text": "Which of the following movies was directed by Alfred Hitchcock in 1935?",
+      "explanation": "The 39 Steps(1935) was directed by Alfred Hitchcock.",
+      "computed_correct_option_ids": [
+        9704
+      ],
+      "options": [
+        {
+          "id": 9701,
+          "text": "Don’t Look Now"
+        },
+        {
+          "id": 9702,
+          "text": "Touching the Void"
+        },
+        {
+          "id": 9703,
+          "text": "The Third Man"
+        },
+        {
+          "id": 9704,
+          "text": "The 39 Steps"
+        }
+      ]
+    },
+    {
+      "id": 8522,
+      "text": "When was the National Health System (NHS) established?",
+      "explanation": "In1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+      "computed_correct_option_ids": [
+        9712
+      ],
+      "options": [
+        {
+          "id": 9711,
+          "text": "1945"
+        },
+        {
+          "id": 9712,
+          "text": "1948"
+        },
+        {
+          "id": 9713,
+          "text": "1952"
+        },
+        {
+          "id": 9714,
+          "text": "1934"
+        }
+      ]
+    },
+    {
+      "id": 8523,
+      "text": "The King has reigned since her mother’s death in 2022.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        9721
+      ],
+      "options": [
+        {
+          "id": 9721,
+          "text": "True"
+        },
+        {
+          "id": 9722,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 8524,
+      "text": "What is the note with the highest value in the UK?",
+      "explanation": "The note with the highest value in the UK is the£50note.",
+      "computed_correct_option_ids": [
+        9732
+      ],
+      "options": [
+        {
+          "id": 9731,
+          "text": "£20"
+        },
+        {
+          "id": 9732,
+          "text": "£50"
+        },
+        {
+          "id": 9733,
+          "text": "£200"
+        },
+        {
+          "id": 9734,
+          "text": "£500"
+        }
+      ]
+    }
+  ]
+}

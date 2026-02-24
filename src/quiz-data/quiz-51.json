@@ -1,0 +1,624 @@
+{
+  "id": 411,
+  "name": "Life in the UK Test 51",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7601,
+      "text": "Which of the following territories does not belong to Great Britain?",
+      "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland. The official name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+      "computed_correct_option_ids": [
+        8603
+      ],
+      "options": [
+        {
+          "id": 8601,
+          "text": "Scotland"
+        },
+        {
+          "id": 8602,
+          "text": "Wales"
+        },
+        {
+          "id": 8603,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 8604,
+          "text": "England"
+        }
+      ]
+    },
+    {
+      "id": 7602,
+      "text": "Who was the first Briton to win the ‘Tour de France’?",
+      "explanation": "Bradley Wiggins became the first Briton to win the ‘Tour de France’.",
+      "computed_correct_option_ids": [
+        8612
+      ],
+      "options": [
+        {
+          "id": 8611,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 8612,
+          "text": "Bradley Wiggins"
+        },
+        {
+          "id": 8613,
+          "text": "Andy Murray"
+        },
+        {
+          "id": 8614,
+          "text": "Sir Steve Redgrave"
+        }
+      ]
+    },
+    {
+      "id": 7603,
+      "text": "Which of the following statements is TRUE?",
+      "explanation": "The English language has many accents and dialects.",
+      "computed_correct_option_ids": [
+        8622
+      ],
+      "options": [
+        {
+          "id": 8621,
+          "text": "The English language has no dialects"
+        },
+        {
+          "id": 8622,
+          "text": "The English language has many accents and dialects"
+        },
+        {
+          "id": 8623,
+          "text": "Gaelic is spoken in North Wales"
+        },
+        {
+          "id": 8624,
+          "text": "In Northern Ireland people speak French"
+        }
+      ]
+    },
+    {
+      "id": 7604,
+      "text": "How old do you need to be to go into betting shops or gambling clubs?",
+      "explanation": "In the UK, you have to be 18 to go into betting shops or gambling clubs.",
+      "computed_correct_option_ids": [
+        8632
+      ],
+      "options": [
+        {
+          "id": 8631,
+          "text": "16 years old"
+        },
+        {
+          "id": 8632,
+          "text": "18 years old"
+        },
+        {
+          "id": 8633,
+          "text": "20 years old"
+        },
+        {
+          "id": 8634,
+          "text": "21 years old"
+        }
+      ]
+    },
+    {
+      "id": 7605,
+      "text": "What do Ian McEwan, Hilary Mantel and Julian Barnes have in common?",
+      "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes.",
+      "computed_correct_option_ids": [
+        8642
+      ],
+      "options": [
+        {
+          "id": 8641,
+          "text": "They are British sports players"
+        },
+        {
+          "id": 8642,
+          "text": "They were awarded with the Man Booker Prize for Fiction"
+        },
+        {
+          "id": 8643,
+          "text": "They won a Nobel Prize in Literature"
+        },
+        {
+          "id": 8644,
+          "text": "They were awarded with the Mercury Music Prize"
+        }
+      ]
+    },
+    {
+      "id": 7606,
+      "text": "In Northern Ireland members of the Legislative Assembly are elected on the basis of:",
+      "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+      "computed_correct_option_ids": [
+        8651
+      ],
+      "options": [
+        {
+          "id": 8651,
+          "text": "Proportional representation"
+        },
+        {
+          "id": 8652,
+          "text": "Personal achievements"
+        },
+        {
+          "id": 8653,
+          "text": "First past the post system"
+        },
+        {
+          "id": 8654,
+          "text": "Instant run-off"
+        }
+      ]
+    },
+    {
+      "id": 7607,
+      "text": "How can MPs be contacted (choose TWO options)?",
+      "explanation": "You can contact MPs by letter or telephone at their constituency office, or at their office in the House of Commons: The House of Commons, Westminster, London SW1A OAA, telephone 0207729 3000.",
+      "computed_correct_option_ids": [
+        8661,
+        8663
+      ],
+      "options": [
+        {
+          "id": 8661,
+          "text": "By letter"
+        },
+        {
+          "id": 8662,
+          "text": "By going to your local council and asking for an appointment"
+        },
+        {
+          "id": 8663,
+          "text": "By phoning their constituency office"
+        },
+        {
+          "id": 8664,
+          "text": "Through facebook"
+        }
+      ]
+    },
+    {
+      "id": 7608,
+      "text": "What did the’Bill of Rights’ confirm in 1689?",
+      "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant.",
+      "computed_correct_option_ids": [
+        8672
+      ],
+      "options": [
+        {
+          "id": 8671,
+          "text": "Women’s right to vote"
+        },
+        {
+          "id": 8672,
+          "text": "The rights of Parliament and the limits of the king’s power"
+        },
+        {
+          "id": 8673,
+          "text": "The supreme power of the king"
+        },
+        {
+          "id": 8674,
+          "text": "The freedom of speech"
+        }
+      ]
+    },
+    {
+      "id": 7609,
+      "text": "Who designed the Clifton Suspension Bridge located over the Avon George?",
+      "explanation": "The Clifton Suspension Bridge was designed by Isambard Kingdom Brunel.",
+      "computed_correct_option_ids": [
+        8682
+      ],
+      "options": [
+        {
+          "id": 8681,
+          "text": "Sir Norman Foster"
+        },
+        {
+          "id": 8682,
+          "text": "Isambard Kingdom Brunel"
+        },
+        {
+          "id": 8683,
+          "text": "Richard Arkwright"
+        },
+        {
+          "id": 8684,
+          "text": "Robert Adam"
+        }
+      ]
+    },
+    {
+      "id": 7610,
+      "text": "Does Britain have a written constitution?",
+      "explanation": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.",
+      "computed_correct_option_ids": [
+        8692
+      ],
+      "options": [
+        {
+          "id": 8691,
+          "text": "Yes"
+        },
+        {
+          "id": 8692,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "id": 7611,
+      "text": "What was the estimated population of the British Empire during the Victorian period?",
+      "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+      "computed_correct_option_ids": [
+        8702
+      ],
+      "options": [
+        {
+          "id": 8701,
+          "text": "More than 300 million people"
+        },
+        {
+          "id": 8702,
+          "text": "More than 400 million people"
+        },
+        {
+          "id": 8703,
+          "text": "More than 450 million people"
+        },
+        {
+          "id": 8704,
+          "text": "More than 500 million people"
+        }
+      ]
+    },
+    {
+      "id": 7612,
+      "text": "Which of the following countries was NOT part of the Allied Powers during the First World War?",
+      "explanation": "Bulgaria formed part of the Central Powers during the First World War.",
+      "computed_correct_option_ids": [
+        8714
+      ],
+      "options": [
+        {
+          "id": 8711,
+          "text": "France"
+        },
+        {
+          "id": 8712,
+          "text": "Japan"
+        },
+        {
+          "id": 8713,
+          "text": "Serbia"
+        },
+        {
+          "id": 8714,
+          "text": "Bulgaria"
+        }
+      ]
+    },
+    {
+      "id": 7613,
+      "text": "How many times have the Olympic Games been hosted in the UK?",
+      "explanation": "The UK has hosted the Olympic games on three occasions: 1908, 1948 and 2012.",
+      "computed_correct_option_ids": [
+        8722
+      ],
+      "options": [
+        {
+          "id": 8721,
+          "text": "Two"
+        },
+        {
+          "id": 8722,
+          "text": "Three"
+        },
+        {
+          "id": 8723,
+          "text": "Four"
+        },
+        {
+          "id": 8724,
+          "text": "Six"
+        }
+      ]
+    },
+    {
+      "id": 7614,
+      "text": "When were films first shown publicly in the UK?",
+      "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular.",
+      "computed_correct_option_ids": [
+        8732
+      ],
+      "options": [
+        {
+          "id": 8731,
+          "text": "In 1887"
+        },
+        {
+          "id": 8732,
+          "text": "In 1896"
+        },
+        {
+          "id": 8733,
+          "text": "In 1897"
+        },
+        {
+          "id": 8734,
+          "text": "In 1886"
+        }
+      ]
+    },
+    {
+      "id": 7615,
+      "text": "What is the name of the building where the Welsh government members meet?",
+      "explanation": "Elected members of the Welsh government meet at the Senedd in Cardiff, the capital city of Wales.",
+      "computed_correct_option_ids": [
+        8744
+      ],
+      "options": [
+        {
+          "id": 8741,
+          "text": "Westminster"
+        },
+        {
+          "id": 8742,
+          "text": "Stormont"
+        },
+        {
+          "id": 8743,
+          "text": "Holyrood"
+        },
+        {
+          "id": 8744,
+          "text": "Senedd"
+        }
+      ]
+    },
+    {
+      "id": 7616,
+      "text": "Where is the city of Southampton located?",
+      "explanation": "Southampton is located in England.",
+      "computed_correct_option_ids": [
+        8751
+      ],
+      "options": [
+        {
+          "id": 8751,
+          "text": "England"
+        },
+        {
+          "id": 8752,
+          "text": "Wales"
+        },
+        {
+          "id": 8753,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 8754,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 7617,
+      "text": "When did the First World War finish?",
+      "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.",
+      "computed_correct_option_ids": [
+        8762
+      ],
+      "options": [
+        {
+          "id": 8761,
+          "text": "At 12 am on 11th November 1916"
+        },
+        {
+          "id": 8762,
+          "text": "At 11 am on 11th November 1918"
+        },
+        {
+          "id": 8763,
+          "text": "At 11 pm on 13th November 1916"
+        },
+        {
+          "id": 8764,
+          "text": "At 12 am on 13th February 1918"
+        }
+      ]
+    },
+    {
+      "id": 7618,
+      "text": "Florence Nightingale was known for her work on:",
+      "explanation": "Florence Nightingale is often regarded as the founder of modern nursing.",
+      "computed_correct_option_ids": [
+        8772
+      ],
+      "options": [
+        {
+          "id": 8771,
+          "text": "Human rights"
+        },
+        {
+          "id": 8772,
+          "text": "The development of nursing in the UK"
+        },
+        {
+          "id": 8773,
+          "text": "The development of computer science"
+        },
+        {
+          "id": 8774,
+          "text": "The development and manufacture of motor-sport technology"
+        }
+      ]
+    },
+    {
+      "id": 7619,
+      "text": "Which Act abolished slavery throughout the British Empire in 1833?",
+      "explanation": "In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.",
+      "computed_correct_option_ids": [
+        8783
+      ],
+      "options": [
+        {
+          "id": 8781,
+          "text": "The Freedom Act"
+        },
+        {
+          "id": 8782,
+          "text": "The Habeas Corpus Act"
+        },
+        {
+          "id": 8783,
+          "text": "The Emancipation Act"
+        },
+        {
+          "id": 8784,
+          "text": "The Slavery Act"
+        }
+      ]
+    },
+    {
+      "id": 7620,
+      "text": "How long does Diwali last for?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days.",
+      "computed_correct_option_ids": [
+        8793
+      ],
+      "options": [
+        {
+          "id": 8791,
+          "text": "A weekend"
+        },
+        {
+          "id": 8792,
+          "text": "40 days"
+        },
+        {
+          "id": 8793,
+          "text": "Five days"
+        },
+        {
+          "id": 8794,
+          "text": "A week"
+        }
+      ]
+    },
+    {
+      "id": 7621,
+      "text": "Who became King of Britain when Queen Anne died in 1714?",
+      "explanation": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne’s nearest Protestant relative.",
+      "computed_correct_option_ids": [
+        8803
+      ],
+      "options": [
+        {
+          "id": 8801,
+          "text": "James II"
+        },
+        {
+          "id": 8802,
+          "text": "George II"
+        },
+        {
+          "id": 8803,
+          "text": "George I"
+        },
+        {
+          "id": 8804,
+          "text": "Charles I"
+        }
+      ]
+    },
+    {
+      "id": 7622,
+      "text": "What was the population of the UK in 2005?",
+      "explanation": "The population of the UK in 2005 was just under 60 million people.",
+      "computed_correct_option_ids": [
+        8812
+      ],
+      "options": [
+        {
+          "id": 8811,
+          "text": "Just under 50 million"
+        },
+        {
+          "id": 8812,
+          "text": "Just under 60 million"
+        },
+        {
+          "id": 8813,
+          "text": "Just over 50 million"
+        },
+        {
+          "id": 8814,
+          "text": "Just under 62 million"
+        }
+      ]
+    },
+    {
+      "id": 7623,
+      "text": "When did the ‘Habeas Corpus Act’ become law?",
+      "explanation": "The Habeas Corpus Act became law in 1679.",
+      "computed_correct_option_ids": [
+        8821
+      ],
+      "options": [
+        {
+          "id": 8821,
+          "text": "In 1679"
+        },
+        {
+          "id": 8822,
+          "text": "In 1669"
+        },
+        {
+          "id": 8823,
+          "text": "In 1689"
+        },
+        {
+          "id": 8824,
+          "text": "In 1709"
+        }
+      ]
+    },
+    {
+      "id": 7624,
+      "text": "Who discovered the penicillin in 1928?",
+      "explanation": "Alexander Fleming was researching influenza (the ‘flu’) in 1928 when he discovered penicillin.",
+      "computed_correct_option_ids": [
+        8832
+      ],
+      "options": [
+        {
+          "id": 8831,
+          "text": "Sir Robert Watson-Watt"
+        },
+        {
+          "id": 8832,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 8833,
+          "text": "John McLeod"
+        },
+        {
+          "id": 8834,
+          "text": "Howard Florey"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "id": 491,
+  "name": "British Citizenship Test 6",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10601,
+      "text": "As a British citizen what are your responsibilities (choose two answers)?",
+      "explanation": "If you wish to be a permanent resident or citizen of the UK, you should:respect and obey the law, look after yourself and your family, respect the rights of others, including their right to their own opinions, treat others with fairness and look after the area in which you live and the environment.",
+      "computed_correct_option_ids": [
+        11601,
+        11604
+      ],
+      "options": [
+        {
+          "id": 11601,
+          "text": "To respect and obey the law"
+        },
+        {
+          "id": 11602,
+          "text": "To walk your dog only during the day"
+        },
+        {
+          "id": 11603,
+          "text": "To go to church on Sunday"
+        },
+        {
+          "id": 11604,
+          "text": "To look after yourself and your family"
+        }
+      ]
+    },
+    {
+      "id": 10602,
+      "text": "Who made the first coins to be minted in Britain?",
+      "explanation": "Thepeople of the Iron Agemade the first coins to be minted in Britain, some inscribed with the names of Iron Age kings. This marks the beginnings of British history.",
+      "computed_correct_option_ids": [
+        11613
+      ],
+      "options": [
+        {
+          "id": 11611,
+          "text": "The people of the Stone Age"
+        },
+        {
+          "id": 11612,
+          "text": "The Anglo-saxons"
+        },
+        {
+          "id": 11613,
+          "text": "The people of the Iron Age"
+        },
+        {
+          "id": 11614,
+          "text": "The Romans"
+        }
+      ]
+    },
+    {
+      "id": 10603,
+      "text": "Who built the Tower of London?",
+      "explanation": "The correct answer isWilliam the Conqueror.",
+      "computed_correct_option_ids": [
+        11621
+      ],
+      "options": [
+        {
+          "id": 11621,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 11622,
+          "text": "Queen Victoria"
+        },
+        {
+          "id": 11623,
+          "text": "Queen Elizabeth I"
+        },
+        {
+          "id": 11624,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 10604,
+      "text": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+      "explanation": "National Parks areareas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+      "computed_correct_option_ids": [
+        11633
+      ],
+      "options": [
+        {
+          "id": 11631,
+          "text": "Giant greenhouses"
+        },
+        {
+          "id": 11632,
+          "text": "Land formations of columns made from volcanic lava"
+        },
+        {
+          "id": 11633,
+          "text": "Areas of protected countryside"
+        },
+        {
+          "id": 11634,
+          "text": "Medieval buildings"
+        }
+      ]
+    },
+    {
+      "id": 10605,
+      "text": "Northern Ireland has its own established church.",
+      "explanation": "False. There is no established Church in Wales or Northern Ireland.",
+      "computed_correct_option_ids": [
+        11642
+      ],
+      "options": [
+        {
+          "id": 11641,
+          "text": "True"
+        },
+        {
+          "id": 11642,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10606,
+      "text": "Which three territories form Great Britain?",
+      "explanation": "‘Great Britain’ refers only to England, Scotland and Wales,nottoNorthern Ireland.",
+      "computed_correct_option_ids": [
+        11651,
+        11653,
+        11654
+      ],
+      "options": [
+        {
+          "id": 11651,
+          "text": "Wales"
+        },
+        {
+          "id": 11652,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11653,
+          "text": "England"
+        },
+        {
+          "id": 11654,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10607,
+      "text": "How often are ’Prime Minister’s Questions’ held in the parliament?",
+      "explanation": "Prime Minister’s Questions takes placeevery weekwhile Parliament is sitting.",
+      "computed_correct_option_ids": [
+        11662
+      ],
+      "options": [
+        {
+          "id": 11661,
+          "text": "Every day"
+        },
+        {
+          "id": 11662,
+          "text": "Every week"
+        },
+        {
+          "id": 11663,
+          "text": "Every two weeks"
+        },
+        {
+          "id": 11664,
+          "text": "Once a month"
+        }
+      ]
+    },
+    {
+      "id": 10608,
+      "text": "Which king was executed in 1649?",
+      "explanation": "The correct answer isCharles I.",
+      "computed_correct_option_ids": [
+        11674
+      ],
+      "options": [
+        {
+          "id": 11671,
+          "text": "James I"
+        },
+        {
+          "id": 11672,
+          "text": "Charles II"
+        },
+        {
+          "id": 11673,
+          "text": "James VII"
+        },
+        {
+          "id": 11674,
+          "text": "Charles I"
+        }
+      ]
+    },
+    {
+      "id": 10609,
+      "text": "Where was William Shakespeare born?",
+      "explanation": "Shakespeare was born inStratford-upon-Avon, England.",
+      "computed_correct_option_ids": [
+        11683
+      ],
+      "options": [
+        {
+          "id": 11681,
+          "text": "Manchester"
+        },
+        {
+          "id": 11682,
+          "text": "Oldham"
+        },
+        {
+          "id": 11683,
+          "text": "Stratford-upon-Avon"
+        },
+        {
+          "id": 11684,
+          "text": "Lincolnshire"
+        }
+      ]
+    },
+    {
+      "id": 10610,
+      "text": "Which two of the following are famous British Paralympians?",
+      "explanation": "Baroness Tanni Grey-ThompsonandEllie Simmondsare the correct answers.",
+      "computed_correct_option_ids": [
+        11692,
+        11694
+      ],
+      "options": [
+        {
+          "id": 11691,
+          "text": "Dame Kelly Holmes"
+        },
+        {
+          "id": 11692,
+          "text": "Baroness Tanni Grey-Thompson"
+        },
+        {
+          "id": 11693,
+          "text": "Jayne Torvill"
+        },
+        {
+          "id": 11694,
+          "text": "Ellie Simmonds"
+        }
+      ]
+    },
+    {
+      "id": 10611,
+      "text": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+      "explanation": "InElizabeth I’s time, English settlers first began to colonise the eastern coast of America.",
+      "computed_correct_option_ids": [
+        11703
+      ],
+      "options": [
+        {
+          "id": 11701,
+          "text": "Queen Victoria"
+        },
+        {
+          "id": 11702,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 11703,
+          "text": "Elizabeth I"
+        },
+        {
+          "id": 11704,
+          "text": "Charles II"
+        }
+      ]
+    },
+    {
+      "id": 10612,
+      "text": "Scotland and Wales use a system called ‘individual registration’ where all those entitled to vote must complete their own registration form.",
+      "explanation": "False. Northern Irelanduses a system called ‘individual registration’ and all those entitled to vote must complete their own registration form.",
+      "computed_correct_option_ids": [
+        11711
+      ],
+      "options": [
+        {
+          "id": 11711,
+          "text": "True"
+        },
+        {
+          "id": 11712,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10613,
+      "text": "On what day is the birth of Jesus Christ celebrated?",
+      "explanation": "Christmas Day, 25th of December, celebrates the birth of Jesus Christ.",
+      "computed_correct_option_ids": [
+        11722
+      ],
+      "options": [
+        {
+          "id": 11721,
+          "text": "Father’s Day"
+        },
+        {
+          "id": 11722,
+          "text": "Christmas Day"
+        },
+        {
+          "id": 11723,
+          "text": "New Year"
+        },
+        {
+          "id": 11724,
+          "text": "Boxing Day"
+        }
+      ]
+    },
+    {
+      "id": 10614,
+      "text": "What sort of battle was the ’Battle of Britain’, fought between Germany and Britain in the summer of 1940?",
+      "explanation": "‘The Battle of Britain’ was a crucialaerial battlefought between Germany and Britain in the summer of 1940.",
+      "computed_correct_option_ids": [
+        11732
+      ],
+      "options": [
+        {
+          "id": 11731,
+          "text": "A battle in the sea"
+        },
+        {
+          "id": 11732,
+          "text": "An aerial battle"
+        },
+        {
+          "id": 11733,
+          "text": "A battle in the mountains"
+        },
+        {
+          "id": 11734,
+          "text": "A battle without rifles"
+        }
+      ]
+    },
+    {
+      "id": 10615,
+      "text": "Where is Swansea located?",
+      "explanation": "Swansea it is located inWales.",
+      "computed_correct_option_ids": [
+        11744
+      ],
+      "options": [
+        {
+          "id": 11741,
+          "text": "England"
+        },
+        {
+          "id": 11742,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11743,
+          "text": "Scotland"
+        },
+        {
+          "id": 11744,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 10616,
+      "text": "Which two political parties formed a coalition in 2010?",
+      "explanation": "In May 2010the Conservative and Liberal Democrat partiesformed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
+      "computed_correct_option_ids": [
+        11751,
+        11754
+      ],
+      "options": [
+        {
+          "id": 11751,
+          "text": "The Conservative Party"
+        },
+        {
+          "id": 11752,
+          "text": "The Green Party"
+        },
+        {
+          "id": 11753,
+          "text": "The Labour Party"
+        },
+        {
+          "id": 11754,
+          "text": "The Liberal Democrats Party"
+        }
+      ]
+    },
+    {
+      "id": 10617,
+      "text": "Who established the Church of England?",
+      "explanation": "The correct answer isHenry VIII.",
+      "computed_correct_option_ids": [
+        11761
+      ],
+      "options": [
+        {
+          "id": 11761,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 11762,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 11763,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 11764,
+          "text": "William of Orange"
+        }
+      ]
+    },
+    {
+      "id": 10618,
+      "text": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+      "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known asthe Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
+      "computed_correct_option_ids": [
+        11774
+      ],
+      "options": [
+        {
+          "id": 11771,
+          "text": "Measles"
+        },
+        {
+          "id": 11772,
+          "text": "Leprosy"
+        },
+        {
+          "id": 11773,
+          "text": "Smallpox"
+        },
+        {
+          "id": 11774,
+          "text": "The Black Death"
+        }
+      ]
+    },
+    {
+      "id": 10619,
+      "text": "Haggis is a traditional food from which area?",
+      "explanation": "Haggis is a traditional food fromScotland.",
+      "computed_correct_option_ids": [
+        11784
+      ],
+      "options": [
+        {
+          "id": 11781,
+          "text": "Wales"
+        },
+        {
+          "id": 11782,
+          "text": "England"
+        },
+        {
+          "id": 11783,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11784,
+          "text": "Scotland"
+        }
+      ]
+    },
+    {
+      "id": 10620,
+      "text": "Which court deals with minor criminal offences in Scotland?",
+      "explanation": "In Scotland, minor criminal offences go to aJustice of the Peace Court.",
+      "computed_correct_option_ids": [
+        11794
+      ],
+      "options": [
+        {
+          "id": 11791,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 11792,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 11793,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 11794,
+          "text": "The Justice of the Peace Court"
+        }
+      ]
+    },
+    {
+      "id": 10621,
+      "text": "Which two of the following records give us information about England during the reign of William I?",
+      "explanation": "The Domesday Book and the Bayeux Tapestry.",
+      "computed_correct_option_ids": [
+        11802,
+        11803
+      ],
+      "options": [
+        {
+          "id": 11801,
+          "text": "The Magna Carta"
+        },
+        {
+          "id": 11802,
+          "text": "The Domesday Book"
+        },
+        {
+          "id": 11803,
+          "text": "The Bayeux Tapestry"
+        },
+        {
+          "id": 11804,
+          "text": "The Canterbury Tales"
+        }
+      ]
+    },
+    {
+      "id": 10622,
+      "text": "In 1913, the British government promised ‘Home Rule’ for Ireland, why were changes in Ireland delayed until 1921?",
+      "explanation": "The outbreak of the First World Warled the British government to postpone any changes in Ireland.",
+      "computed_correct_option_ids": [
+        11811
+      ],
+      "options": [
+        {
+          "id": 11811,
+          "text": "Due to the outbreak of the First World War"
+        },
+        {
+          "id": 11812,
+          "text": "Due to the outbreak of the Second World War"
+        },
+        {
+          "id": 11813,
+          "text": "Because there was not a king on the British throne"
+        },
+        {
+          "id": 11814,
+          "text": "Due to the outbreak of the Black Death"
+        }
+      ]
+    },
+    {
+      "id": 10623,
+      "text": "Which of the following statements is true:",
+      "explanation": "Elizabeth I was aProtestantand she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.",
+      "computed_correct_option_ids": [
+        11821
+      ],
+      "options": [
+        {
+          "id": 11821,
+          "text": "Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."
+        },
+        {
+          "id": 11822,
+          "text": "Elizabeth I was a Catholic and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."
+        }
+      ]
+    },
+    {
+      "id": 10624,
+      "text": "Which two documents do you need to apply for a National Insurance number?",
+      "explanation": "To apply for a National Insurance number you needdocuments that prove your identity and that you have permission to work in the UK.",
+      "computed_correct_option_ids": [
+        11832,
+        11834
+      ],
+      "options": [
+        {
+          "id": 11831,
+          "text": "A document with your address on it, such as a tenancy agreement"
+        },
+        {
+          "id": 11832,
+          "text": "Documents that prove that you have permission to work in the UK"
+        },
+        {
+          "id": 11833,
+          "text": "A contract from your employer"
+        },
+        {
+          "id": 11834,
+          "text": "Documents that prove your identity"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "id": 409,
+  "name": "Life in the UK Test 49",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 7401,
+      "text": "When did people learn to make bronze?",
+      "explanation": "Around 4,000 years ago, people learned to make bronze. We call this period the Bronze Age.",
+      "computed_correct_option_ids": [
+        8402
+      ],
+      "options": [
+        {
+          "id": 8401,
+          "text": "Around 3,000 years ago"
+        },
+        {
+          "id": 8402,
+          "text": "Around 4,000 years ago"
+        },
+        {
+          "id": 8403,
+          "text": "Around 5,000 years ago"
+        },
+        {
+          "id": 8404,
+          "text": "Around 2,000 years ago"
+        }
+      ]
+    },
+    {
+      "id": 7402,
+      "text": "When is the Jewish celebration known as Hanukkah normally celebrated?",
+      "explanation": "Hanukkah is inNovember or Decemberand is celebrated for eight days.",
+      "computed_correct_option_ids": [
+        8413
+      ],
+      "options": [
+        {
+          "id": 8411,
+          "text": "June or July"
+        },
+        {
+          "id": 8412,
+          "text": "October or November"
+        },
+        {
+          "id": 8413,
+          "text": "November or December"
+        },
+        {
+          "id": 8414,
+          "text": "March or April"
+        }
+      ]
+    },
+    {
+      "id": 7403,
+      "text": "What musical award is given during the Mercury Music Prize?",
+      "explanation": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland.",
+      "computed_correct_option_ids": [
+        8422
+      ],
+      "options": [
+        {
+          "id": 8421,
+          "text": "Best album from the UK"
+        },
+        {
+          "id": 8422,
+          "text": "Best album from the UK and Ireland"
+        },
+        {
+          "id": 8423,
+          "text": "Best solo artist from the UK"
+        },
+        {
+          "id": 8424,
+          "text": "Best solo artist the UK and Ireland"
+        }
+      ]
+    },
+    {
+      "id": 7404,
+      "text": "Who was Boudicca?",
+      "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England.",
+      "computed_correct_option_ids": [
+        8431
+      ],
+      "options": [
+        {
+          "id": 8431,
+          "text": "One of the tribal leaders who fought against the Romans"
+        },
+        {
+          "id": 8432,
+          "text": "One of the architects who built Hadrian’s Wall"
+        },
+        {
+          "id": 8433,
+          "text": "A Viking king"
+        },
+        {
+          "id": 8434,
+          "text": "One of the tribal leaders who fought against the Vikings"
+        }
+      ]
+    },
+    {
+      "id": 7405,
+      "text": "Which TWO of the following water sports are popular in the UK?",
+      "explanation": "Sailing continues to be popular in the UK, reflecting its maritime heritage. Rowing is also popular, both as a leisure activity and as a competitive sport.",
+      "computed_correct_option_ids": [
+        8442,
+        8443
+      ],
+      "options": [
+        {
+          "id": 8441,
+          "text": "Waterpolo"
+        },
+        {
+          "id": 8442,
+          "text": "Rowing"
+        },
+        {
+          "id": 8443,
+          "text": "Sailing"
+        },
+        {
+          "id": 8444,
+          "text": "Surfing"
+        }
+      ]
+    },
+    {
+      "id": 7406,
+      "text": "Which of the following statements is TRUE?",
+      "explanation": "Forcing another person to marry is a criminal offence.",
+      "computed_correct_option_ids": [
+        8452
+      ],
+      "options": [
+        {
+          "id": 8451,
+          "text": "Forcing another person to marry is a civil offence"
+        },
+        {
+          "id": 8452,
+          "text": "Forcing another person to marry is a criminal offence"
+        },
+        {
+          "id": 8453,
+          "text": "Forcing another person to marry is not punished in the UK"
+        },
+        {
+          "id": 8454,
+          "text": "Forcing another person to marry is common in the UK"
+        }
+      ]
+    },
+    {
+      "id": 7407,
+      "text": "In the UK, what should dogs wear in public places?",
+      "explanation": "All dogs in public places must wear a collar showing the name and address of the owner.",
+      "computed_correct_option_ids": [
+        8461
+      ],
+      "options": [
+        {
+          "id": 8461,
+          "text": "A collar with the name and address of the owner"
+        },
+        {
+          "id": 8462,
+          "text": "A collar with the name of the dog"
+        },
+        {
+          "id": 8463,
+          "text": "A tracking device in case they get lost"
+        },
+        {
+          "id": 8464,
+          "text": "Clothes to avoid the cold in the winter"
+        }
+      ]
+    },
+    {
+      "id": 7408,
+      "text": "Where do UK residents need to register their car or motorcycle?",
+      "explanation": "If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).",
+      "computed_correct_option_ids": [
+        8473
+      ],
+      "options": [
+        {
+          "id": 8471,
+          "text": "At the Home Office"
+        },
+        {
+          "id": 8472,
+          "text": "At the Ministry of Transport (MOT)"
+        },
+        {
+          "id": 8473,
+          "text": "At the Driver and Vehicle Licensing Agency (DVLA)"
+        },
+        {
+          "id": 8474,
+          "text": "At their Local Council"
+        }
+      ]
+    },
+    {
+      "id": 7409,
+      "text": "Popular social networking websites in the UK include:",
+      "explanation": "Social networking websites such asFacebook and Twitterare a popular in the UK.",
+      "computed_correct_option_ids": [
+        8482
+      ],
+      "options": [
+        {
+          "id": 8481,
+          "text": "Drupal and Amazon"
+        },
+        {
+          "id": 8482,
+          "text": "Facebook and Twitter"
+        },
+        {
+          "id": 8483,
+          "text": "Dropbox and itunes"
+        },
+        {
+          "id": 8484,
+          "text": "iCloud and itunes"
+        }
+      ]
+    },
+    {
+      "id": 7410,
+      "text": "According to the 2011 Census, what percentage of the population identified themselves as Muslim?",
+      "explanation": "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+      "computed_correct_option_ids": [
+        8494
+      ],
+      "options": [
+        {
+          "id": 8491,
+          "text": "1%"
+        },
+        {
+          "id": 8492,
+          "text": "2%"
+        },
+        {
+          "id": 8493,
+          "text": "3%"
+        },
+        {
+          "id": 8494,
+          "text": "4.8%"
+        }
+      ]
+    },
+    {
+      "id": 7411,
+      "text": "How often are elections held for the Welsh government?",
+      "explanation": "The Welsh government has 60 Senedd members (SMs) and elections are held every four years using a form of proportional representation.",
+      "computed_correct_option_ids": [
+        8501
+      ],
+      "options": [
+        {
+          "id": 8501,
+          "text": "Every four years"
+        },
+        {
+          "id": 8502,
+          "text": "Every three years"
+        },
+        {
+          "id": 8503,
+          "text": "Every fix years"
+        },
+        {
+          "id": 8504,
+          "text": "Every six years"
+        }
+      ]
+    },
+    {
+      "id": 7412,
+      "text": "Who was the British Minister after Margaret Thatcher?",
+      "explanation": "John Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process.",
+      "computed_correct_option_ids": [
+        8514
+      ],
+      "options": [
+        {
+          "id": 8511,
+          "text": "Tony Blair"
+        },
+        {
+          "id": 8512,
+          "text": "Harold Macmillan"
+        },
+        {
+          "id": 8513,
+          "text": "Gordon Brown"
+        },
+        {
+          "id": 8514,
+          "text": "John Major"
+        }
+      ]
+    },
+    {
+      "id": 7413,
+      "text": "What name is given to the person appointed by local authorities to be the ceremonial leader of a particular council?",
+      "explanation": "Many local authorities appoint amayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.",
+      "computed_correct_option_ids": [
+        8522
+      ],
+      "options": [
+        {
+          "id": 8521,
+          "text": "Council candidate"
+        },
+        {
+          "id": 8522,
+          "text": "Mayor"
+        },
+        {
+          "id": 8523,
+          "text": "Peer"
+        },
+        {
+          "id": 8524,
+          "text": "Magistrate"
+        }
+      ]
+    },
+    {
+      "id": 7414,
+      "text": "What is the meaning of the term ‘first past the post’?",
+      "explanation": "MPs are elected through a system called ‘first past the post’. In each constituency, the candidate who gets the most votes is elected.",
+      "computed_correct_option_ids": [
+        8531
+      ],
+      "options": [
+        {
+          "id": 8531,
+          "text": "In each constituency, the candidate who gets the most votes is elected"
+        },
+        {
+          "id": 8532,
+          "text": "If no political party wins a majority, two parties may join and govern together"
+        },
+        {
+          "id": 8533,
+          "text": "If an MP dies or resigns, there will be a fresh election"
+        },
+        {
+          "id": 8534,
+          "text": "The Speaker will be chosen by other MPs in a secret ballot"
+        }
+      ]
+    },
+    {
+      "id": 7415,
+      "text": "Who defeated Emperor Napoleon at the Battle of Waterloo in 1815?",
+      "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon bythe Duke of Wellingtonat the Battle of Waterloo.",
+      "computed_correct_option_ids": [
+        8541
+      ],
+      "options": [
+        {
+          "id": 8541,
+          "text": "The Duke of Wellington"
+        },
+        {
+          "id": 8542,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 8543,
+          "text": "Richard Arkwright"
+        },
+        {
+          "id": 8544,
+          "text": "The Duke of Edinburgh"
+        }
+      ]
+    },
+    {
+      "id": 7416,
+      "text": "Which court deals with the MOST serious cases in Scotland, such as murder?",
+      "explanation": "In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. Themost serious casesin Scotland, such as murder, are heard at aHigh Courtwith a judge and jury.",
+      "computed_correct_option_ids": [
+        8554
+      ],
+      "options": [
+        {
+          "id": 8551,
+          "text": "The Magistrates’ Court"
+        },
+        {
+          "id": 8552,
+          "text": "The Sheriff Court"
+        },
+        {
+          "id": 8553,
+          "text": "The Crown Court"
+        },
+        {
+          "id": 8554,
+          "text": "The High Court"
+        }
+      ]
+    },
+    {
+      "id": 7417,
+      "text": "What was the symbol of the House of Tudor?",
+      "explanation": "The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
+      "computed_correct_option_ids": [
+        8561
+      ],
+      "options": [
+        {
+          "id": 8561,
+          "text": "A red rose with a white rose inside it"
+        },
+        {
+          "id": 8562,
+          "text": "A red rose"
+        },
+        {
+          "id": 8563,
+          "text": "A white rose"
+        },
+        {
+          "id": 8564,
+          "text": "A white rose with a red rose inside it"
+        }
+      ]
+    },
+    {
+      "id": 7418,
+      "text": "What animal is represented in the Welsh flag?",
+      "explanation": "There is also an official Welsh flag, which shows a Welshdragon. The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England.",
+      "computed_correct_option_ids": [
+        8572
+      ],
+      "options": [
+        {
+          "id": 8571,
+          "text": "A lion"
+        },
+        {
+          "id": 8572,
+          "text": "A dragon"
+        },
+        {
+          "id": 8573,
+          "text": "A tiger"
+        },
+        {
+          "id": 8574,
+          "text": "A cat"
+        }
+      ]
+    },
+    {
+      "id": 7419,
+      "text": "Which famous economist developed ideas about economics during the 18th century and which are still referred to today?",
+      "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’. Many of the great thinkers of the Enlightenment were Scottish.Adam Smithdeveloped ideas about economics which are still referred to today.",
+      "computed_correct_option_ids": [
+        8583
+      ],
+      "options": [
+        {
+          "id": 8581,
+          "text": "Robert Dudley Baxter"
+        },
+        {
+          "id": 8582,
+          "text": "David Hume"
+        },
+        {
+          "id": 8583,
+          "text": "Adam Smith"
+        },
+        {
+          "id": 8584,
+          "text": "Henry George"
+        }
+      ]
+    },
+    {
+      "id": 7420,
+      "text": "Who is the ceremonial head of the Commonwealth?",
+      "explanation": "The King is the ceremonial head of the Commonwealth.",
+      "computed_correct_option_ids": [
+        8591
+      ],
+      "options": [
+        {
+          "id": 8591,
+          "text": "The British King"
+        },
+        {
+          "id": 8592,
+          "text": "The Pope"
+        },
+        {
+          "id": 8593,
+          "text": "The President of the United States"
+        },
+        {
+          "id": 8594,
+          "text": "The Prime Minister of the UK"
+        }
+      ]
+    },
+    {
+      "id": 7421,
+      "text": "What time do pubs usually open during the week?",
+      "explanation": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays).",
+      "computed_correct_option_ids": [
+        8603
+      ],
+      "options": [
+        {
+          "id": 8601,
+          "text": "9 am"
+        },
+        {
+          "id": 8602,
+          "text": "10 am"
+        },
+        {
+          "id": 8603,
+          "text": "11 am"
+        },
+        {
+          "id": 8604,
+          "text": "12 pm"
+        }
+      ]
+    },
+    {
+      "id": 7422,
+      "text": "In which TWO movie categories does Britain continue to be particularly strong at?",
+      "explanation": "Britain continues to be particularly strong in special effects and animation movies.",
+      "computed_correct_option_ids": [
+        8611,
+        8614
+      ],
+      "options": [
+        {
+          "id": 8611,
+          "text": "Special effects movies"
+        },
+        {
+          "id": 8612,
+          "text": "Action movies"
+        },
+        {
+          "id": 8613,
+          "text": "Thrillers"
+        },
+        {
+          "id": 8614,
+          "text": "Animation movies"
+        }
+      ]
+    },
+    {
+      "id": 7423,
+      "text": "Which British artist was a portrait painter who often painted people in country or garden scenarios?",
+      "explanation": "Thomas Gainsborough (1727-88) was a portrait painter who often painted people in country or garden scenery.",
+      "computed_correct_option_ids": [
+        8621
+      ],
+      "options": [
+        {
+          "id": 8621,
+          "text": "Thomas Gainsborough"
+        },
+        {
+          "id": 8622,
+          "text": "David Allan"
+        },
+        {
+          "id": 8623,
+          "text": "Joseph Turner"
+        },
+        {
+          "id": 8624,
+          "text": "John Constable"
+        }
+      ]
+    },
+    {
+      "id": 7424,
+      "text": "During which religious celebration do Muslims sacrifice an animal to eat?",
+      "explanation": "Many Muslims sacrifice an animal to eat during Eid ul Adha.",
+      "computed_correct_option_ids": [
+        8631
+      ],
+      "options": [
+        {
+          "id": 8631,
+          "text": "Eid ul Adha"
+        },
+        {
+          "id": 8632,
+          "text": "Eid a-Fitr"
+        },
+        {
+          "id": 8633,
+          "text": "Ramadan"
+        },
+        {
+          "id": 8634,
+          "text": "Vaisakhi"
+        }
+      ]
+    }
+  ]
+}

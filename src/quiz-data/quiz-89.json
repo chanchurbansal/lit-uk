@@ -1,0 +1,601 @@
+{
+  "id": 489,
+  "name": "British Citizenship Test 4",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10401,
+      "text": "What was the last battle between Great Britain and France?",
+      "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington atthe Battle of Waterloo.",
+      "computed_correct_option_ids": [
+        11402
+      ],
+      "options": [
+        {
+          "id": 11401,
+          "text": "The Battle of Trafalgar"
+        },
+        {
+          "id": 11402,
+          "text": "The Battle of Waterloo"
+        },
+        {
+          "id": 11403,
+          "text": "The Battle of Hastings"
+        },
+        {
+          "id": 11404,
+          "text": "Battle of Agincourt"
+        }
+      ]
+    },
+    {
+      "id": 10402,
+      "text": "Which flower is associated with Wales?",
+      "explanation": "The flower associated with Wales is thedaffodil.",
+      "computed_correct_option_ids": [
+        11411
+      ],
+      "options": [
+        {
+          "id": 11411,
+          "text": "Daffodil"
+        },
+        {
+          "id": 11412,
+          "text": "Rose"
+        },
+        {
+          "id": 11413,
+          "text": "Shamrock"
+        },
+        {
+          "id": 11414,
+          "text": "Thistle"
+        }
+      ]
+    },
+    {
+      "id": 10403,
+      "text": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+      "explanation": "During Charles II’s reign, a greatfiredestroyed much of the city, including many churches and St Paul’s Cathedral.",
+      "computed_correct_option_ids": [
+        11423
+      ],
+      "options": [
+        {
+          "id": 11421,
+          "text": "A war"
+        },
+        {
+          "id": 11422,
+          "text": "A flood"
+        },
+        {
+          "id": 11423,
+          "text": "A fire"
+        },
+        {
+          "id": 11424,
+          "text": "An earthquake"
+        }
+      ]
+    },
+    {
+      "id": 10404,
+      "text": "How often are general elections held in the UK?",
+      "explanation": "MPs are elected at a General Election, which is held at leastevery five years.",
+      "computed_correct_option_ids": [
+        11433
+      ],
+      "options": [
+        {
+          "id": 11431,
+          "text": "Every 3 years"
+        },
+        {
+          "id": 11432,
+          "text": "Every 4 years"
+        },
+        {
+          "id": 11433,
+          "text": "Every 5 years"
+        },
+        {
+          "id": 11434,
+          "text": "Every 10 years"
+        }
+      ]
+    },
+    {
+      "id": 10405,
+      "text": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11441
+      ],
+      "options": [
+        {
+          "id": 11441,
+          "text": "True"
+        },
+        {
+          "id": 11442,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10406,
+      "text": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+      "explanation": "The National Trustis a charity that works to preserve important buildings, coastline and countryside in the UK.",
+      "computed_correct_option_ids": [
+        11454
+      ],
+      "options": [
+        {
+          "id": 11451,
+          "text": "Shelter"
+        },
+        {
+          "id": 11452,
+          "text": "Age UK"
+        },
+        {
+          "id": 11453,
+          "text": "Crisis"
+        },
+        {
+          "id": 11454,
+          "text": "The National Trust"
+        }
+      ]
+    },
+    {
+      "id": 10407,
+      "text": "Great Britain refers only to England, Wales and Scotland.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11461
+      ],
+      "options": [
+        {
+          "id": 11461,
+          "text": "True"
+        },
+        {
+          "id": 11462,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10408,
+      "text": "Who was the tribal leader who fought against the Romans?",
+      "explanation": "One of the tribal leaders who fought against the Romans wasBoudicca, the queen of the Iceni in what is now eastern England.",
+      "computed_correct_option_ids": [
+        11473
+      ],
+      "options": [
+        {
+          "id": 11471,
+          "text": "Cleopatra"
+        },
+        {
+          "id": 11472,
+          "text": "Claudia"
+        },
+        {
+          "id": 11473,
+          "text": "Boudicca"
+        },
+        {
+          "id": 11474,
+          "text": "St Augustine"
+        }
+      ]
+    },
+    {
+      "id": 10409,
+      "text": "Who was voted the greatest Briton of all time in 2002?",
+      "explanation": "Winston Churchillremains a much-admired figure to this day, and in 2002 was voted the greatest Briton of all time by the public.",
+      "computed_correct_option_ids": [
+        11482
+      ],
+      "options": [
+        {
+          "id": 11481,
+          "text": "Isaac Newton"
+        },
+        {
+          "id": 11482,
+          "text": "Winston Churchill"
+        },
+        {
+          "id": 11483,
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": 11484,
+          "text": "Mo Farat"
+        }
+      ]
+    },
+    {
+      "id": 10410,
+      "text": "Which two houses form the UK Parliament?",
+      "explanation": "The UK Parliament is formed of theHouse of Commons and the House of Lords.",
+      "computed_correct_option_ids": [
+        11491,
+        11493
+      ],
+      "options": [
+        {
+          "id": 11491,
+          "text": "The House of Lords"
+        },
+        {
+          "id": 11492,
+          "text": "House of Members"
+        },
+        {
+          "id": 11493,
+          "text": "House of Commons"
+        },
+        {
+          "id": 11494,
+          "text": "House of Fraser"
+        }
+      ]
+    },
+    {
+      "id": 10411,
+      "text": "When did women get the right to vote at the same age as men?",
+      "explanation": "In1928, women were given the right to vote at the age of 21, the same as men.",
+      "computed_correct_option_ids": [
+        11502
+      ],
+      "options": [
+        {
+          "id": 11501,
+          "text": "1918"
+        },
+        {
+          "id": 11502,
+          "text": "1928"
+        },
+        {
+          "id": 11503,
+          "text": "1938"
+        },
+        {
+          "id": 11504,
+          "text": "1948"
+        }
+      ]
+    },
+    {
+      "id": 10412,
+      "text": "Who is the head of the Church of England?",
+      "explanation": "The monarchis the head of the Church of England.",
+      "computed_correct_option_ids": [
+        11514
+      ],
+      "options": [
+        {
+          "id": 11511,
+          "text": "The Prime Minister"
+        },
+        {
+          "id": 11512,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 11513,
+          "text": "The Pope"
+        },
+        {
+          "id": 11514,
+          "text": "The monarch"
+        }
+      ]
+    },
+    {
+      "id": 10413,
+      "text": "What sort of event is the Grand National?",
+      "explanation": "The Grand National is ahorse racingevent.",
+      "computed_correct_option_ids": [
+        11523
+      ],
+      "options": [
+        {
+          "id": 11521,
+          "text": "Rugby"
+        },
+        {
+          "id": 11522,
+          "text": "Golf"
+        },
+        {
+          "id": 11523,
+          "text": "Horse Racing"
+        },
+        {
+          "id": 11524,
+          "text": "Tennis"
+        }
+      ]
+    },
+    {
+      "id": 10414,
+      "text": "What type of literature are the Canterbury Tales?",
+      "explanation": "Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. Thiscollection of poemsis called The Canterbury Tales.",
+      "computed_correct_option_ids": [
+        11531
+      ],
+      "options": [
+        {
+          "id": 11531,
+          "text": "Poems"
+        },
+        {
+          "id": 11532,
+          "text": "Novels"
+        },
+        {
+          "id": 11533,
+          "text": "Jokes"
+        },
+        {
+          "id": 11534,
+          "text": "Fables"
+        }
+      ]
+    },
+    {
+      "id": 10415,
+      "text": "When is Christmas Day?",
+      "explanation": "Christmas Day is celebrated on the25th of December.",
+      "computed_correct_option_ids": [
+        11542
+      ],
+      "options": [
+        {
+          "id": 11541,
+          "text": "24th of December"
+        },
+        {
+          "id": 11542,
+          "text": "25th of December"
+        },
+        {
+          "id": 11543,
+          "text": "26th of December"
+        },
+        {
+          "id": 11544,
+          "text": "27th of December"
+        }
+      ]
+    },
+    {
+      "id": 10416,
+      "text": "Who supported King Charles I during the Civil War?",
+      "explanation": "During the civil war between the king and Parliament the country split intothose who supported the king (the Cavaliers)and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        11554
+      ],
+      "options": [
+        {
+          "id": 11551,
+          "text": "Roundheads"
+        },
+        {
+          "id": 11552,
+          "text": "Suffragettes"
+        },
+        {
+          "id": 11553,
+          "text": "Quakers"
+        },
+        {
+          "id": 11554,
+          "text": "Cavaliers"
+        }
+      ]
+    },
+    {
+      "id": 10417,
+      "text": "What battle is commemorated in the Bayeux Tapestry?",
+      "explanation": "The Battle of Hastingsis commemorated in a great piece of embroidery, known as the Bayeux tapestry.",
+      "computed_correct_option_ids": [
+        11563
+      ],
+      "options": [
+        {
+          "id": 11561,
+          "text": "The Battle of Waterloo"
+        },
+        {
+          "id": 11562,
+          "text": "The Battle of Trafalgar"
+        },
+        {
+          "id": 11563,
+          "text": "The Battle of Hastings"
+        },
+        {
+          "id": 11564,
+          "text": "The Battle of Britain"
+        }
+      ]
+    },
+    {
+      "id": 10418,
+      "text": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+      "explanation": "Anne Boleyn was unpopular in the country and was accused of taking lovers. She was executedat the Tower of London.",
+      "computed_correct_option_ids": [
+        11573
+      ],
+      "options": [
+        {
+          "id": 11571,
+          "text": "Houses of the Parliament"
+        },
+        {
+          "id": 11572,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 11573,
+          "text": "Tower of London"
+        },
+        {
+          "id": 11574,
+          "text": "Whitehall"
+        }
+      ]
+    },
+    {
+      "id": 10419,
+      "text": "Racial crime and smoking in public places are examples of:",
+      "explanation": "Racial crime and smoking in public places are examples ofcriminal offences.",
+      "computed_correct_option_ids": [
+        11582
+      ],
+      "options": [
+        {
+          "id": 11581,
+          "text": "Civil offences"
+        },
+        {
+          "id": 11582,
+          "text": "Criminal offences"
+        }
+      ]
+    },
+    {
+      "id": 10420,
+      "text": "What type of character was played by Charlie Chaplin?",
+      "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for histramp characterand was one of many British actors to make a career in Hollywood.",
+      "computed_correct_option_ids": [
+        11592
+      ],
+      "options": [
+        {
+          "id": 11591,
+          "text": "A superhero"
+        },
+        {
+          "id": 11592,
+          "text": "A tramp"
+        },
+        {
+          "id": 11593,
+          "text": "A scientific genius"
+        },
+        {
+          "id": 11594,
+          "text": "A bandit"
+        }
+      ]
+    },
+    {
+      "id": 10421,
+      "text": "You have to be at least 21 years old to stand as MP.",
+      "explanation": "This statement isfalse. Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties. These are the Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests.",
+      "computed_correct_option_ids": [
+        11602
+      ],
+      "options": [
+        {
+          "id": 11601,
+          "text": "True"
+        },
+        {
+          "id": 11602,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10422,
+      "text": "Who developed the radar?",
+      "explanation": "Sir Robert Watson-Wattdeveloped the radar.",
+      "computed_correct_option_ids": [
+        11614
+      ],
+      "options": [
+        {
+          "id": 11611,
+          "text": "John Logie Baird"
+        },
+        {
+          "id": 11612,
+          "text": "Sir Frank Whittle"
+        },
+        {
+          "id": 11613,
+          "text": "Sir Christopher Cockrell"
+        },
+        {
+          "id": 11614,
+          "text": "Sir Robert Watson-Watt"
+        }
+      ]
+    },
+    {
+      "id": 10423,
+      "text": "Where is the official home of the Prime Minister?",
+      "explanation": "The official home of the Prime Minister is10 Downing Street.",
+      "computed_correct_option_ids": [
+        11624
+      ],
+      "options": [
+        {
+          "id": 11621,
+          "text": "18 Oxford Street"
+        },
+        {
+          "id": 11622,
+          "text": "Buckingham Palace"
+        },
+        {
+          "id": 11623,
+          "text": "Windsor Castle"
+        },
+        {
+          "id": 11624,
+          "text": "10 Downing Street"
+        }
+      ]
+    },
+    {
+      "id": 10424,
+      "text": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+      "explanation": "By law,radio and televisioncoverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+      "computed_correct_option_ids": [
+        11631,
+        11634
+      ],
+      "options": [
+        {
+          "id": 11631,
+          "text": "Television"
+        },
+        {
+          "id": 11632,
+          "text": "Internet"
+        },
+        {
+          "id": 11633,
+          "text": "Newspapers"
+        },
+        {
+          "id": 11634,
+          "text": "Radio"
+        }
+      ]
+    }
+  ]
+}

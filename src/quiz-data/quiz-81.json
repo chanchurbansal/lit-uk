@@ -1,0 +1,584 @@
+{
+  "id": 441,
+  "name": "Life in the UK Test 81",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10601,
+      "text": "Where does the UK Parliament sit?",
+      "explanation": "The UK is governed by the parliament sitting inWestminster.",
+      "computed_correct_option_ids": [
+        11601
+      ],
+      "options": [
+        {
+          "id": 11601,
+          "text": "Westminster"
+        },
+        {
+          "id": 11602,
+          "text": "Stormont"
+        },
+        {
+          "id": 11603,
+          "text": "Holyrood"
+        },
+        {
+          "id": 11604,
+          "text": "Senedd"
+        }
+      ]
+    },
+    {
+      "id": 10602,
+      "text": "When did King Edward I of England introduced the Statute of Rhuddlan by which Wales annexed to the Crown of England?",
+      "explanation": "In 1284King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+      "computed_correct_option_ids": [
+        11611
+      ],
+      "options": [
+        {
+          "id": 11611,
+          "text": "In 1284"
+        },
+        {
+          "id": 11612,
+          "text": "In 1235"
+        },
+        {
+          "id": 11613,
+          "text": "In 1304"
+        },
+        {
+          "id": 11614,
+          "text": "In 1340"
+        }
+      ]
+    },
+    {
+      "id": 10603,
+      "text": "Which of the following public services can be controlled by the devolved administrations?",
+      "explanation": "Some public services, such aseducation, are controlled by the devolved administrations.",
+      "computed_correct_option_ids": [
+        11624
+      ],
+      "options": [
+        {
+          "id": 11621,
+          "text": "Defence"
+        },
+        {
+          "id": 11622,
+          "text": "Immigration"
+        },
+        {
+          "id": 11623,
+          "text": "Foreign Affairs"
+        },
+        {
+          "id": 11624,
+          "text": "Education"
+        }
+      ]
+    },
+    {
+      "id": 10604,
+      "text": "The Senedd has been suspended on a few occasions:",
+      "explanation": "The Northern Ireland Assemblyhas been suspended on a few occasions.",
+      "computed_correct_option_ids": [
+        11632
+      ],
+      "options": [
+        {
+          "id": 11631,
+          "text": "True"
+        },
+        {
+          "id": 11632,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10605,
+      "text": "The settlements of Scottish and English Protestants in Ulster (the northern province of Ireland) during the reigns of Elizabeth I and James I, who took over the land from Catholic landholders is known as:",
+      "explanation": "These settlements were known asplantations.",
+      "computed_correct_option_ids": [
+        11641
+      ],
+      "options": [
+        {
+          "id": 11641,
+          "text": "Plantations"
+        },
+        {
+          "id": 11642,
+          "text": "Cavaliers"
+        },
+        {
+          "id": 11643,
+          "text": "Puritans"
+        },
+        {
+          "id": 11644,
+          "text": "Pale"
+        }
+      ]
+    },
+    {
+      "id": 10606,
+      "text": "Which of the following jobs is usually unpaid in England, Wales and Scotland?",
+      "explanation": "In England, Wales and Scotland,Magistrates and Justices of the Peace (JPs)are members of the local community and they usually work unpaid and do not need legal qualifications.",
+      "computed_correct_option_ids": [
+        11651
+      ],
+      "options": [
+        {
+          "id": 11651,
+          "text": "Magistrates and Justices of the Peace"
+        },
+        {
+          "id": 11652,
+          "text": "Civil Lawyers"
+        },
+        {
+          "id": 11653,
+          "text": "Wardens"
+        },
+        {
+          "id": 11654,
+          "text": "Policeman"
+        }
+      ]
+    },
+    {
+      "id": 10607,
+      "text": "Which of the following is a traditional character of the pantomimes?",
+      "explanation": "One of the traditional characters of the pantomimes isthe Dame, a woman played by a man.",
+      "computed_correct_option_ids": [
+        11662
+      ],
+      "options": [
+        {
+          "id": 11661,
+          "text": "The gentleman"
+        },
+        {
+          "id": 11662,
+          "text": "The Dame"
+        },
+        {
+          "id": 11663,
+          "text": "A unicorn"
+        },
+        {
+          "id": 11664,
+          "text": "A mermaid"
+        }
+      ]
+    },
+    {
+      "id": 10608,
+      "text": "In the UK, most people live in towns and cities and very small parts of Britain are countryside:",
+      "explanation": "False. Most people live in towns and cities but much of Britain is still countryside.",
+      "computed_correct_option_ids": [
+        11672
+      ],
+      "options": [
+        {
+          "id": 11671,
+          "text": "True"
+        },
+        {
+          "id": 11672,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10609,
+      "text": "What was the symbol of Lancaster during the Wars of the Roses?",
+      "explanation": "During the Wars of the Roses, the symbol of Lancaster wasa red rose.",
+      "computed_correct_option_ids": [
+        11681
+      ],
+      "options": [
+        {
+          "id": 11681,
+          "text": "A Red Rose"
+        },
+        {
+          "id": 11682,
+          "text": "A White Rose"
+        },
+        {
+          "id": 11683,
+          "text": "A Green Rose"
+        },
+        {
+          "id": 11684,
+          "text": "A Purple Rose"
+        }
+      ]
+    },
+    {
+      "id": 10610,
+      "text": "After King Alfred the Great defeated the Vikings, many of the Viking invaders stayed in Britain, especially in the east and north of England in an area called:",
+      "explanation": "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as theDanelaw.",
+      "computed_correct_option_ids": [
+        11693
+      ],
+      "options": [
+        {
+          "id": 11691,
+          "text": "Bayeux"
+        },
+        {
+          "id": 11692,
+          "text": "Stonehenge"
+        },
+        {
+          "id": 11693,
+          "text": "Danelaw"
+        },
+        {
+          "id": 11694,
+          "text": "Canute"
+        }
+      ]
+    },
+    {
+      "id": 10611,
+      "text": "The Reform Act of 1832 increased the number of people with the right to vote:",
+      "explanation": "True. The Reform Act of 1832 had greatly increased the number of people with the right to vote.",
+      "computed_correct_option_ids": [
+        11701
+      ],
+      "options": [
+        {
+          "id": 11701,
+          "text": "True"
+        },
+        {
+          "id": 11702,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10612,
+      "text": "Which of the following is a famous example of stained glass?",
+      "explanation": "York Minsteris a famous example of stained glass used on the windows of some cathedrals during the middle ages.",
+      "computed_correct_option_ids": [
+        11711
+      ],
+      "options": [
+        {
+          "id": 11711,
+          "text": "York Minster"
+        },
+        {
+          "id": 11712,
+          "text": "Bayeux"
+        },
+        {
+          "id": 11713,
+          "text": "Vindolanda"
+        },
+        {
+          "id": 11714,
+          "text": "Housesteads"
+        }
+      ]
+    },
+    {
+      "id": 10613,
+      "text": "Who is the head of the Church of England?",
+      "explanation": "The monarchis the head of the Church of England.",
+      "computed_correct_option_ids": [
+        11722
+      ],
+      "options": [
+        {
+          "id": 11721,
+          "text": "The Pope"
+        },
+        {
+          "id": 11722,
+          "text": "The monarch"
+        },
+        {
+          "id": 11723,
+          "text": "The Archbishop of Canterbury"
+        },
+        {
+          "id": 11724,
+          "text": "The Prime Minister"
+        }
+      ]
+    },
+    {
+      "id": 10614,
+      "text": "Who is responsible for managing relationships with foreign countries?",
+      "explanation": "The Foreign Secretaryis responsible for managing relationships with foreign countries.",
+      "computed_correct_option_ids": [
+        11732
+      ],
+      "options": [
+        {
+          "id": 11731,
+          "text": "The Chancellor of the Exchequer"
+        },
+        {
+          "id": 11732,
+          "text": "The Foreign Secretary"
+        },
+        {
+          "id": 11733,
+          "text": "The Home Secretary"
+        },
+        {
+          "id": 11734,
+          "text": "The King"
+        }
+      ]
+    },
+    {
+      "id": 10615,
+      "text": "Which TWO of the following poems are from the Middle Ages?",
+      "explanation": "Poems which survive from the Middle Ages include Chaucer’sCanterbury Tales anda poem calledSir Gawain and the Green Knight, about one of the knights at the court of King Arthur.",
+      "computed_correct_option_ids": [
+        11741,
+        11743
+      ],
+      "options": [
+        {
+          "id": 11741,
+          "text": "The Canterbury Tales"
+        },
+        {
+          "id": 11742,
+          "text": "Paradise Lost"
+        },
+        {
+          "id": 11743,
+          "text": "Sir Gawain and the Green Knight"
+        },
+        {
+          "id": 11744,
+          "text": "MacBeth"
+        }
+      ]
+    },
+    {
+      "id": 10616,
+      "text": "If a husband forces his wife to have sex, he can be charged with rape:",
+      "explanation": "True. Any man who forces a woman to have sex, including a woman’s husband, can be charged with rape.",
+      "computed_correct_option_ids": [
+        11751
+      ],
+      "options": [
+        {
+          "id": 11751,
+          "text": "True"
+        },
+        {
+          "id": 11752,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10617,
+      "text": "Who defeated the English at the Battle of Bannockburn in 1314?",
+      "explanation": "In 1314 the Scottish, led byRobert the Bruce, defeated the English at the Battle of Bannockburn.",
+      "computed_correct_option_ids": [
+        11761
+      ],
+      "options": [
+        {
+          "id": 11761,
+          "text": "Robert the Bruce"
+        },
+        {
+          "id": 11762,
+          "text": "King Edward I"
+        },
+        {
+          "id": 11763,
+          "text": "Admiral Nelson"
+        },
+        {
+          "id": 11764,
+          "text": "The Normans"
+        }
+      ]
+    },
+    {
+      "id": 10618,
+      "text": "In the UK, owners are responsible for keeping their dog under control and for cleaning up after the animal in public places:",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11771
+      ],
+      "options": [
+        {
+          "id": 11771,
+          "text": "True"
+        },
+        {
+          "id": 11772,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10619,
+      "text": "How long did the Hundred Years War fought between England and France last for?",
+      "explanation": "English kings fought a long war with France, called the Hundred Years War (even though it actually lasted116 years).",
+      "computed_correct_option_ids": [
+        11784
+      ],
+      "options": [
+        {
+          "id": 11781,
+          "text": "100 years"
+        },
+        {
+          "id": 11782,
+          "text": "101 years"
+        },
+        {
+          "id": 11783,
+          "text": "115 years"
+        },
+        {
+          "id": 11784,
+          "text": "116 years"
+        }
+      ]
+    },
+    {
+      "id": 10620,
+      "text": "When did Gordon Brown take over as Prime Minister from his predecessor Tony Blair?",
+      "explanation": "Gordon Brown took over as Prime Minister from Tony Blairin 2007.",
+      "computed_correct_option_ids": [
+        11791
+      ],
+      "options": [
+        {
+          "id": 11791,
+          "text": "In 2007"
+        },
+        {
+          "id": 11792,
+          "text": "In 2008"
+        },
+        {
+          "id": 11793,
+          "text": "In 2009"
+        },
+        {
+          "id": 11794,
+          "text": "In 2010"
+        }
+      ]
+    },
+    {
+      "id": 10621,
+      "text": "The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in French.",
+      "explanation": "False. The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic.",
+      "computed_correct_option_ids": [
+        11802
+      ],
+      "options": [
+        {
+          "id": 11801,
+          "text": "True"
+        },
+        {
+          "id": 11802,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10622,
+      "text": "Where in England was one of the Anglo-Saxon kings buried with treasure and armour?",
+      "explanation": "The burial place of one of the Anglo-Saxon kings was atSutton Hoo in modern Suffolk.",
+      "computed_correct_option_ids": [
+        11812
+      ],
+      "options": [
+        {
+          "id": 11811,
+          "text": "Maiden Castle, Dorset"
+        },
+        {
+          "id": 11812,
+          "text": "Sutton Hoo, Suffolk"
+        },
+        {
+          "id": 11813,
+          "text": "Conwy Castle, Wales"
+        },
+        {
+          "id": 11814,
+          "text": "The Tower of London"
+        }
+      ]
+    },
+    {
+      "id": 10623,
+      "text": "Which British writer wrote satirical novels including Brideshead Revisited?",
+      "explanation": "Evelyn Waughwrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited.",
+      "computed_correct_option_ids": [
+        11821
+      ],
+      "options": [
+        {
+          "id": 11821,
+          "text": "Evelyn Waugh"
+        },
+        {
+          "id": 11822,
+          "text": "Sir Arthur Conan Doyle"
+        },
+        {
+          "id": 11823,
+          "text": "Sir Kingsley Amis"
+        },
+        {
+          "id": 11824,
+          "text": "Thomas Hardy"
+        }
+      ]
+    },
+    {
+      "id": 10624,
+      "text": "Where is the best preserved prehistoric village in northern Europe located?",
+      "explanation": "Skara Brae onOrkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe.",
+      "computed_correct_option_ids": [
+        11833
+      ],
+      "options": [
+        {
+          "id": 11831,
+          "text": "Cardiff, Wales"
+        },
+        {
+          "id": 11832,
+          "text": "Edinburgh, the capital of the Scotland"
+        },
+        {
+          "id": 11833,
+          "text": "Orkney, off the north coast of Scotland"
+        },
+        {
+          "id": 11834,
+          "text": "The Isle of Wight"
+        }
+      ]
+    }
+  ]
+}

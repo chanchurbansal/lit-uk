@@ -1,0 +1,584 @@
+{
+  "id": 365,
+  "name": "Life in the UK Test 7",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 8,
+      "text": "Which flower is associated with England?",
+      "explanation": "A rose is the flower associated with England.",
+      "computed_correct_option_ids": [
+        27
+      ],
+      "options": [
+        {
+          "id": 27,
+          "text": "Rose"
+        },
+        {
+          "id": 30,
+          "text": "Shamrock"
+        },
+        {
+          "id": 29,
+          "text": "Thistle"
+        },
+        {
+          "id": 28,
+          "text": "Daffodil"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Who was the first Briton to win the Olympic gold medal in the 10,000 meters?",
+      "explanation": "Mo Farah was the first British runner to win the gold medal in the 10 km.",
+      "computed_correct_option_ids": [
+        55
+      ],
+      "options": [
+        {
+          "id": 55,
+          "text": "Mo Farah"
+        },
+        {
+          "id": 58,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 57,
+          "text": "Bradley Wiggins"
+        },
+        {
+          "id": 56,
+          "text": "David Weir"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "text": "How many American colonies declared their independence in 1776?",
+      "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
+      "computed_correct_option_ids": [
+        425
+      ],
+      "options": [
+        {
+          "id": 427,
+          "text": "7"
+        },
+        {
+          "id": 428,
+          "text": "5"
+        },
+        {
+          "id": 425,
+          "text": "13"
+        },
+        {
+          "id": 426,
+          "text": "17"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "text": "When is St Patrick's day?",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        925
+      ],
+      "options": [
+        {
+          "id": 928,
+          "text": "30th of November"
+        },
+        {
+          "id": 925,
+          "text": "17th of March"
+        },
+        {
+          "id": 926,
+          "text": "1st of March"
+        },
+        {
+          "id": 927,
+          "text": "23rd of April"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "text": "What university did Isaac Newton attend?",
+      "explanation": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University. He became an important figure in the field. His most famous published work was Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), which showed how gravity applied to the whole universe.",
+      "computed_correct_option_ids": [
+        1073
+      ],
+      "options": [
+        {
+          "id": 1076,
+          "text": "London State University"
+        },
+        {
+          "id": 1073,
+          "text": "Cambridge"
+        },
+        {
+          "id": 1074,
+          "text": "Oxford"
+        },
+        {
+          "id": 1075,
+          "text": "Warwick"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "text": "National Insurance is needed if you wish to work in the UK",
+      "explanation": "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
+      "computed_correct_option_ids": [
+        1511
+      ],
+      "options": [
+        {
+          "id": 1512,
+          "text": "False"
+        },
+        {
+          "id": 1511,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "text": "What can be done to protect a person from being forced into a marriage, or to protect a person in a forced marriage?",
+      "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011.",
+      "computed_correct_option_ids": [
+        2073
+      ],
+      "options": [
+        {
+          "id": 2073,
+          "text": "Court orders can be obtained by a potential victim or someone acting for them"
+        },
+        {
+          "id": 2072,
+          "text": "Ask the priest to verify the identities"
+        },
+        {
+          "id": 2071,
+          "text": "Check the age of both people to make sure they are over 18"
+        },
+        {
+          "id": 2074,
+          "text": "Check the age of both people to make sure they are over 25"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "text": "What can the Scottish Parliament do?",
+      "explanation": "The Scottish Parliament can pass laws for Scotland on all matters which are not specifically reserved to the UK Parliament. The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning and additional tax-raising powers.",
+      "computed_correct_option_ids": [
+        2100
+      ],
+      "options": [
+        {
+          "id": 2099,
+          "text": "May pass laws on anything in Scotland"
+        },
+        {
+          "id": 2098,
+          "text": "May pass laws on general economic policy"
+        },
+        {
+          "id": 2097,
+          "text": "May pass laws on foreign and defence affairs"
+        },
+        {
+          "id": 2100,
+          "text": "May pass legislation on anything not specifically reserved to the UK Parliament"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "text": "Who designed the new St Paul's?",
+      "explanation": "In 1666, a great fire destroyed much of the city, including many churches and St Paul's Cathedral. London was rebuilt with a new St Paul's, which was designed by a famous architect, Sir Christopher Wren.",
+      "computed_correct_option_ids": [
+        2107
+      ],
+      "options": [
+        {
+          "id": 2107,
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": 2109,
+          "text": "Robert Adam"
+        },
+        {
+          "id": 2110,
+          "text": "Sir Edwin Lutyens"
+        },
+        {
+          "id": 2108,
+          "text": "Gertrude Jekyll"
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "text": "Where are the more serious civil cases dealt with in Scotland?",
+      "explanation": "More serious civil cases - for example, when a large amount of compensation is being claimed - are dealt with in the High Court in England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh.",
+      "computed_correct_option_ids": [
+        2262
+      ],
+      "options": [
+        {
+          "id": 2262,
+          "text": "Court of Session in Edinburgh"
+        },
+        {
+          "id": 2263,
+          "text": "High Court"
+        },
+        {
+          "id": 2264,
+          "text": "Peace Courts"
+        },
+        {
+          "id": 2261,
+          "text": "Sheriff Court"
+        }
+      ]
+    },
+    {
+      "id": 637,
+      "text": "St George is the national saint of Northern Ireland",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        2400
+      ],
+      "options": [
+        {
+          "id": 2400,
+          "text": "False"
+        },
+        {
+          "id": 2399,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "text": "What is the name of the building where the Northern Irish Assembly meets?",
+      "explanation": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly at Stormont, in Belfast.",
+      "computed_correct_option_ids": [
+        2575
+      ],
+      "options": [
+        {
+          "id": 2577,
+          "text": "Holyrood"
+        },
+        {
+          "id": 2576,
+          "text": "Senedd"
+        },
+        {
+          "id": 2575,
+          "text": "Stormont"
+        },
+        {
+          "id": 2578,
+          "text": "Westminster"
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "text": "When was the Emancipation Act signed? It abolished slavery throughout the British Empire",
+      "explanation": "Along with other abolitionists (people who supported the abolition of slavery), William Wilberforce succeeded in turning public opinion against the slave trade. In 1807, it became illegal to trade slaves in British ships or from British ports, and in 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+      "computed_correct_option_ids": [
+        2697
+      ],
+      "options": [
+        {
+          "id": 2695,
+          "text": "1807"
+        },
+        {
+          "id": 2698,
+          "text": "1837"
+        },
+        {
+          "id": 2697,
+          "text": "1833"
+        },
+        {
+          "id": 2696,
+          "text": "1817"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "text": "Magna Carta is Latin for what?",
+      "explanation": "In Latin Magna Carta means the Great Charter",
+      "computed_correct_option_ids": [
+        2841
+      ],
+      "options": [
+        {
+          "id": 2841,
+          "text": "The Great Charter"
+        },
+        {
+          "id": 2844,
+          "text": "The Bible law"
+        },
+        {
+          "id": 2843,
+          "text": "The act of government"
+        },
+        {
+          "id": 2842,
+          "text": "The British Agreement"
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "text": "What were the Irish people who favoured complete independence from the UK known as?",
+      "explanation": "The Irish Nationalist movement had grown strongly through the 19th century. Some, such as the Fenians, favoured complete independence.",
+      "computed_correct_option_ids": [
+        3007
+      ],
+      "options": [
+        {
+          "id": 3009,
+          "text": "Roundheads"
+        },
+        {
+          "id": 3007,
+          "text": "Fenians"
+        },
+        {
+          "id": 3010,
+          "text": "People of Ireland"
+        },
+        {
+          "id": 3008,
+          "text": "Cavaliers"
+        }
+      ]
+    },
+    {
+      "id": 822,
+      "text": "Which religion did the Huguenots follow?",
+      "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts.",
+      "computed_correct_option_ids": [
+        3023
+      ],
+      "options": [
+        {
+          "id": 3023,
+          "text": "Protestantism"
+        },
+        {
+          "id": 3024,
+          "text": "Russian Orthodox"
+        },
+        {
+          "id": 3025,
+          "text": "Buddhism"
+        },
+        {
+          "id": 3026,
+          "text": "Catholicism"
+        }
+      ]
+    },
+    {
+      "id": 842,
+      "text": "Robert Browning, William Blake and Lord Byron were all famous poets",
+      "explanation": "The statement is true",
+      "computed_correct_option_ids": [
+        3097
+      ],
+      "options": [
+        {
+          "id": 3097,
+          "text": "True"
+        },
+        {
+          "id": 3098,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 860,
+      "text": "Which event is celebrated on the 5th of November each year?",
+      "explanation": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in 1605, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        3158
+      ],
+      "options": [
+        {
+          "id": 3158,
+          "text": "A plot to blow up the Houses of Parliament in 1605"
+        },
+        {
+          "id": 3157,
+          "text": "The end of the Second World War"
+        },
+        {
+          "id": 3160,
+          "text": "The end of the First World War"
+        },
+        {
+          "id": 3159,
+          "text": "The defeat of the Spanish Armada"
+        }
+      ]
+    },
+    {
+      "id": 909,
+      "text": "The jury decides on the penalty if the defendant is found guilty",
+      "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of 'guilty' or 'not guilty' based on what they have heard. In Scotland, a third verdict of 'not proven' is also possible. If the jury finds a defendant guilty, the judge decides on the penalty.",
+      "computed_correct_option_ids": [
+        3324
+      ],
+      "options": [
+        {
+          "id": 3324,
+          "text": "False"
+        },
+        {
+          "id": 3323,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "text": "It is illegal for shops and businesses to not accept the banknotes of Northern Ireland and Scotland",
+      "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them.",
+      "computed_correct_option_ids": [
+        3362
+      ],
+      "options": [
+        {
+          "id": 3362,
+          "text": "False"
+        },
+        {
+          "id": 3361,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 934,
+      "text": "The role and membership of the House of Lords has changed over the last 50 years",
+      "explanation": "The role and membership of the House of Lords has changed over the last 50 years.",
+      "computed_correct_option_ids": [
+        3403
+      ],
+      "options": [
+        {
+          "id": 3403,
+          "text": "True"
+        },
+        {
+          "id": 3404,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 1032,
+      "text": "Which TWO religions celebrate Diwali?",
+      "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
+      "computed_correct_option_ids": [
+        3733,
+        3734
+      ],
+      "options": [
+        {
+          "id": 3733,
+          "text": "Hindu"
+        },
+        {
+          "id": 3736,
+          "text": "Islam"
+        },
+        {
+          "id": 3735,
+          "text": "Buddhism"
+        },
+        {
+          "id": 3734,
+          "text": "Sikh"
+        }
+      ]
+    },
+    {
+      "id": 1061,
+      "text": "What is the capital of Wales?",
+      "explanation": "Cardiff is the capital of Wales.",
+      "computed_correct_option_ids": [
+        3841
+      ],
+      "options": [
+        {
+          "id": 3844,
+          "text": "Belfast"
+        },
+        {
+          "id": 3843,
+          "text": "London"
+        },
+        {
+          "id": 3842,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 3841,
+          "text": "Cardiff"
+        }
+      ]
+    },
+    {
+      "id": 1078,
+      "text": "Who is the heir to the throne?",
+      "explanation": "The King's eldest son, Prince William (the Prince of Wales), is the heir to the throne.",
+      "computed_correct_option_ids": [
+        3912
+      ],
+      "options": [
+        {
+          "id": 3909,
+          "text": "Prince George"
+        },
+        {
+          "id": 3910,
+          "text": "Prince Philip"
+        },
+        {
+          "id": 3911,
+          "text": "Prince Harry"
+        },
+        {
+          "id": 3912,
+          "text": "Prince William"
+        }
+      ]
+    }
+  ]
+}

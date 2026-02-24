@@ -1,0 +1,609 @@
+{
+  "id": 488,
+  "name": "British Citizenship Test 3",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 10301,
+      "text": "Which of the following is a fundamental principle of British life?",
+      "explanation": "Individual libertyis the correct answer.",
+      "computed_correct_option_ids": [
+        11303
+      ],
+      "options": [
+        {
+          "id": 11301,
+          "text": "Communism"
+        },
+        {
+          "id": 11302,
+          "text": "Intolerance"
+        },
+        {
+          "id": 11303,
+          "text": "Individual liberty"
+        },
+        {
+          "id": 11304,
+          "text": "Inequity"
+        }
+      ]
+    },
+    {
+      "id": 10302,
+      "text": "Wales has its own established church.",
+      "explanation": "False. There is no established Church in Wales or Northern Ireland.",
+      "computed_correct_option_ids": [
+        11312
+      ],
+      "options": [
+        {
+          "id": 11311,
+          "text": "True"
+        },
+        {
+          "id": 11312,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10303,
+      "text": "How is New Year’s Eve called in Scotland?",
+      "explanation": "In Scotland, the 31st of December (New Year’s Eve) is calledHogmanay.",
+      "computed_correct_option_ids": [
+        11324
+      ],
+      "options": [
+        {
+          "id": 11321,
+          "text": "Vaisakhi"
+        },
+        {
+          "id": 11322,
+          "text": "Hannukah"
+        },
+        {
+          "id": 11323,
+          "text": "Diwali"
+        },
+        {
+          "id": 11324,
+          "text": "Hogmanay"
+        }
+      ]
+    },
+    {
+      "id": 10304,
+      "text": "Why did Henry VIII establish the church of England?",
+      "explanation": "To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the church of England.",
+      "computed_correct_option_ids": [
+        11331
+      ],
+      "options": [
+        {
+          "id": 11331,
+          "text": "Because the Pope didn’t let him divorce his first wife, Catherine of Aragon"
+        },
+        {
+          "id": 11332,
+          "text": "Because the Pope didn’t let him marry Catherine Howard"
+        },
+        {
+          "id": 11333,
+          "text": "Because the Pope wanted England to be a Catholic country"
+        },
+        {
+          "id": 11334,
+          "text": "Because the Pope didn’t let him divorce his wife, Anne of Cleves"
+        }
+      ]
+    },
+    {
+      "id": 10305,
+      "text": "What is the name of the long war that English kings fought with France in the middle ages?",
+      "explanation": "English kings fought a long war with France, calledthe Hundred Years War(even though it actually lasted 116 years).",
+      "computed_correct_option_ids": [
+        11343
+      ],
+      "options": [
+        {
+          "id": 11341,
+          "text": "The Crimean War"
+        },
+        {
+          "id": 11342,
+          "text": "The First World War"
+        },
+        {
+          "id": 11343,
+          "text": "The Hundred Years War"
+        },
+        {
+          "id": 11344,
+          "text": "The Boer War"
+        }
+      ]
+    },
+    {
+      "id": 10306,
+      "text": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+      "explanation": "In 1745 there was another attempt to put a Stuart king back on the throne in place of George I’s son, George II.Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised and army.",
+      "computed_correct_option_ids": [
+        11351
+      ],
+      "options": [
+        {
+          "id": 11351,
+          "text": "Bonnie Prince Charlie"
+        },
+        {
+          "id": 11352,
+          "text": "Robert Burns"
+        },
+        {
+          "id": 11353,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 11354,
+          "text": "Kenneth MacAlpin"
+        }
+      ]
+    },
+    {
+      "id": 10307,
+      "text": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+      "explanation": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify yourlocal police force.",
+      "computed_correct_option_ids": [
+        11362
+      ],
+      "options": [
+        {
+          "id": 11361,
+          "text": "The Home Office"
+        },
+        {
+          "id": 11362,
+          "text": "Your local police force"
+        },
+        {
+          "id": 11363,
+          "text": "Your local MP"
+        },
+        {
+          "id": 11364,
+          "text": "Your family"
+        }
+      ]
+    },
+    {
+      "id": 10308,
+      "text": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+      "explanation": "False. The National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. Therefore,it is optional.",
+      "computed_correct_option_ids": [
+        11371
+      ],
+      "options": [
+        {
+          "id": 11371,
+          "text": "True"
+        },
+        {
+          "id": 11372,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10309,
+      "text": "What is the name of the tour guides that tell visitors stories about the Tower of London’s history?",
+      "explanation": "Tours are given at the Tower of London bythe Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history.",
+      "computed_correct_option_ids": [
+        11384
+      ],
+      "options": [
+        {
+          "id": 11381,
+          "text": "Knights"
+        },
+        {
+          "id": 11382,
+          "text": "Chartists"
+        },
+        {
+          "id": 11383,
+          "text": "Suffragettes"
+        },
+        {
+          "id": 11384,
+          "text": "Beefeaters"
+        }
+      ]
+    },
+    {
+      "id": 10310,
+      "text": "Which two countries developed the Concorde, the world’s only supersonic commercial airliner?",
+      "explanation": "Britain and Francedeveloped the world’s only supersonic commercial airliner, Concorde.",
+      "computed_correct_option_ids": [
+        11392,
+        11394
+      ],
+      "options": [
+        {
+          "id": 11391,
+          "text": "Italy"
+        },
+        {
+          "id": 11392,
+          "text": "Britain"
+        },
+        {
+          "id": 11393,
+          "text": "Germany"
+        },
+        {
+          "id": 11394,
+          "text": "France"
+        }
+      ]
+    },
+    {
+      "id": 10311,
+      "text": "Where is Snowdonia located?",
+      "explanation": "Snowdonia is inWales.",
+      "computed_correct_option_ids": [
+        11402
+      ],
+      "options": [
+        {
+          "id": 11401,
+          "text": "Scotland"
+        },
+        {
+          "id": 11402,
+          "text": "Wales"
+        },
+        {
+          "id": 11403,
+          "text": "England"
+        },
+        {
+          "id": 11404,
+          "text": "Northern Ireland"
+        }
+      ]
+    },
+    {
+      "id": 10312,
+      "text": "Who wrote Sherlock Holmes?",
+      "explanation": "Sir Arthur Conan Doyleis the author of Sherlock Holmes.",
+      "computed_correct_option_ids": [
+        11414
+      ],
+      "options": [
+        {
+          "id": 11411,
+          "text": "Evelyn Waugh"
+        },
+        {
+          "id": 11412,
+          "text": "Sir Kingsley Amis"
+        },
+        {
+          "id": 11413,
+          "text": "Graham Greene"
+        },
+        {
+          "id": 11414,
+          "text": "Sir Arthur Conan Doyle"
+        }
+      ]
+    },
+    {
+      "id": 10313,
+      "text": "Which country was invaded by Germany in 1939?",
+      "explanation": "Germany invadedPolandin 1939.",
+      "computed_correct_option_ids": [
+        11424
+      ],
+      "options": [
+        {
+          "id": 11421,
+          "text": "Austria"
+        },
+        {
+          "id": 11422,
+          "text": "Italy"
+        },
+        {
+          "id": 11423,
+          "text": "Russia"
+        },
+        {
+          "id": 11424,
+          "text": "Poland"
+        }
+      ]
+    },
+    {
+      "id": 10314,
+      "text": "Who is the patron Saint of Wales?",
+      "explanation": "The patron Saint of Wales isSt David.",
+      "computed_correct_option_ids": [
+        11431
+      ],
+      "options": [
+        {
+          "id": 11431,
+          "text": "St David"
+        },
+        {
+          "id": 11432,
+          "text": "St George"
+        },
+        {
+          "id": 11433,
+          "text": "St Patrick"
+        },
+        {
+          "id": 11434,
+          "text": "St Andrew"
+        }
+      ]
+    },
+    {
+      "id": 10315,
+      "text": "Lake District is the largest national park of England.",
+      "explanation": "This statement istrue.",
+      "computed_correct_option_ids": [
+        11442
+      ],
+      "options": [
+        {
+          "id": 11441,
+          "text": "True"
+        },
+        {
+          "id": 11442,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 10316,
+      "text": "What is the name of the area in London where famous theatres are located?",
+      "explanation": "London’s west end, also known as‘Theatreland’, is particularly well known for its theatres.",
+      "computed_correct_option_ids": [
+        11452
+      ],
+      "options": [
+        {
+          "id": 11451,
+          "text": "Soho"
+        },
+        {
+          "id": 11452,
+          "text": "Theatreland"
+        },
+        {
+          "id": 11453,
+          "text": "Westminster"
+        },
+        {
+          "id": 11454,
+          "text": "Hyde Park"
+        }
+      ]
+    },
+    {
+      "id": 10317,
+      "text": "Which two of the following are key roles of school governors?",
+      "explanation": "Governors and school boards have an important part to play in raising school standards. They have three key roles:setting the strategic direction of the school, ensuring accountability andmonitoring and evaluating school performance.",
+      "computed_correct_option_ids": [
+        11462,
+        11463
+      ],
+      "options": [
+        {
+          "id": 11461,
+          "text": "Monitoring student’s behaviour"
+        },
+        {
+          "id": 11462,
+          "text": "Monitoring and evaluating school performance"
+        },
+        {
+          "id": 11463,
+          "text": "Setting the strategic direction of the school"
+        },
+        {
+          "id": 11464,
+          "text": "Giving awards to the best students of the school"
+        }
+      ]
+    },
+    {
+      "id": 10318,
+      "text": "What led the American colonies to want their independence from Britain?",
+      "explanation": "The British government wanted to tax the colonies.",
+      "computed_correct_option_ids": [
+        11473
+      ],
+      "options": [
+        {
+          "id": 11471,
+          "text": "The British government wanted to control their borders"
+        },
+        {
+          "id": 11472,
+          "text": "They were running out of resources"
+        },
+        {
+          "id": 11473,
+          "text": "The British government wanted to tax them"
+        },
+        {
+          "id": 11474,
+          "text": "There were not enough jobs for the local people"
+        }
+      ]
+    },
+    {
+      "id": 10319,
+      "text": "When did the Black Death take place?",
+      "explanation": "In 1348 (Middle Ages)the Black Death came to Britain.",
+      "computed_correct_option_ids": [
+        11483
+      ],
+      "options": [
+        {
+          "id": 11481,
+          "text": "The Golden Age"
+        },
+        {
+          "id": 11482,
+          "text": "The Stone Age"
+        },
+        {
+          "id": 11483,
+          "text": "The Middle Ages"
+        },
+        {
+          "id": 11484,
+          "text": "The Iron Age"
+        }
+      ]
+    },
+    {
+      "id": 10320,
+      "text": "Who was the leader of the suffragettes, the group that campaigned for women’s rights to vote?",
+      "explanation": "Emmeline Pankhurstwas the leader of the suffragettes.",
+      "computed_correct_option_ids": [
+        11494
+      ],
+      "options": [
+        {
+          "id": 11491,
+          "text": "Queen Victoria"
+        },
+        {
+          "id": 11492,
+          "text": "Oliver Cromwell"
+        },
+        {
+          "id": 11493,
+          "text": "Florence Nightingale"
+        },
+        {
+          "id": 11494,
+          "text": "Emmeline Pankhurst"
+        }
+      ]
+    },
+    {
+      "id": 10321,
+      "text": "Cardiff is the capital city of which country?",
+      "explanation": "The capital city ofWalesis Cardiff.",
+      "computed_correct_option_ids": [
+        11504
+      ],
+      "options": [
+        {
+          "id": 11501,
+          "text": "Scotland"
+        },
+        {
+          "id": 11502,
+          "text": "Northern Ireland"
+        },
+        {
+          "id": 11503,
+          "text": "Ireland"
+        },
+        {
+          "id": 11504,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 10322,
+      "text": "During the Great Depression in the 1930s which industry was badly affected?",
+      "explanation": "During the ‘Great Depression’ in the 1930s the traditional heavy industries such asshipbuildingwere badly affected.",
+      "computed_correct_option_ids": [
+        11512
+      ],
+      "options": [
+        {
+          "id": 11511,
+          "text": "Housing construction"
+        },
+        {
+          "id": 11512,
+          "text": "Shipbuilding"
+        },
+        {
+          "id": 11513,
+          "text": "Automobile"
+        },
+        {
+          "id": 11514,
+          "text": "Aviation"
+        }
+      ]
+    },
+    {
+      "id": 10323,
+      "text": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+      "explanation": "Sir Roger Bannisterwas the first man in the world to run a mile in under four minutes, in 1954.",
+      "computed_correct_option_ids": [
+        11522
+      ],
+      "options": [
+        {
+          "id": 11521,
+          "text": "Sir Chris Hoy"
+        },
+        {
+          "id": 11522,
+          "text": "Sir Roger Bannister"
+        },
+        {
+          "id": 11523,
+          "text": "David Weir"
+        },
+        {
+          "id": 11524,
+          "text": "Mo Farah"
+        }
+      ]
+    },
+    {
+      "id": 10324,
+      "text": "Which festival celebrates the end of Ramadan, when Muslims have fasted for a month?",
+      "explanation": "Eid al-Fitrcelebrates the end of Ramadan, when Muslims have fasted for a month.",
+      "computed_correct_option_ids": [
+        11534
+      ],
+      "options": [
+        {
+          "id": 11531,
+          "text": "Hannukah"
+        },
+        {
+          "id": 11532,
+          "text": "Vaisakhi"
+        },
+        {
+          "id": 11533,
+          "text": "Eid ul Adha"
+        },
+        {
+          "id": 11534,
+          "text": "Eid al-Fitr"
+        }
+      ]
+    }
+  ]
+}

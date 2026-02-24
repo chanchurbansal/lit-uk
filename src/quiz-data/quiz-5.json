@@ -1,0 +1,567 @@
+{
+  "id": 363,
+  "name": "Life in the UK Test 5",
+  "passmark": 18,
+  "questions": [
+    {
+      "id": 25,
+      "text": "Hadrian's Wall is a popular UNESCO World Heritage Site",
+      "explanation": "Parts of Hadrian's Wall, including the forts of Housesteads and Vindolanda, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Education, Scientific and Cultural Organization) World Heritage Site.",
+      "computed_correct_option_ids": [
+        95
+      ],
+      "options": [
+        {
+          "id": 95,
+          "text": "True"
+        },
+        {
+          "id": 96,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Who mapped the coast of Australia?",
+      "explanation": "Captain James Cook mapped the coast of Australia.",
+      "computed_correct_option_ids": [
+        117
+      ],
+      "options": [
+        {
+          "id": 119,
+          "text": "Sir Francis Drake"
+        },
+        {
+          "id": 120,
+          "text": "Sake Dean Mahomet"
+        },
+        {
+          "id": 117,
+          "text": "James Cook"
+        },
+        {
+          "id": 118,
+          "text": "Admiral Nelson"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "text": "When did English become the official language for documents?",
+      "explanation": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
+      "computed_correct_option_ids": [
+        505
+      ],
+      "options": [
+        {
+          "id": 506,
+          "text": "1451"
+        },
+        {
+          "id": 508,
+          "text": "1554"
+        },
+        {
+          "id": 505,
+          "text": "1400"
+        },
+        {
+          "id": 507,
+          "text": "1502"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "text": "What percentage of the total UK population lives in Wales?",
+      "explanation": "UK population is very unequally distributed over the four parts of the UK. Wales makes around 5%.",
+      "computed_correct_option_ids": [
+        541
+      ],
+      "options": [
+        {
+          "id": 544,
+          "text": "1%"
+        },
+        {
+          "id": 541,
+          "text": "5%"
+        },
+        {
+          "id": 542,
+          "text": "10%"
+        },
+        {
+          "id": 543,
+          "text": "20%"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "text": "Who developed a radar?",
+      "explanation": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
+      "computed_correct_option_ids": [
+        841
+      ],
+      "options": [
+        {
+          "id": 844,
+          "text": "James Goodfellow"
+        },
+        {
+          "id": 841,
+          "text": "Sir Robert Watson-Watt"
+        },
+        {
+          "id": 842,
+          "text": "Patrick Steptoe"
+        },
+        {
+          "id": 843,
+          "text": "Mary Peters"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "text": "What is the capital of Northern Ireland?",
+      "explanation": "Belfast is the capital city of Northern Ireland.",
+      "computed_correct_option_ids": [
+        1029
+      ],
+      "options": [
+        {
+          "id": 1031,
+          "text": "Edinburgh"
+        },
+        {
+          "id": 1032,
+          "text": "Cardiff"
+        },
+        {
+          "id": 1029,
+          "text": "Belfast"
+        },
+        {
+          "id": 1030,
+          "text": "London"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "text": "As per 2021 survey, what percentage of Wales and England identified as Muslim?",
+      "explanation": "Islam is the second largest religion in the United Kingdom. The 2021 Census results released so far show a population of 3,868,133 (6.5%) in England and Wales (from a total sampled 60 million). 46% of people identified themselves as Christian. Much smaller proportions identified themselves as Hindu (2%), Sikh (1%), Jewish or Buddhist (both around 0.5%), 0.5% of people followed another religion and 37% stated not to follow any religion.",
+      "computed_correct_option_ids": [
+        1193
+      ],
+      "options": [
+        {
+          "id": 1195,
+          "text": "11%"
+        },
+        {
+          "id": 1196,
+          "text": "16%"
+        },
+        {
+          "id": 1193,
+          "text": "6%"
+        },
+        {
+          "id": 1194,
+          "text": "2%"
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "text": "The Civil War in 1642 split the country into which two groups?",
+      "explanation": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+      "computed_correct_option_ids": [
+        1297
+      ],
+      "options": [
+        {
+          "id": 1300,
+          "text": "The landowners and the slaves"
+        },
+        {
+          "id": 1299,
+          "text": "House of Commons and House of Lords"
+        },
+        {
+          "id": 1298,
+          "text": "House of York and House of Lancaster"
+        },
+        {
+          "id": 1297,
+          "text": "The Roundheads and the Cavaliers"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "text": "The small claims procedure in Northern Ireland is used for claims of less than what amount?",
+      "explanation": "The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales; £5,000 in Scotland and £5,000 in Northern Ireland (Changed from £3000).",
+      "computed_correct_option_ids": [
+        1520
+      ],
+      "options": [
+        {
+          "id": 1520,
+          "text": "£5,000"
+        },
+        {
+          "id": 1517,
+          "text": "£10,000"
+        },
+        {
+          "id": 1518,
+          "text": "£20,000"
+        },
+        {
+          "id": 1519,
+          "text": "£1,000"
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "text": "Where was Emmeline Pankhurst born?",
+      "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women.",
+      "computed_correct_option_ids": [
+        1546
+      ],
+      "options": [
+        {
+          "id": 1547,
+          "text": "Glasgow"
+        },
+        {
+          "id": 1545,
+          "text": "London"
+        },
+        {
+          "id": 1546,
+          "text": "Manchester"
+        },
+        {
+          "id": 1548,
+          "text": "Aberdeen"
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "text": "Which of these was said by Winston Churchill?",
+      "explanation": "All of these are examples of his speeches.",
+      "computed_correct_option_ids": [
+        1828
+      ],
+      "options": [
+        {
+          "id": 1827,
+          "text": "I have nothing to offer but blood, toil, tears and sweat' only"
+        },
+        {
+          "id": 1828,
+          "text": "All of the these"
+        },
+        {
+          "id": 1826,
+          "text": "We shall never surrender' only"
+        },
+        {
+          "id": 1825,
+          "text": "Never in the field of human conflict was so much owed by so many to so few' only"
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "text": "Where is Snowdonia located?",
+      "explanation": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
+      "computed_correct_option_ids": [
+        1843
+      ],
+      "options": [
+        {
+          "id": 1844,
+          "text": "West England"
+        },
+        {
+          "id": 1846,
+          "text": "Scotland"
+        },
+        {
+          "id": 1845,
+          "text": "North England"
+        },
+        {
+          "id": 1843,
+          "text": "Wales"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "text": "A 60 second silence is observed on the Remembrance Day",
+      "explanation": "Remembrance Day, 11 November, commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
+      "computed_correct_option_ids": [
+        1980
+      ],
+      "options": [
+        {
+          "id": 1979,
+          "text": "True"
+        },
+        {
+          "id": 1980,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "text": "The European Convention on Human Rights is incorporated into UK law",
+      "explanation": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law. The government, public bodies and the courts must follow the principles of the Convention.",
+      "computed_correct_option_ids": [
+        2001
+      ],
+      "options": [
+        {
+          "id": 2002,
+          "text": "False"
+        },
+        {
+          "id": 2001,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "text": "What should all new citizens do as part of the citizenship ceremony?",
+      "explanation": "New citizens swear or affirm loyalty to the Queen as part of the citizenship ceremony.",
+      "computed_correct_option_ids": [
+        2003
+      ],
+      "options": [
+        {
+          "id": 2003,
+          "text": "Swear or affirm loyalty to the King (or Queen)"
+        },
+        {
+          "id": 2005,
+          "text": "Take ceremonial pictures"
+        },
+        {
+          "id": 2006,
+          "text": "Prepare and make an individual speech during the ceremony"
+        },
+        {
+          "id": 2004,
+          "text": "Sign passports and official citizenship certificates"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "text": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni. What is it known as now?",
+      "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
+      "computed_correct_option_ids": [
+        2038
+      ],
+      "options": [
+        {
+          "id": 2037,
+          "text": "Northern England"
+        },
+        {
+          "id": 2040,
+          "text": "Southern England"
+        },
+        {
+          "id": 2039,
+          "text": "Western England"
+        },
+        {
+          "id": 2038,
+          "text": "Eastern England"
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "text": "Anyone who is on the electoral register and is aged 18-75 can be asked to serve on a jury",
+      "explanation": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 75 can be asked to do this. The age limit has been raised from 70 to 75 in Wales and England in 2016.",
+      "computed_correct_option_ids": [
+        2821
+      ],
+      "options": [
+        {
+          "id": 2821,
+          "text": "True"
+        },
+        {
+          "id": 2822,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "text": "The Channel Islands are self-governing",
+      "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'.",
+      "computed_correct_option_ids": [
+        2913
+      ],
+      "options": [
+        {
+          "id": 2914,
+          "text": "False"
+        },
+        {
+          "id": 2913,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "text": "It is illegal for any person under the age of 18 to buy a Lottery ticket",
+      "explanation": "There is a National Lottery for which draws are made every week. You can enter by buying a ticket or a scratch card. People under 18 (Changed in 2021 from 16 to 18) are not allowed to participate in the National Lottery.",
+      "computed_correct_option_ids": [
+        3259
+      ],
+      "options": [
+        {
+          "id": 3259,
+          "text": "True"
+        },
+        {
+          "id": 3260,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "text": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint",
+      "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint. Each saint has a special day: 1 March: St David's Day, Wales;17 March: St Patrick's Day, Northern Ireland; 23 April: St George's Day, England; 30 November: St Andrew's Day, Scotland.",
+      "computed_correct_option_ids": [
+        3447
+      ],
+      "options": [
+        {
+          "id": 3447,
+          "text": "True"
+        },
+        {
+          "id": 3448,
+          "text": "False"
+        }
+      ]
+    },
+    {
+      "id": 952,
+      "text": "The Commonwealth can suspend any of its members",
+      "explanation": "Membership is voluntary. The Commonwealth has no power over its members, although it can suspend membership.",
+      "computed_correct_option_ids": [
+        3459
+      ],
+      "options": [
+        {
+          "id": 3460,
+          "text": "False"
+        },
+        {
+          "id": 3459,
+          "text": "True"
+        }
+      ]
+    },
+    {
+      "id": 1052,
+      "text": "The Proms is an eight-week summer season of what?",
+      "explanation": "The Proms is an eight-week summer season of orchestral (or solo instrumental) classical music that takes place in various venues, including the Royal Albert Hall in London. It has been organised by the British Broadcasting Corporation (BBC) since 1927. The Last Night of the Proms is the most well-known concert and (along with others in the series) is broadcast on television.",
+      "computed_correct_option_ids": [
+        3807
+      ],
+      "options": [
+        {
+          "id": 3809,
+          "text": "Heavy metal music"
+        },
+        {
+          "id": 3807,
+          "text": "Orchestral classical music"
+        },
+        {
+          "id": 3810,
+          "text": "Underground Hip-Hop music"
+        },
+        {
+          "id": 3808,
+          "text": "Classic Pop music"
+        }
+      ]
+    },
+    {
+      "id": 1058,
+      "text": "Who built the Tower of London?",
+      "explanation": "The Tower of London was built by William the Conqueror after he became king in 1066.",
+      "computed_correct_option_ids": [
+        3829
+      ],
+      "options": [
+        {
+          "id": 3831,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 3830,
+          "text": "Henry VII"
+        },
+        {
+          "id": 3829,
+          "text": "William the Conqueror"
+        },
+        {
+          "id": 3832,
+          "text": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": 1065,
+      "text": "Who established the Church of England?",
+      "explanation": "To divorce his first wife, Henry VIII needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new Church, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
+      "computed_correct_option_ids": [
+        3857
+      ],
+      "options": [
+        {
+          "id": 3858,
+          "text": "Henry VII"
+        },
+        {
+          "id": 3857,
+          "text": "Henry VIII"
+        },
+        {
+          "id": 3859,
+          "text": "The Pope"
+        },
+        {
+          "id": 3860,
+          "text": "St George"
+        }
+      ]
+    }
+  ]
+}
