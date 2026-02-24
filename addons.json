@@ -1,19 +1,7 @@
 {
   "version": "1",
-  "home_assistant_minimum_version": "2023.1",
-  "homeassistant.io_url": "https://www.home-assistant.io",
-  "repository_url": "https://github.com/chanchurbansal/lit-uk",
-  "documentation_url": "https://github.com/chanchurbansal/lit-uk/blob/main/addon/README.md",
-  "issues_url": "https://github.com/chanchurbansal/lit-uk/issues",
-  "addons": {
-    "britizen_quiz": {
-      "name": "Britizen Quiz Application",
-      "description": "Life in the UK practice tests with progress tracking and server-side database",
-      "url": "https://github.com/chanchurbansal/lit-uk/tree/main/addon",
-      "version": "1.0.0",
-      "slug": "britizen-quiz",
-      "image": "ghcr.io/chanchurbansal/britizen-quiz-{arch}"
-    }
-  }
+  "home_assistant_minimum_version": "2023.1.0"
 }
+
+
 
