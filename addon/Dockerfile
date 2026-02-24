@@ -9,8 +9,8 @@ WORKDIR /app
 # Copy package files
 COPY rootfs/app/package.json .
 
-# Install dependencies
-RUN npm ci --omit=dev
+# Install dependencies (production only)
+RUN npm ci --only=prod
 
 # Copy application
 COPY rootfs/app/ .
