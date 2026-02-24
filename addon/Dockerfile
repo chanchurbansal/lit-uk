@@ -1,16 +1,24 @@
 ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM ${BUILD_FROM}
 
+# Install Node.js and npm
 RUN apk add --no-cache nodejs npm
 
 WORKDIR /app
 
+# Copy package files
 COPY rootfs/app/package.json .
+
+# Install dependencies
 RUN npm ci --omit=dev
 
+# Copy application
 COPY rootfs/app/ .
 
-RUN addgroup -g 1000 app && adduser -D -u 1000 -G app app && chown -R app:app /app
+# Create non-root user
+RUN addgroup -g 1000 app && \
+    adduser -D -u 1000 -G app app && \
+    chown -R app:app /app
 
 USER app
 
