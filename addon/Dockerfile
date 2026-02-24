@@ -8,9 +8,10 @@ WORKDIR /app
 
 # Copy package files
 COPY rootfs/app/package.json .
+COPY rootfs/app/package-lock.json .
 
 # Install dependencies (production only)
-RUN npm ci --only=prod
+RUN npm ci --omit=dev
 
 # Copy application
 COPY rootfs/app/ .
