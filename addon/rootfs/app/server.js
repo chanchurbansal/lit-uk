@@ -14,7 +14,8 @@ app.use(bodyParser.json());
 app.use(express.static('.'));
 
 // Initialize SQLite database
-const dbPath = process.env.DB_PATH || './quiz_database.db';
+// Support DATABASE_PATH for Home Assistant, fallback to DB_PATH for backward compatibility
+const dbPath = process.env.DATABASE_PATH || process.env.DB_PATH || './quiz_database.db';
 console.log(`Attempting to open database at: ${dbPath}`);
 console.log(`Current working directory: ${process.cwd()}`);
 
