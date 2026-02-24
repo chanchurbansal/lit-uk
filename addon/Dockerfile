@@ -16,17 +16,18 @@ RUN npm ci --omit=dev
 # Copy application
 COPY rootfs/app/ .
 
-# Create non-root user
+# Create non-root user but don't switch to it yet
 RUN addgroup -g 1000 app && \
     adduser -D -u 1000 -G app app && \
     chown -R app:app /app
 
-USER app
-
 EXPOSE 3000
 
-HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
-    CMD node -e "require('http').get('http://localhost:3000', (r) => {if (r.statusCode !== 200) throw new Error(r.statusCode)})"
+# Copy the run script
+COPY run.sh /app/run.sh
+RUN chmod +x /app/run.sh
 
-CMD ["npm", "start"]
+# Use s6-overlay init system (don't use USER directive)
+ENTRYPOINT ["/init"]
+CMD ["/app/run.sh"]
 

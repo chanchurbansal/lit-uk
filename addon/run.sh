@@ -7,5 +7,7 @@ export NODE_ENV="production"
 mkdir -p /config/britizen-quiz
 
 cd /app
-exec npm start
+
+# Run as non-root user using su-exec (compatible with s6-overlay)
+exec su-exec app npm start
 
