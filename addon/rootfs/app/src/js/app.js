@@ -274,11 +274,12 @@ class ProgressBar {
 
 // Question Display Component
 class QuestionDisplay {
-    constructor(container, stateManager, onOptionSelect, onNext) {
+    constructor(container, stateManager, onOptionSelect, onNext, onPrevious) {
         this.container = container;
         this.stateManager = stateManager;
         this.onOptionSelect = onOptionSelect;
         this.onNext = onNext;
+        this.onPrevious = onPrevious;
     }
 
     /**
@@ -312,6 +313,9 @@ class QuestionDisplay {
                             ${this.renderOptions(question.options, isMultipleChoice)}
                         </div>
                         <div class="question-actions">
+                            ${this.stateManager.canGoPrevious() ? `
+                                <button id="previous-button" class="btn-secondary">← Previous Question</button>
+                            ` : ''}
                             <button id="next-button" class="btn-primary" ${!hasAnswer ? 'disabled' : ''}>
                                 ${questionNumber === totalQuestions ? 'Finish Quiz' : 'Next Question'}
                             </button>
@@ -373,6 +377,14 @@ class QuestionDisplay {
                 }
             });
         });
+
+        // Previous button
+        const previousButton = this.container.querySelector('#previous-button');
+        if (previousButton) {
+            previousButton.addEventListener('click', () => {
+                this.handlePrevious();
+            });
+        }
 
         // Next button
         const nextButton = this.container.querySelector('#next-button');
@@ -443,6 +455,15 @@ class QuestionDisplay {
     handleNext() {
         if (this.stateManager.hasCurrentAnswer()) {
             this.onNext();
+        }
+    }
+
+    /**
+     * Handle previous button click
+     */
+    handlePrevious() {
+        if (this.stateManager.canGoPrevious() && this.onPrevious) {
+            this.onPrevious();
         }
     }
 
@@ -1187,7 +1208,8 @@ const app = {
             this.container,
             this.stateManager,
             (optionId) => this.handleOptionSelection(optionId),
-            () => this.handleNextQuestion()
+            () => this.handleNextQuestion(),
+            () => this.handlePreviousQuestion()
         );
         this.currentComponent.render();
     },
@@ -1205,6 +1227,14 @@ const app = {
             await this.showResults();
         } else {
             this.stateManager.nextQuestion();
+            this.showQuestionDisplay();
+        }
+    },
+
+    // Handle previous question
+    handlePreviousQuestion() {
+        if (this.stateManager.canGoPrevious()) {
+            this.stateManager.previousQuestion();
             this.showQuestionDisplay();
         }
     },

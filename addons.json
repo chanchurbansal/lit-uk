@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "home_assistant_minimum_version": "2023.1.0",
   "addons": {
     "britizen-quiz": {
@@ -9,7 +9,7 @@
       "name": "Britizen Quiz Application",
       "slug": "britizen-quiz",
       "url": "https://github.com/chanchurbansal/lit-uk/tree/feature/home-assistant-addon/addon",
-      "version": "1.0.3"
+      "version": "1.0.4"
     }
   }
 }

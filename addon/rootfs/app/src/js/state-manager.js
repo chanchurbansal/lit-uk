@@ -126,7 +126,21 @@ class StateManager {
     }
 
     /**
-     * Check if the quiz is complete
+     * Move to the previous question
+     */
+    previousQuestion() {
+        if (this.currentQuestionIndex > 0) {
+            this.currentQuestionIndex--;
+        }
+    }
+
+    /**
+     * Check if we can go to the previous question
+     * @returns {boolean} True if not on the first question
+     */
+    canGoPrevious() {
+        return this.currentQuestionIndex > 0;
+    }
      * @returns {boolean} True if all 24 questions have been answered
      */
     isComplete() {
