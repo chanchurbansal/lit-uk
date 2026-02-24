@@ -1,0 +1,5 @@
+addon/rootfs/app/node_modules/
+addon/rootfs/app/quiz_database.db
+.DS_Store
+*.log
+
