@@ -1,5 +1,5 @@
 name: Britizen Quiz Application
-version: 1.0.2
+version: 1.0.3
 slug: britizen-quiz
 description: Life in the UK practice tests with progress tracking
 url: https://github.com/chanchurbansal/lit-uk
@@ -15,7 +15,7 @@ arch:
 ports:
   3000/tcp: 3000
 map:
-  - config
+  - data
 environment:
   NODE_ENV: production
 init: false
