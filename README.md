@@ -2,6 +2,27 @@
 
 A comprehensive quiz application with server-side SQLite database for storing user progress and quiz attempts. Features 102 Life in the UK practice tests with detailed explanations and progress tracking.
 
+## Installation
+
+### Home Assistant OS (Recommended for Raspberry Pi)
+
+Install directly on Home Assistant OS without Docker:
+
+1. In Home Assistant, go to **Settings** → **Add-ons & Backups** → **Add-on Store**
+2. Click the menu (⋮) and select **Repositories**
+3. Add: `https://github.com/chanchurbansal/lit-uk`
+4. Install "Britizen Quiz Application"
+5. Click **Start**
+6. Access at: `http://homeassistant.local:3000`
+
+**Supported Platforms:**
+- Raspberry Pi 2, 3, 4, and 5
+- Any system running Home Assistant OS
+
+### Local Development or Docker
+
+See [Setup Instructions](#setup-instructions) below.
+
 ## Features
 
 - Server-side SQLite database for persistent data storage

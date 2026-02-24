@@ -7,9 +7,10 @@ A comprehensive quiz application with 102 Life in the UK practice tests, running
 1. In Home Assistant, go to **Settings** → **Add-ons & Backups** → **Add-on Store**
 2. Click the menu (⋮) and select **Repositories**
 3. Add: `https://github.com/chanchurbansal/lit-uk`
-4. Install "Britizen Quiz Application"
-5. Click **Start**
-6. Open the Web UI: `http://homeassistant.local:3000`
+4. The repository will appear in the store as "Britizen Quiz Application"
+5. Click **Install**
+6. Click **Start**
+7. Open the Web UI: `http://homeassistant.local:3000`
 
 ## Features
 
