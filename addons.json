@@ -1,6 +1,17 @@
 {
   "version": "1",
-  "home_assistant_minimum_version": "2023.1.0"
+  "home_assistant_minimum_version": "2023.1.0",
+  "addons": {
+    "britizen-quiz": {
+      "changelog": "https://github.com/chanchurbansal/lit-uk/blob/feature/home-assistant-addon/addon/CHANGELOG.md",
+      "description": "Life in the UK practice tests with progress tracking",
+      "documentation": "https://github.com/chanchurbansal/lit-uk/blob/feature/home-assistant-addon/addon/README.md",
+      "name": "Britizen Quiz Application",
+      "slug": "britizen-quiz",
+      "url": "https://github.com/chanchurbansal/lit-uk/tree/feature/home-assistant-addon/addon",
+      "version": "1.0.0"
+    }
+  }
 }
 
 
